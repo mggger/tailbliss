@@ -1,5 +1,5 @@
 baseURL: ''
-title: GPT Development
+title: GPTs Development
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -48,9 +48,9 @@ markup:
 params:
   author: Best GPT Developer
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
-  moto: "Super Powerful, and Flexible"
-  description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPT development services tailored to OpenAI's custom GPT models. As OpenAI rolls out its profit-sharing plan in the first quarter, our services are designed to maximize your return on investment by integrating custom GPTs into your operations"
+  og_image: /images/cover.webp
+  moto: "Build Best GPTs"
+  description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPT development services tailored to OpenAI's custom GPTs store."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -58,39 +58,41 @@ params:
     heading: "Our mission"
     image: "images/pages/our-mission.png"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "🚀Innovation Unleashed. Diving into the coolest projects, we're pioneering AI's future, setting trends, and redefining possibilities."
+      - text: "🤝Collaborative Growth. In partnership with our clients, we embark on a journey of mutual advancement, transforming visions into shared successes."
+      - text: "😊Sustainable Excellence. With a steadfast commitment to quality, our long-term vision guides us toward creating enduring, meaningful impacts in the AI landscape."
   p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
+    heading: "Our ability"
+    image: "images/pages/cor.webp"
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "Our ability to seamlessly integrate with existing website APIs and develop bespoke actions sets us apart in the realm of AI services. We specialize in crafting customized actions tailored to specific scenarios, ensuring a personalized and efficient solution for every client. Beyond development, our expertise extends to training documentation and fine-tuning models according to unique project requirements. This holistic approach enables us to adapt and enhance AI functionalities, providing unparalleled support in navigating the complexities of artificial intelligence integration."
   p3:
-    heading: "Backed by world-renowned investors"
+    heading: "Successful UseCases"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+      - text: "📚 Integrate Eurostat database with OpenAI Custom GPTs"
+      - text: "⚖️ Integrate New Zealand legislation with OpenAI Custom GPTs"
     links:
-      - text: Meet our investors and advisors
-        url: "#"
+      - text: Order custom GPTs development
+        url: "https://www.upwork.com/services/product/development-it-an-excellent-solution-that-enables-your-website-to-have-ai-capabilities-1752945360432914432"
     logos:
       - identifier: a
-        image: "images/global/logo.svg"
-        alt: "a"
+        image: "images/global/eurostat.png"
+        url: "https://chat.openai.com/g/g-VanW5zpcq-eurostat-explorer"
+        alt: "eurostat.png"
       - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
+        image: "images/global/new_zealand.png"
+        url: "https://chat.openai.com/g/g-5em8Iduno-virtual-assistant-for-school-boards-aotearoa-nz"
+        alt: "new_zealand.png"
+
   p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Get the latest information about OpenAI Custom GPTs."
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
-    action: "#"
+      - text: "Subscribe now to receive the latest updates on breakthrough technologies, insider insights"
+    action: "subscribe"
     label: "Email address"
     placeholder: "Enter your email"
     button: "Notify me"
@@ -98,16 +100,10 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
-    facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
-    instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://github.com/mggger'
     twitter:
       enabled: true
-      url: '@nusserstudios'
+      url: '@wangjm10'
     
 
 menu:
@@ -120,10 +116,6 @@ menu:
       pre: dropdown
       name: Categories
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
@@ -146,10 +138,6 @@ menu:
       name: News
       url: /categories/news/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/

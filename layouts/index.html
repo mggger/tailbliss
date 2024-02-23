@@ -10,12 +10,12 @@
                     <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
                         {{ .Site.Params.Moto }}
                     </h2>
-                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
+                    <p class="max-w-xl mx-auto mb-6 font-normal py-4 text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
                         {{ .Site.Params.Description}}
                     </p>
                 </div>
                 <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/pages/tailbliss-rocket-indigo.png" }}
+                    {{ $hero := resources.GetMatch "images/pages/cover.webp" }}
 
                     {{ $thumb := ($hero.Fill "400x400 webp q90") }}
                     {{ $large := ($hero.Fill "576x576 webp q90") }}
@@ -29,6 +29,48 @@
     </div>
 
     <!-- More main page content here... -->
+    <!-- Sponsors section -->
+    <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
+        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
+            <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
+                {{ range .Site.Params.P3.Logos }}
+                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
+                    {{ if .image }}
+                    {{ $sponsor := resources.Get .image }}
+                    {{ if .url }}
+                    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                        <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                    </a>
+                    {{ else }}
+                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
+                    {{ end }}
+                    {{ else }}
+                    {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
+                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="Sample Logo" loading="lazy" />
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+
+            <div>
+                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
+                    {{ .Site.Params.P3.Heading }}
+                </h2>
+                {{ range .Site.Params.P3.Content }}
+                <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
+                    {{ .text }}
+                </p>
+                {{ end }}
+                {{ range .Site.Params.P3.Links }}
+                <div class="my-6">
+                    <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
+                        {{ .text }}&nbsp&rarr;
+                    </a>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 
     <!-- Our mission section -->
     <div class="relative my-4">
@@ -118,42 +160,6 @@
         </div>
     </div>
 
-
-    <!-- Sponsors section -->
-    <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
-                {{ range .Site.Params.P3.Logos }}
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    {{ if .image }}
-                    {{ $sponsor := resources.Get .image }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
-                    {{ else }}
-                    {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
-                    {{ end }}
-                </div>
-                {{ end }}
-            </div>
-            <div>
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                    {{ .Site.Params.P3.Heading }}
-                </h2>
-                {{ range .Site.Params.P3.Content }}
-                <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
-                    {{ .text }}
-                </p>
-                {{ end }}
-                {{ range .Site.Params.P3.Links }}
-                <div class="my-6">
-                    <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
-                        {{ .text }}&nbsp&rarr;
-                    </a>
-                </div>
-                {{ end }}
-            </div>
-        </div>
-    </div>
 
     <!-- Blog section -->
     <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
@@ -255,7 +261,7 @@
                         </p>
                         {{ end }}
                     </div>
-                    <form action="{{ .Site.Params.P5.Action }}" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
+                    <form id="subscribe" action="javascript:void(0);"  class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
                         <div class="flex-1 min-w-0">
                             <label for="cta-email" class="sr-only">{{ .Site.Params.P5.Label }}</label>
                             <input id="cta-email" type="email" class="block w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 border border-transparent rounded-md shadow-sm focus:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500" placeholder="{{ .Site.Params.P5.Placeholder }}">
@@ -271,6 +277,9 @@
         </div>
     </div>
     {{ end }}
+
+    {{ $jsSubscribe := resources.Get "js/subscribe.js" | js.Build }}
+    <script src="{{ $jsSubscribe.RelPermalink }}" defer></script>
 
 </main>
 {{ end }}

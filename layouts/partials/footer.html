@@ -2,6 +2,11 @@
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 {{ $js := resources.Get "js/darkmode.js" | js.Build }}
 <script src="{{ $js.RelPermalink }}" defer></script>
+
+
+{{ $jsSubscribe := resources.Get "js/contact.js" | js.Build }}
+<script src="{{ $jsSubscribe.RelPermalink }}" defer></script>
+
 <footer class="bg-gray-900">
     <div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
         <nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
@@ -56,8 +61,8 @@
             {{ .Site.Title }}. All rights
             reserved.</p>
         <p class="mt-2 text-base text-center text-gray-400">Made with &#x2764;&#xfe0f; by <a
-               href="https://nusserstudios.com" class="hover:underline hover:text-primary-600"><span
-                      class="font-black uppercase">Nusser</span> <span class="font-light uppercase">Studios.</span></a>
+               href="https://mggg.cloud" class="hover:underline hover:text-primary-600"><span
+                      class="font-black uppercase">Mggg</span> <span class="font-light uppercase">Cloud.</span></a>
         </p>
     </div>
 </footer>
