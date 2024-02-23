@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     if (form) { // 检查 form 是否存在
         const handleSubmit = function (e) {
             e.preventDefault();
-            var email = document.getElementsByName('email').value;
-            var ideas = document.getElementsByName('message').value;
+            var email = document.getElementsByName('email')[0].value;
+            var ideas = document.getElementsByName('message')[0].value;
             fetch('https://booki.chat/form_submit', {
                 method: 'POST',
                 headers: {
