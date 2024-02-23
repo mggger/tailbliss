@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: GPTs Dev
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -46,7 +46,7 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: GPTs Dev
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Super Fast, and Flexible"
@@ -75,7 +75,7 @@ params:
         url: "#"
     logos:
       - identifier: a
-        image: "images/global/sample-logo.svg"
+        image: "images/global/logo.svg"
         alt: "a"
       - identifier: b
       - identifier: c
