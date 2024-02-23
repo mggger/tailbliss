@@ -67,7 +67,7 @@ params:
     content:
       - text: "Our ability to seamlessly integrate with existing website APIs and develop bespoke actions sets us apart in the realm of AI services. We specialize in crafting customized actions tailored to specific scenarios, ensuring a personalized and efficient solution for every client. Beyond development, our expertise extends to training documentation and fine-tuning models according to unique project requirements. This holistic approach enables us to adapt and enhance AI functionalities, providing unparalleled support in navigating the complexities of artificial intelligence integration."
   p3:
-    heading: "Successful UseCases"
+    heading: "Successful Use Cases"
     content:
       - text: "📚 Integrate Eurostat database with OpenAI Custom GPTs"
       - text: "⚖️ Integrate New Zealand legislation with OpenAI Custom GPTs"

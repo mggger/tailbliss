@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2024-02-23T03:10:36.000Z
+date: 2024-02-23
 draft: false
 language: en
 description: build Best GPTs
