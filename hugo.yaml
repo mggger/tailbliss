@@ -1,5 +1,5 @@
 baseURL: ''
-title: GPTs Dev
+title: GPT Development
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -46,11 +46,11 @@ markup:
       xhtml: false
 
 params:
-  author: GPTs Dev
+  author: Best GPT Developer
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Super Powerful, and Flexible"
+  description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPT development services tailored to OpenAI's custom GPT models. As OpenAI rolls out its profit-sharing plan in the first quarter, our services are designed to maximize your return on investment by integrating custom GPTs into your operations"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -112,10 +112,6 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
     - identifier: about
       name: About
       url: /about/
@@ -133,33 +129,10 @@ menu:
       url: /contact/
       weight: 50
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
     - identifier: about
       name: About
       url: /about/
       weight: 20
-  dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
-      weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
-      weight: 30
   footer:
     - identifier: about
       name: About
