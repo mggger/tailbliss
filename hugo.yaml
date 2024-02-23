@@ -79,11 +79,12 @@ params:
         image: "images/global/eurostat.png"
         url: "https://chat.openai.com/g/g-VanW5zpcq-eurostat-explorer"
         alt: "eurostat.png"
+        desc: Eurostat Explorer
       - identifier: b
         image: "images/global/new_zealand.png"
         url: "https://chat.openai.com/g/g-5em8Iduno-virtual-assistant-for-school-boards-aotearoa-nz"
         alt: "new_zealand.png"
-
+        desc: virtual-assistant-nz
   p4:
     heading: "From the blog"
     content:

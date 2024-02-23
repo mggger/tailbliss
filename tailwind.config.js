@@ -91,7 +91,7 @@ module.exports = {
             '--tw-prose-invert-td-borders': theme('colors.zinc[500]'),
           },
         },
-      }),
+      })
     },
   },
   variants: {

@@ -4652,3 +4652,23 @@ EmojiSymbols;
     line-height: 1.75rem;
   }
 }
+
+@keyframes marquee {
+  from { transform: translateX(0%); }
+  to { transform: translateX(-120%); }
+}
+
+.animate-marquee {
+  display: flex;
+  animation: marquee 10s linear infinite;
+}
+
+/* 确保容器足够宽以包含所有复制的元素 */
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flex-none {
+  flex: none;
+}
