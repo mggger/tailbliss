@@ -50,7 +50,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/cover.webp
   moto: "Build Best GPTs"
-  description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPT development services tailored to OpenAI's custom GPTs store."
+  description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPTs development services tailored to OpenAI's custom GPTs store."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
