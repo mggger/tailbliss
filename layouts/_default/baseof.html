@@ -3,12 +3,54 @@
 
 <head>
     {{ partial "head.html" . }}
+
+    {{ if .Params.faq }}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {{ range $index, $faq := .Params.faq }}
+                {
+                    "@type": "Question",
+                    "name": "{{ $faq.question }}",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "{{ $faq.answer | safeHTML }}"
+                    }
+                }{{ if ne $index (sub (len $.Params.faq) 1) }},{{ end }}
+                {{ end }}
+            ]
+        }
+    </script>
+    {{ else }}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "headline": "{{ .Title }}",
+        {{ if .Site.Params.authorimage }}
+        "image": ["{{ .Site.Params.authorimage | absURL | safeHTML}}"],
+        {{ end }}
+
+        "datePublished": "{{ .PublishDate.Format (default "2006-01-02T15:04:05Z07:00" .Site.Params.date_format) }}",
+        "dateModified": "{{ .Lastmod.Format (default "2006-01-02T15:04:05Z07:00" .Site.Params.date_format) }}",
+        "author": [
+        {
+        "@type": "Person",
+        "name": "{{ .Site.Params.author }}",
+        "url": "https://gptdevelopment.online/"
+        }
+        ]
+        }
+    </script>
+    {{ end }}
 </head>
 
 <body class="bg-zinc-100 dark:bg-gray-800">
-    {{ partial "nav.html" . }}
-    {{ block "main" . }}{{ end }}
-    {{ partial "footer" . }}
+{{ partial "nav.html" . }}
+{{ block "main" . }}{{ end }}
+{{ partial "footer.html" . }}
 </body>
 
 </html>

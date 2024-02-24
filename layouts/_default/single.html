@@ -1,12 +1,39 @@
 {{define "main"}}
-<article>
-  <header class="mb-4 bg-primary-600">
-    <span class="py-96">
-      <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
+<article class="mx-auto">
+
+  <header class="mb-4 bg-primary-600 text-white text-center">
+    <div class="py-24">
+      <h1 class="text-5xl font-black capitalize">
         {{ .Title }}
       </h1>
-    </span>
+    </div>
+
+    <div class="mt-4 px-6">
+      {{ with .Params.author | default .Site.Params.author }}
+      <p class="inline-flex items-center gap-2 justify-center">
+        {{ $.Render "by" }}
+        <strong class="tracking-wide">
+          {{- if reflect.IsSlice . -}}
+          {{ delimit . ", " | markdownify }}
+          {{- else -}}
+          {{ . | markdownify }}
+          {{- end -}}
+        </strong>
+      </p>
+      {{ end }}
+
+      {{ if not .Date.IsZero }}
+      <time class="block tracking-wide pt-2" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+      </time>
+      {{ end }}
+
+      <p class="pt-2">
+        {{ .WordCount }} words
+      </p>
+    </div>
   </header>
+
   <div class="max-w-4xl mx-auto mt-8 mb-2">
     <div class="px-6">
       {{ with .Params.featured_image }}
@@ -16,19 +43,55 @@
       {{ $large := (.Resize "900x webp q80").RelPermalink }}
       {{ $featuredimage := (.Resize "1500x webp q80").RelPermalink }}
       <img src="{{ $featuredimage }}" srcset="
-        {{- with $small -}}, {{.}} 400w{{- end -}}
-        {{- with $medium -}}, {{.}} 550w{{- end -}}
-        {{- with $large -}}, {{.}} 768w{{- end -}}
-        {{- with $featuredimage -}}, {{.}} 1100w{{- end -}}"
-           class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40"
-           width="100%" alt="{{ .Params.title }}" />
+        {{- with $small -}} {{.}} 400w{{- end -}}
+        {{- with $medium -}} {{.}} 550w{{- end -}}
+        {{- with $large -}} {{.}} 768w{{- end -}}
+        {{- with $featuredimage -}} {{.}} 1100w{{- end -}}"
+           class="object-cover overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40 w-full"
+           alt="{{ .Params.title }}" />
       {{ end }}
       {{ end }}
     </div>
   </div>
-  <!-- " {{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+
+  <!-- 目录部分 -->
+  {{ if .Params.toc }}
+  <aside class="mt-6 mx-auto max-w-4xl px-6">
+    <div class="bg-white p-4 rounded-lg shadow">
+      <p class="text-xl font-semibold mb-3 text-orange-600 text-center">Table of Contents</p>
+      <hr class="border-b-2 border-orange-600 w-10 mx-auto mb-4" />
+      <nav class="toc space-y-2">
+        {{ .TableOfContents | safeHTML }}
+      </nav>
+    </div>
+  </aside>
+  {{ end }}
+
+
+
   <div class="max-w-2xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
-    {{.Content}}
+    {{ .Content }}
   </div>
+
+  <!-- 相关文章部分 -->
+  {{ $related := .Site.RegularPages.Related . | first 15 }}
+  {{ with $related }}
+  <aside class="mx-auto max-w-4xl px-6 mt-8 my-4">
+    <div class="bg-white p-4 rounded-lg shadow-md">
+      <p class="font-semibold text-xl text-gray-800 mb-4">Recommend Readings</p>
+      <ul class="list-none p-0">
+        {{ range . }}
+        <li class="mb-2">
+          <a href="{{ .RelPermalink }}" class="text-primary-600 hover:text-primary-700 transition-colors duration-300">
+            {{ .Title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </aside>
+  {{ end }}
+
+
 </article>
 {{end}}

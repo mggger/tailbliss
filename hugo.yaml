@@ -46,7 +46,7 @@ markup:
       xhtml: false
 
 params:
-  author: Best GPT Developer
+  author: Best GPTs Developer
   authorimage: ../assets/images/global/author.webp
   og_image: /images/cover.webp
   moto: "Build Best GPTs"
