@@ -47,7 +47,7 @@ markup:
 
 params:
   author: Best GPTs Developer
-  authorimage: ../assets/images/global/author.webp
+  author_image: images/featured/default.webp
   og_image: /images/cover.webp
   moto: "Build Best GPTs"
   description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPTs development services tailored to OpenAI's custom GPTs store."
