@@ -1,14 +1,15 @@
 {{define "main"}}
 <article class="mx-auto">
 
-  <header class="mb-4 bg-primary-600 text-white text-center">
-    <div class="py-24">
-      <h1 class="text-5xl font-black capitalize">
+  <header class="mb-4 bg-primary-600">
+    <span class="py-96">
+      <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
         {{ .Title }}
       </h1>
-    </div>
+    </span>
 
     <div class="mt-4 px-6">
+      {{ if strings.HasPrefix .RelPermalink "/blog/" }}
       {{ with .Params.author | default .Site.Params.author }}
       <p class="inline-flex items-center gap-2 justify-center">
         {{ $.Render "by" }}
@@ -31,7 +32,9 @@
       <p class="pt-2">
         {{ .WordCount }} words
       </p>
+      {{ end }}
     </div>
+
   </header>
 
   <div class="max-w-4xl mx-auto mt-8 mb-2">
