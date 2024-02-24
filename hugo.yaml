@@ -48,6 +48,7 @@ markup:
 params:
   author: Best GPTs Developer
   author_image: images/featured/default.webp
+  featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   moto: "Build Best GPTs"
   description: "For businesses and developers looking to leverage the power of AI, we offer cutting-edge GPTs development services tailored to OpenAI's custom GPTs store."
@@ -126,6 +127,10 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
   footer:
     - identifier: about
       name: About
@@ -133,7 +138,7 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /blog/
       weight: 20
     - identifier: contact
       name: Contact
