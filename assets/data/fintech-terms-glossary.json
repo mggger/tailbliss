@@ -1,39 +1,27 @@
 [
     {
         "word": "Fintech",
-        "description": "Fintech is a term that combines finance and technology, referring to the use of technology to improve and automate financial services."
+        "description": "Fintech, short for financial technology, refers to the use of advanced technology to provide financial services."
     },
     {
         "word": "Blockchain",
-        "description": "Blockchain is a decentralized digital ledger that records transactions across multiple computers, providing transparency and security."
+        "description": "Blockchain is a decentralized digital ledger that records transactions across multiple computers."
     },
     {
         "word": "Cryptocurrency",
-        "description": "Cryptocurrency is a digital or virtual currency that uses cryptography for secure transactions and operates independently of a central bank."
+        "description": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for secure financial transactions."
     },
     {
-        "word": "Digital Wallet",
-        "description": "A digital wallet is a virtual storage system that allows users to securely store payment information and perform online transactions."
+        "word": "Bitcoin",
+        "description": "Bitcoin is the first and most well-known cryptocurrency, created in 2009 by an anonymous person or group."
     },
     {
-        "word": "Robo-Advisor",
-        "description": "A robo-advisor is an automated investment platform that uses algorithms to provide financial advice and manage investment portfolios."
+        "word": "Ethereum",
+        "description": "Ethereum is a decentralized open-source blockchain platform that enables the creation of smart contracts and decentralized applications (DApps)."
     },
     {
-        "word": "Open Banking",
-        "description": "Open banking is a system that allows third-party financial service providers to access financial information from banks through APIs."
-    },
-    {
-        "word": "Regtech",
-        "description": "Regtech is the use of technology to help businesses comply with regulations and streamline regulatory processes."
-    },
-    {
-        "word": "Insurtech",
-        "description": "Insurtech refers to the use of technology to enhance and innovate the insurance industry, improving efficiencies and creating new products."
-    },
-    {
-        "word": "Peer-to-Peer Lending",
-        "description": "Peer-to-peer lending is a method of debt financing that enables individuals to borrow and lend money without the use of traditional financial institutions."
+        "word": "Smart Contract",
+        "description": "A smart contract is a self-executing contract with the terms of the agreement written directly into lines of code."
     },
     {
         "word": "Artificial Intelligence",
@@ -44,203 +32,199 @@
         "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
     },
     {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that uses artificial neural networks to model and understand complex patterns and relationships."
+    },
+    {
+        "word": "Robo-advisor",
+        "description": "A robo-advisor is a digital platform that provides automated, algorithm-driven financial planning and investment services."
+    },
+    {
+        "word": "Peer-to-peer Lending",
+        "description": "Peer-to-peer lending, also known as P2P lending, is a method of debt financing that enables individuals to borrow and lend money without the use of a traditional financial institution."
+    },
+    {
+        "word": "RegTech",
+        "description": "RegTech, short for regulatory technology, refers to the use of technology to improve efficiency and compliance in regulatory processes within the financial industry."
+    },
+    {
+        "word": "InsurTech",
+        "description": "InsurTech refers to the use of technology innovations to disrupt and improve the efficiency of the insurance industry."
+    },
+    {
         "word": "Big Data",
-        "description": "Big data refers to large and complex sets of data that are difficult to process using traditional data processing applications."
-    },
-    {
-        "word": "Data Analytics",
-        "description": "Data analytics is the process of examining, cleaning, transforming, and modeling data to discover useful information and support decision-making."
-    },
-    {
-        "word": "Internet of Things",
-        "description": "The Internet of Things (IoT) is the network of physical devices, vehicles, and other objects embedded with sensors, software, and connectivity."
-    },
-    {
-        "word": "Cybersecurity",
-        "description": "Cybersecurity refers to the practice of protecting computers, servers, mobile devices, electronic systems, networks, and data from digital attacks."
-    },
-    {
-        "word": "Regulatory Sandbox",
-        "description": "A regulatory sandbox is a controlled and confined environment where fintech startups can test new products, services, and business models."
-    },
-    {
-        "word": "API",
-        "description": "API stands for Application Programming Interface, which is a set of rules and protocols that allow different software applications to communicate with each other."
-    },
-    {
-        "word": "Chatbot",
-        "description": "A chatbot is a computer program designed to simulate human conversation through voice or text interactions."
-    },
-    {
-        "word": "Digital Currency",
-        "description": "Digital currency refers to currency that is available only in electronic form, not in physical notes and coins."
-    },
-    {
-        "word": "Financial Inclusion",
-        "description": "Financial inclusion aims to provide access to affordable and quality financial services to individuals and businesses who are underserved by traditional financial institutions."
-    },
-    {
-        "word": "Algorithmic Trading",
-        "description": "Algorithmic trading involves the use of computer algorithms to execute trading strategies, automating the trading process and reducing human intervention."
-    },
-    {
-        "word": "Crowdfunding",
-        "description": "Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via the internet."
-    },
-    {
-        "word": "Biometrics",
-        "description": "Biometrics refers to the measurement and statistical analysis of people's physical and behavioral characteristics, used for authentication and identification purposes."
-    },
-    {
-        "word": "Digital Identity",
-        "description": "Digital identity is a unique representation of a person or entity in the digital world, usually consisting of personal information and authentication credentials."
-    },
-    {
-        "word": "Smart Contract",
-        "description": "A smart contract is a self-executing contract with the terms of the agreement directly written into lines of code, ensuring automatic execution without the need for intermediaries."
-    },
-    {
-        "word": "Regulatory Compliance",
-        "description": "Regulatory compliance refers to the adherence of an organization to laws, regulations, guidelines, and specifications relevant to its business operations."
-    },
-    {
-        "word": "API Economy",
-        "description": "API economy refers to the set of business models and practices that are based on the widespread use of APIs to enable new strategic partnerships and collaborations."
-    },
-    {
-        "word": "Neobank",
-        "description": "A neobank is a digital-only bank that operates without physical branches, providing financial services through web and mobile applications."
-    },
-    {
-        "word": "Financial Technology",
-        "description": "Financial technology, also known as fintech, refers to the use of technology to improve and automate financial services."
-    },
-    {
-        "word": "Payment Gateway",
-        "description": "A payment gateway is a software application that facilitates online payment transactions by encrypting sensitive information and securely transmitting it between the buyer, seller, and payment processor."
-    },
-    {
-        "word": "Regulatory Technology",
-        "description": "Regulatory technology, also known as regtech, refers to the use of technology to address regulatory challenges and reduce compliance costs."
-    },
-    {
-        "word": "Mobile Banking",
-        "description": "Mobile banking refers to the use of mobile devices, such as smartphones and tablets, to perform banking transactions and access financial services."
-    },
-    {
-        "word": "Data Privacy",
-        "description": "Data privacy refers to the protection of individuals' personal information and their rights to control how their data is collected, stored, and shared."
-    },
-    {
-        "word": "Financial Literacy",
-        "description": "Financial literacy is the knowledge and understanding of financial concepts and skills necessary to make informed financial decisions."
-    },
-    {
-        "word": "Regulatory Reporting",
-        "description": "Regulatory reporting is the process of preparing and submitting reports to regulatory authorities, demonstrating compliance with regulatory requirements."
-    },
-    {
-        "word": "Risk Management",
-        "description": "Risk management is the process of identifying, assessing, and prioritizing potential risks and implementing strategies to minimize or mitigate their impact on an organization."
-    },
-    {
-        "word": "Data Security",
-        "description": "Data security refers to the measures and techniques used to protect data from unauthorized access, use, disclosure, disruption, modification, or destruction."
-    },
-    {
-        "word": "Digital Transformation",
-        "description": "Digital transformation refers to the integration of digital technology into all areas of a business, fundamentally changing how the business operates and delivers value to customers."
-    },
-    {
-        "word": "KYC",
-        "description": "KYC stands for Know Your Customer, referring to the process of identifying and verifying the identity of customers to assess potential risks and prevent illegal activities."
-    },
-    {
-        "word": "AML",
-        "description": "AML stands for Anti-Money Laundering, which includes laws, regulations, and procedures aimed at preventing the conversion of illegally obtained funds into legitimate assets."
-    },
-    {
-        "word": "Credit Scoring",
-        "description": "Credit scoring is the process of evaluating the creditworthiness of individuals or businesses based on their financial history, behavior, and other relevant factors."
-    },
-    {
-        "word": "E-Wallet",
-        "description": "An e-wallet, also known as a digital wallet or mobile wallet, is a digital system that securely stores payment information and allows electronic transactions."
-    },
-    {
-        "word": "Financial Analytics",
-        "description": "Financial analytics involves the analysis and interpretation of financial information and data to provide insights, support decision-making, and drive business performance."
-    },
-    {
-        "word": "Regulatory Compliance Technology",
-        "description": "Regulatory compliance technology encompasses various software solutions and tools designed to assist organizations in meeting regulatory requirements."
-    },
-    {
-        "word": "Financial Advisory",
-        "description": "Financial advisory refers to the provision of financial planning, investment management, and other personalized financial services by professionals."
-    },
-    {
-        "word": "Data Science",
-        "description": "Data science is a multidisciplinary field that involves methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data."
+        "description": "Big Data refers to extremely large and complex datasets that cannot be easily managed, processed, or analyzed using traditional methods."
     },
     {
         "word": "Cloud Computing",
-        "description": "Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user."
+        "description": "Cloud computing is the delivery of computing services over the internet, offering resources such as storage, processing power, and software applications."
     },
     {
-        "word": "Smartphone Banking",
-        "description": "Smartphone banking refers to the use of mobile banking applications on smartphones for conducting various banking activities."
+        "word": "API",
+        "description": "API, short for Application Programming Interface, is a set of rules and protocols that allows different software applications to communicate and interact with each other."
     },
     {
-        "word": "Financial Regulation",
-        "description": "Financial regulation comprises laws and rules that govern financial institutions, markets, and transactions, aimed at ensuring stability, fairness, and investor protection."
+        "word": "Regulatory Sandbox",
+        "description": "A regulatory sandbox is a controlled environment where fintech companies can test and innovate new products, services, or business models under the supervision of regulatory authorities."
     },
     {
-        "word": "Artificial Intelligence in Finance",
-        "description": "Artificial intelligence in finance refers to the applications of AI technologies, such as machine learning and natural language processing, in financial services."
+        "word": "Biometric Authentication",
+        "description": "Biometric authentication refers to the identification or verification of individuals based on their unique physiological or behavioral characteristics, such as fingerprints, facial recognition, or voice patterns."
     },
     {
-        "word": "Regulatory Intelligence",
-        "description": "Regulatory intelligence refers to the gathering, analysis, and utilization of information related to regulatory changes, trends, and compliance requirements."
+        "word": "Open Banking",
+        "description": "Open banking is a system that allows third-party financial service providers to access and use customer banking data with the customer's consent, enabling the development of new financial products and services."
+    },
+    {
+        "word": "Internet of Things",
+        "description": "The Internet of Things (IoT) refers to the network of interconnected physical devices that can collect and exchange data using embedded sensors, software, and other technologies."
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "Regulatory compliance refers to the adherence and conformity to laws, regulations, guidelines, and specifications relevant to an industry."
+    },
+    {
+        "word": "Financial Inclusion",
+        "description": "Financial inclusion refers to the accessibility and availability of affordable financial services to individuals and communities, especially those with low income or limited access to traditional banking services."
+    },
+    {
+        "word": "Mobile Payments",
+        "description": "Mobile payments are transactions made through mobile devices, enabling consumers to make payments using mobile wallets, apps, or other mobile payment platforms."
+    },
+    {
+        "word": "NeoBank",
+        "description": "A neo bank or digital bank is a financial institution that operates exclusively online without any physical branches, providing digital banking services to customers through mobile apps or websites."
+    },
+    {
+        "word": "KYC",
+        "description": "KYC, short for Know Your Customer, refers to the process of verifying the identity of customers to prevent fraud, money laundering, or other illegal activities."
+    },
+    {
+        "word": "AML",
+        "description": "AML, short for Anti-Money Laundering, refers to a set of regulations, technologies, and procedures designed to prevent the generation of income through illegal activities."
+    },
+    {
+        "word": "Regulatory Reporting",
+        "description": "Regulatory reporting is the process of submitting financial and non-financial information to regulatory authorities in accordance with their reporting requirements."
+    },
+    {
+        "word": "Cryptocurrency Exchange",
+        "description": "A cryptocurrency exchange is a digital marketplace where cryptocurrencies can be bought, sold, and traded for other digital or traditional currencies."
+    },
+    {
+        "word": "Initial Coin Offering",
+        "description": "An Initial Coin Offering (ICO) is a fundraising method in which new cryptocurrency projects sell their underlying tokens to investors in exchange for established cryptocurrencies like Bitcoin or Ethereum."
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "Quantum computing is an emerging field that utilizes the principles of quantum physics to perform complex calculations and solve problems that are beyond the capabilities of classical computers."
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "Robotic Process Automation (RPA) is the use of software robots or artificial intelligence to automate repetitive, rule-based tasks and processes."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics involves the process of examining, cleansing, transforming, and modeling data to uncover meaningful insights and support data-driven decision-making."
+    },
+    {
+        "word": "Crowdfunding",
+        "description": "Crowdfunding is the practice of raising funds from a large number of individuals, typically through online platforms, to finance a project or venture."
+    },
+    {
+        "word": "Regulatory Technology",
+        "description": "Regulatory Technology, also known as RegTech, refers to the use of technology to automate and streamline regulatory compliance processes."
+    },
+    {
+        "word": "Risk Management",
+        "description": "Risk management involves the identification, assessment, and prioritization of risks, followed by taking appropriate actions to minimize, monitor, and control the impact of potential risks."
+    },
+    {
+        "word": "Open API",
+        "description": "An Open API is an application programming interface that allows third-party developers to build applications and interact with a platform or service."
+    },
+    {
+        "word": "Robo-Advisor",
+        "description": "A robo-advisor is a digital platform that provides automated, algorithm-driven financial planning and investment services."
+    },
+    {
+        "word": "Regulatory Framework",
+        "description": "A regulatory framework refers to a system of laws, regulations, and guidelines that govern and regulate activities within a particular industry or sector."
+    },
+    {
+        "word": "Financial Technology",
+        "description": "Financial technology, or fintech, refers to the use of technology to provide innovative financial services and solutions."
+    },
+    {
+        "word": "User Experience",
+        "description": "User experience, often abbreviated as UX, refers to the overall experience and satisfaction that a user has while interacting with a product, system, or service."
+    },
+    {
+        "word": "Machine-to-Machine",
+        "description": "Machine-to-Machine (M2M) refers to direct communication and data exchange between devices without human intervention, typically through the Internet of Things (IoT) technology."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of converting sensitive data into unique tokens that can be used for secure transactions and storage, reducing the risk of data breaches."
+    },
+    {
+        "word": "Digital Identity",
+        "description": "Digital identity refers to the information and attributes that uniquely identify a person or entity in the digital world, often used for authentication and access control purposes."
+    },
+    {
+        "word": "Open Source",
+        "description": "Open source refers to a type of software or technology where the source code is freely available and can be modified, enhanced, and distributed by anyone."
+    },
+    {
+        "word": "Secure Socket Layer",
+        "description": "Secure Socket Layer (SSL) is a cryptographic protocol that provides secure communication over the internet by encrypting data transmitted between a server and a client."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy emphasizes the protection of personal data and ensuring that individuals have control over how their data is collected, used, and shared by organizations."
+    },
+    {
+        "word": "Decentralized Finance",
+        "description": "Decentralized Finance (DeFi) refers to the use of blockchain and cryptocurrency to recreate traditional financial systems and services without intermediaries like banks."
+    },
+    {
+        "word": "Regulatory Sandboxes",
+        "description": "Regulatory sandboxes are controlled environments where fintech startups can test innovative products, services, or business models under the supervision of regulatory authorities."
+    },
+    {
+        "word": "Open Innovation",
+        "description": "Open innovation is a collaborative approach to innovation that involves sharing and co-developing ideas, knowledge, and technology between organizations."
     },
     {
         "word": "Digital Payments",
-        "description": "Digital payments refer to electronic transactions made using digital devices, such as smartphones, tablets, and computers, instead of traditional cash or checks."
+        "description": "Digital payments refer to the electronic transfer of funds or payment transactions made through digital platforms, such as mobile apps, online banking, or electronic wallets."
     },
     {
-        "word": "Financial Technology Adoption",
-        "description": "Financial technology adoption refers to the process of integrating and using fintech solutions within financial institutions and by consumers."
+        "word": "Remittance",
+        "description": "Remittance is the transfer of money or funds by an individual living or working in a foreign country to their home country, usually to support family or friends."
     },
     {
-        "word": "Automated Clearing House",
-        "description": "An Automated Clearing House (ACH) is an electronic network for financial transactions in the United States, facilitating direct deposits, bill payments, and more."
+        "word": "Financial Regulation",
+        "description": "Financial regulation encompasses the laws, rules, and standards that govern the operations and conduct of financial institutions and financial markets."
     },
     {
-        "word": "Financial Market",
-        "description": "A financial market is a marketplace where buyers and sellers trade financial instruments, such as stocks, bonds, currencies, and derivatives."
+        "word": "Alternative Data",
+        "description": "Alternative data refers to non-traditional or unconventional sources of data, such as social media posts, satellite imagery, or sensor data, that can be used to gain insights and make informed decisions."
     },
     {
-        "word": "Payment Service Provider",
-        "description": "A payment service provider (PSP) is a company that enables merchants to accept electronic payments from customers, facilitating online transactions."
+        "word": "Data Security",
+        "description": "Data security encompasses the measures and practices designed to protect digital data from unauthorized access, corruption, or theft, ensuring confidentiality, integrity, and availability."
     },
     {
-        "word": "Fraud Detection",
-        "description": "Fraud detection refers to the process of using data analytics and machine learning algorithms to identify patterns and anomalies indicative of fraudulent activities."
+        "word": "Social Trading",
+        "description": "Social trading is a form of investment that allows traders to copy and follow the trading strategies of other successful traders, leveraging social media platforms and online communities."
     },
     {
-        "word": "Alternative Lending",
-        "description": "Alternative lending refers to the practice of providing loans to individuals or businesses through non-traditional means, often facilitated by technology."
+        "word": "Lending-as-a-Service",
+        "description": "Lending-as-a-Service (LaaS) refers to the provision of lending services and platforms as a cloud-based service, enabling businesses to offer loans to customers without the need for extensive infrastructure."
     },
     {
-        "word": "Regulatory Technology Solutions",
-        "description": "Regulatory technology solutions encompass a wide range of software applications and tools designed to assist organizations in meeting regulatory requirements and managing compliance."
-    },
-    {
-        "word": "Financial App",
-        "description": "A financial app is a mobile application that provides various financial services, such as budgeting, expense tracking, investing, and banking."
-    },
-    {
-        "word": "Algorithmic Risk Assessment",
-        "description": "Algorithmic risk assessment involves the use of automated algorithms and data analysis techniques to evaluate and predict potential risks in financial transactions and investments."
+        "word": "Big Tech",
+        "description": "Big Tech refers to large technology companies that have significant influence, market share, and impact on various sectors, including finance, due to their extensive resources and technological capabilities."
     }
 ]
