@@ -8,11 +8,11 @@
         "description": "Telemedicine is the remote delivery of healthcare services, such as consultations and diagnosis, using telecommunication technologies."
     },
     {
-        "word": "EHR",
+        "word": "Ehr",
         "description": "Electronic Health Records (EHR) are digital versions of a patient's medical history, including diagnoses, medications, and treatments, stored in a centralized system for easy access and sharing."
     },
     {
-        "word": "IoT",
+        "word": "Iot",
         "description": "Internet of Things (IoT) refers to the interconnection of physical devices, sensors, software, and networks, enabling these objects to collect and exchange data."
     },
     {
@@ -120,7 +120,7 @@
         "description": "Health Tech Startups are newly established companies that leverage technology and innovation to develop and deliver healthcare products, services, or solutions."
     },
     {
-        "word": "Healthcare AI",
+        "word": "Healthcare Ai",
         "description": "Healthcare AI refers to the application of AI technologies, such as machine learning and natural language processing, in the healthcare industry to improve diagnosis, treatment, and patient care."
     },
     {
@@ -200,7 +200,7 @@
         "description": "Remote Surgery, also known as tele surgery or robotic surgery, involves surgical procedures performed by a surgeon using robotic systems and telecommunication technology from a remote location."
     },
     {
-        "word": "Healthcare AI Ethics",
+        "word": "Healthcare Ai Ethics",
         "description": "Healthcare AI Ethics refers to the ethical considerations, principles, and guidelines associated with the development and use of AI technologies in healthcare, ensuring fairness, transparency, privacy, and accountability."
     },
     {
@@ -228,23 +228,23 @@
         "description": "Data Visualization is the graphical representation of data or information, often using charts, graphs, or dashboards, to facilitate understanding, analysis, and decision-making."
     },
     {
-        "word": "Electronic Health Record (EHR)",
+        "word": "Electronic Health Record (Ehr)",
         "description": "An Electronic Health Record (EHR) is a digital version of a patient's paper chart that contains their medical history, diagnoses, medications, and other relevant information."
     },
     {
-        "word": "Artificial Intelligence (AI)",
+        "word": "Artificial Intelligence (Ai)",
         "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines to perform tasks that typically require human intelligence."
     },
     {
-        "word": "Machine Learning (ML)",
+        "word": "Machine Learning (Ml)",
         "description": "Machine Learning (ML) is a subset of AI that focuses on developing algorithms and statistical models that allow computers to learn and make predictions from data."
     },
     {
-        "word": "Internet of Things (IoT)",
+        "word": "Internet Of Things (Iot)",
         "description": "The Internet of Things (IoT) is a network of interconnected devices or things that can collect and exchange data, enabling them to communicate and interact with each other."
     },
     {
-        "word": "Healthcare Information Exchange (HIE)",
+        "word": "Healthcare Information Exchange (Hie)",
         "description": "Healthcare Information Exchange (HIE) is the electronic sharing of patient health information among healthcare providers, improving care coordination and patient outcomes."
     },
     {
@@ -252,23 +252,23 @@
         "description": "Health Monitoring Wearables are devices worn by individuals to track and monitor their health and fitness information, such as heart rate, sleep patterns, and physical activity."
     },
     {
-        "word": "Health Information Technology (HIT)",
+        "word": "Health Information Technology (Hit)",
         "description": "Health Information Technology (HIT) refers to the use of technology to store, manage, and exchange health information."
     },
     {
-        "word": "Virtual Reality (VR)",
+        "word": "Virtual Reality (Vr)",
         "description": "Virtual Reality (VR) is a computer-generated simulation of an environment or experience that can be interacted with in a seemingly real or physical way."
     },
     {
-        "word": "Augmented Reality (AR)",
+        "word": "Augmented Reality (Ar)",
         "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or data, onto the real world to enhance the user's perception and interaction."
     },
     {
-        "word": "Remote Patient Monitoring (RPM)",
+        "word": "Remote Patient Monitoring (Rpm)",
         "description": "Remote Patient Monitoring (RPM) uses digital technologies to collect and transmit patient health data from outside traditional healthcare settings for medical review and intervention."
     },
     {
-        "word": "Clinical Decision Support (CDS)",
+        "word": "Clinical Decision Support (Cds)",
         "description": "Clinical Decision Support (CDS) systems assist healthcare providers in making informed decisions by integrating patient data, medical knowledge, and best practices."
     },
     {
@@ -284,11 +284,11 @@
         "description": "Gamification is the application of game elements, such as competition, rewards, and challenges, to non-game contexts, such as healthcare, to engage and motivate users."
     },
     {
-        "word": "Health Information Exchange (HIE)",
+        "word": "Health Information Exchange (Hie)",
         "description": "Health Information Exchange (HIE) is the electronic sharing of patient health information among healthcare providers, improving care coordination and patient outcomes."
     },
     {
-        "word": "Natural Language Processing (NLP)",
+        "word": "Natural Language Processing (Nlp)",
         "description": "Natural Language Processing (NLP) is a field of AI that focuses on the interaction between humans and computers through natural language."
     },
     {
@@ -308,7 +308,7 @@
         "description": "Electronic Prescribing is the electronic generation and sending of prescriptions from healthcare providers to pharmacies, reducing medication errors and improving efficiency."
     },
     {
-        "word": "Clinical Documentation Improvement (CDI)",
+        "word": "Clinical Documentation Improvement (Cdi)",
         "description": "Clinical Documentation Improvement (CDI) is the process of enhancing clinical documentation to accurately reflect the severity of patient conditions, improve coding accuracy, and optimize revenue."
     },
     {
@@ -316,15 +316,15 @@
         "description": "Healthtech Incubator is a program or organization that provides support, resources, and mentorship to early-stage healthtech startups and entrepreneurs."
     },
     {
-        "word": "Social Determinants of Health",
+        "word": "Social Determinants Of Health",
         "description": "Social Determinants of Health refer to the social and economic factors that influence individual and population health, such as education, employment, and access to healthcare services."
     },
     {
-        "word": "Robotic Process Automation (RPA)",
+        "word": "Robotic Process Automation (Rpa)",
         "description": "Robotic Process Automation (RPA) is the use of software robots or artificial intelligence to automate repetitive and rule-based tasks and processes."
     },
     {
-        "word": "Cloud-based Healthcare Solutions",
+        "word": "Cloud-Based Healthcare Solutions",
         "description": "Cloud-based Healthcare Solutions are software applications or services that are hosted and accessed over the internet, allowing healthcare organizations to store, manage, and analyze data without requiring local infrastructure."
     },
     {
@@ -368,7 +368,7 @@
         "description": "Digital Biomarkers are objective, quantifiable physiological and behavioral measures collected through digital devices and sensors that can be used to track and assess health and disease."
     },
     {
-        "word": "Clinical Decision Support System (CDSS)",
+        "word": "Clinical Decision Support System (Cdss)",
         "description": "A Clinical Decision Support System (CDSS) is a software tool that helps healthcare providers make clinical decisions by providing patient-specific information and evidence-based recommendations."
     },
     {
@@ -376,7 +376,7 @@
         "description": "A Virtual Assistant is a software program or interface that uses artificial intelligence and natural language processing to provide information, assist with tasks, and interact with users in a conversational manner."
     },
     {
-        "word": "mHealth",
+        "word": "Mhealth",
         "description": "mHealth, or Mobile Health, refers to the use of mobile devices, such as smartphones and tablets, in delivering healthcare services, accessing health information, and monitoring health."
     },
     {
@@ -396,7 +396,7 @@
         "description": "Remote Monitoring involves the use of technology to track and monitor patient health data, such as vital signs and symptoms, from a distance, enabling early detection of changes and timely interventions."
     },
     {
-        "word": "Clinical Research Organization (CRO)",
+        "word": "Clinical Research Organization (Cro)",
         "description": "A Clinical Research Organization (CRO) is a company that provides support services for the planning, conduct, and management of clinical trials and research studies."
     },
     {
@@ -456,7 +456,7 @@
         "description": "Healthtech Investment refers to the allocation of financial resources, such as venture capital or private equity, to support the growth and development of healthtech companies and innovations."
     },
     {
-        "word": "Clinical Trials Management System (CTMS)",
+        "word": "Clinical Trials Management System (Ctms)",
         "description": "A Clinical Trials Management System (CTMS) is software specifically designed to support the management and administration of clinical trials, including patient enrollment, data management, and study documentation."
     },
     {

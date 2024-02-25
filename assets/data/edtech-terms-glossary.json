@@ -4,15 +4,11 @@
         "description": "Edtech is the use of technology to deliver educational content, tools, and resources."
     },
     {
-        "word": "Blended learning",
-        "description": "Blended learning refers to an approach that combines traditional face-to-face instruction with online learning."
-    },
-    {
-        "word": "LMS",
+        "word": "Lms",
         "description": "A Learning Management System (LMS) is a software application used to deliver, track, and manage online learning."
     },
     {
-        "word": "MOOC",
+        "word": "Mooc",
         "description": "A Massive Open Online Course (MOOC) is an online course designed for large-scale participation and open access to educational resources."
     },
     {
@@ -20,67 +16,35 @@
         "description": "Gamification is the integration of game elements and mechanics into educational experiences to enhance engagement and motivation."
     },
     {
-        "word": "Adaptive learning",
-        "description": "Adaptive learning refers to the use of technology to personalize the learning experience based on individual needs and abilities."
-    },
-    {
-        "word": "Learning analytics",
-        "description": "Learning analytics involves the collection, measurement, analysis, and reporting of data about learners and their contexts to optimize learning and the learning environment."
-    },
-    {
-        "word": "Augmented reality",
-        "description": "Augmented reality (AR) is the blending of virtual content with the real-world environment using a device, such as a smartphone or AR glasses."
-    },
-    {
-        "word": "Artificial intelligence",
-        "description": "Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems."
-    },
-    {
-        "word": "Data-driven decision making",
+        "word": "Data-Driven Decision Making",
         "description": "Data-driven decision making involves using data and analytics to inform and guide the decision-making process."
     },
     {
-        "word": "Educational data mining",
+        "word": "Educational Data Mining",
         "description": "Educational data mining is the process of analyzing large datasets to discover patterns and insights related to educational contexts."
     },
     {
-        "word": "Learning management system",
-        "description": "A Learning Management System (LMS) is a software application used to deliver, track, and manage online learning."
-    },
-    {
-        "word": "Asynchronous learning",
-        "description": "Asynchronous learning allows learners to access and engage with course content at their own pace and preferred time."
-    },
-    {
-        "word": "Personalized learning",
-        "description": "Personalized learning is an approach that tailors instruction, content, and pace to individual students' needs and preferences."
+        "word": "Learning Management System",
+        "description": "Learning Management System (LMS) is a software application that allows the administration, tracking, and delivery of online courses and training programs."
     },
     {
         "word": "Microlearning",
         "description": "Microlearning involves providing short bursts of focused learning content, typically in the form of videos, quizzes, or interactive modules."
     },
     {
-        "word": "Digital citizenship",
-        "description": "Digital citizenship refers to the responsible and ethical use of technology, including online behavior and digital rights and responsibilities."
-    },
-    {
-        "word": "BYOD",
+        "word": "Byod",
         "description": "Bring Your Own Device (BYOD) is a policy that allows students and teachers to use their personal electronic devices, such as laptops and smartphones, for educational purposes."
     },
     {
-        "word": "Flipped classroom",
-        "description": "A flipped classroom is an instructional approach where students learn new content outside of class and engage in activities, discussions, and projects during class time."
+        "word": "Online Assessment",
+        "description": "Online Assessment involves using digital tools and technologies to assess and evaluate learners' knowledge, skills, and performance in an online learning environment."
     },
     {
-        "word": "Online assessment",
-        "description": "Online assessment involves the use of digital tools and platforms to evaluate student learning, skills, and knowledge."
+        "word": "Social Learning",
+        "description": "Social Learning is a process in which individuals learn from and with others through observation, collaboration, and interactions, often facilitated by social media and online communities."
     },
     {
-        "word": "Social learning",
-        "description": "Social learning is a process where individuals learn from observing, imitating, and interacting with others."
-    },
-    {
-        "word": "Digital storytelling",
+        "word": "Digital Storytelling",
         "description": "Digital storytelling is the use of digital tools to share narratives and stories, often incorporating multimedia elements."
     },
     {
@@ -176,12 +140,8 @@
         "description": "Digital Literacy refers to the ability to find, evaluate, use, create, and communicate digital information and content in various formats."
     },
     {
-        "word": "E-learning",
+        "word": "E-Learning",
         "description": "E-learning, also known as electronic learning, refers to the delivery of educational content or training through electronic devices and the internet."
-    },
-    {
-        "word": "Learning Management System",
-        "description": "Learning Management System (LMS) is a software application that allows the administration, tracking, and delivery of online courses and training programs."
     },
     {
         "word": "Remote Learning",
@@ -224,7 +184,7 @@
         "description": "Digital Assessment involves using digital tools and technologies to administer, score, and analyze assessments, providing more efficient and detailed feedback."
     },
     {
-        "word": "PBL",
+        "word": "Pbl",
         "description": "Project-Based Learning (PBL) is a teaching method that engages students in solving real-world problems or completing authentic projects, promoting critical thinking and collaboration."
     },
     {
@@ -236,15 +196,11 @@
         "description": "Mobile Learning, or mLearning, refers to learning that takes place using mobile devices, such as smartphones or tablets, allowing learners to access educational content anytime, anywhere."
     },
     {
-        "word": "Social Learning",
-        "description": "Social Learning is a process in which individuals learn from and with others through observation, collaboration, and interactions, often facilitated by social media and online communities."
-    },
-    {
         "word": "Learning Styles",
         "description": "Learning Styles are the different ways in which individuals prefer to learn, such as visual, auditory, or kinesthetic, influencing how they perceive, process, and retain information."
     },
     {
-        "word": "Competency-based Education",
+        "word": "Competency-Based Education",
         "description": "Competency-based Education (CBE) is an approach to teaching and learning that focuses on mastery of specific skills or competencies rather than traditional subject-based curricula."
     },
     {
@@ -280,7 +236,7 @@
         "description": "Curriculum Design is the process of planning and organizing the content, activities, and assessments for an educational course or program."
     },
     {
-        "word": "IT Integration",
+        "word": "It Integration",
         "description": "IT Integration refers to the effective incorporation and use of technology in the classroom, ensuring that it aligns with instructional goals and enhances learning experiences."
     },
     {
@@ -296,7 +252,7 @@
         "description": "Student Engagement refers to the level of interest, attention, participation, and motivation exhibited by students in their learning activities and educational experiences."
     },
     {
-        "word": "E-portfolio",
+        "word": "E-Portfolio",
         "description": "E-portfolio, short for Electronic Portfolio, is a digital collection of authentic and curated artifacts that demonstrate an individual's learning, skills, accomplishments, and growth."
     },
     {
@@ -304,75 +260,43 @@
         "description": "Digital Classroom refers to a physical space or online environment where teaching and learning occur using digital tools, resources, and technologies."
     },
     {
-        "word": "STEM Education",
+        "word": "Stem Education",
         "description": "STEM Education focuses on the teaching and learning of Science, Technology, Engineering, and Mathematics, emphasizing critical thinking, problem-solving, and innovation."
     },
     {
-        "word": "STEAM Education",
+        "word": "Steam Education",
         "description": "STEAM Education expands on STEM Education by incorporating the Arts into the curriculum, fostering creativity, design thinking, and interdisciplinary connections."
-    },
-    {
-        "word": "Online Assessment",
-        "description": "Online Assessment involves using digital tools and technologies to assess and evaluate learners' knowledge, skills, and performance in an online learning environment."
-    },
-    {
-        "word": "Data analytics",
-        "description": "Data analytics is the process of examining data sets to uncover patterns, insights, and trends."
     },
     {
         "word": "Assessment",
         "description": "Assessment is the process of gathering evidence and making judgments about learning and performance."
     },
     {
-        "word": "Online tutoring",
-        "description": "Online tutoring is a form of tutoring facilitated through online platforms and tools."
-    },
-    {
-        "word": "Knowledge base",
+        "word": "Knowledge Base",
         "description": "A knowledge base is a database or repository that stores and organizes information, resources, and expertise for easy access and retrieval."
     },
     {
-        "word": "Learning objectives",
-        "description": "Learning objectives are specific statements that describe what students should be able to do after completing a learning experience."
-    },
-    {
-        "word": "Instructional design",
-        "description": "Instructional design involves the systematic development and design of learning experiences, materials, and assessments."
-    },
-    {
-        "word": "User experience",
+        "word": "User Experience",
         "description": "User experience (UX) refers to the overall experience and satisfaction that a learner has when interacting with an educational technology or platform."
     },
     {
-        "word": "User interface",
+        "word": "User Interface",
         "description": "User interface (UI) refers to the visual elements, design, and layout of an educational technology or platform that users interact with."
     },
     {
-        "word": "STEM",
+        "word": "Stem",
         "description": "STEM stands for Science, Technology, Engineering, and Mathematics, and refers to an interdisciplinary approach to education in these fields."
     },
     {
-        "word": "Formative assessment",
-        "description": "Formative assessment is an ongoing and interactive process of gathering evidence to provide feedback and guide learning during instruction."
-    },
-    {
-        "word": "Summative assessment",
-        "description": "Summative assessment is a final evaluation of learning, typically performed at the end of a course or unit to measure achievement."
-    },
-    {
-        "word": "Peer assessment",
+        "word": "Peer Assessment",
         "description": "Peer assessment involves students assessing and providing feedback on each other's work, promoting constructive criticism and collaboration."
     },
     {
-        "word": "Content management system",
+        "word": "Content Management System",
         "description": "A Content Management System (CMS) is a software application used to create, manage, and publish digital content."
     },
     {
-        "word": "Open educational resources",
-        "description": "Open Educational Resources (OER) are openly licensed educational materials that can be freely used, shared, and modified."
-    },
-    {
-        "word": "Video-based learning",
+        "word": "Video-Based Learning",
         "description": "Video-based learning involves using videos as a primary mode of delivering educational content and instruction."
     },
     {
@@ -380,36 +304,16 @@
         "description": "Podcasts are audio recordings or episodes that can be downloaded or streamed, often used for educational purposes."
     },
     {
-        "word": "Mobile learning",
-        "description": "Mobile learning, also known as m-learning, refers to learning experiences delivered using mobile devices, such as smartphones or tablets."
-    },
-    {
-        "word": "Cloud computing",
+        "word": "Cloud Computing",
         "description": "Cloud computing is the delivery of computing services, such as storage, servers, and applications, over the internet."
     },
     {
-        "word": "Personal learning environment",
+        "word": "Personal Learning Environment",
         "description": "A personal learning environment (PLE) is a system or environment that allows individuals to customize and manage their own learning experience."
-    },
-    {
-        "word": "Digital literacy",
-        "description": "Digital literacy refers to the skills, knowledge, and competencies required to effectively use and navigate digital technologies."
     },
     {
         "word": "Edutainment",
         "description": "Edutainment combines elements of education and entertainment to engage learners and make learning more enjoyable and engaging."
-    },
-    {
-        "word": "Remote learning",
-        "description": "Remote learning refers to the delivery of education, training, or learning experiences when learners and instructors are not physically present in the same location."
-    },
-    {
-        "word": "Digital assessment",
-        "description": "Digital assessment is the process of using digital tools and technologies to evaluate and measure learners' knowledge, skills, and abilities."
-    },
-    {
-        "word": "Data privacy",
-        "description": "Data privacy refers to the protection of personal and sensitive information collected and stored by educational technology platforms."
     },
     {
         "word": "Blockchain",
@@ -424,39 +328,27 @@
         "description": "Chatbots are AI-powered programs that simulate conversation and interaction with users, commonly used for automated support and assistance."
     },
     {
-        "word": "Content curation",
+        "word": "Content Curation",
         "description": "Content curation refers to the process of discovering, selecting, organizing, and presenting relevant and high-quality educational content."
     },
     {
-        "word": "Professional development",
-        "description": "Professional development in edtech involves activities and opportunities for educators to enhance their knowledge and skills in integrating technology in education."
-    },
-    {
-        "word": "Collaborative tools",
+        "word": "Collaborative Tools",
         "description": "Collaborative tools are digital applications and platforms that enable multiple users to work together, share ideas, and collaborate on projects."
     },
     {
-        "word": "Learning ecosystem",
+        "word": "Learning Ecosystem",
         "description": "A learning ecosystem refers to the interconnected network of individuals, resources, and technologies that supports lifelong learning and education."
     },
     {
-        "word": "Instructional videos",
+        "word": "Instructional Videos",
         "description": "Instructional videos are videos that provide step-by-step instructions, demonstrations, or explanations to support learning and understanding."
     },
     {
-        "word": "Digital badges",
+        "word": "Digital Badges",
         "description": "Digital badges are visual representations that signify accomplishments or achievements in digital learning environments."
     },
     {
-        "word": "Learning styles",
-        "description": "Learning styles refer to the different ways individuals prefer to learn, such as through visual, auditory, or kinesthetic methods."
-    },
-    {
-        "word": "Data visualization",
-        "description": "Data visualization is the representation of information and data in visual formats, such as charts, graphs, and infographics, to facilitate understanding."
-    },
-    {
-        "word": "Competency-based learning",
+        "word": "Competency-Based Learning",
         "description": "Competency-based learning focuses on learners acquiring specific knowledge, skills, and abilities, and progressing based on demonstrated mastery rather than traditional grading systems."
     }
 ]

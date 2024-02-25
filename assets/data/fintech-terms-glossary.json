@@ -48,7 +48,7 @@
         "description": "Crowdfunding is a method of raising funds from a large number of people, typically via online platforms, to finance projects, ventures, or charitable causes."
     },
     {
-        "word": "Peer-to-peer Lending",
+        "word": "Peer-To-Peer Lending",
         "description": "Peer-to-peer lending, also known as P2P lending, is the practice of lending money to individuals or businesses through online platforms that match lenders with borrowers."
     },
     {
@@ -76,7 +76,7 @@
         "description": "Data analytics refers to the process of examining large sets of data to uncover patterns, trends, and insights."
     },
     {
-        "word": "API",
+        "word": "Api",
         "description": "API, short for Application Programming Interface, is a set of rules and protocols that allows different software applications to communicate and interact with each other."
     },
     {
@@ -96,11 +96,11 @@
         "description": "Robotic Process Automation (RPA) involves the use of software robots to automate repetitive and rule-based tasks."
     },
     {
-        "word": "KYC",
+        "word": "Kyc",
         "description": "KYC, short for Know Your Customer, is the process businesses follow to verify the identity of their customers and assess potential risks."
     },
     {
-        "word": "AML",
+        "word": "Aml",
         "description": "AML, short for Anti-Money Laundering, refers to a set of regulations and procedures aimed at preventing the illegal generation of income by disguising its true origin."
     },
     {
@@ -156,7 +156,7 @@
         "description": "Financial inclusion refers to the availability and accessibility of financial services to individuals and businesses, particularly those from underserved or marginalized groups."
     },
     {
-        "word": "Internet of Things",
+        "word": "Internet Of Things",
         "description": "The Internet of Things (IoT) is a network of interconnected devices embedded with sensors, software, and network connectivity, enabling them to collect and exchange data."
     },
     {
@@ -224,23 +224,15 @@
         "description": "Customer segmentation is the process of dividing a customer base into distinct groups based on certain characteristics or behaviors."
     },
     {
-        "word": "Peer-to-Peer Lending",
-        "description": "Peer-to-peer lending, also known as P2P lending, is a method of debt financing where individuals can borrow and lend money directly without the need for traditional financial intermediaries."
-    },
-    {
-        "word": "RegTech",
-        "description": "RegTech, short for regulatory technology, refers to the use of technology to help businesses comply with regulations more efficiently and effectively."
-    },
-    {
-        "word": "Artificial Intelligence (AI)",
+        "word": "Artificial Intelligence (Ai)",
         "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
     },
     {
-        "word": "Machine Learning (ML)",
+        "word": "Machine Learning (Ml)",
         "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
     },
     {
-        "word": "API Economy",
+        "word": "Api Economy",
         "description": "API economy refers to the growing trend of businesses and industries leveraging APIs to enable seamless integration and interconnectivity between different systems, applications, and services."
     },
     {
@@ -252,7 +244,7 @@
         "description": "Payments processing refers to the handling and facilitation of financial transactions, including payment authorization, settlement, and reconciliation."
     },
     {
-        "word": "Regulatory Technology (RegTech)",
+        "word": "Regulatory Technology (Regtech)",
         "description": "Regulatory Technology (RegTech) refers to the use of technology to help businesses comply with regulations more efficiently and effectively."
     },
     {
@@ -272,11 +264,11 @@
         "description": "Financial analytics is the practice of using advanced analytical methods and tools to analyze financial and business data to gain insights, support decision-making, and identify patterns or trends."
     },
     {
-        "word": "Robotic Process Automation (RPA)",
+        "word": "Robotic Process Automation (Rpa)",
         "description": "Robotic process automation (RPA) involves the use of software robots to automate repetitive and rule-based tasks or processes, typically in back-office operations."
     },
     {
-        "word": "Regulatory Compliance Technology (RegTech)",
+        "word": "Regulatory Compliance Technology (Regtech)",
         "description": "Regulatory compliance technology (RegTech) refers to software solutions and platforms specifically designed to help organizations automate and streamline their regulatory compliance processes."
     },
     {
@@ -288,7 +280,7 @@
         "description": "Digital assets refer to any form of digital or virtual asset that has monetary value, including cryptocurrencies, digital securities, and digital representations of physical assets."
     },
     {
-        "word": "Financial Technology (FinTech) Ecosystem",
+        "word": "Financial Technology (Fintech) Ecosystem",
         "description": "The fintech ecosystem refers to the interconnected network of organizations, institutions, and technologies that collectively support and drive the development of financial technology solutions and innovations."
     },
     {
@@ -300,7 +292,7 @@
         "description": "Financial regulation refers to the laws, rules, and regulations implemented by governmental and non-governmental bodies to oversee and regulate the financial services industry."
     },
     {
-        "word": "Artificial Intelligence in Fintech",
+        "word": "Artificial Intelligence In Fintech",
         "description": "Artificial intelligence in fintech refers to the application of AI technologies and techniques to improve and optimize various processes and aspects of the financial services industry."
     },
     {
@@ -328,11 +320,11 @@
         "description": "Financial crime refers to illegal activities or misconduct involving financial transactions, such as fraud, money laundering, bribery, or insider trading."
     },
     {
-        "word": "Chatbot in Banking",
+        "word": "Chatbot In Banking",
         "description": "Chatbots in banking are AI-powered virtual assistants that provide automated customer support, answer queries, and perform tasks such as balance inquiries or fund transfers in the banking sector."
     },
     {
-        "word": "API Integration",
+        "word": "Api Integration",
         "description": "API integration is the process of connecting different software systems or applications through APIs, allowing them to share and exchange data in a seamless and integrated manner."
     },
     {
@@ -344,23 +336,23 @@
         "description": "Credit risk refers to the potential risk of default or loss associated with extending credit or lending money to individuals, businesses, or other entities."
     },
     {
-        "word": "Internet of Things (IoT) in Finance",
+        "word": "Internet Of Things (Iot) In Finance",
         "description": "The Internet of Things (IoT) in finance refers to the use of interconnected devices and sensors to collect and exchange data for financial applications and services."
     },
     {
-        "word": "API Economy in Banking",
+        "word": "Api Economy In Banking",
         "description": "API economy in banking refers to the growing trend of banks and financial institutions leveraging APIs to enable open banking, facilitate integration with third-party services, and provide improved customer experiences."
     },
     {
-        "word": "Smart Cities and Fintech",
+        "word": "Smart Cities And Fintech",
         "description": "The intersection of smart cities and fintech refers to the use of technology, digital infrastructure, and financial solutions to improve the quality of life, efficiency, and sustainability of urban areas."
     },
     {
-        "word": "Regulatory Sandboxes in Fintech",
+        "word": "Regulatory Sandboxes In Fintech",
         "description": "Regulatory sandboxes in fintech are controlled environments or programs that allow fintech startups and innovators to test and validate their products and services under relaxed regulatory conditions."
     },
     {
-        "word": "Blockchain Technology in Finance",
+        "word": "Blockchain Technology In Finance",
         "description": "Blockchain technology in finance refers to the use of distributed ledger technology to enable secure, transparent, and efficient financial transactions and processes, such as payment settlements or supply chain finance."
     },
     {
@@ -372,20 +364,8 @@
         "description": "Bitcoin is the first and most well-known cryptocurrency, created in 2009 by an anonymous person or group of people using the name Satoshi Nakamoto."
     },
     {
-        "word": "E-wallet",
+        "word": "E-Wallet",
         "description": "An e-wallet, or electronic wallet, is a digital version of a traditional wallet that allows users to store, send, and receive money electronically."
-    },
-    {
-        "word": "Peer-to-peer lending",
-        "description": "Peer-to-peer lending, also known as P2P lending, is the practice of lending money to individuals or businesses through online platforms that match lenders with borrowers."
-    },
-    {
-        "word": "Robo-advisor",
-        "description": "A robo-advisor is an online platform that uses algorithms to provide automated investment advice and portfolio management services."
-    },
-    {
-        "word": "InsurTech",
-        "description": "InsurTech combines insurance and technology to enhance traditional insurance processes, improve customer experience, and provide innovative insurance products."
     },
     {
         "word": "Contactless Payments",
@@ -408,47 +388,47 @@
         "description": "Regulatory compliance technology refers to the use of technology to streamline and automate compliance-related processes, ensuring businesses meet regulatory requirements."
     },
     {
-        "word": "Platform-as-a-Service (PaaS)",
+        "word": "Platform-As-A-Service (Paas)",
         "description": "Platform-as-a-Service (PaaS) is a cloud computing model that provides a platform and environment for developers to build, deploy, and manage applications."
     },
     {
-        "word": "Business-to-Business (B2B)",
+        "word": "Business-To-Business (B2B)",
         "description": "Business-to-Business (B2B) refers to transactions or interactions between businesses, such as selling products, services, or information to other businesses."
     },
     {
-        "word": "Business-to-Consumer (B2C)",
+        "word": "Business-To-Consumer (B2C)",
         "description": "Business-to-Consumer (B2C) refers to transactions or interactions between businesses and individual consumers, involving the sale of products, services, or information."
     },
     {
-        "word": "Application Programming Interface (API)",
+        "word": "Application Programming Interface (Api)",
         "description": "An Application Programming Interface (API) is a set of rules and protocols that allows software applications to communicate and interact with each other."
     },
     {
-        "word": "Know Your Customer (KYC)",
+        "word": "Know Your Customer (Kyc)",
         "description": "Know Your Customer (KYC) is the process businesses follow to verify the identity of their customers and assess potential risks."
     },
     {
-        "word": "Anti-Money Laundering (AML)",
+        "word": "Anti-Money Laundering (Aml)",
         "description": "Anti-Money Laundering (AML) refers to a set of regulations and procedures aimed at preventing the illegal generation of income by disguising its true origin."
     },
     {
-        "word": "Open API",
+        "word": "Open Api",
         "description": "An Open API is an interface that allows third-party developers to build applications that interact with the services provided by a particular platform or organization."
     },
     {
-        "word": "Financial Technology (FinTech)",
+        "word": "Financial Technology (Fintech)",
         "description": "Financial Technology (FinTech) refers to the use of technology to deliver financial services more efficiently and effectively."
     },
     {
-        "word": "Natural Language Processing (NLP)",
+        "word": "Natural Language Processing (Nlp)",
         "description": "Natural Language Processing (NLP) is a subfield of AI that focuses on the interaction between computers and human language, enabling computers to understand, interpret, and generate human language."
     },
     {
-        "word": "Initial Coin Offering (ICO)",
+        "word": "Initial Coin Offering (Ico)",
         "description": "An initial coin offering (ICO) is a means of crowdfunding a new cryptocurrency project by selling crypto tokens in exchange for other cryptocurrencies or fiat currencies."
     },
     {
-        "word": "Decentralized Finance (DeFi)",
+        "word": "Decentralized Finance (Defi)",
         "description": "Decentralized Finance (DeFi) refers to the use of blockchain and cryptocurrency technologies to recreate traditional financial systems without centralized intermediaries."
     }
 ]
