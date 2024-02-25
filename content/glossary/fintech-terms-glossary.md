@@ -1,6 +1,6 @@
 ---
 title: "fintech Terms Glossary From A to Z"  
-date: f2024-02-25
+date: 2024-02-24
 draft: false
 language: en
 description: fintech Terms A to Z Glossary | fintech Terms Glossary
