@@ -72,32 +72,30 @@
   {{ $groupedWords := dict }}
   {{ range $json }}
   {{ $firstLetter := substr .word 0 1 | strings.ToUpper }}
-  {{/* 检查是否已经有该首字母的分组 */}}
   {{ if not (isset $groupedWords $firstLetter) }}
-  {{/* 为新的首字母初始化一个空切片 */}}
-  {{ $groupedWords = merge $groupedWords (dict $firstLetter (slice .)) }}
+  {{/* 初始化字典以存储单词及其详情 */}}
+  {{ $wordsDetails := dict .word . }}
+  {{ $groupedWords = merge $groupedWords (dict $firstLetter $wordsDetails) }}
   {{ else }}
-  {{/* 获取当前分组的切片，添加新元素，然后更新字典 */}}
-  {{ $currentGroup := index $groupedWords $firstLetter }}
-  {{ $newGroup := append $currentGroup . }}
-  {{ $groupedWords = merge $groupedWords (dict $firstLetter $newGroup) }}
+  {{/* 向已存在的字典中添加新的单词及其详情 */}}
+  {{ $existingWords := index $groupedWords $firstLetter }}
+  {{ $updatedWords := merge $existingWords (dict .word .) }}
+  {{ $groupedWords = merge $groupedWords (dict $firstLetter $updatedWords) }}
   {{ end }}
   {{ end }}
-
 
   <!-- 遍历分组字典，为每个分组渲染标题和列表 -->
-  {{ range $letter, $words := $groupedWords }}
+  {{ range $letter, $wordsDetails := $groupedWords }}
   <div id="{{ $letter }}" class="col-span-3">
     <h2 class="text-3xl font-bold">{{ $letter }}</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      {{ range $words }}
+      {{ range $word, $details := $wordsDetails }}
       <div class="p-4 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{ .word }}</h5>
-        <p class="font-normal text-gray-700 dark:text-gray-400">{{ .description }}</p>
+        <h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{{ $word }}</h3>
+        <p class="font-normal text-gray-700 dark:text-gray-400">{{ $details.description }}</p>
       </div>
       {{ end }}
     </div>
   </div>
   {{ end }}
 </div>
-

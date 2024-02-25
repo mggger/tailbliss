@@ -118,9 +118,9 @@ menu:
       pre: dropdown
       name: Categories
       weight: 30
-    - identifier: AI-Terms-Glossary
-      name: AI Terms Glossary
-      url: /glossary/ai-terms-glossary/
+    - identifier: glossary
+      name: Glossary
+      url: /categories/glossary/
       weight: 40
     - identifier: contact
       name: Contact

@@ -1,4 +1,659 @@
 [
-  {"word": "AI", "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."},
-  {"word": "ML", "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."}
+  {
+    "word": "AI",
+    "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+  },
+  {
+    "word": "ML",
+    "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+  },
+  {
+    "word": "NN",
+    "description": "Neural Network (NN) is a computational model inspired by the structure and function of the human brain."
+  },
+  {
+    "word": "DL",
+    "description": "Deep Learning (DL) is a subset of machine learning that uses neural networks with many layers."
+  },
+  {
+    "word": "NLP",
+    "description": "Natural Language Processing (NLP) involves the interaction between computers and humans using natural language."
+  },
+  {
+    "word": "CV",
+    "description": "Computer Vision (CV) is the field of AI that focuses on enabling computers to interpret and understand visual information."
+  },
+  {
+    "word": "RL",
+    "description": "Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by trial and error."
+  },
+  {
+    "word": "GAN",
+    "description": "Generative Adversarial Network (GAN) is a class of AI algorithms used in unsupervised machine learning."
+  },
+  {
+    "word": "AGI",
+    "description": "Artificial General Intelligence (AGI) refers to a hypothetical AI that possesses the ability to understand, learn, and apply knowledge in any domain."
+  },
+  {
+    "word": "IoT",
+    "description": "Internet of Things (IoT) refers to the network of physical devices embedded with sensors, software, and other technologies to connect and exchange data."
+  },
+  {
+    "word": "AR",
+    "description": "Augmented Reality (AR) is a technology that overlays digital information onto the real world, typically through a device such as a smartphone or AR glasses."
+  },
+  {
+    "word": "VR",
+    "description": "Virtual Reality (VR) is a simulated experience that can be similar to or completely different from the real world."
+  },
+  {
+    "word": "AGI",
+    "description": "Artificial General Intelligence (AGI) is a type of AI that can understand, learn, and apply knowledge in any domain, similar to human intelligence."
+  },
+  {
+    "word": "API",
+    "description": "Application Programming Interface (API) is a set of rules and protocols for building and interacting with software applications."
+  },
+  {
+    "word": "ANN",
+    "description": "Artificial Neural Network (ANN) is a computational model inspired by the structure and function of biological neural networks."
+  },
+  {
+    "word": "SVM",
+    "description": "Support Vector Machine (SVM) is a supervised machine learning algorithm used for classification and regression analysis."
+  },
+  {
+    "word": "CNN",
+    "description": "Convolutional Neural Network (CNN) is a type of neural network commonly used in image recognition and classification tasks."
+  },
+  {
+    "word": "RNN",
+    "description": "Recurrent Neural Network (RNN) is a type of neural network designed to recognize patterns in sequences of data."
+  },
+  {
+    "word": "LSTM",
+    "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network capable of learning long-term dependencies."
+  },
+  {
+    "word": "BERT",
+    "description": "Bidirectional Encoder Representations from Transformers (BERT) is a natural language processing model developed by Google."
+  },
+  {
+    "word": "GPT",
+    "description": "Generative Pre-trained Transformer (GPT) is a type of deep learning model known for its ability to generate human-like text."
+  },
+  {
+    "word": "TF",
+    "description": "TensorFlow (TF) is an open-source machine learning framework developed by Google."
+  },
+  {
+    "word": "PyTorch",
+    "description": "PyTorch is an open-source machine learning library developed by Facebook's AI Research lab."
+  },
+  {
+    "word": "XAI",
+    "description": "Explainable Artificial Intelligence (XAI) refers to AI systems whose decisions and actions can be understood by humans."
+  },
+  {
+    "word": "MLaaS",
+    "description": "Machine Learning as a Service (MLaaS) refers to cloud-based platforms that provide machine learning tools and infrastructure."
+  },
+  {
+    "word": "RPA",
+    "description": "Robotic Process Automation (RPA) refers to the use of software robots to automate repetitive tasks and processes."
+  },
+  {
+    "word": "CaaS",
+    "description": "Conversational AI as a Service (CaaS) refers to cloud-based platforms that provide conversational AI capabilities."
+  },
+  {
+    "word": "DNN",
+    "description": "Deep Neural Network (DNN) is a neural network with multiple layers between the input and output layers."
+  },
+  {
+    "word": "IoMT",
+    "description": "Internet of Medical Things (IoMT) refers to medical devices and applications connected to healthcare IT systems through the internet."
+  },
+  {
+    "word": "IoP",
+    "description": "Internet of People (IoP) refers to the concept of connecting individuals to the internet through wearable devices and personal technology."
+  },
+  {
+    "word": "VA",
+    "description": "Virtual Assistant (VA) is an AI-driven software program that can perform tasks or services for an individual, typically through voice commands."
+  },
+  {
+    "word": "Siri",
+    "description": "Siri is a virtual assistant developed by Apple that uses natural language processing and voice recognition technology."
+  },
+  {
+    "word": "Alexa",
+    "description": "Alexa is a virtual assistant developed by Amazon, known for its integration with the Amazon Echo smart speaker."
+  },
+  {
+    "word": "Cortana",
+    "description": "Cortana is a virtual assistant developed by Microsoft, available across various Microsoft products and platforms."
+  },
+  {
+    "word": "Watson",
+    "description": "Watson is an AI system developed by IBM, known for its ability to answer questions posed in natural language."
+  },
+  {
+    "word": "Autonomous Vehicle",
+    "description": "An Autonomous Vehicle (AV) is a vehicle capable of navigating and operating without human input."
+  },
+  {
+    "word": "Deepfake",
+    "description": "Deepfake is a technique for creating synthetic media in which a person in an existing image or video is replaced with someone else's likeness."
+  },
+  {
+    "word": "Blockchain",
+    "description": "Blockchain is a decentralized and distributed digital ledger technology used to record transactions across multiple computers."
+  },
+  {
+    "word": "Cryptocurrency",
+    "description": "Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of a central bank."
+  },
+  {
+    "word": "Smart Contract",
+    "description": "A Smart Contract is a self-executing contract with the terms of the agreement between buyer and seller directly written into code."
+  },
+  {
+    "word": "Quantum Computing",
+    "description": "Quantum Computing is a type of computing that takes advantage of the quantum state of subatomic particles to perform operations on data."
+  },
+  {
+    "word": "Edge Computing",
+    "description": "Edge Computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed."
+  },
+  {
+    "word": "Federated Learning",
+    "description": "Federated Learning is a machine learning approach where a model is trained across multiple decentralized edge devices or servers holding local data samples."
+  },
+  {
+    "word": "Explainability",
+    "description": "Explainability refers to the ability of an AI system to provide explanations for its decisions and actions in a way that is understandable to humans."
+  },
+  {
+    "word": "Ethical AI",
+    "description": "Ethical AI refers to the development and use"
+  },
+  {
+    "word": "Algorithm",
+    "description": "A set of rules or instructions given to an AI or ML system to help it learn from data."
+  },
+  {
+    "word": "ANN",
+    "description": "Artificial Neural Network, a framework for many different machine learning algorithms to process complex data inputs."
+  },
+  {
+    "word": "Backpropagation",
+    "description": "A method used in artificial neural networks to calculate the error contribution of each neuron after a batch of data is processed."
+  },
+  {
+    "word": "Bias",
+    "description": "A systematic error in predictions, due to assumptions in the learning algorithm."
+  },
+  {
+    "word": "Big Data",
+    "description": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations."
+  },
+  {
+    "word": "Classification",
+    "description": "A supervised learning technique where the output is a category."
+  },
+  {
+    "word": "Clustering",
+    "description": "An unsupervised learning technique where patterns discovered in the data are used to group data points."
+  },
+  {
+    "word": "CNN",
+    "description": "Convolutional Neural Network, a deep learning algorithm which can take in an input image, assign importance to various aspects/objects in the image."
+  },
+  {
+    "word": "Data Mining",
+    "description": "The process of discovering patterns and knowledge from large amounts of data."
+  },
+  {
+    "word": "Data Science",
+    "description": "An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data."
+  },
+  {
+    "word": "Deep Learning",
+    "description": "A subset of machine learning in artificial intelligence that has networks capable of learning unsupervised from data that is unstructured or unlabeled."
+  },
+  {
+    "word": "Dimensionality Reduction",
+    "description": "The process of reducing the number of random variables under consideration, by obtaining a set of principal variables."
+  },
+  {
+    "word": "Ensemble Learning",
+    "description": "A technique that combines the predictions from multiple machine learning algorithms together to make more accurate predictions than any individual model."
+  },
+  {
+    "word": "Feature",
+    "description": "An individual measurable property or characteristic of a phenomenon being observed."
+  },
+  {
+    "word": "Feature Engineering",
+    "description": "The process of using domain knowledge to extract features from raw data."
+  },
+  {
+    "word": "Feature Extraction",
+    "description": "The process of transforming raw data into a set of features that can be used for training a model."
+  },
+  {
+    "word": "GAN",
+    "description": "Generative Adversarial Network, a class of machine learning frameworks designed by two neural networks, one generating candidates and the other evaluating them."
+  },
+  {
+    "word": "Gradient Descent",
+    "description": "An optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient."
+  },
+  {
+    "word": "Hyperparameter",
+    "description": "A parameter whose value is set before the learning process begins."
+  },
+  {
+    "word": "Inference",
+    "description": "The process of using a trained model to make predictions."
+  },
+  {
+    "word": "K-means",
+    "description": "A popular clustering algorithm that divides a set of data points into k groups based on feature similarity."
+  },
+  {
+    "word": "Labeled Data",
+    "description": "Data that has been tagged with one or more labels identifying certain properties or categories."
+  },
+  {
+    "word": "Loss Function",
+    "description": "A method of evaluating how well specific algorithm models the given data."
+  },
+  {
+    "word": "Machine Perception",
+    "description": "The capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them."
+  },
+  {
+    "word": "Model",
+    "description": "In machine learning, a model is a representation of what an AI system has learned from the training data."
+  },
+  {
+    "word": "Natural Language Processing (NLP)",
+    "description": "A field of artificial intelligence that gives machines the ability to read, understand and derive meaning from human languages."
+  },
+  {
+    "word": "Neuron",
+    "description": "A basic unit of computation in a neural network."
+  },
+  {
+    "word": "Normalization",
+    "description": "A process that changes the range of pixel intensity values."
+  },
+  {
+    "word": "Overfitting",
+    "description": "A modeling error that occurs when a function is too closely fit to a limited set of data points."
+  },
+  {
+    "word": "Precision",
+    "description": "A measure of a classifier's exactness. The higher the precision, the more accurate the classifier."
+  },
+  {
+    "word": "Random Forest",
+    "description": "An ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time."
+  },
+  {
+    "word": "Recurrent Neural Network (RNN)",
+    "description": "A class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence."
+  },
+  {
+    "word": "Reinforcement Learning",
+    "description": "A type of machine learning technique that enables an algorithm to learn through trial and error using feedback from its own actions and experiences."
+  },
+  {
+    "word": "Supervised Learning",
+    "description": "A type of machine learning algorithm that uses a known dataset (known as the training dataset) to make predictions."
+  },
+  {
+    "word": "Transfer Learning",
+    "description": "The practice of reusing a pre-trained model on a new problem, adjusting its structure or fine-tuning its weights."
+  },
+  {
+    "word": "Unsupervised Learning",
+    "description": "A type of algorithm that learns patterns from untagged data."
+  },
+  {
+    "word": "Validation Set",
+    "description": "A set of data used to assess the strength and utility of a predictive relationship."
+  },
+  {
+    "word": "Variance",
+    "description": "A measure of the variability of model prediction for a given data point."
+  },
+  {
+    "word": "Zero-shot Learning",
+    "description": "The ability of a machine to recognize objects and activities it has never seen before."
+  },
+  {
+    "word": "Autoencoder",
+    "description": "A type of artificial neural network used to learn efficient codings of unlabeled data, typically for the purpose of dimensionality reduction."
+  },
+  {
+    "word": "Bayesian Networks",
+    "description": "A type of probabilistic graphical model that uses Bayesian inference for probability computations."
+  },
+  {
+    "word": "Capsule Networks",
+    "description": "A type of artificial neural network that aims to improve the efficiency and accuracy of learning by understanding spatial hierarchies between features."
+  },
+  {
+    "word": "Decision Trees",
+    "description": "A decision support tool that uses a tree-like graph or model of decisions and their possible consequences."
+  },
+  {
+    "word": "Embedding",
+    "description": "A representation of data where elements with a similar meaning have a similar representation in vector space."
+  },
+  {
+    "word": "Evolutionary Algorithms",
+    "description": "Algorithms that use mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection."
+  },
+  {
+    "word": "Explainable AI (XAI)",
+    "description": "Artificial intelligence and machine learning techniques that provide human-understandable explanations of their output."
+  },
+  {
+    "word": "Federated Learning",
+    "description": "A machine learning setting where the model is trained across multiple decentralized devices or servers holding local data samples, without exchanging them."
+  },
+  {
+    "word": "General Adversarial Networks (GANs)",
+    "description": "A class of machine learning frameworks designed by unifying two neural networks, competing against each other to generate new data with the same statistics as the training set."
+  },
+  {
+    "word": "Heuristics",
+    "description": "Techniques designed for solving a problem more quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution."
+  },
+  {
+    "word": "Instance-based Learning",
+    "description": "A family of learning algorithms that, instead of performing explicit generalization, compares new problem instances with instances seen in training."
+  },
+  {
+    "word": "Jaccard Index",
+    "description": "A statistic used for gauging the similarity and diversity of sample sets."
+  },
+  {
+    "word": "Knowledge Graph",
+    "description": "A knowledge base used by Google and its services to enhance its search engine's results with information gathered from a variety of sources."
+  },
+  {
+    "word": "Latent Variable",
+    "description": "Variables that are not directly observed but are rather inferred from other variables that are observed and directly measured."
+  },
+  {
+    "word": "Markov Decision Processes (MDP)",
+    "description": "A mathematical framework for modeling decision making in situations where outcomes are partly random and partly under the control of a decision maker."
+  },
+  {
+    "word": "Natural Language Understanding (NLU)",
+    "description": "A sub-discipline of natural language processing that focuses on machine reading comprehension."
+  },
+  {
+    "word": "Optical Character Recognition (OCR)",
+    "description": "The mechanical or electronic conversion of images of typed, handwritten or printed text into machine-encoded text."
+  },
+  {
+    "word": "Principal Component Analysis (PCA)",
+    "description": "A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables."
+  },
+  {
+    "word": "Quantum Machine Learning",
+    "description": "An emerging interdisciplinary research area at the intersection of quantum physics and machine learning."
+  },
+  {
+    "word": "Recurrent Neural Network (RNN)",
+    "description": "A class of artificial neural networks where connections between units form a directed graph along a sequence, allowing it to exhibit temporal dynamic behavior."
+  },
+  {
+    "word": "Semi-supervised Learning",
+    "description": "A class of machine learning tasks and techniques that also make use of unlabeled data for training – typically a small amount of labeled data with a large amount of unlabeled data."
+  },
+  {
+    "word": "Tokenization",
+    "description": "The process of converting a sequence of characters into a sequence of tokens."
+  },
+  {
+    "word": "Unstructured Data",
+    "description": "Information that either does not have a pre-defined data model or is not organized in a pre-defined manner."
+  },
+  {
+    "word": "Variational Autoencoder (VAE)",
+    "description": "A type of autoencoder that provides a probabilistic manner for describing observations in latent space."
+  },
+  {
+    "word": "Weak AI",
+    "description": "Artificial intelligence that is designed and trained for a particular task."
+  },
+  {
+    "word": "XGBoost",
+    "description": "An optimized distributed gradient boosting library designed to be highly efficient, flexible, and portable."
+  },
+  {
+    "word": "Yield Prediction",
+    "description": "The application of machine learning techniques to predict the yield of crops, manufacturing processes, or other production processes."
+  },
+  {
+    "word": "Zero-shot Learning",
+    "description": "A machine learning technique where the model is able to recognize objects, scenes, or concepts in data that it has never explicitly been trained on."
+  },
+  {
+    "word": "Active Learning",
+    "description": "A machine learning approach where the model identifies the data it is uncertain about or considers most informative, and queries a user or oracle to label it."
+  },
+  {
+    "word": "Batch Normalization",
+    "description": "A technique to improve the speed, performance, and stability of artificial neural networks by normalizing the inputs of each layer."
+  },
+  {
+    "word": "Curriculum Learning",
+    "description": "A methodology in machine learning where the models are trained in a way that gradually increases the difficulty of tasks."
+  },
+  {
+    "word": "Data Augmentation",
+    "description": "A strategy used to increase the diversity of data available for training models without actually collecting new data."
+  },
+  {
+    "word": "Embedding Layer",
+    "description": "A layer in neural networks used to convert sparse categorical data into a dense embedded representation suitable for machine learning."
+  },
+  {
+    "word": "Feature Scaling",
+    "description": "A method used to normalize the range of independent variables or features of data."
+  },
+  {
+    "word": "Genetic Algorithms",
+    "description": "Search heuristics that mimic the process of natural selection to generate useful solutions to optimization and search problems."
+  },
+  {
+    "word": "Hierarchical Clustering",
+    "description": "A method of cluster analysis which seeks to build a hierarchy of clusters."
+  },
+  {
+    "word": "Imbalanced Learning",
+    "description": "Dealing with data sets where one class is significantly underrepresented compared to others, making model training challenging."
+  },
+  {
+    "word": "Joint Learning",
+    "description": "A learning paradigm where multiple tasks are learned at the same time, sharing representations."
+  },
+  {
+    "word": "Knowledge Distillation",
+    "description": "A technique where a small model is trained to mimic a larger, pre-trained model."
+  },
+  {
+    "word": "Long Short-Term Memory (LSTM)",
+    "description": "A special kind of RNN, capable of learning long-term dependencies."
+  },
+  {
+    "word": "Model Compression",
+    "description": "Techniques to reduce the size of a machine learning model without significantly reducing its accuracy."
+  },
+  {
+    "word": "Noise Reduction",
+    "description": "The process of removing noise from a signal in data preprocessing."
+  },
+  {
+    "word": "Outlier Detection",
+    "description": "Identifying data points that differ significantly from the majority of the data."
+  },
+  {
+    "word": "Pooling Layer",
+    "description": "A layer in a neural network that reduces the dimensionality of data by combining the outputs of neuron clusters."
+  },
+  {
+    "word": "Quantization",
+    "description": "The process of reducing the number of bits that represent a number, used in model compression."
+  },
+  {
+    "word": "Reinforcement Learning Environment",
+    "description": "The context or setting in which a reinforcement learning model interacts and learns."
+  },
+  {
+    "word": "Sparse Representation",
+    "description": "A way of representing data in a matrix form where most of the elements are zero."
+  },
+  {
+    "word": "Transfer Learning",
+    "description": "Improving learning in a new task through the transfer of knowledge from a related task that has already been learned."
+  },
+  {
+    "word": "Unsupervised Pre-training",
+    "description": "Training a model on a large unsupervised dataset to learn general features that can be useful for downstream tasks."
+  },
+  {
+    "word": "Variance Reduction",
+    "description": "Techniques used to reduce the variance of a model's prediction error."
+  },
+  {
+    "word": "Weight Initialization",
+    "description": "Choosing a method to set the initial weights of an artificial neural network."
+  },
+  {
+    "word": "XAI Techniques",
+    "description": "Methods used in explainable artificial intelligence to make the results of AI and machine learning models more understandable to humans."
+  },
+  {
+    "word": "Yielding Insights",
+    "description": "The process of deriving actionable and meaningful information from data analysis and model predictions."
+  },
+  {
+    "word": "Zero-data Learning",
+    "description": "A form of learning where the model can intelligently guess the properties of unseen categories without any associated data."
+  },
+  {
+    "word": "Adversarial Attack",
+    "description": "A technique used to fool models through malicious input."
+  },
+  {
+    "word": "Belief Networks",
+    "description": "Graphical models that represent the probabilistic relationships among a set of variables."
+  },
+  {
+    "word": "Catastrophic Forgetting",
+    "description": "The tendency of a neural network to forget previously learned information upon learning new information."
+  },
+  {
+    "word": "Distributed Computing",
+    "description": "A field of computer science that studies distributed systems."
+  },
+  {
+    "word": "Exponential Smoothing",
+    "description": "A rule of thumb technique for smoothing time series data, particularly for recursively applying as many as three smoothing constants."
+  },
+  {
+    "word": "Fine-tuning",
+    "description": "A process of adjusting the parameters of an existing model to make it perform better on a specific task."
+  },
+  {
+    "word": "Gradient Checking",
+    "description": "A procedure used to verify the correctness of the backpropagation process by comparing the gradient computed using backpropagation against a numerically estimated gradient."
+  },
+  {
+    "word": "Hyperparameter Tuning",
+    "description": "The process of optimizing the parameters that govern the training process of a machine learning model."
+  },
+  {
+    "word": "Imputation",
+    "description": "The process of replacing missing data with substituted values."
+  },
+  {
+    "word": "Jacobian Matrix",
+    "description": "A matrix of all first-order partial derivatives of a vector-valued function."
+  },
+  {
+    "word": "Kernel Methods",
+    "description": "A class of algorithms for pattern analysis, whose best known member is the support vector machine."
+  },
+  {
+    "word": "Learning Rate",
+    "description": "A hyperparameter that controls how much to change the model in response to the estimated error each time the model weights are updated."
+  },
+  {
+    "word": "Multilayer Perceptron (MLP)",
+    "description": "A class of feedforward artificial neural network (ANN)."
+  },
+  {
+    "word": "Normalization",
+    "description": "A process that changes the range of pixel intensity values."
+  },
+  {
+    "word": "Objective Function",
+    "description": "A function that a model aims to minimize or maximize during the training process."
+  },
+  {
+    "word": "Partial Dependence Plot",
+    "description": "A graphical representation of the marginal effect of a variable on a response in a statistical model."
+  },
+  {
+    "word": "Quantile Regression",
+    "description": "A type of regression analysis used in statistics and econometrics that allows the user to estimate either the conditional median or quantiles of the response variable."
+  },
+  {
+    "word": "Regularization",
+    "description": "The process of adding a penalty on the different parameters of the model to reduce the freedom of the model thereby overfitting."
+  },
+  {
+    "word": "Stochastic Gradient Descent (SGD)",
+    "description": "A stochastic approximation of the gradient descent optimization and a standard algorithm for training deep learning models."
+  },
+  {
+    "word": "Temporal Difference Learning",
+    "description": "A prediction method that learns by bootstrapping from the current estimate of the value function."
+  },
+  {
+    "word": "Underfitting",
+    "description": "A model that can neither model the training data nor generalize to new data."
+  },
+  {
+    "word": "Variational Inference",
+    "description": "A technique in Bayesian machine learning that uses optimization to approximate the posterior distribution of a probabilistic model."
+  },
+  {
+    "word": "Word Embedding",
+    "description": "A class of approaches for representing words and documents using a dense vector representation."
+  },
+  {
+    "word": "XOR Problem",
+    "description": "A problem in neural network research, notable because it cannot be solved by a single layer perceptron."
+  },
+  {
+    "word": "Yielding Strategy",
+    "description": "Approaches in machine learning models that allow for dynamically adjusting actions based on changing environments or feedback loops."
+  },
+  {
+    "word": "Z-Score Normalization",
+    "description": "A technique used to normalize the features of a dataset by subtracting the mean and dividing by the standard deviation."
+  }
 ]
+
