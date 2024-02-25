@@ -1,10 +1,10 @@
 
 ---
-title: "ai Terms Glossary From A to Z"  
+title: "AI Terms Glossary: AI Terms in 2024"  
 date: 2024-02-23
 draft: false
 language: en
-description: ai Terms A to Z Glossary | ai Terms Glossary
+description: "AI Terms Glossary: AI Terms in 2024 | AI Terms Glossary"
 categories: glossary
 ---
 
