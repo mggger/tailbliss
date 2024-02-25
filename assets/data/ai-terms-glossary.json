@@ -1,0 +1,210 @@
+[
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans through natural language."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field that deals with how computers can be made to gain high-level understanding from digital images or videos."
+    },
+    {
+        "word": "Neural Networks",
+        "description": "Neural Networks are a set of algorithms, modeled after the human brain, that recognize patterns."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning is a type of machine learning where an agent learns by interacting with an environment and receiving feedback in the form of rewards or punishments."
+    },
+    {
+        "word": "Data Science",
+        "description": "Data Science is the field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex data sets that cannot be easily managed or processed using traditional methods."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data Mining is the process of discovering patterns, relationships, and information from large data sets."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics is the use of data, statistical algorithms, and machine learning techniques to identify the likelihood of future outcomes."
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning is a type of machine learning where the algorithm learns from labeled data, with the goal of making predictions or classifications on new, unseen data."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a type of machine learning where the algorithm learns patterns and relationships from unlabeled data, without the need for explicit labels."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning is a type of machine learning where the algorithm learns from a combination of labeled and unlabeled data."
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "Transfer Learning is a technique where a pre-trained model is used as a starting point for a new model on a different but related task."
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) are a class of machine learning models designed to generate new data that resembles a given training data set."
+    },
+    {
+        "word": "Artificial Neural Networks",
+        "description": "Artificial Neural Networks (ANNs) are computing systems inspired by the structure and function of biological neural networks."
+    },
+    {
+        "word": "Convolutional Neural Networks",
+        "description": "Convolutional Neural Networks (CNNs) are a type of neural network commonly used for image recognition and processing."
+    },
+    {
+        "word": "Recurrent Neural Networks",
+        "description": "Recurrent Neural Networks (RNNs) are a type of neural network commonly used for sequence data, with the ability to retain information from previous inputs."
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning is a machine learning technique that combines multiple base models to create a more accurate and robust model."
+    },
+    {
+        "word": "Decision Trees",
+        "description": "Decision Trees are a supervised machine learning algorithm that uses a tree-like model of decisions and their possible consequences."
+    },
+    {
+        "word": "Random Forest",
+        "description": "Random Forest is an ensemble learning method for classification and regression that combines multiple decision trees."
+    },
+    {
+        "word": "Gradient Boosting",
+        "description": "Gradient Boosting is an ensemble machine learning technique that sequentially adds models to correct the errors made by previous models."
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering is an unsupervised machine learning technique that groups similar data points together."
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "description": "Dimensionality Reduction is the process of reducing the number of random variables considered when analyzing data."
+    },
+    {
+        "word": "LSTM",
+        "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network architecture that is designed to remember information for longer periods."
+    },
+    {
+        "word": "GAN",
+        "description": "Generative Adversarial Network (GAN) is a class of machine learning models designed to generate new data that resembles a given training data set."
+    },
+    {
+        "word": "Autoencoder",
+        "description": "Autoencoder is a type of artificial neural network used to learn efficient representations of input data by training the network to compress and then reconstruct it."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting occurs when a model is overly complex and learns the noise in the training data, resulting in poor performance on new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting occurs when a model is too simple and fails to capture the underlying patterns in the data, resulting in poor performance."
+    },
+    {
+        "word": "Bias",
+        "description": "Bias refers to the error introduced by approximating a real problem with a simplified model."
+    },
+    {
+        "word": "Variance",
+        "description": "Variance refers to the amount by which the target function will change if different training data sets are used."
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization is a technique used to prevent overfitting by adding a penalty term to the model's loss function."
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "Hyperparameters are the parameters that are not learned by the model itself, but need to be set manually before training."
+    },
+    {
+        "word": "Loss Function",
+        "description": "Loss Function is used to measure the inconsistency between predicted and target values, acting as a guide for the model to update its parameters."
+    },
+    {
+        "word": "Activation Function",
+        "description": "Activation Function determines the output of a neural network node, based on the weighted sum of its inputs."
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation is a technique used to train a neural network by iteratively adjusting the weights of the network using gradient descent."
+    },
+    {
+        "word": "Optimization Algorithms",
+        "description": "Optimization Algorithms are used to find the optimal set of weights for a neural network, typically through the minimization of a loss function."
+    },
+    {
+        "word": "Dropout",
+        "description": "Dropout is a regularization technique that randomly selects a percentage of nodes in a neural network to ignore during training."
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch Normalization is a technique used to standardize the inputs to each layer in a neural network, improving network stability and performance."
+    },
+    {
+        "word": "Word Embeddings",
+        "description": "Word Embeddings are a representation of words in a high-dimensional vector space, allowing words with similar meanings to have similar representations."
+    },
+    {
+        "word": "Recommender System",
+        "description": "Recommender System is an information filtering system that helps users find items of interest by predicting their preferences."
+    },
+    {
+        "word": "Chatbot",
+        "description": "Chatbot is a computer program designed to simulate conversation with human users, typically using natural language processing techniques."
+    },
+    {
+        "word": "Speech Recognition",
+        "description": "Speech Recognition is the technology that recognizes spoken language and converts it into text."
+    },
+    {
+        "word": "Natural Language Generation",
+        "description": "Natural Language Generation (NLG) is a subfield of AI that focuses on generating human-like language from structured data."
+    },
+    {
+        "word": "Knowledge Graph",
+        "description": "Knowledge Graph is a graph-based knowledge representation for storing and organizing structured and semi-structured information."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized digital ledger that records transactions across multiple computers, providing transparency and security."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed."
+    },
+    {
+        "word": "Internet of Things",
+        "description": "Internet of Things (IoT) refers to the network of physical devices and objects embedded with sensors, software, and connectivity to exchange data."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "Artificial Neural Network (ANN) is a computational model inspired by biological neural networks, used in machine learning and cognitive science."
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "Convolutional Neural Network (CNN) is a type of artificial neural network commonly used for image and video recognition, processing, and generation."
+    },
+    {
+        "word": "Generative Adversarial Network",
+        "description": "Generative Adversarial Network (GAN) is a class of machine learning models that uses a generative and discriminative approach to generate realistic data samples."
+    }
+]
