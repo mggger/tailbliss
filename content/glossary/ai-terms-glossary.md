@@ -8,4 +8,4 @@ description: ai Terms A to Z Glossary | ai Terms Glossary
 categories: glossary
 ---
 
-{< terms "/assets/data/ai-terms-glossary.json" >}
+{< terms "/assets/data/ai-terms.json" >}
