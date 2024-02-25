@@ -7,4 +7,4 @@ description: fintech Terms A to Z Glossary | fintech Terms Glossary
 categories: glossary
 ---
 
-{< terms "/assets/data/fintech-terms-glossary.json" >}
+{{< terms "/assets/data/fintech-terms-glossary.json" >}}
