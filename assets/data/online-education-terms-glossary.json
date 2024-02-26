@@ -1,0 +1,430 @@
+[
+    {
+        "word": "Blended Learning",
+        "description": "Blended Learning is an approach that combines traditional face-to-face instruction with online learning activities."
+    },
+    {
+        "word": "Synchronous Learning",
+        "description": "Synchronous Learning refers to online learning activities that occur in real-time, where students and instructors interact simultaneously."
+    },
+    {
+        "word": "Asynchronous Learning",
+        "description": "Asynchronous Learning refers to online learning activities that can be completed at different times, without the need for real-time interaction."
+    },
+    {
+        "word": "Learning Management System (Lms)",
+        "description": "A Learning Management System is a software application used to manage, deliver, and track online courses and educational content."
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamification is the use of game elements and game design techniques in educational environments to enhance engagement and motivation."
+    },
+    {
+        "word": "Virtual Classroom",
+        "description": "A Virtual Classroom is an online space where students and instructors can interact in real-time through video conferencing and collaboration tools."
+    },
+    {
+        "word": "Massive Open Online Course (Mooc)",
+        "description": "A Massive Open Online Course is an online course that is open to an unlimited number of participants and can be accessed by anyone with internet access."
+    },
+    {
+        "word": "Microlearning",
+        "description": "Microlearning involves delivering educational content in short, bite-sized modules, typically through multimedia formats."
+    },
+    {
+        "word": "Flipped Classroom",
+        "description": "Flipped Classroom is an instructional model where learners engage with learning materials and activities before class, and use class time for discussions and application."
+    },
+    {
+        "word": "Adaptive Learning",
+        "description": "Adaptive Learning uses technology to deliver personalized learning experiences that adapt to individual learner needs and progress."
+    },
+    {
+        "word": "Mobile Learning (M-Learning)",
+        "description": "Mobile Learning, also known as m-learning, refers to the use of mobile devices to access educational resources and participate in learning activities."
+    },
+    {
+        "word": "Learner Analytics",
+        "description": "Learner analytics involves the collection and analysis of data on learners' behavior and performance to improve the effectiveness of online education."
+    },
+    {
+        "word": "Personal Learning Network (Pln)",
+        "description": "Personal Learning Network (PLN) is a network of individuals, resources, and connections that learners use to support their learning and professional development."
+    },
+    {
+        "word": "Online Discussion Forum",
+        "description": "An online discussion forum is a platform where learners can engage in asynchronous discussions on course-related topics."
+    },
+    {
+        "word": "Video Lecture",
+        "description": "A video lecture is a recorded lecture or presentation that can be accessed online."
+    },
+    {
+        "word": "Peer Assessment",
+        "description": "Peer Assessment involves learners evaluating and providing feedback on the work and performance of their peers, fostering a collaborative learning environment."
+    },
+    {
+        "word": "Online Assessment",
+        "description": "Online Assessment is the process of evaluating learners' knowledge, skills, and abilities using digital tools and platforms."
+    },
+    {
+        "word": "E-Learning",
+        "description": "E-learning, or electronic learning, refers to the use of electronic devices and digital platforms for delivering educational content and courses."
+    },
+    {
+        "word": "Open Educational Resources (Oer)",
+        "description": "Open Educational Resources are freely accessible learning materials that can be used, shared, and modified to support teaching and learning."
+    },
+    {
+        "word": "Self-Paced Learning",
+        "description": "Self-paced Learning allows learners to set their own learning speed and progress through the course materials at their own convenience."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual Reality is a technology that simulates a computer-generated environment, providing users with an immersive, interactive experience."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality is a technology that overlays digital information and virtual objects onto the real world, enhancing the user's perception and interaction."
+    },
+    {
+        "word": "Remote Proctoring",
+        "description": "Remote Proctoring is a method of monitoring online exams to prevent cheating, using video surveillance and analytics to ensure exam integrity."
+    },
+    {
+        "word": "Online Collaboration",
+        "description": "Online Collaboration involves working together with others on projects, assignments, or activities using digital tools and platforms."
+    },
+    {
+        "word": "Discussion Board",
+        "description": "Discussion Board is an online space where learners can post and respond to messages, fostering asynchronous communication and collaboration."
+    },
+    {
+        "word": "Online Tutoring",
+        "description": "Online Tutoring is the provision of academic support and guidance to learners remotely, typically through video conferencing and virtual whiteboard tools."
+    },
+    {
+        "word": "Courseware",
+        "description": "Courseware refers to the educational content and materials used in an online course, including textbooks, presentations, videos, and interactive activities."
+    },
+    {
+        "word": "Interactive Multimedia",
+        "description": "Interactive Multimedia refers to digital media elements, such as videos, animations, and simulations, that allow learners to actively engage and interact with the content."
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "A virtual assistant is an AI-powered tool or chatbot that provides automated assistance and support to learners."
+    },
+    {
+        "word": "Learning Analytics",
+        "description": "Learning Analytics involves the collection, analysis, and interpretation of data generated during the learning process to gain insights into learner behavior and improve educational outcomes."
+    },
+    {
+        "word": "Online Collaboration Tools",
+        "description": "Online collaboration tools facilitate communication, file sharing, and project management among learners and instructors."
+    },
+    {
+        "word": "Course Design",
+        "description": "Course design is the process of planning and organizing the content, activities, and assessments for an online course."
+    },
+    {
+        "word": "Continuous Assessment",
+        "description": "Continuous assessment involves the ongoing evaluation of learners' progress and performance throughout an online course."
+    },
+    {
+        "word": "Instructional Design",
+        "description": "Instructional Design is the systematic process of designing and developing instructional materials and experiences to facilitate effective learning."
+    },
+    {
+        "word": "Online Learning Community",
+        "description": "An online learning community is a virtual space where learners and instructors can connect, collaborate, and support each other."
+    },
+    {
+        "word": "Learning Objectives",
+        "description": "Learning Objectives are specific statements that describe what learners should be able to know, do, or understand after completing a learning activity or course."
+    },
+    {
+        "word": "Accessible Design",
+        "description": "Accessible design refers to the practice of creating online courses and content that are usable and accessible to all learners."
+    },
+    {
+        "word": "Open Source Software (Oss)",
+        "description": "Open source software is software with source code that is freely available and can be modified and distributed by users."
+    },
+    {
+        "word": "Virtual Laboratory",
+        "description": "A virtual laboratory is a simulated environment where learners can conduct experiments, make observations, and analyze data."
+    },
+    {
+        "word": "Online Portfolio",
+        "description": "An Online Portfolio is a digital collection of a learner's work, projects, and achievements, often used to showcase skills and experiences."
+    },
+    {
+        "word": "Social Learning",
+        "description": "Social Learning is an approach that emphasizes learning through observing, imitating, and interacting with others, both online and offline."
+    },
+    {
+        "word": "Online Learning Platform",
+        "description": "An online learning platform is a web-based system or software that hosts and delivers online courses and educational materials."
+    },
+    {
+        "word": "Badges",
+        "description": "Badges are digital credentials that represent achievements, skills, or knowledge earned by learners in an online course."
+    },
+    {
+        "word": "E-Portfolio",
+        "description": "E-Portfolio is a digital collection of learners' work, achievements, and reflections, showcasing their skills, knowledge, and growth."
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive design refers to the design of online courses and platforms that adapt and display properly on different devices and screen sizes."
+    },
+    {
+        "word": "Course Completion Rate",
+        "description": "Course Completion Rate is a metric that measures the percentage of enrolled learners who successfully complete an online course."
+    },
+    {
+        "word": "Discussion Moderator",
+        "description": "A discussion moderator is a person responsible for managing and facilitating online discussions within a learning community."
+    },
+    {
+        "word": "Learner Engagement",
+        "description": "Learner engagement refers to the level of interest, motivation, and active participation of learners in an online course or activity."
+    },
+    {
+        "word": "Instructional Videos",
+        "description": "Instructional Videos are videos that provide step-by-step instructions or demonstrations of specific concepts or skills, often used in online courses."
+    },
+    {
+        "word": "Personalized Learning",
+        "description": "Personalized Learning refers to the customization of educational experiences to meet individual learner needs, preferences, and pace."
+    },
+    {
+        "word": "Virtual Field Trip",
+        "description": "A virtual field trip is a simulated journey that allows learners to explore places and environments through immersive technology."
+    },
+    {
+        "word": "Online Office Hours",
+        "description": "Online office hours are scheduled times when instructors are available online to answer questions and provide support to learners."
+    },
+    {
+        "word": "Intelligent Tutoring System (Its)",
+        "description": "An intelligent tutoring system is a computer-based tool that provides personalized instruction and feedback to learners."
+    },
+    {
+        "word": "Retention Rate",
+        "description": "Retention Rate is a metric that measures the percentage of learners who continue or return to an online course after the initial enrollment."
+    },
+    {
+        "word": "Peer-To-Peer Learning",
+        "description": "Peer-to-peer Learning is an instructional approach where learners collaborate and learn from each other, sharing knowledge and experiences."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data Privacy involves protecting the personal information and data of learners, ensuring that it is collected, stored, and used in a secure and ethical manner."
+    },
+    {
+        "word": "Course Accreditation",
+        "description": "Course accreditation is the process of obtaining official recognition and approval for an online course or program."
+    },
+    {
+        "word": "Microcredentials",
+        "description": "Microcredentials are small, focused units of learning that can be earned and recognized for specific skills or knowledge areas."
+    },
+    {
+        "word": "Learning Pathway",
+        "description": "A learning pathway is a structured sequence of courses and resources that guide learners' progress and enable them to achieve specific learning goals."
+    },
+    {
+        "word": "Online Education",
+        "description": "Online Education refers to the process of delivering educational content and courses via the internet."
+    },
+    {
+        "word": "Lms",
+        "description": "Learning Management System (LMS) is a software application that supports the administration, delivery, and tracking of online courses."
+    },
+    {
+        "word": "Mooc",
+        "description": "Massive Open Online Course (MOOC) is a type of online course that is open to a large number of participants from around the world."
+    },
+    {
+        "word": "Webinar",
+        "description": "Webinar is a web-based seminar or presentation conducted over the internet, allowing participants to join remotely and interact with the presenter."
+    },
+    {
+        "word": "Digital Citizenship",
+        "description": "Digital Citizenship refers to the responsible and ethical use of digital technologies, including online communication, privacy, and respecting intellectual property."
+    },
+    {
+        "word": "Chunking",
+        "description": "Chunking is the practice of breaking down large amounts of information into smaller, more manageable pieces to enhance learning and retention."
+    },
+    {
+        "word": "Discussion Forum",
+        "description": "Discussion Forum is an online platform where learners can exchange ideas, ask questions, and engage in discussions with instructors and peers."
+    },
+    {
+        "word": "Social Presence",
+        "description": "Social Presence refers to the degree to which learners perceive and experience a sense of connection, community, and interaction in online learning environments."
+    },
+    {
+        "word": "Accessibility",
+        "description": "Accessibility in online education refers to designing and delivering courses and materials that are user-friendly and can be accessed by learners with disabilities."
+    },
+    {
+        "word": "Course Content",
+        "description": "Course Content refers to the educational materials, resources, and activities provided to learners as part of an online course."
+    },
+    {
+        "word": "Engagement",
+        "description": "Engagement in online education refers to the level of participation, interaction, and interest displayed by learners in the learning process."
+    },
+    {
+        "word": "Retention",
+        "description": "Retention in online education refers to the ability of learners to remember and apply what they have learned over time."
+    },
+    {
+        "word": "Online Degree",
+        "description": "Online Degree is an academic degree that is obtained through online education, where learners complete courses and requirements remotely."
+    },
+    {
+        "word": "Instructor-Led",
+        "description": "Instructor-Led refers to online courses and learning experiences that are facilitated, guided, or taught by an instructor."
+    },
+    {
+        "word": "Microcredential",
+        "description": "Microcredential is a short, focused learning program that is typically completed online and provides recognition for acquiring specific skills or knowledge."
+    },
+    {
+        "word": "Digital Literacy",
+        "description": "Digital Literacy is the ability to use digital technologies effectively and responsibly to find, evaluate, create, and communicate information."
+    },
+    {
+        "word": "Mobile Learning",
+        "description": "Mobile Learning (m-learning) is a form of online education that takes place on portable devices, such as smartphones and tablets."
+    },
+    {
+        "word": "Hybrid Learning",
+        "description": "Hybrid Learning combines both online and face-to-face instruction, blending traditional classroom teaching with digital learning activities."
+    },
+    {
+        "word": "Course Management",
+        "description": "Course Management refers to the administration and organization of online courses, including enrollment, access control, and logistical arrangements."
+    },
+    {
+        "word": "Cooperative Learning",
+        "description": "Cooperative Learning is an instructional approach that involves learners working together in groups to achieve a common learning goal."
+    },
+    {
+        "word": "Rubric",
+        "description": "Rubric is a scoring guide or set of criteria used to assess and evaluate learners' performance on assignments, projects, or assessments."
+    },
+    {
+        "word": "Screencasting",
+        "description": "Screencasting is the process of recording and sharing a digital video or demonstration of a computer screen, often used for tutorial or instructional purposes."
+    },
+    {
+        "word": "Course Evaluation",
+        "description": "Course Evaluation is the process of gathering feedback and opinions from learners about their learning experience, instructor effectiveness, and course quality."
+    },
+    {
+        "word": "Video Conferencing",
+        "description": "Video Conferencing is a communication technology that enables real-time audio and video interaction between multiple participants located in different places."
+    },
+    {
+        "word": "Instructional Video",
+        "description": "Instructional Video is a video that demonstrates or provides instructions on a particular topic or skill, often used for teaching and learning purposes."
+    },
+    {
+        "word": "Feedback",
+        "description": "Feedback in online education refers to providing learners with information, comments, or suggestions on their work, performance, or progress."
+    },
+    {
+        "word": "Scaffolding",
+        "description": "Scaffolding is a support system or framework that helps learners build upon their existing knowledge and skills to achieve a higher level of understanding."
+    },
+    {
+        "word": "Distance Learning",
+        "description": "Distance Learning is a type of education where students and instructors are separated by geographical distance, and instruction is delivered remotely."
+    },
+    {
+        "word": "Video Lectures",
+        "description": "Video Lectures are recorded lectures or instructional videos that can be accessed online, offering a flexible and visual learning experience."
+    },
+    {
+        "word": "Discussion Forums",
+        "description": "Discussion Forums are online platforms where learners can engage in discussions, ask questions, and share ideas and experiences with peers and instructors."
+    },
+    {
+        "word": "Online Assessments",
+        "description": "Online Assessments refer to the evaluation of learners' knowledge and skills through digital quizzes, tests, and assignments."
+    },
+    {
+        "word": "Learning Community",
+        "description": "A Learning Community is a group of individuals who come together to learn, share knowledge, and support each other's educational goals, often facilitated through online platforms."
+    },
+    {
+        "word": "Copyright",
+        "description": "Copyright refers to the legal rights granted to the creator of an original work, ensuring that they have exclusive control over its use and distribution."
+    },
+    {
+        "word": "Plagiarism",
+        "description": "Plagiarism is the act of using someone else's work, ideas, or words without proper attribution, presenting them as one's own."
+    },
+    {
+        "word": "Online Course Design",
+        "description": "Online Course Design involves planning, organizing, and structuring the content and activities of an online course to facilitate effective learning experiences."
+    },
+    {
+        "word": "Quality Assurance",
+        "description": "Quality Assurance in online education refers to the processes and procedures put in place to ensure that the delivery and assessment of educational programs meet predetermined standards."
+    },
+    {
+        "word": "Technical Support",
+        "description": "Technical Support provides assistance and troubleshooting for technical issues learners may encounter while accessing online courses or using digital tools."
+    },
+    {
+        "word": "Learning Outcomes",
+        "description": "Learning Outcomes are specific statements that describe what learners should be able to do or know after completing a course or educational program."
+    },
+    {
+        "word": "Collaborative Learning",
+        "description": "Collaborative Learning is an instructional approach that encourages learners to work together in groups or teams to solve problems, share ideas, and construct knowledge."
+    },
+    {
+        "word": "Accessibility Tools",
+        "description": "Accessibility Tools are software or features designed to assist learners with disabilities in accessing and interacting with online educational content."
+    },
+    {
+        "word": "Online Certification",
+        "description": "Online Certification is the process of earning a certificate or credential for completing a specific online course or program."
+    },
+    {
+        "word": "Professional Development",
+        "description": "Professional Development refers to ongoing learning and skill development for professionals working in the field of online education."
+    },
+    {
+        "word": "Open Courseware",
+        "description": "Open Courseware refers to freely accessible educational content, including lectures, notes, and assignments, that can be used for self-study or incorporated into courses."
+    },
+    {
+        "word": "Pedagogy",
+        "description": "Pedagogy refers to the theory and practice of teaching and education, encompassing instructional methods, strategies, and approaches."
+    },
+    {
+        "word": "Andragogy",
+        "description": "Andragogy is the theory and practice of teaching adult learners, emphasizing self-directed and experiential learning."
+    },
+    {
+        "word": "Curriculum",
+        "description": "Curriculum refers to the planned and structured educational content and activities designed to achieve specific learning objectives."
+    },
+    {
+        "word": "Retention Strategies",
+        "description": "Retention Strategies are proactive measures and interventions implemented to increase learner engagement and reduce dropout rates in online courses."
+    },
+    {
+        "word": "Student Success",
+        "description": "Student Success in online education refers to the achievement of positive educational outcomes and the overall satisfaction and progress of learners."
+    }
+]
