@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Drone",
+        "description": "A drone, also known as an unmanned aerial vehicle (UAV), is an aircraft that is operated without a pilot on board. Drones are typically controlled remotely or autonomously."
+    },
+    {
+        "word": "Quadcopter",
+        "description": "A quadcopter is a type of drone that is powered by four rotors. This configuration provides stability and maneuverability."
+    },
+    {
+        "word": "Hexacopter",
+        "description": "A hexacopter is a type of drone that is powered by six rotors. This configuration provides increased lifting power and redundancy compared to quadcopters."
+    },
+    {
+        "word": "Octocopter",
+        "description": "An octocopter is a type of drone that has eight rotors."
+    },
+    {
+        "word": "Fixed-Wing",
+        "description": "A fixed-wing drone is a type of drone that has a fixed wing and requires forward movement to generate lift."
+    },
+    {
+        "word": "Payload",
+        "description": "The payload of a drone refers to any additional equipment or weight that the drone carries, such as cameras, sensors, or delivery packages."
+    },
+    {
+        "word": "Fpv",
+        "description": "FPV stands for First Person View, which refers to the ability to fly a drone as if you were inside it, using a live video feed from an onboard camera."
+    },
+    {
+        "word": "Gps",
+        "description": "GPS stands for Global Positioning System, which is a satellite-based navigation system that provides location and time information."
+    },
+    {
+        "word": "Altitude Hold",
+        "description": "Altitude hold is a feature in drones that allows them to maintain a specific altitude without input from the pilot."
+    },
+    {
+        "word": "Return To Home",
+        "description": "Return to home is a feature that allows a drone to automatically fly back to its takeoff location."
+    },
+    {
+        "word": "Obstacle Avoidance",
+        "description": "Obstacle avoidance is a capability of some drones to detect and navigate around obstacles in their flight path, using sensors and software algorithms."
+    },
+    {
+        "word": "Waypoint",
+        "description": "A waypoint is a predetermined point or location that a drone can be programmed to fly to."
+    },
+    {
+        "word": "Telemetry",
+        "description": "Telemetry refers to the collection and transmission of data from a drone to a ground station or controller, such as battery voltage, speed, and GPS coordinates."
+    },
+    {
+        "word": "Battery Life",
+        "description": "Battery life refers to the duration for which a drone can fly on a single battery charge."
+    },
+    {
+        "word": "Brushless Motors",
+        "description": "Brushless motors are electric motors used in drones that do not have brushes for commutation. They are more efficient, reliable, and durable compared to brushed motors."
+    },
+    {
+        "word": "Gimbal",
+        "description": "A gimbal is a mechanical device that stabilizes and keeps the camera or sensor attached to a drone level and steady during flight, reducing vibrations and ensuring smooth footage."
+    },
+    {
+        "word": "Rth",
+        "description": "RTH (Return to Home) is a feature that allows a drone to automatically fly back to its takeoff location."
+    },
+    {
+        "word": "Follow Me Mode",
+        "description": "Follow Me mode is a feature of some drones that allows them to autonomously track and follow a target, typically using GPS or visual recognition."
+    },
+    {
+        "word": "Obstacle Detection",
+        "description": "Obstacle detection refers to the ability of a drone to detect obstacles in its flight path."
+    },
+    {
+        "word": "Path Planning",
+        "description": "Path planning is the process of determining the optimal path for a drone to navigate from its current location to a target location."
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "Collision avoidance is a capability of drones to detect and avoid collisions with both static and moving objects using sensors, algorithms, and real-time decision-making."
+    },
+    {
+        "word": "Photogrammetry",
+        "description": "Photogrammetry is a technique used by drones to create maps, models, and measurements of the Earth's surface by capturing and analyzing aerial photographs."
+    },
+    {
+        "word": "Lidar",
+        "description": "LiDAR stands for Light Detection and Ranging, which is a remote sensing technology that uses lasers to measure distances and create detailed 3D maps of environments."
+    },
+    {
+        "word": "Thermal Imaging",
+        "description": "Thermal imaging is the process of capturing and analyzing the heat emitted by objects or environments using infrared cameras mounted on drones."
+    },
+    {
+        "word": "Remote Controller",
+        "description": "A remote controller is a handheld device used to control a drone's flight."
+    },
+    {
+        "word": "Autonomous Flight",
+        "description": "Autonomous flight refers to a mode of operation in which a drone can fly and navigate without direct human control."
+    },
+    {
+        "word": "Remote Sensing",
+        "description": "Remote sensing is the process of acquiring information about the Earth's surface or an object without direct physical contact, typically using sensors mounted on drones."
+    },
+    {
+        "word": "Lipo Battery",
+        "description": "LiPo stands for Lithium Polymer, which is a type of battery commonly used in drones due to its high energy density, lightweight, and high discharge rates."
+    },
+    {
+        "word": "Brushed Motors",
+        "description": "Brushed motors are electric motors used in drones that have brushes for commutation. They are less expensive but generally less efficient and durable than brushless motors."
+    },
+    {
+        "word": "Attitude Control",
+        "description": "Attitude control is the ability of a drone to control its orientation or attitude in the air."
+    },
+    {
+        "word": "Aerial Photography",
+        "description": "Aerial photography is the practice of capturing images or video from a drone in the air."
+    },
+    {
+        "word": "Aerial Videography",
+        "description": "Aerial videography refers to the process of recording videos from an elevated position, typically using a drone."
+    },
+    {
+        "word": "Flight Controller",
+        "description": "A flight controller is the main control unit of a drone, responsible for receiving inputs from the pilot or autonomous system and controlling the drone's motors and other components."
+    },
+    {
+        "word": "Obstacle Mapping",
+        "description": "Obstacle mapping is the process of using a drone to create a map or model of the surrounding environment, including obstacles."
+    },
+    {
+        "word": "Geo-Fencing",
+        "description": "Geo-fencing is a virtual boundary used to restrict a drone's flying area."
+    },
+    {
+        "word": "Image Stabilization",
+        "description": "Image stabilization is a feature that helps to reduce blurring and shake in photos or videos captured by a drone."
+    },
+    {
+        "word": "Real-Time Video Streaming",
+        "description": "Real-time video streaming is the transmission of live video footage from a drone to a ground station or other devices."
+    },
+    {
+        "word": "Air Traffic Management",
+        "description": "Air traffic management refers to the systems and procedures used to manage and control the movement of drones in airspace."
+    },
+    {
+        "word": "Swarm",
+        "description": "A swarm refers to a group or fleet of drones that operates together in a coordinated manner, often controlled by a central system or software."
+    },
+    {
+        "word": "Remote Identification",
+        "description": "Remote identification is a requirement for drones to broadcast identifying information, such as the drone's location and registration number, to facilitate identification and tracking."
+    },
+    {
+        "word": "Photovoltaic Cells",
+        "description": "Photovoltaic cells, also known as solar cells, are devices that convert sunlight into electrical energy."
+    },
+    {
+        "word": "Anti-Collision Lights",
+        "description": "Anti-collision lights are lights on a drone that help improve its visibility and reduce the risk of collisions with other aircraft."
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "Haptic feedback is a tactile feedback or vibration provided by a drone's remote controller to the pilot, enhancing situational awareness and control."
+    },
+    {
+        "word": "Lidar Scanning",
+        "description": "LiDAR scanning is the use of LiDAR technology to generate detailed three-dimensional maps or models of the environment."
+    },
+    {
+        "word": "Geo-Tagging",
+        "description": "Geo-tagging is the process of adding geographical information, such as coordinates or location names, to media files captured by a drone."
+    },
+    {
+        "word": "Flight Planning Software",
+        "description": "Flight planning software is computer software that helps drone pilots plan and optimize their flight routes and missions."
+    },
+    {
+        "word": "Payload Capacity",
+        "description": "Payload capacity refers to the maximum weight a drone can carry, including the weight of additional equipment or cargo."
+    },
+    {
+        "word": "Sense And Avoid",
+        "description": "Sense and Avoid is a concept and technology that enables drones to detect and avoid collisions with other objects or aircraft in their vicinity."
+    },
+    {
+        "word": "Uav Regulations",
+        "description": "UAV regulations are rules and guidelines set by aviation authorities that govern the operation of drones in a specific region."
+    },
+    {
+        "word": "Batteries Charging Station",
+        "description": "A batteries charging station is a device used to simultaneously charge multiple drone batteries."
+    },
+    {
+        "word": "Geospatial Mapping",
+        "description": "Geospatial mapping is the process of capturing, analyzing, and visualizing geographic data to create maps or models."
+    },
+    {
+        "word": "Payload Release Mechanism",
+        "description": "A payload release mechanism is a device on a drone that allows for the controlled release of objects or payloads."
+    },
+    {
+        "word": "Ground Control Station",
+        "description": "A ground control station is a system or station used to control and monitor the operation of a drone, including flight planning, data analysis, and real-time video feeds."
+    },
+    {
+        "word": "Point Of Interest",
+        "description": "Point of interest is a feature in drones that allows them to automatically circle or orbit around a specific location."
+    },
+    {
+        "word": "Aerodynamics",
+        "description": "Aerodynamics is the study of the motion of air and the forces acting on objects moving through it, such as drones."
+    },
+    {
+        "word": "Counter-Drone Systems",
+        "description": "Counter-drone systems are devices or technologies used to detect, track, and mitigate the risks posed by unauthorized drones."
+    },
+    {
+        "word": "Gis",
+        "description": "GIS stands for Geographic Information System, which is a system for capturing, storing, analyzing, and managing geographic data."
+    },
+    {
+        "word": "Autonomous",
+        "description": "Autonomous refers to the ability of a drone to operate and make decisions without direct human control. Autonomous drones can perform tasks and missions based on pre-programmed instructions or artificial intelligence."
+    },
+    {
+        "word": "Altitude",
+        "description": "Altitude is the height above a reference point, such as sea level. Drones can measure and maintain altitude using various sensors and systems."
+    },
+    {
+        "word": "Lipo",
+        "description": "LiPo (Lithium Polymer) batteries are commonly used in drones due to their high energy density and light weight."
+    },
+    {
+        "word": "Waypoints",
+        "description": "Waypoints are specific geographic coordinates or locations that a drone can be programmed to follow during a flight mission. They are used for route planning and navigation."
+    },
+    {
+        "word": "Pid Controller",
+        "description": "A PID (Proportional-Integral-Derivative) controller is used to adjust and stabilize a drone's flight."
+    },
+    {
+        "word": "Hovering",
+        "description": "Hovering is the ability of a drone to remain at a fixed position in the air."
+    },
+    {
+        "word": "Drone Racing",
+        "description": "Drone racing is a sport in which participants pilot and race drones through a predefined course, often using first-person view (FPV) goggles."
+    },
+    {
+        "word": "Drone Swarming",
+        "description": "Drone swarming is the coordinated operation of multiple drones to perform a task."
+    },
+    {
+        "word": "Multirotor",
+        "description": "A multirotor drone is a type of drone that is powered by multiple rotors, usually more than four."
+    },
+    {
+        "word": "Li-Ion",
+        "description": "Li-ion (Lithium-ion) batteries are commonly used in drones for their high energy density and stability."
+    },
+    {
+        "word": "Flight Time",
+        "description": "Flight time refers to the total duration a drone can stay airborne before its battery is depleted."
+    },
+    {
+        "word": "Fixed Wing",
+        "description": "Fixed wing drones are designed like airplanes, with wings and a single propeller for forward flight."
+    },
+    {
+        "word": "Imu",
+        "description": "IMU stands for Inertial Measurement Unit, which is a sensor module that combines accelerometers, gyroscopes, and sometimes magnetometers to measure and track the drone's orientation, velocity, and acceleration."
+    },
+    {
+        "word": "Ground Station",
+        "description": "A ground station is a physical location or system from which a drone is controlled and monitored, typically consisting of a computer, communication equipment, and control interface."
+    },
+    {
+        "word": "Lihv",
+        "description": "LiHV (High Voltage Lithium Polymer) batteries offer higher voltage and energy compared to regular LiPo batteries."
+    },
+    {
+        "word": "Camera Gimbal",
+        "description": "A camera gimbal is a device that stabilizes the camera mounted on a drone to produce smooth footage."
+    },
+    {
+        "word": "Photography Drone",
+        "description": "A photography drone is a type of drone specifically designed for capturing high-quality aerial photographs and videos."
+    },
+    {
+        "word": "Panorama",
+        "description": "A panorama is a wide-angle view or representation of a scene captured by a drone."
+    },
+    {
+        "word": "Terrain Following",
+        "description": "Terrain following allows a drone to maintain a consistent altitude above the ground, irrespective of its height variations."
+    },
+    {
+        "word": "Fpv Racing",
+        "description": "FPV racing is a competitive sport where pilots race their drones using FPV goggles."
+    },
+    {
+        "word": "Fail-Safe",
+        "description": "Fail-safe is a feature that allows a drone to automatically take a predetermined action in case of signal loss or other emergencies."
+    },
+    {
+        "word": "Mavic",
+        "description": "Mavic is a popular series of consumer drones manufactured by DJI."
+    },
+    {
+        "word": "Three-Axis Gimbal",
+        "description": "A three-axis gimbal is a stabilization device that can rotate the camera on three different axes for smooth footage."
+    },
+    {
+        "word": "Range",
+        "description": "The range of a drone refers to the maximum distance it can be flown from the pilot or ground station while maintaining a stable and reliable connection."
+    },
+    {
+        "word": "Sensors",
+        "description": "Sensors are electronic devices used in drones to detect and measure physical quantities, such as altitude, speed, temperature, and proximity to objects, enabling the drone to perceive and interact with its environment."
+    },
+    {
+        "word": "Bvr",
+        "description": "BVR stands for Beyond Visual Range, which refers to the ability of a drone to operate beyond the visual line of sight of the pilot or operator."
+    },
+    {
+        "word": "Microdrone",
+        "description": "A microdrone is a small-sized drone, typically weighing less than 1 kilogram. They are often used for indoor or close-range applications."
+    },
+    {
+        "word": "Remote Control",
+        "description": "Remote control is a method of controlling a drone from a distance using a handheld transmitter or controller, usually through radio frequency or wireless communication."
+    },
+    {
+        "word": "Li-Ion Battery",
+        "description": "Li-ion stands for Lithium-ion, which is another type of battery used in drones. Li-ion batteries have a lower energy density compared to LiPo batteries but are more stable and have a longer lifespan."
+    },
+    {
+        "word": "Transmitter",
+        "description": "A transmitter is a device used to send control signals from the pilot or operator to the drone, usually through radio frequency or wireless communication."
+    },
+    {
+        "word": "Thrust",
+        "description": "Thrust is the force that propels a drone forward or upward, generated by the drone's motors and propellers."
+    },
+    {
+        "word": "Rtk",
+        "description": "RTK stands for Real-Time Kinematic, which is a positioning technique that uses a GPS receiver and a base station to provide accurate and precise positioning data for drones."
+    },
+    {
+        "word": "Aerial Mapping",
+        "description": "Aerial mapping is the process of creating maps or 3D models of large areas or landscapes using imagery captured by drones."
+    },
+    {
+        "word": "Lidar Sensor",
+        "description": "A LiDar sensor is a type of sensor that uses LiDAR technology to measure distances and create detailed 3D maps of the environment."
+    },
+    {
+        "word": "Yaw",
+        "description": "Yaw is a rotational movement of a drone around its vertical axis, causing the nose of the drone to turn left or right."
+    },
+    {
+        "word": "Hobbyist Drone",
+        "description": "A hobbyist drone is a type of drone used primarily for recreational purposes, such as flying for fun or aerial photography as a hobby."
+    },
+    {
+        "word": "Collision-Tolerant",
+        "description": "Collision-tolerant refers to the ability of a drone to withstand collisions or impacts without significant damage to its structure or functionality."
+    },
+    {
+        "word": "Ground Station Software",
+        "description": "Ground station software is computer software used to control and monitor the operation of a drone, including flight planning, mission execution, and data analysis."
+    },
+    {
+        "word": "Sense And Avoid System",
+        "description": "A sense and avoid system is a combination of sensors, software, and algorithms that enable drones to detect and avoid obstacles or other aircraft in their flight paths."
+    },
+    {
+        "word": "Hexrotor",
+        "description": "A hexrotor is a type of drone that is powered by six rotors arranged in a symmetric hexagonal configuration."
+    },
+    {
+        "word": "Microcontroller",
+        "description": "A microcontroller is a small computer on a single integrated circuit (IC) that is used to control and manage the operation of various components and subsystems in a drone."
+    },
+    {
+        "word": "Multispectral Imaging",
+        "description": "Multispectral imaging is the process of capturing and analyzing images in multiple bands of the electromagnetic spectrum using specialized sensors on drones."
+    },
+    {
+        "word": "Orbit Mode",
+        "description": "Orbit mode is a flight mode of some drones in which the drone autonomously flies in a circular path around a designated point of interest."
+    },
+    {
+        "word": "Firmware",
+        "description": "Firmware is the software that is embedded in the hardware of a drone, controlling its operation and behavior."
+    },
+    {
+        "word": "Emergency Parachute",
+        "description": "An emergency parachute is a safety device that can be deployed to slow down or stabilize a drone in case of an emergency or critical failure."
+    },
+    {
+        "word": "Thrust-To-Weight Ratio",
+        "description": "Thrust-to-weight ratio is a measure of the propulsion efficiency of a drone, calculated by dividing the maximum thrust it can generate by its weight."
+    },
+    {
+        "word": "Wireless Communication",
+        "description": "Wireless communication refers to the transmission of information between devices over radio frequency or other wireless technologies, enabling communication between drones and ground-based systems."
+    },
+    {
+        "word": "Collision Mitigation",
+        "description": "Collision mitigation refers to the actions or systems implemented to reduce the likelihood or impact of collisions between drones and other objects or aircraft."
+    },
+    {
+        "word": "Drone Delivery",
+        "description": "Drone delivery is the use of drones to transport and deliver packages, goods, or other items to remote or hard-to-reach locations."
+    },
+    {
+        "word": "Ducted Fan",
+        "description": "A ducted fan is a propulsion system used in some drones, consisting of a fan enclosed within a duct or shroud, which improves efficiency, control, and safety."
+    },
+    {
+        "word": "Multi-Sensor Fusion",
+        "description": "Multi-sensor fusion is the process of combining data from multiple sensors, such as cameras, LiDAR, and GPS, to enhance perception, navigation, and awareness for drones."
+    },
+    {
+        "word": "Drone Regulations",
+        "description": "Drone regulations are the rules, laws, and guidelines imposed by government authorities to regulate the operation and use of drones, ensuring safety, privacy, and compliance with airspace regulations."
+    }
+]
