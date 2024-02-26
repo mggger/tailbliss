@@ -1,0 +1,482 @@
+[
+    {
+        "word": "Telehealth",
+        "description": "Telehealth is the use of technology to provide healthcare services remotely, allowing patients to consult with healthcare professionals through virtual means."
+    },
+    {
+        "word": "Telemedicine",
+        "description": "Telemedicine is a subset of telehealth that specifically refers to remote clinical services, such as consultations and diagnoses, provided through telecommunication technology."
+    },
+    {
+        "word": "Virtual Visits",
+        "description": "Virtual visits are telehealth consultations or appointments that take place remotely, allowing patients and healthcare professionals to interact and exchange health information through video calls or other digital means."
+    },
+    {
+        "word": "Remote Patient Monitoring",
+        "description": "Remote patient monitoring involves the use of technology to collect patient data outside of traditional healthcare settings."
+    },
+    {
+        "word": "Teleconsultation",
+        "description": "Teleconsultation is the provision of medical consultations remotely, using telecommunication tools, allowing patients to receive healthcare advice without visiting a physical clinic."
+    },
+    {
+        "word": "Teletriage",
+        "description": "Teletriage is the process of determining the urgency and appropriate level of care for patients remotely, usually through telephone or digital communication, based on their symptoms or medical history."
+    },
+    {
+        "word": "Synchronous Communication",
+        "description": "Synchronous communication refers to real-time communication where all participants are actively involved at the same time, such as video conferences or live chats."
+    },
+    {
+        "word": "Asynchronous Communication",
+        "description": "Asynchronous communication refers to communication that does not happen in real-time, allowing participants to communicate at their own convenience without requiring simultaneous interaction."
+    },
+    {
+        "word": "Store-And-Forward",
+        "description": "Store-and-forward is a telehealth method where patient data, such as medical images or test results, are captured and transmitted to healthcare professionals for later review and analysis."
+    },
+    {
+        "word": "Remote Prescription",
+        "description": "Remote prescription is the process of issuing medication prescriptions to patients without an in-person consultation, through telecommunication means."
+    },
+    {
+        "word": "E-Health",
+        "description": "E-Health is the use of electronic means to support the delivery of healthcare services and information."
+    },
+    {
+        "word": "Telepharmacy",
+        "description": "Telepharmacy is the provision of pharmacy services remotely, allowing patients to consult with pharmacists through telecommunication means, including medication counseling and prescription dispensing."
+    },
+    {
+        "word": "Digital Health",
+        "description": "Digital health refers to the use of digital technologies and devices to manage and improve health and healthcare."
+    },
+    {
+        "word": "Telemonitoring",
+        "description": "Telemonitoring is the continuous remote monitoring of patients' health conditions through the use of medical devices, such as wearable sensors or home monitoring systems, allowing early identification of potential issues."
+    },
+    {
+        "word": "Telestroke",
+        "description": "Telestroke is a telemedicine service that enables remote assessment and treatment of stroke patients by connecting neurologists to patients in different locations, reducing response time and improving outcomes."
+    },
+    {
+        "word": "Telepsychiatry",
+        "description": "Telepsychiatry is the delivery of psychiatric assessments and treatments remotely using videoconferencing technology."
+    },
+    {
+        "word": "Mhealth",
+        "description": "mHealth, or mobile health, refers to the use of mobile devices, such as smartphones or tablets, to support healthcare services, including health education, remote monitoring, and medication reminders."
+    },
+    {
+        "word": "Health Information Exchange (Hie)",
+        "description": "Health Information Exchange (HIE) is the electronic sharing of patient medical information between healthcare organizations."
+    },
+    {
+        "word": "Telephonic Outreach",
+        "description": "Telephonic outreach is the practice of reaching out to patients by phone for healthcare-related purposes."
+    },
+    {
+        "word": "Tele-Emergency",
+        "description": "Tele-Emergency is a telehealth service that connects emergency physicians with patients in remote locations for immediate care."
+    },
+    {
+        "word": "Telehealth Platform",
+        "description": "A telehealth platform is a digital software or system that supports the delivery of telehealth services, providing features such as video conferencing, patient record management, and remote patient monitoring."
+    },
+    {
+        "word": "Patient Portal",
+        "description": "A patient portal is a secure online platform that allows patients to access their medical records and communicate with healthcare providers."
+    },
+    {
+        "word": "Telephonic Triage",
+        "description": "Telephonic triage involves the remote assessment and categorization of patients' medical needs through telephone consultations."
+    },
+    {
+        "word": "Virtual Care",
+        "description": "Virtual care refers to the delivery of healthcare services through digital platforms and telecommunication technology."
+    },
+    {
+        "word": "Telehealth Network",
+        "description": "A telehealth network is a connected system of healthcare providers and facilities that collaborate to deliver telehealth services."
+    },
+    {
+        "word": "Teletrauma",
+        "description": "Teletrauma is a telemedicine service that enables remote evaluation and treatment of traumatic injuries."
+    },
+    {
+        "word": "E-Prescribing",
+        "description": "E-Prescribing is the electronic transmission of prescriptions from healthcare providers to pharmacies."
+    },
+    {
+        "word": "Telepathology",
+        "description": "Telepathology is the remote diagnosis of disease through the transmission of pathology images."
+    },
+    {
+        "word": "Teleaudiology",
+        "description": "Teleaudiology is the practice of providing audiology care and services remotely."
+    },
+    {
+        "word": "Telehealth Workflow",
+        "description": "Telehealth workflow is the sequence of tasks, processes, and interactions involved in delivering telehealth services, from scheduling and registration to virtual consultations, referrals, and follow-ups."
+    },
+    {
+        "word": "Remote Consultation",
+        "description": "Remote consultation is the process of seeking advice and treatment from healthcare providers remotely."
+    },
+    {
+        "word": "Teleophthalmology",
+        "description": "Teleophthalmology is the use of telecommunication technology for remote diagnosis and treatment of eye conditions."
+    },
+    {
+        "word": "Telephlebology",
+        "description": "Telephlebology is the remote diagnosis and treatment of vein-related conditions using telecommunication technology."
+    },
+    {
+        "word": "Teleoncology",
+        "description": "Teleoncology is the use of telecommunication technology to deliver cancer care and treatment remotely."
+    },
+    {
+        "word": "Telecardiology",
+        "description": "Telecardiology is the remote delivery of cardiology services and care using telecommunication technology."
+    },
+    {
+        "word": "Informed Consent",
+        "description": "Informed consent is the process of obtaining a patient's agreement for a medical intervention after informing them of risks and benefits."
+    },
+    {
+        "word": "Teleburn",
+        "description": "Teleburn is a telemedicine service that assists in the evaluation and management of burn injuries remotely."
+    },
+    {
+        "word": "Teleconciliation",
+        "description": "Teleconciliation is the remote diagnosis and management of medication-related issues using telecommunication technology."
+    },
+    {
+        "word": "Tele-Audiometry",
+        "description": "Tele-audiometry is a telemedicine service that allows for remote hearing testing and audiology services."
+    },
+    {
+        "word": "Evidence-Based Medicine",
+        "description": "Evidence-based medicine refers to medical practice that is based on research evidence and clinical expertise."
+    },
+    {
+        "word": "Teleintensivist",
+        "description": "Teleintensivist is a telemedicine service that provides critical care remotely to critically ill patients."
+    },
+    {
+        "word": "Secure Messaging",
+        "description": "Secure messaging is a communication method that ensures the privacy and security of healthcare-related messages."
+    },
+    {
+        "word": "Telepresence",
+        "description": "Telepresence refers to the use of technology to create a sense of presence and engagement during remote interactions."
+    },
+    {
+        "word": "Telepediatrics",
+        "description": "Telepediatrics is the delivery of pediatric healthcare services remotely using telecommunication technology."
+    },
+    {
+        "word": "Telemedicine Cart",
+        "description": "A telemedicine cart is a mobile unit that contains the necessary equipment for virtual healthcare consultations."
+    },
+    {
+        "word": "Remote Surgery",
+        "description": "Remote surgery, also known as telesurgery, is a type of surgery performed by a surgeon using robotic or remote-controlled systems."
+    },
+    {
+        "word": "Continuum Of Care",
+        "description": "Continuum of care refers to a comprehensive range of healthcare services delivered to patients across different levels of care."
+    },
+    {
+        "word": "Telewound",
+        "description": "Telewound is a telemedicine service that provides remote wound care and management."
+    },
+    {
+        "word": "Teleoccupational Therapy",
+        "description": "Teleoccupational therapy involves the delivery of occupational therapy services remotely using telecommunication technology."
+    },
+    {
+        "word": "Telemedicine Grant",
+        "description": "A telemedicine grant is a funding opportunity aimed at supporting the implementation and expansion of telehealth services."
+    },
+    {
+        "word": "Teledermatology",
+        "description": "Teledermatology is the remote diagnosis and treatment of skin conditions using telecommunication technology."
+    },
+    {
+        "word": "Teleicu",
+        "description": "TeleICU is a telemedicine service that provides intensive care coverage and support remotely."
+    },
+    {
+        "word": "Telehematology",
+        "description": "Telehematology is the use of telecommunication technology for remote diagnosis and treatment of blood-related conditions."
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote monitoring is the use of technology to collect patient data, such as vital signs, from a distance, and transmit it to healthcare professionals for analysis and decision-making."
+    },
+    {
+        "word": "Video Conferencing",
+        "description": "Video conferencing is a method of communication that allows individuals or groups to conduct virtual meetings or consultations through the use of video and audio technology."
+    },
+    {
+        "word": "Ehr/Emr",
+        "description": "EHR (Electronic Health Record) or EMR (Electronic Medical Record) refers to digital systems that store and manage patients' health information, including medical history, diagnoses, medications, and treatment plans."
+    },
+    {
+        "word": "Hipaa",
+        "description": "HIPAA (Health Insurance Portability and Accountability Act) is a US law that regulates the privacy and security of individuals' health information, ensuring its confidentiality and proper handling in telehealth."
+    },
+    {
+        "word": "Telehealth Ethics",
+        "description": "Telehealth ethics refer to the ethical considerations and guidelines that govern the practice of telehealth, including patient privacy, informed consent, data security, and the appropriate use of technology."
+    },
+    {
+        "word": "Telehealth Regulations",
+        "description": "Telehealth regulations are laws and policies set by governments and healthcare organizations to govern the use and practice of telehealth, ensuring safety, quality, and compliance."
+    },
+    {
+        "word": "Digital Divide",
+        "description": "The digital divide refers to the gap between individuals or communities who have access to and benefit from digital technologies, and those who do not, hindering their ability to participate in telehealth services."
+    },
+    {
+        "word": "Telehealth Training",
+        "description": "Telehealth training is the education and preparation of healthcare professionals and staff to effectively and safely use telehealth technologies and workflows in their practice."
+    },
+    {
+        "word": "Telehealth Adoption",
+        "description": "Telehealth adoption is the process of integrating telehealth services and technologies into healthcare systems and practices, including the acceptance and utilization by healthcare professionals and patients."
+    },
+    {
+        "word": "Telehealth Outcomes",
+        "description": "Telehealth outcomes refer to the results and effects of telehealth interventions, including improvements in patient access, satisfaction, clinical outcomes, cost-effectiveness, and population health."
+    },
+    {
+        "word": "Telehealth Equipment",
+        "description": "Telehealth equipment refers to the devices, tools, and peripherals used in telehealth, such as video cameras, digital stethoscopes, patient monitoring devices, and electronic health record systems."
+    },
+    {
+        "word": "Home Telehealth",
+        "description": "Home telehealth is the delivery of healthcare services and remote monitoring for patients in their own homes, using telecommunication technology, reducing the need for in-person visits."
+    },
+    {
+        "word": "Telehealth Consent",
+        "description": "Telehealth consent is the process of obtaining the patient's agreement and understanding to participate in telehealth services, including the acknowledgment of the limitations, benefits, and risks."
+    },
+    {
+        "word": "E-Consultation",
+        "description": "E-consultation is a telehealth service that allows healthcare professionals to provide consultations and advice to patients electronically, via secure messaging or email, reducing the need for in-person visits."
+    },
+    {
+        "word": "Telehealth Counselling",
+        "description": "Telehealth counselling is the provision of mental health counseling and therapy through telecommunication technologies, enabling remote sessions and support for individuals in need."
+    },
+    {
+        "word": "Telehealth Chronic Disease Management",
+        "description": "Telehealth chronic disease management involves the use of telehealth solutions to monitor and support individuals with chronic conditions, such as diabetes, heart disease, or asthma, remotely."
+    },
+    {
+        "word": "Telehealth Follow-Up Care",
+        "description": "Telehealth follow-up care is the provision of post-treatment or post-operative check-ups and evaluations remotely, allowing healthcare professionals to monitor recovery and address any concerns."
+    },
+    {
+        "word": "Telehealth Rehabilitation",
+        "description": "Telehealth rehabilitation is the delivery of rehabilitation services, such as physical therapy or occupational therapy, through telecommunication technologies, allowing individuals to receive care at home."
+    },
+    {
+        "word": "Telehealth Billing",
+        "description": "Telehealth billing refers to the process of generating and submitting medical bills and claims for telehealth services provided, including reimbursement from insurers and payment from patients."
+    },
+    {
+        "word": "Telehealth Security",
+        "description": "Telehealth security refers to the measures and protocols put in place to protect patient information and ensure the privacy and integrity of telehealth systems and communications."
+    },
+    {
+        "word": "Telehealth Accessibility",
+        "description": "Telehealth accessibility refers to designing and implementing telehealth services that are available and usable by individuals with disabilities, ensuring equal access and accommodation."
+    },
+    {
+        "word": "Telehealth Analytics",
+        "description": "Telehealth analytics involves the analysis and interpretation of data generated from telehealth services, providing insights into patient outcomes, usage patterns, and system performance."
+    },
+    {
+        "word": "Telehealth Data Privacy",
+        "description": "Telehealth data privacy refers to the protection and control of patient's personal health information in telehealth, including consent, data storage, sharing, and compliance with privacy laws."
+    },
+    {
+        "word": "Telehealth Quality Assessment",
+        "description": "Telehealth quality assessment is the evaluation and monitoring of telehealth services to ensure they meet established standards of quality, safety, effectiveness, and patient satisfaction."
+    },
+    {
+        "word": "Telehealth Integration",
+        "description": "Telehealth integration is the process of incorporating telehealth services and technologies into existing healthcare systems, including integration with electronic health record systems and other healthcare software."
+    },
+    {
+        "word": "Telehealth Consultation Hours",
+        "description": "Telehealth consultation hours refer to the specific hours during which healthcare professionals are available to provide telehealth consultations and services."
+    },
+    {
+        "word": "Telehealth Support Services",
+        "description": "Telehealth support services include technical support, troubleshooting, and assistance for healthcare professionals and patients using telehealth technologies and platforms."
+    },
+    {
+        "word": "Telehealth Marketing",
+        "description": "Telehealth marketing involves promoting and advertising telehealth services, reaching out to potential patients, and creating awareness about the benefits and availability of telehealth."
+    },
+    {
+        "word": "Telehealth Privacy Policies",
+        "description": "Telehealth privacy policies outline the guidelines and practices for protecting patient privacy and maintaining confidentiality in telehealth, including data security measures."
+    },
+    {
+        "word": "Telehealth Certification",
+        "description": "Telehealth certification is the process of obtaining formal recognition or credentials for proficiency and compliance in telehealth practices, often issued by professional organizations or telehealth authorities."
+    },
+    {
+        "word": "Telehealth Continuity Of Care",
+        "description": "Telehealth continuity of care ensures the seamless transfer of patient information, ongoing treatment plans, and coordination between healthcare providers when transitioning between in-person and telehealth services."
+    },
+    {
+        "word": "Telehealth Health Literacy",
+        "description": "Telehealth health literacy refers to an individual's ability to understand and navigate telehealth services and information effectively, making informed decisions and managing their health remotely."
+    },
+    {
+        "word": "Telehealth Informed Consent",
+        "description": "Telehealth informed consent involves obtaining the patient's voluntary agreement to participate in telehealth services, ensuring they understand the purpose, methods, risks, and benefits."
+    },
+    {
+        "word": "Telehealth Medical History",
+        "description": "Telehealth medical history refers to the collection and documentation of a patient's medical background, including past illnesses, surgeries, medications, allergies, and family medical history, for remote assessment and consultations."
+    },
+    {
+        "word": "Telehealth Symptom Monitoring",
+        "description": "Telehealth symptom monitoring involves the remote tracking and evaluation of patients' symptoms, enabling healthcare professionals to adjust treatment plans or provide timely interventions."
+    },
+    {
+        "word": "Telehealth Physician Shortage",
+        "description": "Telehealth physician shortage refers to the lack of available healthcare professionals, particularly in underserved areas, and the use of telehealth to bridge the gap and provide access to care."
+    },
+    {
+        "word": "Telehealth Appointment Scheduling",
+        "description": "Telehealth appointment scheduling is the process of booking and arranging virtual consultations or visits, allowing patients to select available time slots and receive confirmation for telehealth appointments."
+    },
+    {
+        "word": "Telehealth Data Analytics",
+        "description": "Telehealth data analytics involves the examination and interpretation of data collected from telehealth services to identify trends, patterns, and opportunities for improving care quality and outcomes."
+    },
+    {
+        "word": "Telehealth Medication Management",
+        "description": "Telehealth medication management involves the remote monitoring, evaluation, and adjustment of patients' medication regimens, including dosage instructions, side effects, and adherence."
+    },
+    {
+        "word": "Telehealth Consent Form",
+        "description": "Telehealth consent form is a document that outlines and records the patient's agreement, understanding, and consent to receive healthcare services through telehealth, including the acknowledgment of potential limitations and risks."
+    },
+    {
+        "word": "Telehealth Second Opinion",
+        "description": "Telehealth second opinion is the process of seeking expert medical advice or evaluations remotely, often from specialists or healthcare professionals located in different locations, to confirm diagnoses or explore alternative treatment options."
+    },
+    {
+        "word": "Telehealth Patient Education",
+        "description": "Telehealth patient education involves providing patients with information, resources, and support to enhance their understanding of health conditions, treatment options, self-care practices, and preventive measures through telecommunication mediums."
+    },
+    {
+        "word": "Telehealth Interoperability",
+        "description": "Telehealth interoperability refers to the ability of different telehealth systems, devices, and software to exchange and interpret patient data seamlessly, ensuring effective communication and sharing of information across platforms and healthcare settings."
+    },
+    {
+        "word": "Telehealth Workflow Optimization",
+        "description": "Telehealth workflow optimization involves analyzing and refining the processes and steps involved in delivering telehealth services to improve efficiency, usability, and user experience for both healthcare professionals and patients."
+    },
+    {
+        "word": "Telehealth Data Management",
+        "description": "Telehealth data management encompasses the practices and technologies used to collect, organize, store, secure, and analyze patient data generated through telehealth services, ensuring accuracy, integrity, and compliance."
+    },
+    {
+        "word": "Telehealth Diagnostic Imaging",
+        "description": "Telehealth diagnostic imaging involves the remote interpretation and analysis of medical images, such as X-rays, CT scans, or MRIs, by radiologists using telecommunication technologies, enabling timely and accurate diagnoses."
+    },
+    {
+        "word": "Telehealth Clinical Decision Support",
+        "description": "Telehealth clinical decision support involves the use of digital tools and technologies to provide healthcare professionals with evidence-based guidelines, recommendations, and alerts during telehealth consultations or evaluations, assisting in clinical decision-making."
+    },
+    {
+        "word": "Telehealth Specialist Referral",
+        "description": "Telehealth specialist referral is the process of recommending and connecting patients with specialized healthcare professionals, such as surgeons, cardiologists, or psychiatrists, remotely for further evaluation or treatment."
+    },
+    {
+        "word": "Telehealth E-Prescribing",
+        "description": "Telehealth e-prescribing is the electronic transmission of prescriptions from healthcare professionals to pharmacies, enabling patients to receive their medications without the need for physical prescriptions."
+    },
+    {
+        "word": "Telehealth Speech Therapy",
+        "description": "Telehealth speech therapy involves the delivery of speech and language therapy services remotely, allowing individuals with communication disorders to receive assessment, therapy, and support through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Triage Nurse",
+        "description": "Telehealth triage nurse is a registered nurse who provides remote evaluations, assessments, and recommendations to patients, helping them determine the urgency of their condition and appropriate next steps, such as seeking emergency care or scheduling appointments."
+    },
+    {
+        "word": "Telehealth Virtual Care",
+        "description": "Telehealth virtual care encompasses a wide range of remote healthcare services, including consultations, diagnoses, treatment, monitoring, and support, delivered through telecommunication technologies and platforms."
+    },
+    {
+        "word": "Telehealth Urgent Care",
+        "description": "Telehealth urgent care refers to the remote provision of immediate medical care and treatment for urgent but non-life-threatening conditions, allowing patients to receive timely assessments and care without physically visiting an emergency room."
+    },
+    {
+        "word": "Telehealth Care Coordination",
+        "description": "Telehealth care coordination involves the organization and management of patient care across different healthcare providers, settings, and specialties through telecommunication technologies, ensuring seamless transitions and continuity of care."
+    },
+    {
+        "word": "Telehealth Preoperative Evaluation",
+        "description": "Telehealth preoperative evaluation is the remote assessment and preparation of patients scheduled for surgical procedures, allowing healthcare professionals to determine an individual's readiness for surgery, identify potential risks, and provide necessary instructions and guidance."
+    },
+    {
+        "word": "Telehealth Maternal Care",
+        "description": "Telehealth maternal care involves the remote provision of prenatal, prenatal, and postnatal care, including consultations, monitoring, health education, and support, for expectant mothers through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Mental Health Services",
+        "description": "Telehealth mental health services encompass a wide range of remote mental health supports and interventions, such as counseling, therapy, medication management, crisis intervention, and peer support, delivered through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Patient Follow-Up",
+        "description": "Telehealth patient follow-up involves remote check-ins, assessments, and monitoring of patients after receiving treatment or services, ensuring their progress, addressing concerns, and adjusting treatment plans as necessary."
+    },
+    {
+        "word": "Telehealth Post-Discharge Care",
+        "description": "Telehealth post-discharge care is the remote provision of healthcare services, support, and monitoring for individuals who have been discharged from hospitals or healthcare facilities, reducing the risk of readmissions and complications."
+    },
+    {
+        "word": "Telehealth Occupational Therapy",
+        "description": "Telehealth occupational therapy involves the remote delivery of therapeutic activities and interventions to individuals with physical, cognitive, or developmental challenges, allowing them to develop independence and functional skills through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Pediatrics",
+        "description": "Telehealth pediatrics involves the remote provision of healthcare services to children, including consultations, evaluations, monitoring, and health education, provided by pediatricians or other specialized healthcare professionals through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Dermatology",
+        "description": "Telehealth dermatology involves the remote assessment, diagnosis, and treatment of skin conditions and diseases through telecommunication technologies, allowing individuals to receive dermatological care and advice without the need for physical visits."
+    },
+    {
+        "word": "Telehealth Infectious Disease Management",
+        "description": "Telehealth infectious disease management involves the remote monitoring, evaluation, and treatment of individuals with infectious diseases, such as COVID-19, to minimize the spread and provide timely care and support through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Pharmacy Services",
+        "description": "Telehealth pharmacy services include remote medication counseling, prescription dispensing, medication therapy management, and follow-up support provided by pharmacists through telecommunication technologies, ensuring safe and effective medication use."
+    },
+    {
+        "word": "Telehealth Home Health Services",
+        "description": "Telehealth home health services involve the remote provision of skilled nursing care, rehabilitation, wound care, monitoring, and support services for individuals who receive healthcare at home, delivered through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Chronic Pain Management",
+        "description": "Telehealth chronic pain management involves the remote delivery of specialized pain management services, such as physical therapy, counseling, medication management, and behavioral therapy, through telecommunication technologies."
+    },
+    {
+        "word": "Telehealth Genetic Counseling",
+        "description": "Telehealth genetic counseling involves the remote provision of counseling and support for individuals and families who may be at risk of genetic disorders or inherited conditions, helping them understand the implications, make informed decisions, and seek appropriate care through telecommunication technologies."
+    }
+]
