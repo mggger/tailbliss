@@ -1,0 +1,482 @@
+[
+    {
+        "word": "Ar",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or sounds, onto the real world."
+    },
+    {
+        "word": "Vr",
+        "description": "Virtual Reality (VR) is a computer-generated simulation of a three-dimensional environment that can be interacted with."
+    },
+    {
+        "word": "Mr",
+        "description": "Mixed Reality (MR) combines elements of both virtual and augmented reality to create immersive experiences."
+    },
+    {
+        "word": "Ui",
+        "description": "User Interface (UI) is the visual layout and design of an application, website, or other digital products."
+    },
+    {
+        "word": "Ux",
+        "description": "User Experience (UX) refers to the overall experience a user has when interacting with a product or service."
+    },
+    {
+        "word": "Hci",
+        "description": "Human-Computer Interaction (HCI) is the study of how people interact with computers and design systems that are easy to use."
+    },
+    {
+        "word": "Api",
+        "description": "An Application Programming Interface (API) is a set of rules and protocols that allows different software applications to communicate and interact with each other."
+    },
+    {
+        "word": "Sdk",
+        "description": "Software Development Kit (SDK) is a collection of software tools and libraries used in the development process."
+    },
+    {
+        "word": "Cms",
+        "description": "Content Management System (CMS) is a software that allows creation, modification, and publishing of digital content."
+    },
+    {
+        "word": "Seo",
+        "description": "Search Engine Optimization (SEO) aims to improve a website's visibility in search engine results."
+    },
+    {
+        "word": "Sem",
+        "description": "Search Engine Marketing (SEM) involves promoting websites by increasing their visibility in search engine results pages."
+    },
+    {
+        "word": "Crm",
+        "description": "Customer Relationship Management (CRM) refers to the practices, strategies, and technologies used to manage customer interactions."
+    },
+    {
+        "word": "Cta",
+        "description": "Call to Action (CTA) is an element that prompts a user to take a specific action, such as subscribing or making a purchase."
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive design is an approach to web design that ensures optimal viewing and interaction across a wide range of devices and screen sizes."
+    },
+    {
+        "word": "Cross-Platform",
+        "description": "Cross-platform development allows software to run on multiple operating systems or platforms."
+    },
+    {
+        "word": "Backend",
+        "description": "Backend refers to the server-side of an application, handling data storage, calculations, and business logic."
+    },
+    {
+        "word": "Frontend",
+        "description": "Frontend refers to the client-side of an application, focusing on the user interface and user experience."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing is the delivery of on-demand computing resources, including storage, processing power, and software, over the internet."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex data sets that cannot be easily managed or processed using traditional data processing applications."
+    },
+    {
+        "word": "Analytics",
+        "description": "Analytics is the discovery, interpretation, and communication of meaningful patterns in data."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data and make predictions or decisions without being explicitly programmed."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of ML that uses artificial neural networks to understand and process complex data."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision focuses on enabling computers to extract information and understanding from visual data."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and humans through natural language."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed ledger technology that allows multiple parties to maintain a shared record of transactions in a secure and transparent manner."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for secure financial transactions, control the creation of additional units, and verify the transfer of assets."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is the process of encoding information or data in such a way that only authorized parties can access and understand it."
+    },
+    {
+        "word": "Api Gateway",
+        "description": "API Gateway is a server that acts as an intermediary between an application and other services, allowing seamless interaction."
+    },
+    {
+        "word": "Microservices",
+        "description": "Microservices is an architectural approach to building applications as a collection of small, loosely coupled services."
+    },
+    {
+        "word": "Scalability",
+        "description": "Scalability refers to the ability of a system to handle increasing amounts of work or traffic without compromising performance."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data mining is the process of discovering patterns, relationships, and insights from large datasets using various statistical and machine learning techniques."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization is the representation of data and information in a visual format to facilitate understanding, exploration, and communication of complex patterns and relationships."
+    },
+    {
+        "word": "Agile Development",
+        "description": "Agile development is an iterative and collaborative approach to software development that emphasizes flexibility, adaptability, and customer satisfaction."
+    },
+    {
+        "word": "Devops",
+        "description": "DevOps emphasizes collaboration and integration between software developers and IT operations for efficiency and speed."
+    },
+    {
+        "word": "Ux Research",
+        "description": "User Experience (UX) research involves gathering and analyzing data about user behavior, attitudes, needs, and preferences to guide the design and development of user-centered products or systems."
+    },
+    {
+        "word": "A/B Testing",
+        "description": "A/B Testing is a method of comparing two versions of a webpage or app to determine which one performs better."
+    },
+    {
+        "word": "Wireframing",
+        "description": "Wireframing is the process of creating a visual representation of an interface to communicate its structure and layout."
+    },
+    {
+        "word": "Storyboarding",
+        "description": "Storyboarding is the process of creating a visual sequence of illustrations or images to represent the planned structure and flow of a multimedia project."
+    },
+    {
+        "word": "Metadata",
+        "description": "Metadata is descriptive or structural information about data, facilitating organization, search, and retrieval."
+    },
+    {
+        "word": "Content Strategy",
+        "description": "Content strategy involves planning, creating, and managing the delivery of content in a way that aligns with organizational goals, target audience, and user needs."
+    },
+    {
+        "word": "Multimedia",
+        "description": "Multimedia includes different types of media, such as text, images, audio, video, and interactive elements."
+    },
+    {
+        "word": "Streaming",
+        "description": "Streaming is the real-time delivery of digital content, such as audio or video, over the internet, allowing users to access and consume it without downloading."
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "Digital marketing refers to the use of digital channels, such as search engines, social media, email, and websites, to promote products, services, and brands."
+    },
+    {
+        "word": "Social Media Marketing",
+        "description": "Social Media Marketing (SMM) is the process of promoting a product, service, or brand through various social media platforms to increase visibility, reach, and engagement."
+    },
+    {
+        "word": "Content Marketing",
+        "description": "Content Marketing focuses on creating and distributing valuable, relevant, and consistent content to attract and retain an audience."
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "Influencer Marketing involves collaborating with influential individuals to promote products or services to their audience."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet, often through online platforms or websites."
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "Payment Gateway is a service that enables secure online payment transactions between customers and businesses."
+    },
+    {
+        "word": "Chatbot",
+        "description": "A chatbot is an AI-powered software program that interacts with users via text or voice-based conversations, often used for customer support, information retrieval, or task automation."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection and proper handling of sensitive and personal data, ensuring that individuals have control over their own information."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "Internet of Things (IoT) refers to the interconnection of physical devices, vehicles, buildings, and other objects embedded with sensors, software, and network connectivity."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity involves the practice of protecting computer systems, networks, and data from unauthorized access, attacks, and other forms of digital threats."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence."
+    },
+    {
+        "word": "Algorithm",
+        "description": "Algorithm is a set of rules or instructions designed to solve a specific problem or perform a specific task."
+    },
+    {
+        "word": "Data Science",
+        "description": "Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data."
+    },
+    {
+        "word": "Iot",
+        "description": "Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to enable them to connect and exchange data."
+    },
+    {
+        "word": "Robotics",
+        "description": "Robotics is the field that encompasses the design, construction, operation, and use of robots."
+    },
+    {
+        "word": "Drones",
+        "description": "Drones, also known as unmanned aerial vehicles (UAVs), are remotely piloted aircraft or vehicles used for various purposes."
+    },
+    {
+        "word": "3D Printing",
+        "description": "3D Printing is a process of creating physical objects from a digital file by using a printer that adds material layer by layer."
+    },
+    {
+        "word": "Wireless Technology",
+        "description": "Wireless technology refers to the transfer of information between two or more points without the use of physical connections, such as wires or cables."
+    },
+    {
+        "word": "Nanotechnology",
+        "description": "Nanotechnology is the science, engineering, and application of materials and devices with structures and components smaller than 100 nanometers."
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "A Virtual Assistant is an application that can perform tasks or services for an individual based on verbal commands or programmed instructions."
+    },
+    {
+        "word": "Sensor Technology",
+        "description": "Sensor technology refers to the use of sensors to measure or detect physical, chemical, or biological phenomena."
+    },
+    {
+        "word": "Internet Of Everything",
+        "description": "Internet of Everything (IoE) is the concept of connecting people, processes, data, and things to the internet to enable new capabilities and richer experiences."
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "Cloud storage is a service that allows users to store and access their digital content, such as files, documents, or multimedia, on remote servers accessible via the internet."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed."
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "Quantum Computing is an area of computing that uses quantum bits, or qubits, to represent and manipulate data."
+    },
+    {
+        "word": "Biometrics",
+        "description": "Biometrics refers to the measurement and analysis of unique physical or behavioral characteristics, such as fingerprints, iris patterns, or voice recognition, for authentication or identification purposes."
+    },
+    {
+        "word": "Internet Of Medical Things",
+        "description": "Internet of Medical Things (IoMT) is the network of medical devices and applications connected to healthcare IT systems through online computer networks."
+    },
+    {
+        "word": "Gesture Control",
+        "description": "Gesture Control is a technology that allows users to control and interact with devices using gestures and movements."
+    },
+    {
+        "word": "Smart Home",
+        "description": "A Smart Home is a residence that uses internet-connected devices to enable remote monitoring and management of various home functions."
+    },
+    {
+        "word": "Smart City",
+        "description": "A Smart City incorporates information and communication technologies to enhance the quality and performance of urban services, such as transportation, energy, and utilities."
+    },
+    {
+        "word": "Biomedical Engineering",
+        "description": "Biomedical Engineering is the application of engineering principles and design concepts to medicine and biology for healthcare purposes."
+    },
+    {
+        "word": "Human Augmentation",
+        "description": "Human Augmentation refers to technologies that enhance or strengthen human capabilities, such as exoskeletons or brain-computer interfaces."
+    },
+    {
+        "word": "Video Streaming",
+        "description": "Video Streaming is the process of delivering video content over the internet in real-time, allowing users to watch videos without downloading them."
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamification is the application of game design elements and principles, such as competition, rewards, and achievements, to non-game contexts."
+    },
+    {
+        "word": "Content Management System",
+        "description": "A Content Management System (CMS) is a software application that enables the creation, modification, organization, and publication of digital content."
+    },
+    {
+        "word": "Social Media Analytics",
+        "description": "Social Media Analytics involves collecting and analyzing data from social media platforms to gain insights and make informed business decisions."
+    },
+    {
+        "word": "User Research",
+        "description": "User Research is a process of understanding user behaviors, needs, and motivations through various methods, such as observation and interviews."
+    },
+    {
+        "word": "Mobile App Development",
+        "description": "Mobile app development is the process of creating software applications that run on mobile devices, such as smartphones or tablets."
+    },
+    {
+        "word": "Agile Methodology",
+        "description": "Agile Methodology is an iterative and incremental approach to project management and software development that emphasizes flexibility, collaboration, and customer satisfaction."
+    },
+    {
+        "word": "Cyber Threat Intelligence",
+        "description": "Cyber Threat Intelligence is information about potential threats to computer systems or networks, gathered, analyzed, and used to prevent or respond to cyber attacks."
+    },
+    {
+        "word": "User Experience Design",
+        "description": "User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and delight in the interaction between the user and a product."
+    },
+    {
+        "word": "Information Architecture",
+        "description": "Information Architecture is the structural design and organization of information within a website, application, or other digital product."
+    },
+    {
+        "word": "Responsive Web Design",
+        "description": "Responsive Web Design (RWD) is an approach to web design that ensures a website looks and functions well across different devices and screen sizes."
+    },
+    {
+        "word": "Search Engine Optimization",
+        "description": "Search Engine Optimization (SEO) is the practice of optimizing a website or online content to improve its visibility and ranking on search engine result pages."
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "Digital transformation is the process of integrating digital technologies and solutions into all aspects of an organization, fundamentally changing how it operates and delivers value."
+    },
+    {
+        "word": "User Interface Design",
+        "description": "User Interface Design (UID) is the design of interfaces for software applications or machines with a focus on enhancing usability and user experience."
+    },
+    {
+        "word": "Network Security",
+        "description": "Network Security is the practice of protecting computer networks and their associated devices from unauthorized access, use, disclosure, disruption, modification, or destruction."
+    },
+    {
+        "word": "Cloud Security",
+        "description": "Cloud Security refers to the measures taken to protect cloud computing environments and data stored in the cloud from cybersecurity threats and unauthorized access."
+    },
+    {
+        "word": "Open Source",
+        "description": "Open Source refers to software that is freely available, allowing users to inspect, modify, and distribute the source code."
+    },
+    {
+        "word": "Data Warehousing",
+        "description": "Data Warehousing is the process of collecting, storing, and analyzing data from various sources to support business intelligence and decision-making."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine Vision is a technology that enables computers to gain high-level understanding from digital images or videos."
+    },
+    {
+        "word": "Software As A Service",
+        "description": "Software as a Service (SaaS) is a software licensing and delivery model in which applications are hosted by a service provider and made available to customers over the internet."
+    },
+    {
+        "word": "Mediatech",
+        "description": "Mediatech is a term used to describe the field that combines media and technology, focusing on the creation, delivery, and consumption of digital media content."
+    },
+    {
+        "word": "Digital Media",
+        "description": "Digital media refers to any media that is encoded in a machine-readable format, such as text, audio, images, or video."
+    },
+    {
+        "word": "Content Creation",
+        "description": "Content creation is the process of generating media content, including writing, designing, recording, or producing material for various platforms."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a technology that creates a simulated 3D environment, which users can interact with using specialized equipment."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or data, onto the real-world environment."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics is the process of examining and interpreting data to uncover meaningful patterns, insights, and statistics."
+    },
+    {
+        "word": "Ux Design",
+        "description": "User Experience (UX) Design is the process of enhancing user satisfaction by improving the usability, accessibility, and enjoyment when interacting with a product or system."
+    },
+    {
+        "word": "Ui Design",
+        "description": "User Interface (UI) Design focuses on the visual and interactive aspects of a product's interface, with the goal of creating a seamless and intuitive user experience."
+    },
+    {
+        "word": "User Engagement",
+        "description": "User engagement is the measure of how users interact with and respond to a digital product or platform, including factors such as time spent, actions taken, and overall satisfaction."
+    },
+    {
+        "word": "Video Production",
+        "description": "Video production involves the process of creating video content, including planning, scripting, filming, editing, and distribution."
+    },
+    {
+        "word": "Audio Production",
+        "description": "Audio production encompasses the recording, editing, mixing, and mastering of audio content for various mediums, such as music, podcasts, or broadcasts."
+    },
+    {
+        "word": "Graphic Design",
+        "description": "Graphic design is the practice of creating visual content, such as logos, illustrations, or layouts, using typography, colors, and imagery."
+    },
+    {
+        "word": "Web Development",
+        "description": "Web development involves the creation and maintenance of websites, including web design, web programming, and database management."
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) refers to the visual elements and interactions through which a user interacts with a digital product or system."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) encompasses the overall experience and satisfaction a user has when interacting with a product or system."
+    },
+    {
+        "word": "User Retention",
+        "description": "User retention measures the ability of a digital product or platform to retain users over a specific period of time, often through engagement, personalized experiences, and ongoing value."
+    },
+    {
+        "word": "User Personalization",
+        "description": "User personalization is the customization and tailoring of digital experiences, content, and recommendations based on individual user preferences, behavior, or data."
+    },
+    {
+        "word": "User Journey",
+        "description": "User journey refers to the sequence of steps or interactions a user takes when engaging with a product or platform, including pre-purchase, purchase, and post-purchase experiences."
+    },
+    {
+        "word": "Human-Computer Interaction",
+        "description": "Human-Computer Interaction (HCI) is the study and design of the interaction between humans and computers, aiming to create intuitive and user-friendly interfaces."
+    },
+    {
+        "word": "Api Integration",
+        "description": "API integration is the process of connecting and combining different software systems or services through their APIs to enable seamless data sharing and functionality."
+    },
+    {
+        "word": "User Testing",
+        "description": "User testing is a usability evaluation method that involves testing a product or system with real users to identify usability issues, gather feedback, and improve the overall user experience."
+    },
+    {
+        "word": "User Onboarding",
+        "description": "User onboarding refers to the process of guiding and familiarizing new users with a product or platform, helping them understand its features, value, and how to use it effectively."
+    },
+    {
+        "word": "Conversion Rate Optimization",
+        "description": "Conversion Rate Optimization (CRO) is the practice of increasing the percentage of visitors who take a desired action (e.g., making a purchase, submitting a form) on a website or landing page."
+    },
+    {
+        "word": "Digital Rights Management",
+        "description": "Digital Rights Management (DRM) is a set of technologies and techniques used to protect and control access to digital content, ensuring it is used and distributed according to specified copyright restrictions."
+    },
+    {
+        "word": "Seo Optimization",
+        "description": "SEO optimization refers to the practice of improving a website's visibility and ranking on search engine result pages through various techniques, such as keyword optimization, link building, and content quality."
+    },
+    {
+        "word": "Digital Advertising",
+        "description": "Digital advertising is the practice of delivering targeted promotional messages or advertisements to a specific audience using digital channels, such as websites, social media, or search engines."
+    }
+]
