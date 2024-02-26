@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Budget",
+        "description": "A budget is a financial plan that outlines your income and expenses over a specific period."
+    },
+    {
+        "word": "Cash Flow",
+        "description": "Cash flow refers to the movement of money in and out of a business or individual's account, tracking the income and expenses over a specified period."
+    },
+    {
+        "word": "Credit",
+        "description": "Credit is the ability to borrow money or access goods and services with the agreement to pay for them in the future."
+    },
+    {
+        "word": "Debt",
+        "description": "Debt is an amount of money borrowed by one party from another, often with the promise of repayment with interest."
+    },
+    {
+        "word": "Interest",
+        "description": "Interest is the cost of borrowing money, usually expressed as a percentage of the loan or investment."
+    },
+    {
+        "word": "Investment",
+        "description": "Investment refers to the allocation of money or resources with the expectation of generating income or profit."
+    },
+    {
+        "word": "Tax",
+        "description": "Tax is a mandatory financial charge levied by the government on individuals and businesses to fund public expenditures."
+    },
+    {
+        "word": "Asset",
+        "description": "An asset is any resource with economic value that an individual, corporation, or country owns or controls."
+    },
+    {
+        "word": "Liability",
+        "description": "A liability is a financial obligation or debt that an individual, corporation, or country owes to someone else."
+    },
+    {
+        "word": "Net Worth",
+        "description": "Net worth is the difference between a person's assets and their liabilities, representing their overall financial value."
+    },
+    {
+        "word": "Inflation",
+        "description": "Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling."
+    },
+    {
+        "word": "Retirement",
+        "description": "Retirement refers to the period in a person's life when they stop working and rely on their accumulated assets and savings."
+    },
+    {
+        "word": "401(K)",
+        "description": "A 401(k) is a retirement savings plan sponsored by an employer that allows employees to contribute a portion of their salary to the plan."
+    },
+    {
+        "word": "Ira",
+        "description": "An Individual Retirement Account (IRA) is a tax-advantaged investment account designed to help individuals save for retirement."
+    },
+    {
+        "word": "Compound Interest",
+        "description": "Compound interest is interest that is calculated on both the initial principal and the accumulated interest from previous periods."
+    },
+    {
+        "word": "Diversification",
+        "description": "Diversification is the strategy of spreading investments across different assets or asset classes to reduce risk."
+    },
+    {
+        "word": "Stock",
+        "description": "A stock, also known as a share or equity, represents ownership in a company and represents a claim on part of the company's assets and earnings."
+    },
+    {
+        "word": "Bond",
+        "description": "A bond is a debt investment in which an investor loans money to an entity, typically a corporation or government, that borrows the funds for a defined period at a fixed interest rate."
+    },
+    {
+        "word": "Mutual Fund",
+        "description": "A mutual fund is an investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities."
+    },
+    {
+        "word": "Index Fund",
+        "description": "An index fund is a type of mutual fund or exchange-traded fund (ETF) that tracks a specific index, such as the S&P 500, and aims to replicate its performance."
+    },
+    {
+        "word": "401(K) Match",
+        "description": "A 401(k) match is a contribution made by an employer to an employee's retirement account that matches a certain percentage of the employee's contribution."
+    },
+    {
+        "word": "Emergency Fund",
+        "description": "An emergency fund is a reserve of money set aside to cover unexpected expenses or financial emergencies."
+    },
+    {
+        "word": "Credit Score",
+        "description": "A credit score is a numerical representation of an individual's creditworthiness, based on their credit history and financial behavior."
+    },
+    {
+        "word": "Insurance",
+        "description": "Insurance is a contract between an individual (the policyholder) and an insurance company to protect against specified risks in exchange for premiums."
+    },
+    {
+        "word": "Mortgage",
+        "description": "A mortgage is a loan used to purchase real estate, with the property serving as collateral for the loan."
+    },
+    {
+        "word": "Interest Rate",
+        "description": "An interest rate is the amount charged or paid for the use of money, typically expressed as a percentage per period."
+    },
+    {
+        "word": "Net Income",
+        "description": "Net income is a company's total revenue minus all expenses, taxes, and other deductions."
+    },
+    {
+        "word": "Dividend",
+        "description": "A dividend is a payment made by a corporation to its shareholders, usually in the form of cash or additional shares of stock, representing a portion of the company's profits."
+    },
+    {
+        "word": "Roth Ira",
+        "description": "A Roth IRA is a retirement savings account that allows individuals to contribute after-tax income and potentially withdraw funds tax-free in retirement."
+    },
+    {
+        "word": "Capital Gain",
+        "description": "A capital gain is the profit realized from selling a capital asset, such as stocks, bonds, or real estate, at a higher price than its original purchase price."
+    },
+    {
+        "word": "Expense",
+        "description": "An expense is a cost incurred in the ordinary course of business or personal life."
+    },
+    {
+        "word": "Equity",
+        "description": "Equity refers to ownership in an asset or company."
+    },
+    {
+        "word": "W-2",
+        "description": "A W-2 is a form issued by employers to employees, reporting their annual wages, taxes withheld, and other employment-related information."
+    },
+    {
+        "word": "Hsa",
+        "description": "A Health Savings Account (HSA) is a tax-advantaged medical savings account available to individuals enrolled in a high-deductible health plan."
+    },
+    {
+        "word": "Fico Score",
+        "description": "A FICO score is a credit score developed by the Fair Isaac Corporation and is widely used by lenders to assess creditworthiness."
+    },
+    {
+        "word": "Net Profit Margin",
+        "description": "Net profit margin is the percentage of revenue remaining after all expenses, including taxes and interest, have been deducted."
+    },
+    {
+        "word": "Cash Reserve",
+        "description": "A cash reserve is a readily accessible pool of funds set aside for emergencies or unexpected expenses."
+    },
+    {
+        "word": "Net Asset Value",
+        "description": "Net asset value (NAV) is the per-share value of a mutual fund or ETF, calculated by dividing the total value of assets minus liabilities by the number of shares outstanding."
+    },
+    {
+        "word": "Principal",
+        "description": "Principal refers to the original amount of money invested or loaned, excluding any interest or investment gains."
+    },
+    {
+        "word": "Real Estate",
+        "description": "Real estate refers to land, buildings, and any structures or improvements attached to the land."
+    },
+    {
+        "word": "Appreciation",
+        "description": "Appreciation is the increase in the value of an asset over time."
+    },
+    {
+        "word": "Depreciation",
+        "description": "Depreciation is the decrease in the value of an asset over time."
+    },
+    {
+        "word": "Fixed Expenses",
+        "description": "Fixed expenses are recurring costs that remain relatively stable from period to period, such as rent, mortgage payments, or insurance premiums."
+    },
+    {
+        "word": "Variable Expenses",
+        "description": "Variable expenses are costs that fluctuate from period to period, such as groceries, dining out, or entertainment."
+    },
+    {
+        "word": "Netting",
+        "description": "Netting is the process of offsetting gains and losses to determine a net amount."
+    },
+    {
+        "word": "Portfolio",
+        "description": "A portfolio is a collection of investments, such as stocks, bonds, and cash, held by an individual or entity."
+    },
+    {
+        "word": "Risk Tolerance",
+        "description": "Risk tolerance refers to an individual's ability and willingness to take on financial risk in pursuit of potential investment returns."
+    },
+    {
+        "word": "Capital Loss",
+        "description": "A capital loss occurs when the sale price of a capital asset is lower than its original purchase price, resulting in a financial loss."
+    },
+    {
+        "word": "Expense Ratio",
+        "description": "The expense ratio is a measure of the fees charged by a mutual fund or exchange-traded fund (ETF), expressed as a percentage of the fund's average net assets."
+    },
+    {
+        "word": "Adjusted Gross Income",
+        "description": "Adjusted Gross Income (AGI) is an individual's total income minus specific deductions, used to determine taxable income."
+    },
+    {
+        "word": "Liquidity",
+        "description": "Liquidity refers to the ease with which an asset can be bought or sold without causing a significant change in its price."
+    },
+    {
+        "word": "Yield",
+        "description": "Yield is the income generated by an investment, typically expressed as a percentage of the investment's cost or current value."
+    },
+    {
+        "word": "Tax Deduction",
+        "description": "A tax deduction is an expense or reduction to taxable income that lowers the amount of income tax owed."
+    },
+    {
+        "word": "Net Rental Income",
+        "description": "Net rental income is the total income generated from rental properties minus any expenses, such as maintenance, repairs, and property taxes."
+    },
+    {
+        "word": "Capitalization Rate",
+        "description": "Capitalization rate, or cap rate, is the rate of return on a real estate investment property based on the expected rental income relative to its purchase price."
+    },
+    {
+        "word": "Apr",
+        "description": "APR stands for Annual Percentage Rate, which represents the annualized interest rate on a loan or credit card."
+    },
+    {
+        "word": "Asset Allocation",
+        "description": "Asset allocation refers to the process of dividing investments across different asset classes, such as stocks, bonds, and cash, to achieve a desired risk and return profile."
+    },
+    {
+        "word": "Bear Market",
+        "description": "A bear market refers to a prolonged period of declining stock prices, typically characterized by a 20% or more drop from recent highs."
+    },
+    {
+        "word": "Budgeting",
+        "description": "Budgeting is the process of creating a plan for how to spend and manage money, taking into account income, expenses, and financial goals."
+    },
+    {
+        "word": "Debt-To-Income Ratio",
+        "description": "The debt-to-income ratio is a financial metric that compares a person's monthly debt payments to their monthly gross income."
+    },
+    {
+        "word": "Foreign Exchange",
+        "description": "Foreign exchange, often abbreviated as Forex or FX, refers to the global marketplace for buying and selling different currencies."
+    },
+    {
+        "word": "Investment Portfolio",
+        "description": "An investment portfolio is a collection of investments, such as stocks, bonds, and mutual funds, held by an individual or organization."
+    },
+    {
+        "word": "Liabilities",
+        "description": "Liabilities are the financial obligations or debts of an individual or organization, including loans, credit card balances, and mortgages."
+    },
+    {
+        "word": "Market Capitalization",
+        "description": "Market capitalization, often referred to as market cap, is the total market value of a publicly traded company's outstanding shares."
+    },
+    {
+        "word": "Pension",
+        "description": "A pension is a retirement plan that provides a regular income to individuals who have worked and contributed to the plan throughout their career."
+    },
+    {
+        "word": "Real Estate Investment Trust (Reit)",
+        "description": "A real estate investment trust (REIT) is a company that owns, operates, or finances income-generating real estate."
+    },
+    {
+        "word": "Term Life Insurance",
+        "description": "Term life insurance is a type of life insurance that provides coverage for a specific term or period, typically at a lower premium compared to permanent life insurance."
+    },
+    {
+        "word": "Time Value Of Money",
+        "description": "The time value of money is the concept that money available today is worth more than the same amount of money in the future, due to its potential earning capacity."
+    },
+    {
+        "word": "Traditional Ira",
+        "description": "A traditional IRA is an individual retirement account where contributions are typically tax-deductible, but withdrawals in retirement are subject to income tax."
+    },
+    {
+        "word": "Underwriter",
+        "description": "An underwriter is a financial institution or individual that assesses and assumes the risk of another party for a fee, often in the context of insurance or securities offerings."
+    },
+    {
+        "word": "Utility Expense",
+        "description": "Utility expenses are the costs associated with basic services such as electricity, gas, water, and telecommunications."
+    },
+    {
+        "word": "Value Investing",
+        "description": "Value investing is an investment strategy that involves selecting stocks believed to be undervalued by the market, based on fundamental analysis."
+    },
+    {
+        "word": "Vesting",
+        "description": "Vesting is the process by which an employee earns the right to receive employer-provided benefits, such as company stock or retirement contributions."
+    },
+    {
+        "word": "Wealth Management",
+        "description": "Wealth management is a comprehensive approach to financial planning, investment management, and other advisory services, typically for high-net-worth individuals."
+    },
+    {
+        "word": "Zero-Based Budgeting",
+        "description": "Zero-based budgeting is a method of budgeting where all expenses must be justified for each new period, starting from zero, regardless of previous budgets."
+    },
+    {
+        "word": "Active Income",
+        "description": "Active income is income derived from active participation in a trade or business, such as wages, salaries, or self-employment income."
+    },
+    {
+        "word": "Passive Income",
+        "description": "Passive income is income that is earned with little to no effort on the part of the recipient, such as rental income or dividends."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for secure financial transactions, control the creation of new units, and verify the transfer of assets."
+    },
+    {
+        "word": "Health Savings Account (Hsa)",
+        "description": "A health savings account (HSA) is a tax-advantaged savings account that allows individuals to save for qualified medical expenses."
+    },
+    {
+        "word": "Expense Tracking",
+        "description": "Expense tracking is the process of monitoring and recording expenses to gain insights into spending habits and control expenditures."
+    },
+    {
+        "word": "Financial Independence",
+        "description": "Financial independence refers to the ability to achieve personal financial goals and live comfortably without the need to work for income."
+    },
+    {
+        "word": "Estate Planning",
+        "description": "Estate planning is the process of arranging for the transfer of one's wealth and assets to beneficiaries after death, while minimizing taxes and ensuring the wishes of the deceased are carried out."
+    },
+    {
+        "word": "Robo-Advisor",
+        "description": "A robo-advisor is an online platform that uses algorithms and automated processes to provide investment advice and portfolio management."
+    },
+    {
+        "word": "Capital Gains",
+        "description": "Capital gains are the profits realized from the sale of a capital asset, such as stocks, bonds, real estate, or businesses, resulting in a higher value than the original purchase price."
+    },
+    {
+        "word": "Collateral",
+        "description": "Collateral is an asset pledged by a borrower to secure a loan or credit, which can be seized by the lender if the borrower fails to repay the debt."
+    },
+    {
+        "word": "Credit Report",
+        "description": "A credit report is a detailed record of an individual's credit history, including information on credit accounts, payment history, and public records."
+    },
+    {
+        "word": "Identity Theft",
+        "description": "Identity theft is a crime in which someone wrongfully obtains another person's personal information, typically for financial gain or fraudulent activities."
+    },
+    {
+        "word": "Financial Advisor",
+        "description": "A financial advisor is a professional who provides financial planning, investment management, and other financial advice to individuals and businesses."
+    },
+    {
+        "word": "Hedge Fund",
+        "description": "A hedge fund is an investment vehicle that pools funds from accredited investors and uses various strategies to generate high returns."
+    },
+    {
+        "word": "Rule Of 72",
+        "description": "The rule of 72 is a quick way to estimate how long it will take to double an investment, given a fixed annual rate of return."
+    },
+    {
+        "word": "Social Security",
+        "description": "Social Security is a government program that provides financial support to eligible individuals in retirement, disability, or after the death of a spouse."
+    },
+    {
+        "word": "Stock Market",
+        "description": "The stock market is a marketplace where buyers and sellers trade shares of public companies, representing ownership in those companies."
+    },
+    {
+        "word": "Trust Fund",
+        "description": "A trust fund is a legal entity that holds and manages assets on behalf of a beneficiary or beneficiaries."
+    },
+    {
+        "word": "401(K) Loan",
+        "description": "A 401(k) loan is a loan taken from a 401(k) retirement account, with the account balance serving as collateral."
+    },
+    {
+        "word": "Annuity",
+        "description": "An annuity is an insurance product that pays out income over a specified period or for the lifetime of the annuitant."
+    },
+    {
+        "word": "Capital Gains Tax",
+        "description": "Capital gains tax is a tax imposed on the profits realized from the sale of a capital asset, such as stocks, bonds, or real estate."
+    },
+    {
+        "word": "Fixed Income",
+        "description": "Fixed income refers to investments that provide a steady and predictable income stream, such as bonds and certificates of deposit (CDs)."
+    },
+    {
+        "word": "Joint Account",
+        "description": "A joint account is a bank or investment account shared by two or more individuals, who have equal access to and responsibility for the account."
+    },
+    {
+        "word": "Keogh Plan",
+        "description": "A Keogh plan is a tax-deferred retirement savings plan for self-employed individuals and small business owners."
+    },
+    {
+        "word": "Lien",
+        "description": "A lien is a legal claim or right on a property, typically used as collateral for a loan or to satisfy a debt."
+    },
+    {
+        "word": "Minimum Payment",
+        "description": "The minimum payment is the smallest amount of money that a borrower must pay towards a debt each month to avoid default, typically calculated as a percentage of the total balance."
+    },
+    {
+        "word": "Prepayment Penalty",
+        "description": "A prepayment penalty is a fee charged to a borrower who pays off a loan or mortgage before the designated term."
+    },
+    {
+        "word": "Savings Account",
+        "description": "A savings account is a bank account that allows individuals to deposit money and earn interest on their savings."
+    },
+    {
+        "word": "Stock Option",
+        "description": "A stock option is a contract that gives an individual the right to buy or sell shares of a stock at a specified price within a specific time period."
+    },
+    {
+        "word": "Taxable Income",
+        "description": "Taxable income is an individual's total gross income, minus any deductions or exemptions, used to calculate the amount of income tax owed."
+    },
+    {
+        "word": "Tuition Reimbursement",
+        "description": "Tuition reimbursement is a benefit offered by employers to help employees pay for education expenses, typically related to job-related courses or degree programs."
+    },
+    {
+        "word": "Umbrella Insurance",
+        "description": "Umbrella insurance is liability insurance that provides additional coverage beyond the limits of other policies, such as homeowners or auto insurance."
+    },
+    {
+        "word": "Will",
+        "description": "A will is a legal document that outlines an individual's wishes regarding the distribution of their assets and the care of their minor children after their death."
+    },
+    {
+        "word": "Zero-Coupon Bond",
+        "description": "A zero-coupon bond is a bond that is sold at a discount from face value and does not pay periodic interest payments, but instead pays a lump sum at maturity."
+    }
+]
