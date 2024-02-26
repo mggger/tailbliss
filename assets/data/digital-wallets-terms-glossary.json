@@ -1,0 +1,402 @@
+[
+    {
+        "word": "Digital Wallet",
+        "description": "A digital wallet, or e-wallet, is a software-based system that securely stores payment information, such as credit card details, for convenient and secure online transactions."
+    },
+    {
+        "word": "Mobile Payments",
+        "description": "Mobile payments refer to transactions made using a mobile device, such as a smartphone or tablet, through a digital wallet or a mobile payment app."
+    },
+    {
+        "word": "Contactless Payments",
+        "description": "Contactless payments enable users to make transactions without physically swiping or inserting their payment cards, by tapping or waving their digital wallets or cards near a contactless-enabled terminal."
+    },
+    {
+        "word": "Nfc",
+        "description": "Near Field Communication (NFC) is a technology that enables two electronic devices, such as a digital wallet and a payment terminal, to communicate wirelessly when they are within a short range."
+    },
+    {
+        "word": "Qr Code",
+        "description": "QR Code, short for Quick Response Code, is a two-dimensional barcode that can be scanned by a digital wallet or a mobile device to quickly access information or make payments."
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "Biometric authentication involves using unique physical or behavioral characteristics, such as fingerprints or facial recognition, to verify the user's identity before granting access to the digital wallet."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of replacing sensitive payment data, such as credit card numbers, with a unique identifier, or token, to enhance security and reduce the risk of data breaches."
+    },
+    {
+        "word": "Peer-To-Peer Payments",
+        "description": "Peer-to-peer (P2P) payments are transactions that allow individuals to send and receive money directly from their bank accounts or digital wallets without the need for intermediaries."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual currency that uses cryptography for secure financial transactions and controls the creation of additional units."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed ledger technology that securely records transactions across multiple computers, providing transparency and tamper-proof transaction history."
+    },
+    {
+        "word": "Virtual Card",
+        "description": "A virtual card is a digital representation of a physical payment card that can be stored in a digital wallet and used for online or in-app purchases without the need for the physical card."
+    },
+    {
+        "word": "Token-Based Payments",
+        "description": "Token-based payments refer to transactions where a token, which represents the payment information, is used instead of sharing actual card details during the payment process."
+    },
+    {
+        "word": "Two-Factor Authentication",
+        "description": "Two-factor authentication (2FA) adds an extra layer of security to digital wallets by requiring users to provide two forms of identification, such as a password and a unique verification code."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet, often involving digital wallet payments for online transactions."
+    },
+    {
+        "word": "M-Commerce",
+        "description": "M-commerce, short for mobile commerce, refers to the buying and selling of goods and services using a mobile device, such as a smartphone or tablet."
+    },
+    {
+        "word": "Open Banking",
+        "description": "Open banking is a regulatory framework that allows third-party financial service providers to access and utilize a user's financial data, with their consent, to offer personalized services."
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "A payment gateway is a technology that connects digital wallet platforms or merchants to the banking system, facilitating the authorization and settlement of digital transactions."
+    },
+    {
+        "word": "Merchant Account",
+        "description": "A merchant account is a type of bank account that enables businesses to accept payments from customers via credit or debit cards."
+    },
+    {
+        "word": "Emv",
+        "description": "EMV, which stands for Europay, Mastercard, and Visa, is a global standard for chip-based payment cards and terminals to enhance security and reduce fraud."
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "Fraud detection involves using advanced technologies, such as machine learning and AI, to identify patterns and anomalies in transaction data and prevent fraudulent activities in digital wallets."
+    },
+    {
+        "word": "Fintech",
+        "description": "Fintech, short for financial technology, refers to innovative technology-driven solutions that enhance and automate financial services, including digital wallet platforms."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a user or device, typically through the use of passwords, biometrics, or security tokens."
+    },
+    {
+        "word": "Authorization",
+        "description": "Authorization is the process of granting or denying access to certain resources or functionalities based on the authenticated user's permissions or privileges."
+    },
+    {
+        "word": "Secure Element",
+        "description": "A secure element is a hardware or software component within a smartphone or other devices that provides a secure and isolated environment for storing sensitive information, such as payment credentials."
+    },
+    {
+        "word": "Transaction Limit",
+        "description": "A transaction limit is a predefined maximum amount that can be spent, transferred, or withdrawn within a specified period of time."
+    },
+    {
+        "word": "Digital Identity",
+        "description": "A digital identity is a unique virtual representation of an individual or entity, which includes personal information, authentication credentials, and entitlements."
+    },
+    {
+        "word": "One-Click Checkout",
+        "description": "One-click checkout is a feature that allows users to make purchases with a single click, without the need to re-enter their payment and shipping information."
+    },
+    {
+        "word": "Wallet Balance",
+        "description": "Wallet balance refers to the amount of funds available in a user's digital wallet."
+    },
+    {
+        "word": "Kyc",
+        "description": "KYC stands for Know Your Customer, a process that financial institutions and businesses use to verify the identity and assess the suitability of their customers before establishing a business relationship."
+    },
+    {
+        "word": "Aml",
+        "description": "AML, which stands for Anti-Money Laundering, refers to a set of regulations and procedures aimed at detecting and preventing money laundering activities within the financial industry, including digital wallet platforms."
+    },
+    {
+        "word": "Middleware",
+        "description": "Middleware refers to software that acts as a bridge or intermediary between different applications, enabling communication and data transfer between them."
+    },
+    {
+        "word": "Api",
+        "description": "API stands for Application Programming Interface, a set of rules and protocols that allows different software applications to communicate and exchange data with each other."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is the process of encoding data or information in such a way that only authorized parties with the decryption keys can access or interpret the data, ensuring its confidentiality."
+    },
+    {
+        "word": "Decryption",
+        "description": "Decryption is the process of converting encrypted data back into its original, readable form using a decryption key."
+    },
+    {
+        "word": "Ssl",
+        "description": "SSL stands for Secure Sockets Layer, a cryptographic protocol that provides secure communication over the internet, ensuring data confidentiality, integrity, and authentication."
+    },
+    {
+        "word": "Pci Dss",
+        "description": "PCI DSS stands for Payment Card Industry Data Security Standard, a set of security standards designed to ensure the safe handling of cardholder data during payment card transactions."
+    },
+    {
+        "word": "Optical Character Recognition",
+        "description": "Optical Character Recognition (OCR) is a technology that converts different types of documents, such as scanned paper documents or images, into edit-ready and searchable data."
+    },
+    {
+        "word": "Payment Settlement",
+        "description": "Payment settlement is the process by which funds are transferred between different entities, such as merchants, customers, and banks, to complete a payment transaction."
+    },
+    {
+        "word": "Dispute Resolution",
+        "description": "Dispute resolution refers to the process of resolving conflicts or disputes between customers, businesses, and financial institutions regarding payment transactions or other related matters."
+    },
+    {
+        "word": "Token Economy",
+        "description": "A token economy is a system where digital tokens are used as a form of exchange or value representation within a specific digital ecosystem or platform."
+    },
+    {
+        "word": "Rewards Program",
+        "description": "A rewards program is a loyalty program offered by businesses to incentivize customers by providing them with benefits, discounts, or rewards for their continued patronage."
+    },
+    {
+        "word": "Digital Receipt",
+        "description": "A digital receipt, also known as an e-receipt, is an electronic version of a paper receipt that is sent to a customer's email or stored in their digital wallet after a transaction."
+    },
+    {
+        "word": "Subscription Billing",
+        "description": "Subscription billing is a recurring payment model used by businesses to charge customers at regular intervals, typically monthly or annually, for access to a product or service."
+    },
+    {
+        "word": "Banking-As-A-Service",
+        "description": "Banking-as-a-Service (BaaS) is a financial service model that allows non-financial companies to leverage banking infrastructure and services, including digital wallets, through APIs."
+    },
+    {
+        "word": "Microtransactions",
+        "description": "Microtransactions are small-value financial transactions, often in the range of cents or pence, that occur frequently and enable the purchase of digital goods or services."
+    },
+    {
+        "word": "Remittance",
+        "description": "Remittance refers to money that is sent or transferred by individuals working in a foreign country back to their home country, often to support their families or cover living expenses."
+    },
+    {
+        "word": "Fiat Currency",
+        "description": "Fiat currency is a form of currency that is issued by a government and is not backed by a physical commodity, such as gold or silver, but by the trust and confidence of the people using it."
+    },
+    {
+        "word": "In-App Payments",
+        "description": "In-app payments enable users to make purchases within a mobile application using their digital wallets, eliminating the need to exit the app and enter payment information separately."
+    },
+    {
+        "word": "Omnichannel Payments",
+        "description": "Omnichannel payments refer to the ability to accept payments from customers across multiple channels, including online, in-store, mobile, and other digital platforms, providing a seamless payment experience."
+    },
+    {
+        "word": "Digital Currency Wallet",
+        "description": "A digital currency wallet is a software application or hardware device that allows users to securely store, send, and receive digital currencies, such as Bitcoin or Ethereum."
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "Smart contracts are self-executing contracts with predefined rules and conditions encoded in computer programs, automatically enforcing the terms of agreements stored on the blockchain."
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "A distributed ledger is a type of database that is shared, replicated, and synchronized across multiple nodes or computers in a network, providing a transparent and decentralized record of transactions."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, allowing them to perform tasks that usually require human cognitive abilities, such as learning, problem-solving, and decision-making."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data and improve their performance over time without being explicitly programmed."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to the large volume of structured and unstructured data that inundates businesses on a daily basis, which can be analyzed to derive insights and make data-driven decisions."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection and proper handling of personal data, ensuring that individuals have control over how their information is collected, used, and shared by organizations."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing is the delivery of computing services, including servers, storage, databases, networking, software, analytics, and more, over the internet on a pay-as-you-go basis."
+    },
+    {
+        "word": "Byzantine Fault Tolerance",
+        "description": "Byzantine Fault Tolerance (BFT) is a property of a distributed system that allows it to reach consensus even if some nodes in the network fail or behave maliciously."
+    },
+    {
+        "word": "Ethereum",
+        "description": "Ethereum is an open-source blockchain platform that enables the creation and deployment of decentralized applications (dApps) and smart contracts."
+    },
+    {
+        "word": "Cryptocurrency Exchange",
+        "description": "A cryptocurrency exchange is a digital marketplace where users can buy, sell, and trade cryptocurrencies with other users, using traditional fiat currencies or other cryptocurrencies."
+    },
+    {
+        "word": "Stablecoin",
+        "description": "A stablecoin is a type of cryptocurrency that is designed to minimize price volatility by pegging its value to a stable asset, such as a fiat currency or a commodity."
+    },
+    {
+        "word": "Financial Inclusion",
+        "description": "Financial inclusion aims to provide individuals and communities, who are excluded from traditional banking services, access to affordable and secure financial products, including digital wallets."
+    },
+    {
+        "word": "Contactless Payment",
+        "description": "Contactless payment allows users to make transactions by tapping or waving their digital wallets or cards near a contactless-enabled terminal, eliminating the need for physical contact or swiping."
+    },
+    {
+        "word": "P2P Payments",
+        "description": "Peer-to-Peer (P2P) payments allow individuals to transfer money directly from their digital wallets to another person's wallet without the involvement of traditional financial institutions."
+    },
+    {
+        "word": "Wallet Encryption",
+        "description": "Wallet encryption is the process of protecting the digital wallet and its stored payment information by encrypting the data, ensuring that only authorized users can access and decrypt it."
+    },
+    {
+        "word": "Tokenized Payments",
+        "description": "Tokenized payments use tokenization technology to replace sensitive card information with a randomly generated token, ensuring secure transactions without exposing the actual payment data."
+    },
+    {
+        "word": "Peer-To-Merchant Payments",
+        "description": "Peer-to-Merchant (P2M) payments enable consumers to use their digital wallets to make direct payments to merchants without the need for physical cash or traditional payment methods."
+    },
+    {
+        "word": "Loyalty Programs",
+        "description": "Loyalty programs are marketing strategies used by businesses to reward customers for their repeat purchases or specific behaviors, often in the form of discounts, points, or exclusive offers."
+    },
+    {
+        "word": "Emoney",
+        "description": "E-money, or electronic money, refers to digital or virtual currency stored in electronic form and used for electronic transactions, such as those made through digital wallets."
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive design is an approach to design and development that adapts the layout and user interface of a digital wallet to provide an optimal viewing and interaction experience across different devices and screen sizes."
+    },
+    {
+        "word": "Bill Splitting",
+        "description": "Bill splitting is a feature of digital wallets that allows users to divide the cost of shared expenses, such as meals or rent, among multiple individuals and make separate payments."
+    },
+    {
+        "word": "Remittances",
+        "description": "Remittances are money transfers sent by individuals, typically migrants, to their home country through digital wallet platforms or other financial channels."
+    },
+    {
+        "word": "Offline Payments",
+        "description": "Offline payments refer to transactions made using digital wallets in situations where an internet connection is unavailable by utilizing technologies such as QR codes or NFC."
+    },
+    {
+        "word": "Cryptocurrency Wallet",
+        "description": "A cryptocurrency wallet is a software program or hardware device that securely stores and manages a user's digital assets, such as Bitcoin, Ethereum, or other cryptocurrencies."
+    },
+    {
+        "word": "Decentralized Finance",
+        "description": "Decentralized finance, also known as DeFi, refers to a financial system built on the blockchain that aims to provide open, permissionless, and decentralized alternatives to traditional financial intermediaries."
+    },
+    {
+        "word": "Know Your Customer",
+        "description": "Know Your Customer (KYC) is a regulatory requirement that mandates businesses to verify and collect customers' identification and financial information to prevent fraud, money laundering, and other illicit activities."
+    },
+    {
+        "word": "Transaction Fees",
+        "description": "Transaction fees are charges levied by digital wallet providers for processing transactions conducted through their platforms, typically a percentage of the transaction value or a fixed amount."
+    },
+    {
+        "word": "Security Patch",
+        "description": "A security patch is a software update released by digital wallet providers to address security vulnerabilities or fix bugs, ensuring the protection and integrity of the digital wallet platform."
+    },
+    {
+        "word": "Multi-Currency Wallet",
+        "description": "A multi-currency wallet is a digital wallet that allows users to store and manage multiple types of currencies, both traditional and digital, in a single platform."
+    },
+    {
+        "word": "Mobile Wallet",
+        "description": "A mobile wallet is a digital wallet that is specifically designed and optimized for use on mobile devices, such as smartphones or tablets."
+    },
+    {
+        "word": "Merchant Services",
+        "description": "Merchant services refer to the range of financial services and solutions provided to businesses to facilitate the acceptance of digital payments, including integration with digital wallet platforms."
+    },
+    {
+        "word": "One-Touch Payment",
+        "description": "One-touch payment enables users to make purchases or payments with a single touch or click, without the need to enter payment information or authenticate the transaction separately."
+    },
+    {
+        "word": "E-Invoicing",
+        "description": "E-invoicing is the process of generating, sending, and receiving electronic invoices within digital wallet platforms, eliminating the need for paper-based invoices and streamlining the payment process."
+    },
+    {
+        "word": "Account Aggregation",
+        "description": "Account aggregation is a feature of digital wallet platforms that allows users to view and manage multiple financial accounts, including bank accounts, credit cards, and investments, in a single interface."
+    },
+    {
+        "word": "In-Store Payments",
+        "description": "In-store payments involve using digital wallets to make purchases at physical retail stores by tapping or scanning the digital wallet or a linked payment card at a contactless-enabled terminal."
+    },
+    {
+        "word": "Subscription Payments",
+        "description": "Subscription payments refer to recurring payments made through digital wallets for subscription-based services, such as streaming platforms or software subscriptions."
+    },
+    {
+        "word": "Fund Transfers",
+        "description": "Fund transfers enable users to send money from their digital wallets to another person or organization, either domestically or internationally, often with the option of using various transfer methods."
+    },
+    {
+        "word": "Cross-Border Payments",
+        "description": "Cross-border payments involve transferring money or making transactions between individuals or businesses located in different countries using digital wallet platforms or other electronic payment systems."
+    },
+    {
+        "word": "Digital Receipts",
+        "description": "Digital receipts, or e-receipts, are electronic versions of paper receipts that are automatically generated and sent to users' digital wallets after making a purchase, providing a record of the transaction."
+    },
+    {
+        "word": "Customer Support",
+        "description": "Customer support refers to the assistance and services provided by digital wallet providers to address user queries, concerns, or issues, often through various channels such as live chat, phone, or email."
+    },
+    {
+        "word": "Qr Code Payments",
+        "description": "QR code payments allow users to make payments by scanning QR codes displayed at merchant establishments using their digital wallets, linking the payment to the specific transaction."
+    },
+    {
+        "word": "Virtual Wallet",
+        "description": "A virtual wallet is an online or digital account that allows users to store and manage their payment information, conduct transactions, and make purchases through digital channels."
+    },
+    {
+        "word": "Reward Points",
+        "description": "Reward points are loyalty points earned by users when making purchases or transactions through digital wallets, which can be redeemed for discounts, vouchers, or other incentives."
+    },
+    {
+        "word": "Digital Currency Exchange",
+        "description": "A digital currency exchange is a platform or service that allows users to buy, sell, or trade digital currencies, including cryptocurrencies, using their digital wallets."
+    },
+    {
+        "word": "Payment Fraud",
+        "description": "Payment fraud refers to any illegal or unauthorized activity carried out with the intent to deceive or gain monetary benefits from digital wallet transactions, potentially resulting in financial losses for users or businesses."
+    },
+    {
+        "word": "Voice Payments",
+        "description": "Voice payments enable users to make payments or complete transactions through their digital wallets using voice commands or voice recognition technology, offering a convenient hands-free payment experience."
+    },
+    {
+        "word": "True Wallet",
+        "description": "A true wallet is a term commonly used in some regions to refer to digital wallet platforms that offer a comprehensive range of financial services, including payments, money transfers, and other banking features."
+    },
+    {
+        "word": "Digital Wallet Adoption",
+        "description": "Digital wallet adoption refers to the rate at which consumers or businesses adopt and start using digital wallet platforms for their financial transactions, influenced by factors such as convenience, security, and acceptance."
+    },
+    {
+        "word": "Digital Wallet Integration",
+        "description": "Digital wallet integration refers to the process of incorporating digital wallet functionality into websites, applications, or other platforms, enabling users to make payments or transactions seamlessly."
+    },
+    {
+        "word": "Recurring Payments",
+        "description": "Recurring payments are transactions that occur on a regular basis, often automatically deducted from a user's digital wallet, such as monthly bills or subscription renewals."
+    }
+]
