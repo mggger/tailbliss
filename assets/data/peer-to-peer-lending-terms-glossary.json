@@ -1,0 +1,490 @@
+[
+    {
+        "word": "Peer-To-Peer Lending",
+        "description": "Peer-to-Peer Lending, also known as P2P lending or social lending, is a form of borrowing and lending that connects individual lenders with borrowers through an online platform."
+    },
+    {
+        "word": "Borrower",
+        "description": "A borrower is an individual or business entity that seeks funds from lenders through a peer-to-peer lending platform in order to finance a specific purpose."
+    },
+    {
+        "word": "Lender",
+        "description": "A lender is an individual or institution that provides funds to borrowers through a peer-to-peer lending platform, expecting to earn interest on the funds lent."
+    },
+    {
+        "word": "Loan Listing",
+        "description": "A loan listing is a detailed description of a borrower's loan request, including loan amount, interest rate, term, and purpose, posted on a Peer-to-Peer Lending platform."
+    },
+    {
+        "word": "Interest Rate",
+        "description": "The interest rate is the cost of borrowing money, typically expressed as an annual percentage rate (APR), that lenders charge borrowers for using their funds."
+    },
+    {
+        "word": "Creditworthiness",
+        "description": "Creditworthiness refers to a borrower's ability to repay their debts based on factors such as credit history, income, employment stability, and financial stability."
+    },
+    {
+        "word": "Default",
+        "description": "Default occurs when a borrower fails to repay their loan according to the agreed terms, resulting in financial consequences for the borrower and potential loss for the lender."
+    },
+    {
+        "word": "Collections",
+        "description": "Collections is the process of attempting to recover funds from borrowers who have defaulted on their loans."
+    },
+    {
+        "word": "Origination Fee",
+        "description": "An origination fee is a one-time fee charged by the lender during loan processing as compensation for administrative costs associated with approving and disbursing the loan."
+    },
+    {
+        "word": "Securitization",
+        "description": "Securitization is the process of pooling a group of loans together and transforming them into tradable financial securities, allowing lenders to sell or transfer their loan investments to other investors."
+    },
+    {
+        "word": "Secondary Market",
+        "description": "A secondary market is a platform where lenders can sell their existing loan investments to other investors, allowing them to exit the investment before the loan term ends."
+    },
+    {
+        "word": "Auto-Invest",
+        "description": "Auto-invest is a feature offered by peer-to-peer lending platforms that enables investors to automatically allocate their funds across multiple loans based on pre-set criteria such as loan type, credit rating, and interest rate."
+    },
+    {
+        "word": "Diversification",
+        "description": "Diversification refers to the practice of spreading an investment portfolio across multiple loans or borrowers to reduce the risk of lost principal in case of default."
+    },
+    {
+        "word": "Repayment",
+        "description": "Repayment is the act of returning the borrowed amount to the lender, usually in regular installments that include interest."
+    },
+    {
+        "word": "Underwriting",
+        "description": "Underwriting is the process of evaluating and assessing the creditworthiness of borrowers, which involves analyzing their financial background, income sources, credit history, and other relevant factors."
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "Risk assessment is the evaluation of the potential risks associated with lending funds to borrowers, taking into account factors such as creditworthiness, market conditions, and economic indicators."
+    },
+    {
+        "word": "Default Rate",
+        "description": "The default rate is the percentage of loans within a peer-to-peer lending platform's portfolio that have experienced default or non-repayment."
+    },
+    {
+        "word": "Loan Term",
+        "description": "The loan term is the agreed-upon period of time within which a loan is expected to be repaid by the borrower to the lender."
+    },
+    {
+        "word": "Grace Period",
+        "description": "Grace period is a predetermined period after the due date during which borrowers can make payments without incurring late fees or penalties."
+    },
+    {
+        "word": "Collateral",
+        "description": "Collateral is an asset or property pledged by a borrower to a lender as security for a loan, which the lender can seize and sell to recover funds in case of default."
+    },
+    {
+        "word": "Kyc",
+        "description": "KYC stands for 'Know Your Customer' and refers to the process of verifying the identity and financial status of potential borrowers."
+    },
+    {
+        "word": "Aml",
+        "description": "AML stands for 'Anti-Money Laundering' and refers to the measures and regulations in place to prevent the illegal use of financial systems for money laundering."
+    },
+    {
+        "word": "Regulation",
+        "description": "Regulation refers to the rules and laws set by government authorities to govern and oversee the operations of Peer-to-Peer lending platforms."
+    },
+    {
+        "word": "Marketplace",
+        "description": "Marketplace is an online platform where borrowers and lenders can connect and transact in Peer-to-Peer Lending."
+    },
+    {
+        "word": "Risk Mitigation",
+        "description": "Risk mitigation refers to the strategies and measures put in place to minimize and manage risks associated with Peer-to-Peer Lending."
+    },
+    {
+        "word": "Secured Loan",
+        "description": "A secured loan is a type of loan that is backed by collateral, such as property or assets, reducing the lender's risk in case of default."
+    },
+    {
+        "word": "Unsecured Loan",
+        "description": "An unsecured loan is a type of loan that does not require collateral and is based solely on the borrower's creditworthiness, posing higher risk for the lender."
+    },
+    {
+        "word": "Roi",
+        "description": "ROI stands for 'Return on Investment' and refers to the profitability or return earned on an investment in Peer-to-Peer Lending."
+    },
+    {
+        "word": "Default Recovery",
+        "description": "Default recovery refers to the actions taken by lenders or debt collection agencies to recover outstanding debt or funds from defaulted loans, typically involving legal procedures or asset repossession."
+    },
+    {
+        "word": "Risk Rating",
+        "description": "Risk rating is an assessment or score assigned to a loan or borrower based on their creditworthiness and the associated risk."
+    },
+    {
+        "word": "Loan Agreement",
+        "description": "A loan agreement is a legally binding contract that outlines the terms and conditions of a loan."
+    },
+    {
+        "word": "Credit Score",
+        "description": "A credit score is a numerical representation of an individual's creditworthiness, based on their credit history and other factors."
+    },
+    {
+        "word": "Yield",
+        "description": "Yield refers to the return on investment that lenders receive from their peer-to-peer lending activities, including interest earned and potential capital gains."
+    },
+    {
+        "word": "Servicing Fee",
+        "description": "A servicing fee is a charge imposed by the peer-to-peer lending platform to compensate for the cost of servicing and managing a loan, including collection and administrative tasks."
+    },
+    {
+        "word": "Payment Schedule",
+        "description": "A payment schedule is a timetable that outlines the due dates and amounts of loan repayments for borrowers."
+    },
+    {
+        "word": "Default Risk",
+        "description": "Default risk is the probability or likelihood of a borrower defaulting or failing to repay their loan in accordance with the agreed terms, as determined by various risk assessment factors."
+    },
+    {
+        "word": "Loan Originator",
+        "description": "A loan originator is a financial institution or platform that originates and underwrites loans before offering them to lenders on a Peer-to-Peer Lending platform."
+    },
+    {
+        "word": "Default Insurance",
+        "description": "Default insurance, also known as loan protection insurance or credit insurance, is a financial product that offers protection to lenders against potential losses arising from borrower defaults or non-repayment."
+    },
+    {
+        "word": "Liquidity",
+        "description": "Liquidity refers to the ease with which an asset or investment can be bought or sold without causing significant price fluctuations or impacting the overall market."
+    },
+    {
+        "word": "Prepayment",
+        "description": "Prepayment occurs when a borrower pays off their loan before the agreed-upon maturity date, often resulting in penalty charges or fees for the borrower."
+    },
+    {
+        "word": "Amortization",
+        "description": "Amortization is the gradual repayment of a loan over time through regular installments, consisting of both principal and interest payments."
+    },
+    {
+        "word": "Roa",
+        "description": "ROA stands for 'Return on Assets' and measures the profitability of a Peer-to-Peer Lending platform based on its total assets."
+    },
+    {
+        "word": "Roe",
+        "description": "ROE stands for 'Return on Equity' and measures the profitability of a Peer-to-Peer Lending platform based on its shareholders' equity."
+    },
+    {
+        "word": "Principal",
+        "description": "The principal is the original amount of money lent by the lender to the borrower, excluding any interest or fees."
+    },
+    {
+        "word": "Bad Debt",
+        "description": "Bad debt refers to loans that are unlikely to be repaid, often resulting in financial losses for lenders."
+    },
+    {
+        "word": "Secondary Loan Market",
+        "description": "Secondary loan market is a marketplace where existing loans can be bought and sold between investors."
+    },
+    {
+        "word": "Default Risk Premium",
+        "description": "Default risk premium is the additional interest rate or return demanded by lenders to compensate for the risk of borrower default."
+    },
+    {
+        "word": "Financial Inclusion",
+        "description": "Financial inclusion refers to the accessibility of financial services, including Peer-to-Peer Lending, to individuals and businesses who are unbanked or underserved by traditional financial institutions."
+    },
+    {
+        "word": "Loan Portfolio",
+        "description": "A loan portfolio is a collection of loans held by a lender or Peer-to-Peer Lending platform."
+    },
+    {
+        "word": "Expected Return",
+        "description": "Expected return is the anticipated profitability or yield on an investment in Peer-to-Peer Lending, taking into account the associated risks."
+    },
+    {
+        "word": "Debt Consolidation",
+        "description": "Debt consolidation is the process of combining multiple debts into a single loan with a lower interest rate."
+    },
+    {
+        "word": "Sme",
+        "description": "SME stands for 'Small and Medium-sized Enterprises' and refers to businesses with moderate revenue and employee numbers, which often seek loans from Peer-to-Peer Lending platforms."
+    },
+    {
+        "word": "Solvency",
+        "description": "Solvency is the ability of a borrower to meet their financial obligations and repay their debts."
+    },
+    {
+        "word": "Platform Fee",
+        "description": "Platform fee is a fee charged by Peer-to-Peer Lending platforms for facilitating loan transactions and providing support and services to borrowers and lenders."
+    },
+    {
+        "word": "Principal Balance",
+        "description": "Principal balance is the outstanding amount of the loan, excluding interest and fees, that a borrower still owes to lenders."
+    },
+    {
+        "word": "Default Risk Analysis",
+        "description": "Default risk analysis is the process of evaluating and assessing the likelihood and impact of borrower default based on various factors, such as creditworthiness and economic conditions."
+    },
+    {
+        "word": "Terms And Conditions",
+        "description": "Terms and conditions refer to the legal agreement and provisions that govern the relationship between borrowers, lenders, and Peer-to-Peer Lending platforms."
+    },
+    {
+        "word": "Platform",
+        "description": "The Peer-to-Peer lending platform refers to the online marketplace that connects borrowers and lenders."
+    },
+    {
+        "word": "Credit Risk",
+        "description": "Credit risk refers to the potential loss that lenders may incur due to borrowers' failure to repay their loans, often associated with factors such as borrower defaults and insolvencies."
+    },
+    {
+        "word": "Investor",
+        "description": "An investor is an individual or an institution that provides funds to lenders in a Peer-to-Peer lending platform to earn returns."
+    },
+    {
+        "word": "Late Payment",
+        "description": "A late payment occurs when a borrower fails to make a loan repayment on time."
+    },
+    {
+        "word": "Auto Investing",
+        "description": "Auto investing is a feature offered by some Peer-to-Peer lending platforms that allows investors to automatically invest in loans that meet certain criteria."
+    },
+    {
+        "word": "Annual Percentage Rate (Apr)",
+        "description": "The Annual Percentage Rate (APR) is the annualized interest rate that includes both the interest and any additional fees or charges associated with a loan."
+    },
+    {
+        "word": "Revolving Loan",
+        "description": "A revolving loan is a type of loan that allows borrowers to withdraw, repay, and redraw funds as needed, up to a predetermined credit limit."
+    },
+    {
+        "word": "Default Guarantee",
+        "description": "A default guarantee is a financial instrument used by Peer-to-Peer lending platforms to protect investors against borrower defaults."
+    },
+    {
+        "word": "Smoothing",
+        "description": "Smoothing is a risk mitigation technique used by Peer-to-Peer lending platforms to reduce the impact of irregular loan repayments on investor returns."
+    },
+    {
+        "word": "Prepayment Penalty",
+        "description": "A prepayment penalty is a fee charged to a borrower who repays their loan before the agreed-upon maturity date."
+    },
+    {
+        "word": "Charge-Off",
+        "description": "A charge-off occurs when a lender declares a loan as uncollectible and removes it from their books as a loss."
+    },
+    {
+        "word": "Risk-Based Pricing",
+        "description": "Risk-based pricing is a strategy in which the interest rates and fees charged to borrowers are determined based on their individual credit risk."
+    },
+    {
+        "word": "Crowdfunding",
+        "description": "Crowdfunding is a method of raising funds from a large number of individuals or investors through an online platform, often involving small contributions from multiple sources."
+    },
+    {
+        "word": "Secure Socket Layer (Ssl)",
+        "description": "Secure Socket Layer (SSL) is a cryptographic protocol that ensures secure communication between a web browser and a web server."
+    },
+    {
+        "word": "Anti-Money Laundering (Aml)",
+        "description": "Anti-Money Laundering (AML) refers to a set of regulations and procedures designed to prevent the illegal generation of income and the hiding of money obtained through criminal activities."
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "Know Your Customer (KYC) is a process through which peer-to-peer lending platforms verify the identity and assess the credibility of borrowers and lenders before allowing them access to the platform."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection and control of personal and sensitive information of borrowers and lenders, ensuring that their data is collected, stored, and used in compliance with applicable laws and regulations."
+    },
+    {
+        "word": "Default Probability",
+        "description": "Default probability is an estimation of the likelihood that a borrower will default on their loan."
+    },
+    {
+        "word": "Loan Origination",
+        "description": "Loan origination is the process of creating and processing a new loan application."
+    },
+    {
+        "word": "Reinvestment Risk",
+        "description": "Reinvestment risk is the risk that the funds received from loan repayments cannot be reinvested at the same rate of return."
+    },
+    {
+        "word": "Loss Given Default",
+        "description": "Loss Given Default is a measure of the severity of financial loss incurred by an investor in the event of a borrower default."
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "Regulatory compliance refers to the adherence and adherence to the rules, regulations, and guidelines set forth by governmental and regulatory bodies governing the peer-to-peer lending industry."
+    },
+    {
+        "word": "Cash Flow",
+        "description": "Cash flow is the net amount of cash and cash equivalents entering and leaving a business or investment."
+    },
+    {
+        "word": "Arbitrage",
+        "description": "Arbitrage is the practice of taking advantage of price differences in different markets to make a profit."
+    },
+    {
+        "word": "Net Asset Value (Nav)",
+        "description": "Net Asset Value (NAV) is the value of a fund's underlying assets, such as loans or investments, minus its liabilities, typically expressed per share unit and used to determine the fund's performance."
+    },
+    {
+        "word": "Price-To-Earnings (P/E) Ratio",
+        "description": "The Price-to-Earnings (P/E) ratio is a valuation ratio that compares a company's stock price to its earnings per share."
+    },
+    {
+        "word": "Diversification Ratio",
+        "description": "Diversification ratio is a measure of the extent to which an investment portfolio is diversified across different loans or borrowers."
+    },
+    {
+        "word": "Risk-Adjusted Return",
+        "description": "Risk-adjusted return is the return on an investment adjusted for the level of risk taken to achieve the returns."
+    },
+    {
+        "word": "Arrears",
+        "description": "Arrears refers to the amount of unpaid or overdue debt that a borrower owes to a lender, usually measured in terms of missed loan payments."
+    },
+    {
+        "word": "Repayment Schedule",
+        "description": "A repayment schedule outlines the timing and amounts of loan repayments that the borrower is expected to make to the lender, including interest and principal payments."
+    },
+    {
+        "word": "Sme Lending",
+        "description": "SME lending refers to the provision of loans specifically targeted at small and medium-sized enterprises to support their growth, operations, or expansion plans."
+    },
+    {
+        "word": "Fintech",
+        "description": "Fintech, short for financial technology, refers to technology-driven innovation in financial services, including peer-to-peer lending platforms."
+    },
+    {
+        "word": "Auction",
+        "description": "An auction is a process used by some peer-to-peer lending platforms to determine the interest rate and terms of a loan by allowing lenders to bid on how much they are willing to lend and at what interest rate."
+    },
+    {
+        "word": "Regulations",
+        "description": "Regulations are rules and guidelines set forth by governmental and regulatory bodies that govern the operations and practices of peer-to-peer lending platforms to protect investors and borrowers."
+    },
+    {
+        "word": "Risk Premium",
+        "description": "A risk premium is the additional return or compensation demanded by lenders for taking on the increased risk associated with lending funds to borrowers with a higher risk of default."
+    },
+    {
+        "word": "Marketplace Lending",
+        "description": "Marketplace lending is another term used to describe peer-to-peer lending, emphasizing the role of online platforms as marketplaces connecting borrowers and lenders."
+    },
+    {
+        "word": "Microfinance",
+        "description": "Microfinance is the provision of financial services, including small loans, to low-income individuals or underserved populations who typically lack access to traditional banking services."
+    },
+    {
+        "word": "Securities",
+        "description": "Securities are tradable financial instruments representing ownership in a company or entity, such as stocks, bonds, or asset-backed securities."
+    },
+    {
+        "word": "Due Diligence",
+        "description": "Due diligence is the process of conducting thorough research and investigation to assess the risks and potential of an investment opportunity, such as evaluating the creditworthiness of borrowers."
+    },
+    {
+        "word": "Initial Public Offering (Ipo)",
+        "description": "An Initial Public Offering (IPO) is the process through which a private company becomes publicly traded by offering its shares for purchase on a stock exchange."
+    },
+    {
+        "word": "Liquidation",
+        "description": "Liquidation is the process of winding up and selling off a company or asset to repay creditors or investors, often occurring in the event of insolvency or bankruptcy."
+    },
+    {
+        "word": "Securities And Exchange Commission (Sec)",
+        "description": "The Securities and Exchange Commission (SEC) is a governmental regulatory agency responsible for enforcing securities laws and protecting investors in the United States."
+    },
+    {
+        "word": "Alternative Credit Data",
+        "description": "Alternative credit data refers to non-traditional sources of information used by peer-to-peer lending platforms to assess the creditworthiness of borrowers, such as utility bill payments or rental history, in addition to traditional credit scores."
+    },
+    {
+        "word": "Capital Loss",
+        "description": "A capital loss occurs when the selling price of an investment is lower than its original purchase price, resulting in a financial loss for the investor."
+    },
+    {
+        "word": "Capital Gain",
+        "description": "A capital gain occurs when the selling price of an investment is higher than its original purchase price, resulting in a financial gain for the investor."
+    },
+    {
+        "word": "Securities Offering",
+        "description": "A securities offering is the process through which a company offers its securities, such as stocks or bonds, to investors for purchase."
+    },
+    {
+        "word": "Market Risk",
+        "description": "Market risk refers to the potential loss or negative impact on investment value due to factors such as macroeconomic conditions, market fluctuations, or changes in interest rates."
+    },
+    {
+        "word": "Consumer Lending",
+        "description": "Consumer lending refers to the provision of loans to individuals for personal, non-business purposes, such as financing a car, home improvements, or debt consolidation."
+    },
+    {
+        "word": "Automated Underwriting",
+        "description": "Automated underwriting is the use of computer algorithms and machine learning techniques to assess the creditworthiness of borrowers and determine loan eligibility and interest rates."
+    },
+    {
+        "word": "Algorithmic Trading",
+        "description": "Algorithmic trading, also known as automated trading or black-box trading, is the use of computer algorithms to automatically execute trades in financial markets based on pre-defined rules or strategies."
+    },
+    {
+        "word": "Disbursement",
+        "description": "Disbursement is the process of allocating or releasing funds from lenders to borrowers after a loan has been approved and all necessary documentation and requirements have been fulfilled."
+    },
+    {
+        "word": "Revolving Credit",
+        "description": "Revolving credit is a type of credit that allows borrowers to repeatedly borrow funds up to a specified credit limit, with the ability to repay and re-borrow funds as needed."
+    },
+    {
+        "word": "Regulatory Sandbox",
+        "description": "A regulatory sandbox is a controlled environment or program in which fintech startups can test and trial innovative products, services, or business models under regulatory supervision."
+    },
+    {
+        "word": "Debt-To-Income Ratio",
+        "description": "The debt-to-income ratio is a financial metric that calculates the percentage of a borrower's monthly income that goes towards debt payments, including loan repayments and other recurring debts."
+    },
+    {
+        "word": "Cross-Border Lending",
+        "description": "Cross-border lending refers to the provision of loans to borrowers in different countries, facilitated by peer-to-peer lending platforms that connect international lenders with borrowers."
+    },
+    {
+        "word": "Securities Fraud",
+        "description": "Securities fraud refers to fraudulent activities or practices carried out in connection with buying, selling, or trading securities, often involving false information or deceptive practices to manipulate securities prices."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of converting the rights to an asset, such as a loan or investment, into a digital token using blockchain technology, enabling fractional ownership and tradability."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized, distributed ledger technology that enables secure and transparent transactions and record-keeping across multiple parties without the need for intermediaries."
+    },
+    {
+        "word": "White Paper",
+        "description": "A white paper is a comprehensive report or document that outlines the technology, features, and potential of a product or service, often used by peer-to-peer lending platforms to inform investors and borrowers."
+    },
+    {
+        "word": "Fractional Reserve Banking",
+        "description": "Fractional reserve banking is a banking system in which banks hold only a fraction of their deposit liabilities as reserves and lend out the remainder, creating new money through the process of lending."
+    },
+    {
+        "word": "Smart Contract",
+        "description": "A smart contract is a self-executing contract with the terms of the agreement directly written into code, which automatically executes actions and transactions once predefined conditions are met."
+    },
+    {
+        "word": "E-Signature",
+        "description": "An e-signature, short for electronic signature, is a digital representation or symbol that is used to sign or indicate consent on electronic documents, providing legal validity and authenticity."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics is the process of examining and interpreting large sets of data to uncover patterns, insights, and trends that can aid in decision-making or provide valuable information for peer-to-peer lending platforms."
+    },
+    {
+        "word": "Revolving Line Of Credit",
+        "description": "A revolving line of credit is a type of credit in which lenders provide borrowers with a fixed credit limit that can be borrowed and repaid repeatedly, similar to a credit card limit."
+    },
+    {
+        "word": "Information Asymmetry",
+        "description": "Information asymmetry refers to a situation in which one party has more or better information than the other party in a transaction, potentially leading to imbalanced power dynamics or adverse selection in peer-to-peer lending."
+    }
+]
