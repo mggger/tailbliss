@@ -1,0 +1,434 @@
+[
+    {
+        "word": "Hrtech",
+        "description": "HRtech, or Human Resources Technology, refers to the use of technology to streamline and enhance HR processes, including recruitment, employee management, benefits administration, and employee training and development."
+    },
+    {
+        "word": "Ats",
+        "description": "Applicant Tracking System (ATS) is a software application that enables organizations to track and manage their recruitment process."
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboarding refers to the process of integrating and assimilating new employees into an organization, including orientation, training, and socialization activities."
+    },
+    {
+        "word": "Performance Management",
+        "description": "Performance management involves the processes and activities used to align, measure, and improve individual and organizational performance."
+    },
+    {
+        "word": "360-Degree Feedback",
+        "description": "360-degree feedback is a performance evaluation method that gathers input and feedback from multiple sources, including supervisors, peers, and subordinates, to provide a comprehensive view of an employee's strengths and areas for improvement."
+    },
+    {
+        "word": "Talent Acquisition",
+        "description": "Talent acquisition is the process of identifying, attracting, and hiring the right candidates for specific job roles within an organization."
+    },
+    {
+        "word": "Employee Engagement",
+        "description": "Employee engagement refers to the emotional and intellectual commitment an employee has to their organization, resulting in increased job satisfaction, productivity, and retention."
+    },
+    {
+        "word": "Workforce Analytics",
+        "description": "Workforce analytics is the use of data analysis techniques to examine and understand workforce trends, patterns, and behaviors, supporting strategic workforce planning and decision-making."
+    },
+    {
+        "word": "Hris",
+        "description": "HRIS stands for Human Resources Information System, which is a software system used to manage and track employee data, HR processes, and workflows."
+    },
+    {
+        "word": "Payroll Management",
+        "description": "Payroll management involves the administration and processing of employee compensation, including salary, wages, deductions, and taxes."
+    },
+    {
+        "word": "Benefits Administration",
+        "description": "Benefits Administration involves managing employee benefits programs, such as health insurance, retirement plans, and other fringe benefits, ensuring compliance and employee satisfaction."
+    },
+    {
+        "word": "Workforce Planning",
+        "description": "Workforce planning is the process of analyzing and forecasting an organization's future workforce needs, in order to ensure that it has the right people with the right skills in the right roles at the right time."
+    },
+    {
+        "word": "Employee Self-Service",
+        "description": "Employee self-service (ESS) is a system that allows employees to access and manage their personal and employment-related information, such as pay stubs and benefits, through an online portal."
+    },
+    {
+        "word": "Learning Management System",
+        "description": "A learning management system (LMS) is a software application used to manage, deliver, and track e-learning and training programs within an organization."
+    },
+    {
+        "word": "Succession Planning",
+        "description": "Succession planning involves identifying and developing internal talent to fill key leadership positions within an organization in the future."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data Privacy refers to the protection and proper handling of personal and sensitive information collected by an organization."
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "Diversity and inclusion (D&I) refers to the practices and policies that create a diverse and inclusive workforce, where individuals of all backgrounds and identities are valued and respected."
+    },
+    {
+        "word": "Workforce Management",
+        "description": "Workforce management involves the activities and processes used to optimize and maximize the productivity and efficiency of an organization's workforce."
+    },
+    {
+        "word": "Employee Benefits",
+        "description": "Employee benefits are non-wage compensation provided to employees in addition to their regular salary or wages, such as health insurance, retirement plans, and paid time off."
+    },
+    {
+        "word": "Employee Surveys",
+        "description": "Employee surveys are questionnaires or assessments used to collect feedback, opinions, and insights from employees, which can help in identifying areas for improvement and measuring employee satisfaction and engagement."
+    },
+    {
+        "word": "Remote Work",
+        "description": "Remote work, also known as telecommuting or teleworking, refers to the ability of employees to work from outside the traditional office environment, using technology to stay connected and complete their tasks."
+    },
+    {
+        "word": "Hr Analytics",
+        "description": "HR analytics is the application of data analysis and statistical techniques to HR data in order to gain insights and make data-driven decisions in HR."
+    },
+    {
+        "word": "Employee Wellness",
+        "description": "Employee wellness encompasses programs and initiatives aimed at promoting and maintaining the physical, mental, and emotional well-being of employees."
+    },
+    {
+        "word": "Offboarding",
+        "description": "Offboarding is the process of managing an employee's departure from the organization, including handovers, exit interviews, and ensuring compliance with legal and administrative requirements."
+    },
+    {
+        "word": "Workforce Diversity",
+        "description": "Workforce Diversity refers to the variety of individuals and their differences within an organization, including but not limited to race, gender, age, and background."
+    },
+    {
+        "word": "Time And Attendance",
+        "description": "Time and Attendance refers to the process of tracking employee work hours, including attendance, leave, and overtime, for payroll and compliance purposes."
+    },
+    {
+        "word": "Hr Compliance",
+        "description": "HR Compliance refers to an organization's adherence to laws, regulations, and policies related to employment and HR practices."
+    },
+    {
+        "word": "Recruitment Marketing",
+        "description": "Recruitment marketing involves applying marketing techniques and strategies to attract and engage potential candidates for job openings."
+    },
+    {
+        "word": "Employee Retention",
+        "description": "Employee retention refers to the ability of an organization to keep its employees and reduce turnover rates."
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamification is the application of game elements and mechanics, such as rewards, competition, and challenges, to non-game contexts, such as employee training and engagement programs."
+    },
+    {
+        "word": "Performance Appraisal",
+        "description": "Performance appraisal is the process of assessing and evaluating an employee's job performance and providing feedback and ratings."
+    },
+    {
+        "word": "Workforce Development",
+        "description": "Workforce Development involves designing and implementing initiatives and programs to develop employees' skills, knowledge, and competencies to support their career growth and the organization's objectives."
+    },
+    {
+        "word": "Employee Advocacy",
+        "description": "Employee Advocacy refers to employees actively promoting and representing the organization's brand, values, and interests, both internally and externally."
+    },
+    {
+        "word": "Workforce Automation",
+        "description": "Workforce Automation involves the use of technology and software to automate repetitive and manual HR tasks, such as data entry, scheduling, and reporting."
+    },
+    {
+        "word": "Job Analysis",
+        "description": "Job analysis is the systematic process of gathering and analyzing information about the duties, responsibilities, skills, knowledge, and qualifications required for a particular job role."
+    },
+    {
+        "word": "Flexible Work Arrangements",
+        "description": "Flexible work arrangements are alternative work schedules or arrangements that allow employees to have greater control over when, where, and how they work."
+    },
+    {
+        "word": "Employee Relations",
+        "description": "Employee relations refer to the interactions and relationships between employers and employees, including issues related to workplace communication, conflict resolution, and employee rights."
+    },
+    {
+        "word": "Employee Performance",
+        "description": "Employee performance refers to the productivity, effectiveness, and quality of work delivered by an employee in their job role."
+    },
+    {
+        "word": "Hr Shared Services",
+        "description": "HR Shared Services involve consolidating and centralizing HR functions and services to provide efficient and consistent support to employees and managers."
+    },
+    {
+        "word": "Candidate Experience",
+        "description": "Candidate experience refers to the overall experience and perception that candidates have during the recruitment and selection process of a company, which can impact their decision to accept a job offer and their perception of the employer brand."
+    },
+    {
+        "word": "Learning And Development",
+        "description": "Learning and development (L&D) encompasses activities and initiatives aimed at enhancing the knowledge, skills, and competencies of employees to support their career growth and improve organizational performance."
+    },
+    {
+        "word": "Workforce Segmentation",
+        "description": "Workforce Segmentation involves categorizing employees into distinct groups based on factors such as job roles, skills, performance, and potential."
+    },
+    {
+        "word": "Employee Recognition",
+        "description": "Employee recognition refers to the practice of acknowledging and appreciating employees' contributions, achievements, and behaviors through formal or informal means."
+    },
+    {
+        "word": "Organizational Culture",
+        "description": "Organizational culture refers to the shared values, beliefs, behaviors, and norms that shape the unique character and social environment of an organization."
+    },
+    {
+        "word": "Workforce Optimization",
+        "description": "Workforce Optimization focuses on aligning the organization's workforce with business goals, ensuring optimal utilization of talent and resources."
+    },
+    {
+        "word": "Skills Gap",
+        "description": "Skills Gap refers to the mismatch between the skills and qualifications desired by employers and those possessed by job applicants or existing employees."
+    },
+    {
+        "word": "Hr Technology",
+        "description": "HR technology refers to the tools, systems, and software used to manage and automate HR processes, such as payroll, recruitment, performance management, and employee data management."
+    },
+    {
+        "word": "Employee Wellness Programs",
+        "description": "Employee Wellness Programs are initiatives and activities designed to promote employees' physical and mental well-being, such as fitness programs, stress management, and counseling services."
+    },
+    {
+        "word": "Organizational Development",
+        "description": "Organizational development (OD) is a planned and systematic approach to improving an organization's effectiveness, performance, and health by focusing on the behaviors, structures, and processes within the organization."
+    },
+    {
+        "word": "Candidate Relationship Management",
+        "description": "Candidate Relationship Management (CRM) refers to the strategies and tools used to build and maintain relationships with potential candidates, even before they apply for a job."
+    },
+    {
+        "word": "Hr Business Partner",
+        "description": "HR Business Partner (HRBP) is an HR professional who acts as a strategic partner to the business, aligning HR initiatives with organizational goals and driving HR excellence."
+    },
+    {
+        "word": "Organizational Performance",
+        "description": "Organizational Performance refers to the overall achievement of an organization in meeting its objectives and delivering desired outcomes."
+    },
+    {
+        "word": "Employer Branding",
+        "description": "Employer branding is the reputation and image of an organization as an employer, including how it is perceived by current and potential employees."
+    },
+    {
+        "word": "Psychological Safety",
+        "description": "Psychological Safety is the belief that one will not be punished or humiliated for speaking up, sharing ideas, or expressing concerns within a team or organization."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed digital ledger technology that securely records and verifies transactions across multiple computers or nodes."
+    },
+    {
+        "word": "Employee Benefits Enrollment",
+        "description": "Employee Benefits Enrollment refers to the process of employees selecting and enrolling in the company's employee benefits programs, such as healthcare, retirement, and insurance plans."
+    },
+    {
+        "word": "Hr Strategy",
+        "description": "HR Strategy is a long-term plan that aligns HR initiatives and activities with the overall organizational goals and objectives."
+    },
+    {
+        "word": "Performance Improvement Plan",
+        "description": "Performance Improvement Plan (PIP) is a formalized process that outlines specific performance expectations and actions required to address and improve an employee's performance shortcomings."
+    },
+    {
+        "word": "Job Satisfaction",
+        "description": "Job satisfaction refers to the level of contentment and fulfillment an employee experiences in their job, which can impact their motivation, engagement, and likelihood of staying with the organization."
+    },
+    {
+        "word": "Employee Handbook",
+        "description": "An employee handbook is a document that outlines and communicates an organization's policies, procedures, expectations, and rights to its employees."
+    },
+    {
+        "word": "Employee Referral",
+        "description": "An employee referral is the act of recommending a friend, acquaintance, or professional contact for a job opening within one's own organization, often resulting in incentives or rewards for successful referrals."
+    },
+    {
+        "word": "Hr Metrics",
+        "description": "HR Metrics are quantifiable measures used to track and assess HR performance and the impact of HR initiatives."
+    },
+    {
+        "word": "Pms",
+        "description": "Performance Management System (PMS) is a systematic approach used by organizations to measure and improve employee performance."
+    },
+    {
+        "word": "Lms",
+        "description": "Learning Management System (LMS) is a software application used by organizations to deliver, manage, and track employee training and development programs."
+    },
+    {
+        "word": "E-Learning",
+        "description": "E-Learning refers to learning and training delivered electronically, typically using digital technologies and the internet."
+    },
+    {
+        "word": "Applicant Screening",
+        "description": "Applicant Screening is the process of evaluating and assessing job applicants to determine their suitability for a role."
+    },
+    {
+        "word": "Gig Economy",
+        "description": "Gig Economy refers to a labor market characterized by short-term contracts and freelance work as opposed to permanent employment."
+    },
+    {
+        "word": "Work-Life Balance",
+        "description": "Work-life balance refers to the equilibrium between the demands of work and personal life, allowing individuals to effectively manage and prioritize both aspects without significant interference or imbalance."
+    },
+    {
+        "word": "Hr Outsourcing",
+        "description": "HR Outsourcing is the practice of contracting HR activities and functions to external service providers."
+    },
+    {
+        "word": "Employee Turnover",
+        "description": "Employee turnover, also known as employee attrition or churn, refers to the rate at which employees leave an organization and need to be replaced."
+    },
+    {
+        "word": "Talent Management",
+        "description": "Talent Management is the strategic process of attracting, developing, and retaining high-performing individuals within an organization."
+    },
+    {
+        "word": "Employee Development",
+        "description": "Employee development involves activities and initiatives aimed at enhancing employees' knowledge, skills, and competencies to support their long-term career growth and success."
+    },
+    {
+        "word": "Conflict Resolution",
+        "description": "Conflict Resolution is the process of addressing and resolving disputes or disagreements that arise within the workplace."
+    },
+    {
+        "word": "Outplacement Services",
+        "description": "Outplacement Services are provided to former employees to assist them in finding new employment opportunities and transitioning into new roles."
+    },
+    {
+        "word": "Core Competencies",
+        "description": "Core Competencies are the unique strengths and capabilities that distinguish an organization or an individual in the marketplace."
+    },
+    {
+        "word": "Employee Satisfaction",
+        "description": "Employee Satisfaction is the level of contentment or fulfillment employees feel towards their work, work environment, and overall employment."
+    },
+    {
+        "word": "Job Rotation",
+        "description": "Job rotation is the practice of shifting employees between different job roles or departments within an organization to provide them with a broader range of experiences and skills."
+    },
+    {
+        "word": "Flexible Benefits",
+        "description": "Flexible benefits, also known as cafeteria-style benefits or flexible spending accounts, allow employees to choose and customize their own set of benefits based on their individual needs and preferences."
+    },
+    {
+        "word": "Employee Feedback",
+        "description": "Employee feedback is the process of obtaining and providing constructive input, suggestions, and opinions from and to employees, with the goal of improving performance and enhancing employee engagement."
+    },
+    {
+        "word": "Job Description",
+        "description": "Job Description is a written statement that outlines the duties, responsibilities, and requirements of a specific job role."
+    },
+    {
+        "word": "Workplace Diversity",
+        "description": "Workplace Diversity refers to the representation of different groups and backgrounds in the workplace."
+    },
+    {
+        "word": "Employee Referral Program",
+        "description": "Employee Referral Program is a recruitment strategy that incentivizes employees to refer qualified candidates for job openings within their organization."
+    },
+    {
+        "word": "Competency-Based Assessment",
+        "description": "Competency-Based Assessment is an evaluation method that focuses on measuring an individual's specific skills, knowledge, and abilities in relation to job requirements."
+    },
+    {
+        "word": "Job Satisfaction Survey",
+        "description": "Job Satisfaction Survey is a questionnaire or feedback mechanism used to gather information about employees' job satisfaction levels and identify areas for improvement."
+    },
+    {
+        "word": "Employee Turnover Rate",
+        "description": "Employee Turnover Rate is the percentage of employees who leave an organization over a specific period of time, usually annually."
+    },
+    {
+        "word": "Hr Policies",
+        "description": "HR Policies are guidelines and rules established by an organization to govern HR-related matters and ensure consistency and fairness."
+    },
+    {
+        "word": "Competency Framework",
+        "description": "A competency framework is a structured set of competencies or skills required for specific roles within an organization, which helps in assessing and developing employees."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to perform tasks that normally require human intelligence, such as speech recognition and decision-making."
+    },
+    {
+        "word": "People Analytics",
+        "description": "People analytics is the practice of using data analysis and insights to make informed decisions about managing people, improving employee performance, and driving organizational success."
+    },
+    {
+        "word": "Measurable Hr",
+        "description": "Measurable HR is an approach that focuses on using data and metrics to evaluate, measure, and improve HR practices and initiatives."
+    },
+    {
+        "word": "Performance Metrics",
+        "description": "Performance metrics are quantifiable measurements used to assess and evaluate the effectiveness and efficiency of individuals, teams, and organizations."
+    },
+    {
+        "word": "Employee Value Proposition",
+        "description": "Employee value proposition (EVP) is the set of unique benefits and offerings that an organization provides to attract, engage, and retain talent."
+    },
+    {
+        "word": "Human Capital Management",
+        "description": "Human capital management (HCM) is the strategic approach to managing and developing the knowledge, skills, talent, and capabilities of an organization's workforce."
+    },
+    {
+        "word": "Job Posting",
+        "description": "A job posting is a public advertisement or notification that communicates information about a job vacancy, including its requirements, responsibilities, and qualifications."
+    },
+    {
+        "word": "Employee Involvement",
+        "description": "Employee involvement refers to the extent to which employees are engaged, included, and participate in decision-making processes and activities that affect their work and the organization."
+    },
+    {
+        "word": "Employee Portal",
+        "description": "An employee portal is a web-based platform or intranet that provides employees with access to information, tools, and resources related to their employment."
+    },
+    {
+        "word": "Mentoring",
+        "description": "Mentoring refers to a developmental relationship between a more experienced individual (the mentor) and a less experienced individual (the mentee), aimed at guiding and supporting the mentee's professional growth and development."
+    },
+    {
+        "word": "Flexible Working Hours",
+        "description": "Flexible working hours refer to arrangements that allow employees to vary their start and end times, as long as they complete the required number of hours in a specified period."
+    },
+    {
+        "word": "Employee Motivation",
+        "description": "Employee motivation refers to the internal and external factors that stimulate and drive employees to achieve their job tasks and goals."
+    },
+    {
+        "word": "Recruitment Process Outsourcing",
+        "description": "Recruitment process outsourcing (RPO) is the outsourcing of all or part of the recruitment process to an external service provider, who manages aspects such as sourcing, screening, and candidate management."
+    },
+    {
+        "word": "Employee Scheduling",
+        "description": "Employee scheduling refers to the process of creating and managing work schedules for employees, ensuring adequate coverage and efficient use of resources."
+    },
+    {
+        "word": "Employee Communications",
+        "description": "Employee communications involves the various methods, channels, and strategies used to facilitate effective communication and information flow between employees and the organization."
+    },
+    {
+        "word": "Recruitment Software",
+        "description": "Recruitment software, also known as applicant tracking system (ATS), is a software application designed to streamline and automate the recruitment and hiring process."
+    },
+    {
+        "word": "Employee Performance Management",
+        "description": "Employee performance management involves setting clear performance goals and expectations, providing ongoing feedback and coaching, and evaluating and rewarding employees based on their performance."
+    },
+    {
+        "word": "Employee Database",
+        "description": "An employee database is a centralized repository or system that stores and organizes employee-related data, such as personal information, employment history, and performance records."
+    },
+    {
+        "word": "Employee Grievance",
+        "description": "An employee grievance refers to a formal complaint or concern raised by an employee against an employer or workplace issue, typically related to working conditions, employment practices, or treatment at work."
+    },
+    {
+        "word": "Culture Fit",
+        "description": "Culture fit refers to the alignment of an individual's values, beliefs, and behaviors with an organization's culture, values, and work environment."
+    },
+    {
+        "word": "Knowledge Management",
+        "description": "Knowledge management (KM) is the process of capturing, organizing, storing, and sharing knowledge and information within an organization to support learning, decision-making, and innovation."
+    }
+]
