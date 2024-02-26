@@ -1,0 +1,406 @@
+[
+    {
+        "word": "Genomics",
+        "description": "Genomics is the study of the structure, function, and mapping of genomes in living organisms."
+    },
+    {
+        "word": "Dna",
+        "description": "Deoxyribonucleic acid (DNA) is a molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses."
+    },
+    {
+        "word": "Gene",
+        "description": "A gene is a sequence of DNA or RNA that encodes the instructions for building a molecule that has a function in the organism."
+    },
+    {
+        "word": "Sequence",
+        "description": "A sequence refers to the order of nucleotides (A, T, C, G) in a DNA or RNA molecule."
+    },
+    {
+        "word": "Nucleotide",
+        "description": "A nucleotide is a building block of DNA or RNA, consisting of a sugar molecule, a phosphate group, and a nitrogenous base."
+    },
+    {
+        "word": "Genome",
+        "description": "A genome is the complete set of genetic material present in an organism."
+    },
+    {
+        "word": "Mutation",
+        "description": "A mutation is a permanent change in the DNA sequence of a gene or chromosome."
+    },
+    {
+        "word": "Genotype",
+        "description": "Genotype refers to the genetic makeup or set of genes present in an organism."
+    },
+    {
+        "word": "Phenotype",
+        "description": "Phenotype is the observable characteristics or traits of an organism, resulting from the interaction of its genotype with the environment."
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "Genetic variation refers to the diversity of genetic material within a population and is the result of mutations, genetic recombination, and other processes."
+    },
+    {
+        "word": "Gene Expression",
+        "description": "Gene expression is the process by which information from a gene is used to create a functional gene product, such as a protein."
+    },
+    {
+        "word": "Transcription",
+        "description": "Transcription is the process of copying DNA into a complementary RNA sequence."
+    },
+    {
+        "word": "Translation",
+        "description": "Translation is the process of synthesizing a protein from an RNA molecule."
+    },
+    {
+        "word": "Protein",
+        "description": "A protein is a large, complex molecule composed of amino acids that perform a variety of functions in living organisms."
+    },
+    {
+        "word": "Epigenetics",
+        "description": "Epigenetics is the study of changes in gene expression or cellular phenotype that do not involve changes to the underlying DNA sequence."
+    },
+    {
+        "word": "Genomic Medicine",
+        "description": "Genomic medicine is an emerging medical discipline that involves using an individual's genetic information to guide medical decisions."
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "Genetic testing is the analysis of DNA, RNA, chromosomes, proteins, or metabolites to detect changes or mutations that may be associated with a genetic condition."
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA sequencing is the process of determining the precise order of nucleotides in a DNA molecule."
+    },
+    {
+        "word": "Whole Genome Sequencing",
+        "description": "Whole genome sequencing is the complete sequencing of an organism's entire genome."
+    },
+    {
+        "word": "Variant Calling",
+        "description": "Variant calling is the process of identifying genetic variants or differences from a reference genome."
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "Pharmacogenomics is the study of how an individual's genetic makeup affects their response to drugs."
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "Genetic engineering is the direct manipulation of an organism's genome using biotechnology techniques to modify its characteristics."
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9 is a gene-editing technology that enables scientists to edit genes with high precision and accuracy."
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "Bioinformatics is the field of science that combines biology, computer science, and information technology to understand and analyze biological data."
+    },
+    {
+        "word": "Genome Assembly",
+        "description": "Genome assembly is the process of reconstructing the complete DNA sequence of an organism's genome from fragmentary DNA sequences."
+    },
+    {
+        "word": "Gene Ontology",
+        "description": "Gene ontology is a standardized system of describing gene products in terms of their associated biological processes, molecular functions, and cellular components."
+    },
+    {
+        "word": "Comparative Genomics",
+        "description": "Comparative genomics is the study of the similarities and differences in genome structure and gene content across different species."
+    },
+    {
+        "word": "Phylogenetics",
+        "description": "Phylogenetics is the study of the evolutionary relationships among organisms, based on similarities and differences in their genetic material."
+    },
+    {
+        "word": "Metagenomics",
+        "description": "Metagenomics is the study of genetic material recovered directly from environmental samples, without the need for isolation and cultivation of individual organisms."
+    },
+    {
+        "word": "Genomic Selection",
+        "description": "Genomic selection is a breeding strategy in which genetic markers are used to predict the performance or traits of individuals for selection."
+    },
+    {
+        "word": "Single Nucleotide Polymorphism (Snp)",
+        "description": "A single nucleotide polymorphism (SNP) is a variation at a single position in the DNA sequence that occurs in at least 1% of the population."
+    },
+    {
+        "word": "Copy Number Variation (Cnv)",
+        "description": "Copy number variation (CNV) refers to the presence of a variable number of copies of a DNA segment or gene across individuals."
+    },
+    {
+        "word": "Genome-Wide Association Study (Gwas)",
+        "description": "A genome-wide association study (GWAS) is an observational study that evaluates the relationship between genetic variations across the entire genome and specific traits or diseases."
+    },
+    {
+        "word": "Polygenic Risk Score (Prs)",
+        "description": "A polygenic risk score (PRS) is a numerical summary of an individual's genetic risk for a specific trait or disease, based on a combination of multiple genetic variants."
+    },
+    {
+        "word": "Transcriptomics",
+        "description": "Transcriptomics is the study of all the RNA molecules in a cell, including their composition, abundance, and function."
+    },
+    {
+        "word": "Epigenome",
+        "description": "The epigenome is the set of chemical modifications to the DNA molecule that helps to determine gene expression and cellular identity."
+    },
+    {
+        "word": "Proteomics",
+        "description": "Proteomics is the large-scale study of proteins, including their structure, function, and interactions."
+    },
+    {
+        "word": "Metabolomics",
+        "description": "Metabolomics is the study of the small molecules, known as metabolites, present in cells, tissues, or biological fluids."
+    },
+    {
+        "word": "Dna Methylation",
+        "description": "DNA methylation is a biochemical process that involves the addition of a methyl group to the DNA molecule, which can affect gene expression and regulate cellular processes."
+    },
+    {
+        "word": "Chromatin",
+        "description": "Chromatin is the complex of DNA, proteins, and RNA that make up the chromosomes within the nucleus of a cell."
+    },
+    {
+        "word": "Functional Genomics",
+        "description": "Functional genomics is the study of how the functions of individual genes contribute to the structure and behavior of cells and organisms."
+    },
+    {
+        "word": "Gene Regulation",
+        "description": "Gene regulation is the process of turning genes on or off in response to environmental stimuli or developmental signals."
+    },
+    {
+        "word": "Metabolic Pathway",
+        "description": "A metabolic pathway is a series of chemical reactions that occur within a cell, resulting in the production or breakdown of specific molecules."
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "Gene therapy is an experimental technique that uses genes to treat or prevent disease by introducing or modifying genetic material within a person's cells."
+    },
+    {
+        "word": "Phylogenetic Tree",
+        "description": "A phylogenetic tree is a branching diagram that shows the evolutionary relationships among different organisms based on their genetic similarities and differences."
+    },
+    {
+        "word": "Gene Expression Profiling",
+        "description": "Gene expression profiling is the measurement of the activity of thousands of genes simultaneously to create a global picture of cellular function."
+    },
+    {
+        "word": "Protein-Protein Interaction",
+        "description": "A protein-protein interaction refers to the physical interaction between two or more proteins, often crucial for various cellular processes."
+    },
+    {
+        "word": "Protein Structure Prediction",
+        "description": "Protein structure prediction is the computational modeling of the three-dimensional structure of a protein based on its amino acid sequence."
+    },
+    {
+        "word": "Gene Knockout",
+        "description": "Gene knockout is a genetic technique used to disrupt the normal function of a gene to study its effects on the organism."
+    },
+    {
+        "word": "Gene Expression Quantification",
+        "description": "Gene expression quantification is the measurement of the amount of RNA or protein produced from a specific gene."
+    },
+    {
+        "word": "Gene Silencing",
+        "description": "Gene silencing is the process of turning off a gene's expression, often through chemical modification of the DNA or RNA molecule."
+    },
+    {
+        "word": "Genetic Counseling",
+        "description": "Genetic counseling is a process that helps individuals or families understand and adapt to the medical, psychological, and familial implications of genetic contributions to health and disease."
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "Precision medicine is an approach to healthcare that considers individual variability in genes, environment, and lifestyle for tailored disease prevention, diagnosis, and treatment."
+    },
+    {
+        "word": "Genetic Algorithm",
+        "description": "A genetic algorithm is a search heuristic inspired by the process of natural selection, often used in optimization and machine learning."
+    },
+    {
+        "word": "Coding Sequence",
+        "description": "A coding sequence is the part of the gene or DNA sequence that contains the instructions for building a protein."
+    },
+    {
+        "word": "Microarray",
+        "description": "A microarray is a laboratory tool used to simultaneously detect and measure the expression levels of thousands of genes."
+    },
+    {
+        "word": "Proteome",
+        "description": "The proteome refers to the entire set of proteins expressed by a genome, cell, tissue, or organism."
+    },
+    {
+        "word": "Population Genetics",
+        "description": "Population genetics is the study of genetic variation within and between populations and the factors that influence its distribution and change over time."
+    },
+    {
+        "word": "Gene Expression Regulation",
+        "description": "Gene expression regulation refers to the control of gene activity to ensure that genes are expressed in the right cells, at the right time, and in the right amounts."
+    },
+    {
+        "word": "Gene Family",
+        "description": "A gene family is a group of genes that share a common ancestral origin and usually have similar functions."
+    },
+    {
+        "word": "Genomic Instability",
+        "description": "Genomic instability refers to the tendency of genetic material to undergo mutations or changes, leading to genomic alterations."
+    },
+    {
+        "word": "Alternative Splicing",
+        "description": "Alternative splicing is a mechanism by which different combinations of exons in a pre-mRNA can be joined together during RNA processing, generating multiple mRNA transcripts from a single gene."
+    },
+    {
+        "word": "Gene Expression Atlas",
+        "description": "A gene expression atlas is a collection of gene expression data across different tissues, developmental stages, or conditions, providing insights into gene function."
+    },
+    {
+        "word": "Phenome",
+        "description": "The phenome refers to the set of observable phenotypic traits (e.g., physical features, behavior, physiological characteristics) of an organism or a population."
+    },
+    {
+        "word": "Genomic Imprinting",
+        "description": "Genomic imprinting is an epigenetic phenomenon where certain genes are expressed in a parent-of-origin-specific manner."
+    },
+    {
+        "word": "Gene Flow",
+        "description": "Gene flow is the transfer of genetic material from one population to another through migration and interbreeding."
+    },
+    {
+        "word": "Rna",
+        "description": "Ribonucleic acid (RNA) is a molecule that is involved in various biological processes, including gene expression, protein synthesis, and regulation."
+    },
+    {
+        "word": "Mitochondrial Dna (Mtdna)",
+        "description": "Mitochondrial DNA (mtDNA) is a small circular genome found in the mitochondria, responsible for producing energy within the cell."
+    },
+    {
+        "word": "Long Noncoding Rna (Lncrna)",
+        "description": "Long noncoding RNA (lncRNA) refers to RNA molecules longer than 200 nucleotides that do not code for proteins but have various regulatory functions in gene expression."
+    },
+    {
+        "word": "Exome Sequencing",
+        "description": "Exome sequencing is a method for selectively sequencing and analyzing the exons (coding regions) of genes in the genome."
+    },
+    {
+        "word": "Metabolic Network",
+        "description": "A metabolic network is a collection of interconnected metabolic pathways that allows the flow and transformation of metabolites in an organism."
+    },
+    {
+        "word": "Sequencing",
+        "description": "Sequencing is the process of determining the precise order of nucleotides in a DNA or RNA molecule."
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-Generation Sequencing (NGS) is a high-throughput DNA sequencing method that enables the simultaneous analysis of millions of DNA fragments."
+    },
+    {
+        "word": "Pcr",
+        "description": "Polymerase Chain Reaction (PCR) is a technique used to amplify a specific DNA sequence."
+    },
+    {
+        "word": "Annotation",
+        "description": "Genome annotation is the process of identifying and labeling genes, regulatory elements, and other functional elements in a genome."
+    },
+    {
+        "word": "Variant",
+        "description": "A variant refers to a difference in DNA sequence when compared to a reference genome."
+    },
+    {
+        "word": "Snp",
+        "description": "A Single Nucleotide Polymorphism (SNP) is a DNA sequence variation that occurs when a single nucleotide in the genome differs between individuals."
+    },
+    {
+        "word": "Crispr",
+        "description": "CRISPR technology is a revolutionary gene editing technique that allows researchers to easily modify DNA sequences and gene function."
+    },
+    {
+        "word": "Dna Repair",
+        "description": "DNA repair refers to the processes by which a cell identifies and corrects damage to its DNA molecules."
+    },
+    {
+        "word": "Genome-Wide Association Study",
+        "description": "A genome-wide association study (GWAS) is a study that looks for genetic variations across the entire genome to determine if specific variations are associated with a particular trait or disease."
+    },
+    {
+        "word": "Genetic Counselor",
+        "description": "A genetic counselor is a health professional with specialized education and training in medical genetics and counseling who helps individuals and families understand and make decisions about genetic conditions."
+    },
+    {
+        "word": "Personalized Medicine",
+        "description": "Personalized medicine, also known as precision medicine, is an approach to medical care that utilizes an individual's genetic information, environment, and lifestyle to tailor prevention, diagnosis, and treatment strategies."
+    },
+    {
+        "word": "Genome Editing",
+        "description": "Genome editing is the process of making specific changes to the DNA sequence of an organism using engineered nucleases, such as CRISPR-Cas9."
+    },
+    {
+        "word": "Transposon",
+        "description": "A transposon, also known as a jumping gene, is a DNA sequence that can change its position within the genome."
+    },
+    {
+        "word": "Genetic Screening",
+        "description": "Genetic screening is the use of tests to look for a particular genetic condition or susceptibility to a genetic disorder before symptoms are present."
+    },
+    {
+        "word": "Polygenic Trait",
+        "description": "A polygenic trait is a trait that is influenced by multiple genes, as opposed to a single gene."
+    },
+    {
+        "word": "Gene Duplication",
+        "description": "Gene duplication is a process in which a duplicate copy of a gene is created within the genome."
+    },
+    {
+        "word": "Genetic Drift",
+        "description": "Genetic drift is the change in the frequency of a gene variant (allele) in a population due to random sampling."
+    },
+    {
+        "word": "Hardy-Weinberg Equilibrium",
+        "description": "Hardy-Weinberg equilibrium is a principle that describes the expected genetic variation in a population that is not undergoing any evolutionary change."
+    },
+    {
+        "word": "Ortholog",
+        "description": "An ortholog is a gene present in different species that evolved from a common ancestral gene."
+    },
+    {
+        "word": "Paralog",
+        "description": "A paralog is a gene that is related to another gene in the same organism through gene duplication."
+    },
+    {
+        "word": "Isoform",
+        "description": "An isoform is any of several different forms of the same protein, encoded by different genes or produced by alternative splicing of the same gene."
+    },
+    {
+        "word": "Genome-Wide Association Mapping",
+        "description": "Genome-wide association mapping is a statistical method used to identify genetic variations associated with traits or diseases by analyzing data from a large number of individuals."
+    },
+    {
+        "word": "Functional Annotation",
+        "description": "Functional annotation is the process of assigning biological functions to genes based on their sequence, structure, or similarity to known genes."
+    },
+    {
+        "word": "Phylogenomics",
+        "description": "Phylogenomics is the study of genome-wide evolutionary relationships among different species, using computational methods to analyze genomic data."
+    },
+    {
+        "word": "Methylome",
+        "description": "The methylome is the complete set of DNA methylation patterns in a cell or organism."
+    },
+    {
+        "word": "Copy Number Variation",
+        "description": "Copy number variation (CNV) is a type of structural variation in the genome that involves the deletion or duplication of a segment of DNA."
+    },
+    {
+        "word": "Genome-Wide Selective Sweeps",
+        "description": "Genome-wide selective sweeps are genomic regions in which a beneficial genetic variant has rapidly increased in frequency due to positive selection."
+    },
+    {
+        "word": "Haplotype",
+        "description": "A haplotype is a set of genetic variants, or alleles, that are inherited together on the same chromosome."
+    },
+    {
+        "word": "Long Non-Coding Rna",
+        "description": "Long non-coding RNA (lncRNA) is a type of RNA molecule that is transcribed from the genome but does not encode proteins."
+    },
+    {
+        "word": "Phasing",
+        "description": "Phasing is the process of determining the order of genetic variants along a chromosome in an individual's genome."
+    }
+]
