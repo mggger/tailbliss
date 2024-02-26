@@ -1,0 +1,402 @@
+[
+    {
+        "word": "Smart Contract",
+        "description": "A smart contract is a self-executing contract with the terms of the agreement directly written into code."
+    },
+    {
+        "word": "Blockchain",
+        "description": "A blockchain is a decentralized and distributed digital ledger that records transactions across multiple computers."
+    },
+    {
+        "word": "Decentralization",
+        "description": "Decentralization refers to the distribution of control and decision-making across a network, rather than being concentrated in a single authority or central entity."
+    },
+    {
+        "word": "Immutable",
+        "description": "Immutable means that once data is written on the blockchain, it cannot be altered or deleted."
+    },
+    {
+        "word": "Consensus",
+        "description": "Consensus is the agreement among participating nodes in a blockchain network on the validity of transactions."
+    },
+    {
+        "word": "Token",
+        "description": "A token is a digital asset that represents ownership or access rights on a blockchain."
+    },
+    {
+        "word": "Ethereum",
+        "description": "Ethereum is an open-source blockchain platform that enables the creation of smart contracts and decentralized applications (dapps)."
+    },
+    {
+        "word": "Solidity",
+        "description": "Solidity is a programming language used to write smart contracts on the Ethereum blockchain."
+    },
+    {
+        "word": "Gas",
+        "description": "Gas is the unit used to measure computational effort in executing transactions or contracts on the Ethereum blockchain."
+    },
+    {
+        "word": "Wallet",
+        "description": "A wallet is a digital tool or application that allows users to securely store, manage, and interact with their cryptocurrencies and digital assets."
+    },
+    {
+        "word": "Dapp",
+        "description": "DApp (Decentralized Application) is an application that runs on a blockchain network and utilizes smart contracts."
+    },
+    {
+        "word": "Smart Property",
+        "description": "Smart property refers to physical or digital assets that can be controlled, managed, or transferred using smart contracts on a blockchain."
+    },
+    {
+        "word": "Oracles",
+        "description": "Oracles are trusted sources of off-chain data that provide inputs to smart contracts on the blockchain."
+    },
+    {
+        "word": "Hash Function",
+        "description": "A hash function is a mathematical function that takes an input and produces a fixed-size string of characters, used in cryptography."
+    },
+    {
+        "word": "Public Key",
+        "description": "A public key is a cryptographic key used for encryption and authentication, known by all network participants to verify digital signatures."
+    },
+    {
+        "word": "Private Key",
+        "description": "A private key is a cryptographic key used for decryption and the creation of digital signatures, known only by the owner."
+    },
+    {
+        "word": "Digital Signature",
+        "description": "A digital signature is a cryptographic tool that verifies the authenticity of a digital message or document."
+    },
+    {
+        "word": "Smart Contract Audit",
+        "description": "Smart contract audit is the process of reviewing and assessing the security, reliability, and functionality of a smart contract."
+    },
+    {
+        "word": "Smart Contract Template",
+        "description": "A smart contract template is a pre-defined and reusable code structure that can be used as a foundation for creating customized smart contracts."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability refers to the ability of different blockchain networks to interact and exchange information with each other."
+    },
+    {
+        "word": "Off-Chain",
+        "description": "Off-chain refers to operations or transactions that occur outside of the blockchain network."
+    },
+    {
+        "word": "On-Chain",
+        "description": "On-chain refers to operations or transactions that occur directly on the blockchain network."
+    },
+    {
+        "word": "Immutable Ledger",
+        "description": "An immutable ledger is a record-keeping system, such as a blockchain, that cannot be modified or tampered with once data is recorded."
+    },
+    {
+        "word": "Token Economy",
+        "description": "A token economy refers to the use of tokens as a form of value exchange and the economic system built around those tokens."
+    },
+    {
+        "word": "Permissioned Blockchain",
+        "description": "A permissioned blockchain is a blockchain where access and participation are restricted to a specific group of known entities."
+    },
+    {
+        "word": "Permissionless Blockchain",
+        "description": "A permissionless blockchain is a blockchain where anyone can participate and contribute to the network without requiring approval."
+    },
+    {
+        "word": "Governance",
+        "description": "Governance refers to the decision-making processes and structures that determine the rules, policies, and direction of a blockchain network or decentralized organization."
+    },
+    {
+        "word": "Hard Fork",
+        "description": "A hard fork is a major change or upgrade to a blockchain protocol that is not backwards-compatible, resulting in a permanent divergence from the previous version."
+    },
+    {
+        "word": "Soft Fork",
+        "description": "A soft fork is a minor change or upgrade to a blockchain protocol that is backward-compatible, allowing nodes with the new software to still communicate with nodes using the old software."
+    },
+    {
+        "word": "Gas Limit",
+        "description": "Gas limit is the maximum amount of gas that can be used in executing a transaction or contract on the Ethereum network."
+    },
+    {
+        "word": "Gas Price",
+        "description": "Gas price is the amount of cryptocurrency required to be paid per unit of gas for executing a transaction or contract."
+    },
+    {
+        "word": "Dao",
+        "description": "DAO (Decentralized Autonomous Organization) is an organization that operates through smart contracts on the blockchain, eliminating the need for traditional intermediaries."
+    },
+    {
+        "word": "Fungible Token",
+        "description": "A fungible token is an interchangeable and divisible token that is mutually interchangeable with other tokens of the same type and value."
+    },
+    {
+        "word": "Non-Fungible Token (Nft)",
+        "description": "A non-fungible token (NFT) is a unique token that represents ownership or proof of authenticity of a specific asset or digital collectible."
+    },
+    {
+        "word": "Smart Contract Platform",
+        "description": "A smart contract platform is a blockchain platform that supports the development and execution of smart contracts."
+    },
+    {
+        "word": "Multi-Signature (Multisig)",
+        "description": "Multi-signature (multisig) is a feature in smart contracts that requires multiple signatures or approvals to authorize a transaction or contract execution."
+    },
+    {
+        "word": "Virtual Machine",
+        "description": "A virtual machine is a software emulation of a computer system that can run programs or applications."
+    },
+    {
+        "word": "Code Upgradeability",
+        "description": "Code upgradeability refers to the ability to modify or upgrade the code of a smart contract while preserving its state and functionality."
+    },
+    {
+        "word": "Self-Sovereign Identity",
+        "description": "Self-sovereign identity is a concept where individuals have complete control over their personal data and digital identity, with no reliance on centralized authorities."
+    },
+    {
+        "word": "Gas Refund",
+        "description": "Gas refund is the return of unused gas to the sender's account after executing a transaction or contract on the Ethereum network."
+    },
+    {
+        "word": "Escrow",
+        "description": "Escrow is a financial arrangement where a third party holds and regulates the payment of funds or assets until the completion of a predetermined condition or event."
+    },
+    {
+        "word": "Layer 2 Scaling",
+        "description": "Layer 2 scaling refers to technologies or solutions built on top of a blockchain to increase its transaction processing capacity and scalability."
+    },
+    {
+        "word": "Smart Contract Wallet",
+        "description": "A smart contract wallet is a type of digital wallet that is governed by a smart contract and enables more advanced features and functionality compared to a traditional wallet."
+    },
+    {
+        "word": "Distributed Application (Dapp)",
+        "description": "A distributed application (dApp) is an application that operates on a decentralized network, often utilizing smart contracts and blockchain technology."
+    },
+    {
+        "word": "Zero-Knowledge Proof",
+        "description": "Zero-knowledge proof is a cryptographic technique that allows one party to prove knowledge of a specific piece of information without revealing the information itself."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of a central bank."
+    },
+    {
+        "word": "Staking",
+        "description": "Staking is the process of participating in a proof of stake blockchain network by holding and 'staking' tokens to support the network's operations."
+    },
+    {
+        "word": "Atomic Swap",
+        "description": "An atomic swap is a peer-to-peer exchange of cryptocurrencies or tokens between different blockchain networks without the need for a trusted third party."
+    },
+    {
+        "word": "Burn",
+        "description": "In the context of cryptocurrencies, burn refers to the permanent removal of tokens from circulation by sending them to an unspendable address."
+    },
+    {
+        "word": "Defi",
+        "description": "DeFi stands for Decentralized Finance, referring to financial applications and services built on top of blockchain technology, often utilizing smart contracts."
+    },
+    {
+        "word": "Flash Loan",
+        "description": "A flash loan is a type of uncollateralized loan offered within a decentralized finance (DeFi) ecosystem that must be repaid within the same transaction."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization refers to the process of converting real-world or digital assets into digital tokens on a blockchain."
+    },
+    {
+        "word": "Decentralized Autonomous Organization (Dao)",
+        "description": "A decentralized autonomous organization is an organization that operates on a blockchain with predefined rules enforced through smart contracts."
+    },
+    {
+        "word": "Block Explorer",
+        "description": "A block explorer is a tool that allows users to explore and view information about blocks, transactions, and addresses on a blockchain."
+    },
+    {
+        "word": "Miner",
+        "description": "A miner is a participant in a blockchain network who validates and adds new transactions to the blockchain by solving a computational puzzle."
+    },
+    {
+        "word": "Nonce",
+        "description": "A nonce is a random number generated by a miner in the process of mining a block, used to solve the proof-of-work puzzle."
+    },
+    {
+        "word": "Scaling",
+        "description": "Scaling refers to the effort of improving the capacity and performance of a blockchain network to handle a larger number of transactions."
+    },
+    {
+        "word": "Privacy",
+        "description": "Privacy in a blockchain context refers to the protection of sensitive information and the identities of participants."
+    },
+    {
+        "word": "Sha-256",
+        "description": "SHA-256 is a cryptographic hash function used in many cryptocurrencies, including Bitcoin, to verify the integrity of data."
+    },
+    {
+        "word": "Proof-Of-Work (Pow)",
+        "description": "Proof-of-Work is a consensus algorithm that requires participants to solve a computational puzzle to validate and add new blocks to a blockchain."
+    },
+    {
+        "word": "Proof-Of-Stake (Pos)",
+        "description": "Proof-of-Stake is a consensus algorithm that allows participants to validate and add new blocks to a blockchain based on their ownership stake in the network."
+    },
+    {
+        "word": "Protocol",
+        "description": "A protocol is a set of rules and standards governing how data is transmitted, received, and interpreted between participants in a network."
+    },
+    {
+        "word": "Fungibility",
+        "description": "Fungibility is the property of a good or asset being interchangeable with other individual goods or assets of the same type."
+    },
+    {
+        "word": "Initial Coin Offering (Ico)",
+        "description": "An Initial Coin Offering is a fundraising method where a new cryptocurrency or token is sold to early supporters in exchange for funding."
+    },
+    {
+        "word": "Smart Legal Contracts",
+        "description": "Smart legal contracts are smart contracts that are designed to have legal enforceability and can be used for legally binding agreements."
+    },
+    {
+        "word": "Liquidity",
+        "description": "Liquidity refers to the ease with which an asset or token can be bought or sold without causing a significant change in its price."
+    },
+    {
+        "word": "Self-Executing",
+        "description": "Self-executing refers to the automated execution of a smart contract's terms and conditions without the need for human intervention."
+    },
+    {
+        "word": "Cryptographic Hash Function",
+        "description": "A cryptographic hash function is a mathematical algorithm that takes an input and produces a fixed-size string of characters, used for data integrity and security."
+    },
+    {
+        "word": "Turing Complete",
+        "description": "Turing complete refers to a system or programming language that has the ability to simulate any Turing machine."
+    },
+    {
+        "word": "Whitepaper",
+        "description": "A whitepaper is a document that outlines the key details, purpose, technology, and roadmap of a blockchain project."
+    },
+    {
+        "word": "Fork",
+        "description": "A fork is a split or divergence in a blockchain's transaction history, resulting in two separate chains with a shared history up until the fork point."
+    },
+    {
+        "word": "Cryptoeconomics",
+        "description": "Cryptoeconomics is an interdisciplinary field that combines cryptography, economics, and game theory to study the design and incentives of blockchain networks."
+    },
+    {
+        "word": "Multisig",
+        "description": "Multisig, short for multisignature, is a security measure that requires multiple signatures to authorize and execute a transaction."
+    },
+    {
+        "word": "Dao Attack",
+        "description": "A DAO attack refers to an exploit or vulnerability in a decentralized autonomous organization that can be exploited to manipulate or steal funds."
+    },
+    {
+        "word": "Gas Estimation",
+        "description": "Gas estimation is the process of estimating the amount of gas required to execute a smart contract function or transaction on the Ethereum network."
+    },
+    {
+        "word": "Smart Contract Verification",
+        "description": "Smart contract verification is the process of ensuring that a smart contract's code matches its intended functionality and has been written correctly."
+    },
+    {
+        "word": "Decentralized",
+        "description": "Decentralization refers to the distribution of authority, control, and decision-making among a network of participants."
+    },
+    {
+        "word": "Erc-20",
+        "description": "ERC-20 is a standard for creating fungible tokens on the Ethereum blockchain."
+    },
+    {
+        "word": "Scalability",
+        "description": "Scalability refers to the ability of a blockchain network to handle a large number of transactions or users."
+    },
+    {
+        "word": "Permissionless",
+        "description": "Permissionless means that anyone can participate in a blockchain network without the need for approval or authority."
+    },
+    {
+        "word": "Evm",
+        "description": "The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts on the Ethereum network."
+    },
+    {
+        "word": "Proof Of Stake",
+        "description": "Proof of Stake (PoS) is a consensus algorithm where the probability of creating a new block is determined by a participant's stake in the network."
+    },
+    {
+        "word": "Proof Of Work",
+        "description": "Proof of Work (PoW) is a consensus algorithm where participants must solve complex computational puzzles to validate transactions and create new blocks."
+    },
+    {
+        "word": "Digital Identity",
+        "description": "Digital identity refers to the representation of an individual or entity in a digital form, typically used for authentication and verification purposes."
+    },
+    {
+        "word": "Initial Coin Offering",
+        "description": "Initial Coin Offering (ICO) is a fundraising method where new projects or companies sell digital tokens in exchange for cryptocurrencies."
+    },
+    {
+        "word": "Fungible",
+        "description": "Fungible means that each unit of a token or asset is interchangeable and identical in value to every other unit."
+    },
+    {
+        "word": "Non-Fungible",
+        "description": "Non-fungible means that each unit of a token or asset is unique and not interchangeable with other units."
+    },
+    {
+        "word": "Timestamp",
+        "description": "Timestamp is a record of the date and time when a specific event or transaction occurred."
+    },
+    {
+        "word": "Upgradeability",
+        "description": "Upgradeability is the ability of a smart contract to be updated or modified without affecting its previous functionality and state."
+    },
+    {
+        "word": "Smart Legal Contract",
+        "description": "A smart legal contract is a legally enforceable agreement written in code that incorporates elements of traditional contracts with the capabilities of smart contracts."
+    },
+    {
+        "word": "Distribution",
+        "description": "Distribution in the context of blockchain refers to the allocation or dispersal of tokens or assets to certain participants, often through token sales or airdrops."
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboarding is the process of bringing new participants or users onto a blockchain network or platform."
+    },
+    {
+        "word": "Halving",
+        "description": "Halving is an event that occurs in certain cryptocurrencies where the block rewards for miners are reduced by half at specific intervals."
+    },
+    {
+        "word": "Scaling Solution",
+        "description": "A scaling solution is a technology or approach implemented to improve the scalability and transaction throughput of a blockchain network."
+    },
+    {
+        "word": "Cross-Chain",
+        "description": "Cross-chain refers to the ability to perform transactions or transfer assets between different blockchain networks."
+    },
+    {
+        "word": "Sidechain",
+        "description": "A sidechain is a separate blockchain that is interoperable with the main blockchain, allowing for certain transactions or processes to be conducted off the main chain."
+    },
+    {
+        "word": "Plasma",
+        "description": "Plasma is a scaling solution for the Ethereum blockchain that creates additional layers or subchains to process transactions and reduce the load on the main chain."
+    },
+    {
+        "word": "Smart Contract Execution Environment",
+        "description": "A smart contract execution environment is the runtime environment where smart contracts are executed within a blockchain network."
+    },
+    {
+        "word": "Network Congestion",
+        "description": "Network congestion refers to the condition where the demand for network resources exceeds the available capacity, resulting in slower transaction processing times and higher fees."
+    },
+    {
+        "word": "Off-Chain Computing",
+        "description": "Off-chain computing refers to the process of performing computational tasks or operations outside of the blockchain network, often using traditional computing resources."
+    }
+]
