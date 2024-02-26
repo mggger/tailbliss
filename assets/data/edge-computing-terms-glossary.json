@@ -1,0 +1,478 @@
+[
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computing is a distributed computing paradigm that brings compute resources closer to the data source or user to enhance real-time processing and lower latency."
+    },
+    {
+        "word": "Latency",
+        "description": "Latency refers to the time delay between the input and output of a system, often measured as the time it takes for a packet of data to travel from one point to another."
+    },
+    {
+        "word": "Bandwidth",
+        "description": "Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time, typically measured in bits or bytes per second."
+    },
+    {
+        "word": "Edge Devices",
+        "description": "Edge devices are devices located at the network edge that collect, process, and transmit data to and from the cloud or other devices."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing is a model for delivering on-demand computing resources over the internet, including storage, processing power, and software applications."
+    },
+    {
+        "word": "Fog Computing",
+        "description": "Fog Computing extends cloud computing capabilities to the edge of the network, enabling efficient data processing and storage closer to the data source."
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "Internet of Things is a network of physical objects embedded with sensors, software, and connectivity to enable the exchange of data."
+    },
+    {
+        "word": "Data Localization",
+        "description": "Data Localization refers to the practice of storing and processing data within a specific geographic location, typically for compliance with data protection and privacy laws. Edge Computing can enable data localization by processing data locally."
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "Distributed Computing is a model in which computing tasks are divided and performed by multiple computers connected via a network."
+    },
+    {
+        "word": "Containerization",
+        "description": "Containerization is an OS-level virtualization method that allows applications and their dependencies to be packaged and run consistently across different computing environments."
+    },
+    {
+        "word": "Microservices",
+        "description": "Microservices is an architectural style that structures an application as a collection of small, loosely coupled services that can be developed, deployed, and scaled independently."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence refers to the simulation of human intelligence in machines, enabling them to perform tasks that would typically require human intelligence."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning is a subset of AI that focuses on getting machines to learn from data and automatically improve their performance without being explicitly programmed."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subfield of ML that uses artificial neural networks with multiple layers to model and analyze complex patterns in data."
+    },
+    {
+        "word": "Real-Time Analytics",
+        "description": "Real-time Analytics is the process of analyzing and deriving insights from data in real time or near-real time. Edge Computing enables real-time analytics by processing data closer to the source, reducing latency."
+    },
+    {
+        "word": "Data Offloading",
+        "description": "Data Offloading is the practice of transferring data from a local device or edge node to a remote location, typically to reduce local storage and processing requirements. Edge Computing can facilitate data offloading by processing data locally and transferring only necessary information."
+    },
+    {
+        "word": "Edge Intelligence",
+        "description": "Edge Intelligence refers to the capability of edge devices to perform intelligent data processing and analytics locally, without relying on cloud-based services."
+    },
+    {
+        "word": "Edge-To-Cloud Continuum",
+        "description": "Edge-to-Cloud Continuum refers to a spectrum of computing resources, ranging from edge devices to cloud infrastructure, that work together to process and analyze data."
+    },
+    {
+        "word": "Edge Gateway",
+        "description": "An Edge Gateway is a device or software component that acts as a bridge between edge devices and a central network or cloud, enabling data transfer and communication."
+    },
+    {
+        "word": "Edge Orchestration",
+        "description": "Edge Orchestration refers to the coordination and management of multiple edge devices and resources to ensure efficient and optimized operation of edge computing infrastructure."
+    },
+    {
+        "word": "Edge Analytics",
+        "description": "Edge Analytics involves analyzing data at the edge of the network, close to where the data is generated, to derive insights in real-time without relying on cloud-based processing."
+    },
+    {
+        "word": "Edge Database",
+        "description": "An Edge Database is a database system designed to run on edge devices, enabling local storage, processing, and analysis of data without a permanent connection to a central server."
+    },
+    {
+        "word": "Edge Security",
+        "description": "Edge Security encompasses a set of measures and technologies designed to protect edge devices, networks, and data from unauthorized access, attacks, and breaches."
+    },
+    {
+        "word": "Edge Ai Chip",
+        "description": "An Edge AI Chip, also known as an AI Processor or Neural Processing Unit (NPU), is a specialized hardware component designed to accelerate AI and ML workloads at the edge. It performs computations efficiently and optimally to reduce latency and power consumption."
+    },
+    {
+        "word": "Edge-As-A-Service (Eaas)",
+        "description": "Edge-as-a-Service is a model for delivering edge computing resources and services on demand, similar to the concept of cloud computing."
+    },
+    {
+        "word": "Edge Workload",
+        "description": "An Edge Workload refers to a task, application, or workload that is executed at the edge of the network, closer to the data source. Edge workloads can include data processing, analytics, inference, and local decision-making."
+    },
+    {
+        "word": "Edge Data Center",
+        "description": "Edge Data Center is a facility that brings compute, storage, and networking resources closer to the edge to provide low-latency processing and local data storage."
+    },
+    {
+        "word": "Edge Intelligence Software",
+        "description": "Edge Intelligence Software refers to software applications and platforms specifically designed to enable intelligent edge computing. It includes tools, frameworks, and libraries that facilitate the development, deployment, and management of edge applications."
+    },
+    {
+        "word": "Edge-Native Application",
+        "description": "An Edge-native Application is an application designed and optimized to run on edge computing resources, taking full advantage of the proximity to the data source and the capabilities of edge devices."
+    },
+    {
+        "word": "Edge-To-Edge Communication",
+        "description": "Edge-to-Edge Communication refers to the direct communication between edge devices or nodes within an edge computing infrastructure. It enables data sharing, coordination, and collaborative processing between neighboring edge resources."
+    },
+    {
+        "word": "Edge Monitoring",
+        "description": "Edge Monitoring is the process of continuously monitoring and collecting data about the performance, health, and status of edge devices and resources. It enables proactive maintenance, troubleshooting, and optimization of edge infrastructure."
+    },
+    {
+        "word": "Edge Scalability",
+        "description": "Edge Scalability refers to the ability of an edge computing infrastructure to efficiently handle an increasing number of edge devices, users, and workloads while maintaining performance and reliability."
+    },
+    {
+        "word": "Edge Robustness",
+        "description": "Edge Robustness refers to the resilience and ability of an edge computing system to handle and recover from failures, disruptions, or adverse conditions, ensuring continuous operation and availability."
+    },
+    {
+        "word": "Autonomous Edge",
+        "description": "An Autonomous Edge refers to an edge computing environment or devices capable of making intelligent decisions, adapting to changing conditions, and autonomously performing tasks without relying on constant human intervention or cloud connectivity."
+    },
+    {
+        "word": "Edge-As-A-Platform (Eaap)",
+        "description": "Edge-as-a-Platform (EaaP) is a platform-based approach to edge computing that provides a set of standardized tools, services, and APIs for developing, deploying, and managing edge applications."
+    },
+    {
+        "word": "Edge Data Science",
+        "description": "Edge Data Science refers to the application of data science techniques, such as data analysis, modeling, and prediction, at the edge of the network. It enables real-time insights and decision-making without requiring data to be sent to the cloud."
+    },
+    {
+        "word": "Edge-To-Edge Security",
+        "description": "Edge-to-Edge Security refers to the mechanisms and protocols used to ensure secure communication and data exchange between edge devices, nodes, or systems within an edge computing infrastructure."
+    },
+    {
+        "word": "Edge Robotics",
+        "description": "Edge Robotics refers to the deployment of robotic systems and applications at the edge of the network, enabling autonomous navigation, real-time decision-making, and collaborative robotics."
+    },
+    {
+        "word": "Edge Video Analytics",
+        "description": "Edge Video Analytics is the process of analyzing and extracting insights from video data in real time at the edge of the network. It enables applications such as surveillance, object detection, facial recognition, and intelligent video processing."
+    },
+    {
+        "word": "Edge Natural Language Processing (Nlp)",
+        "description": "Edge Natural Language Processing (NLP) refers to the ability to process, understand, and generate natural language text or speech at the edge of the network. It enables voice assistants, chatbots, and real-time language analysis."
+    },
+    {
+        "word": "Mobile Edge Computing (Mec)",
+        "description": "Mobile Edge Computing (MEC) is a network architecture that brings computing, storage, and network resources closer to mobile network users or devices. It aims to reduce latency, improve performance, and enable new edge-based services."
+    },
+    {
+        "word": "Edge Virtualization",
+        "description": "Edge Virtualization is the process of creating virtual instances of computing resources, such as servers, storage, and networking, at the network edge. It allows for flexible and scalable allocation of resources across multiple edge devices."
+    },
+    {
+        "word": "Edge Synchronization",
+        "description": "Edge Synchronization refers to the process of ensuring consistent and up-to-date data across edge devices and the central data center or cloud. It involves data replication, conflict resolution, and synchronization mechanisms."
+    },
+    {
+        "word": "Edge Software-Defined Networking (Sdn)",
+        "description": "Edge Software-Defined Networking (SDN) is an approach that applies the principles of SDN to edge networks. It allows for centralized network management, programmability, and dynamic resource allocation in edge computing environments."
+    },
+    {
+        "word": "Edge Infrastructure-As-A-Service (Iaas)",
+        "description": "Edge Infrastructure-as-a-Service (IaaS) is a service model that provides virtualized computing, storage, and networking resources at the edge of the network. It allows for rapid deployment and scaling of edge infrastructure."
+    },
+    {
+        "word": "Edge Platform-As-A-Service (Paas)",
+        "description": "Edge Platform-as-a-Service (PaaS) is a service model that provides a platform for developing, deploying, and managing edge applications and services. It abstracts the underlying infrastructure and offers tools and frameworks for edge development."
+    },
+    {
+        "word": "Edge Function-As-A-Service (Faas)",
+        "description": "Edge Function-as-a-Service (FaaS) is a serverless computing model for deploying and running individual functions or code snippets at the edge of the network. It allows for event-driven, scalable, and cost-efficient edge computing."
+    },
+    {
+        "word": "Edge Machine-To-Machine (M2M) Communication",
+        "description": "Edge Machine-to-Machine (M2M) Communication refers to direct communication between edge devices or node-to-node communication within an edge computing infrastructure. It enables decentralized and efficient data exchange and collaboration."
+    },
+    {
+        "word": "Edge Compliance",
+        "description": "Edge Compliance refers to adhering to relevant regulations, standards, and best practices in the deployment and operation of an edge computing infrastructure. It ensures data privacy, security, and legal compliance."
+    },
+    {
+        "word": "Edge Disaster Recovery",
+        "description": "Edge Disaster Recovery refers to the strategies and processes implemented to ensure business continuity and data recovery in the event of a disaster or failure at the edge. It involves backup, replication, and failover mechanisms."
+    },
+    {
+        "word": "Edge Networking",
+        "description": "Edge Networking refers to the networking infrastructure, protocols, and technologies used to establish and manage communication between edge devices, gateways, and the central network or cloud."
+    },
+    {
+        "word": "Edge Data Privacy",
+        "description": "Edge Data Privacy refers to protecting the confidentiality, integrity, and accessibility of data at the edge of the network. It involves implementing privacy-enhancing technologies, encryption, and access control mechanisms."
+    },
+    {
+        "word": "Edge Adaptable Applications",
+        "description": "Edge Adaptable Applications are applications that can dynamically adjust their behavior and resources based on the current edge computing environment and conditions. They can optimize performance, energy consumption, and resource utilization."
+    },
+    {
+        "word": "Edge Virtual Private Network (Vpn)",
+        "description": "Edge Virtual Private Network (VPN) is a secure network connection established over a public network infrastructure, allowing edge devices to securely connect with the central network or cloud."
+    },
+    {
+        "word": "Edge Cognitive Computing",
+        "description": "Edge Cognitive Computing combines cognitive computing techniques, such as natural language processing and pattern recognition, with edge computing. It enables intelligent processing and decision-making at the edge."
+    },
+    {
+        "word": "Edge Streaming Analytics",
+        "description": "Edge Streaming Analytics is the real-time analysis of data streams generated at the edge of the network. It involves processing and extracting meaningful insights from continuous data streams in real time."
+    },
+    {
+        "word": "Edge Resource Management",
+        "description": "Edge Resource Management refers to the dynamic allocation and utilization of computing resources, such as processing power, storage, and bandwidth, in an edge computing environment. It ensures optimal resource allocation and performance."
+    },
+    {
+        "word": "Edge-Based Machine Learning Inference",
+        "description": "Edge-Based Machine Learning Inference refers to performing ML model inference, prediction, or classification tasks at the edge of the network. It reduces latency, conserves bandwidth, and enhances data privacy by keeping ML computations local."
+    },
+    {
+        "word": "Edge Regulatory Compliance",
+        "description": "Edge Regulatory Compliance refers to adhering to industry-specific regulations and compliance requirements in the deployment and operation of an edge computing infrastructure. It ensures the legal and ethical use of data at the edge."
+    },
+    {
+        "word": "Edge Fault Tolerance",
+        "description": "Edge Fault Tolerance is the ability of an edge computing system to withstand and recover from faults, errors, or failures in the hardware, software, or network components. It ensures uninterrupted operation and data availability."
+    },
+    {
+        "word": "Edge Blockchain",
+        "description": "Edge Blockchain is a distributed ledger technology that enables decentralized and secure data storage, verification, and transaction processing at the edge of the network. It can be used for enhancing trust, integrity, and privacy in edge applications."
+    },
+    {
+        "word": "Edge Quantum Computing",
+        "description": "Edge Quantum Computing involves deploying and utilizing quantum computing resources at the edge of the network. It leverages the unique capabilities of quantum computing, such as qubits and quantum algorithms, for edge-specific applications."
+    },
+    {
+        "word": "Edge Distributed Ledger",
+        "description": "An Edge Distributed Ledger is a decentralized and distributed system for recording and synchronizing data across multiple edge devices or nodes. It enables distributed consensus, tamper-proof records, and secure transaction processing at the edge."
+    },
+    {
+        "word": "Edge Augmented Reality (Ar)",
+        "description": "Edge Augmented Reality (AR) is the overlaying of digital information or virtual objects onto the real-world environment at the edge of the network. It enables real-time and interactive AR experiences on edge devices."
+    },
+    {
+        "word": "Edge Virtual Reality (Vr)",
+        "description": "Edge Virtual Reality (VR) is the creation of a simulated or virtual environment at the edge of the network. It provides immersive and interactive VR experiences on edge devices, reducing latency and enhancing user engagement."
+    },
+    {
+        "word": "Edge Knowledge Graphs",
+        "description": "Edge Knowledge Graphs represent structured and interconnected knowledge and information at the edge of the network. They enable intelligent inference, reasoning, and decision-making in edge applications."
+    },
+    {
+        "word": "Edge Natural User Interfaces (Nui)",
+        "description": "Edge Natural User Interfaces (NUI) enable users to interact with edge devices and applications using natural and intuitive methods, such as voice commands, gestures, or eye movements. They enhance user experience and accessibility at the edge."
+    },
+    {
+        "word": "Edge Predictive Maintenance",
+        "description": "Edge Predictive Maintenance uses data analytics and ML algorithms at the edge to predict and prevent equipment failures or malfunctions. It enables proactive maintenance, reduces downtime, and extends asset lifespan."
+    },
+    {
+        "word": "Edge Adaptive Security",
+        "description": "Edge Adaptive Security is a security approach that dynamically adapts to changing edge computing environments, threats, and device characteristics. It employs AI, ML, and anomaly detection techniques to detect and respond to security threats."
+    },
+    {
+        "word": "Edge Supply Chain Management",
+        "description": "Edge Supply Chain Management involves using edge computing, IoT devices, and data analytics to optimize and streamline supply chain operations. It enables real-time inventory management, demand forecasting, and logistics optimization."
+    },
+    {
+        "word": "Edge Precision Agriculture",
+        "description": "Edge Precision Agriculture leverages edge devices, sensors, and data analytics to optimize farming practices, crop yield, and resource utilization. It enables real-time monitoring, automation, and decision-making in agricultural processes."
+    },
+    {
+        "word": "Edge Smart Cities",
+        "description": "Edge Smart Cities utilize edge computing, IoT, and data analytics to improve the efficiency, sustainability, and livability of urban areas. They enable intelligent monitoring, management, and services in various domains, such as transportation, energy, and public safety."
+    },
+    {
+        "word": "Edge Healthcare",
+        "description": "Edge Healthcare leverages edge computing, IoT devices, and data analytics to enable real-time monitoring, remote patient care, and personalized healthcare services. It improves the delivery, efficiency, and quality of healthcare at the edge."
+    },
+    {
+        "word": "Edge Retail",
+        "description": "Edge Retail employs edge computing, IoT devices, and data analytics to optimize retail operations, customer experiences, and supply chain management. It enables real-time inventory management, personalized marketing, and efficient customer service."
+    },
+    {
+        "word": "Edge Manufacturing",
+        "description": "Edge Manufacturing utilizes edge computing, IoT devices, and data analytics to optimize manufacturing processes, improve efficiency, and enable predictive maintenance. It enables real-time monitoring, automation, and optimization in production environments."
+    },
+    {
+        "word": "Edge Energy",
+        "description": "Edge Energy employs edge computing, IoT, and data analytics to optimize energy generation, distribution, and consumption. It enables real-time monitoring, predictive maintenance, and energy efficiency in smart grids and renewable energy systems."
+    },
+    {
+        "word": "Real-Time Processing",
+        "description": "Real-time processing refers to the instantaneous or near-instantaneous analysis and response to data as it is generated."
+    },
+    {
+        "word": "Cloud Service Provider",
+        "description": "A Cloud Service Provider is a company that offers various cloud-based services, including infrastructure, platforms, and software, to individuals or organizations."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics is the process of examining raw data to discover patterns, draw conclusions, and make data-driven decisions."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex data sets that cannot be easily managed, processed, or analyzed using traditional data processing techniques."
+    },
+    {
+        "word": "5G",
+        "description": "5G is the fifth generation of cellular network technology, offering faster speeds, lower latency, and greater capacity for wireless communications."
+    },
+    {
+        "word": "Virtualization",
+        "description": "Virtualization is the process of creating a virtual version of something, such as a server, storage device, network, or operating system, using software."
+    },
+    {
+        "word": "Microcontrollers",
+        "description": "Microcontrollers are small, self-contained computer systems on a single integrated circuit, designed to control specific functions in devices."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity is the practice of protecting digital systems, networks, and data from unauthorized access, use, disclosure, disruption, or destruction."
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote Monitoring is the process of monitoring and collecting data from a system or device located at a distance, typically through the use of sensors and communication technologies."
+    },
+    {
+        "word": "Mesh Networking",
+        "description": "Mesh Networking is a network topology in which each device in the network can communicate directly with every other device, enabling self-healing and better coverage."
+    },
+    {
+        "word": "Low Power Wide Area (Lpwa)",
+        "description": "Low Power Wide Area is a wireless communications network technology designed for low-bandwidth, long-range applications with low power consumption."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data Privacy refers to the protection of individual's personal information, ensuring that it is collected, stored, and used in a manner that respects their privacy rights."
+    },
+    {
+        "word": "Edge-To-Edge Computing",
+        "description": "Edge-to-Edge Computing involves processing and analyzing data at multiple edge locations in a distributed manner, enabling faster response times and reduced reliance on centralized cloud infrastructure."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A Digital Twin is a virtual replica of a physical entity, process, or system that can be used for monitoring, simulating, and optimizing its real-world counterpart."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality is an interactive experience that combines real-world elements with computer-generated sensory information, enhancing the perception of reality."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual Reality is a simulated experience that can be similar to or completely different from the real world, typically experienced through a head-mounted display."
+    },
+    {
+        "word": "Cloud Orchestration",
+        "description": "Cloud Orchestration is the automation and coordination of various cloud resources and services to ensure efficient deployment, management, and scalability of applications."
+    },
+    {
+        "word": "Serverless Computing",
+        "description": "Serverless Computing is a model for running applications without managing underlying server infrastructure, allowing developers to focus on writing code."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized, distributed ledger technology used to record transactions across multiple computers, providing transparency, security, and immutability."
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data Fusion is the process of combining data from multiple sources and integrating it into a single, coherent dataset to extract meaningful insights."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics is the use of historical data and statistical techniques to predict future outcomes or behaviors, enabling proactive decision-making."
+    },
+    {
+        "word": "Data Stream Processing",
+        "description": "Data Stream Processing is the real-time processing of data streams, enabling the continuous analysis and extraction of insights from high-velocity data."
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "Digital Transformation is the integration of digital technologies into all areas of a business, fundamentally changing how it operates and delivers value to customers."
+    },
+    {
+        "word": "Data Compression",
+        "description": "Data Compression is the process of reducing the size of data to save storage space, minimize bandwidth usage, and increase transmission speed."
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "A Distributed Ledger is a digital record or database that is spread across multiple sites, countries, or institutions, providing transparency, immutability, and decentralization."
+    },
+    {
+        "word": "Stream Processing",
+        "description": "Stream Processing is a computing paradigm that involves processing and analyzing data streams in real-time as they are received, enabling immediate insights and actions."
+    },
+    {
+        "word": "Sensor Networks",
+        "description": "Sensor Networks consist of interconnected sensors that collect and transmit data about physical or environmental conditions, enabling monitoring and control of various systems."
+    },
+    {
+        "word": "Digital Edge",
+        "description": "Digital Edge refers to the boundary between the physical and digital worlds, where physical objects, devices, and sensors connect and interact with digital systems."
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "Time Series Analysis is a statistical technique that involves analyzing and modeling data collected at regular intervals over time to identify patterns, trends, and anomalies."
+    },
+    {
+        "word": "Device Management",
+        "description": "Device Management involves the monitoring, configuration, and control of devices, ensuring they are operating correctly, securely, and providing efficient data transfer."
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governance is the framework and processes for managing data assets, including data quality, security, privacy, and compliance with regulations and policies."
+    },
+    {
+        "word": "Digital Infrastructure",
+        "description": "Digital Infrastructure refers to the underlying foundation of technology, networks, and communication systems that support and enable digital services and operations."
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "A Service Level Agreement is a contract between a service provider and a client that defines the agreed-upon level of service, performance, and availability."
+    },
+    {
+        "word": "Data Center",
+        "description": "A Data Center is a physical facility that houses computing resources, including servers, storage devices, networking equipment, and associated components."
+    },
+    {
+        "word": "Local Area Network (Lan)",
+        "description": "A Local Area Network is a network that connects computers and devices within a limited geographical area, such as a home, office, or building."
+    },
+    {
+        "word": "Wide Area Network (Wan)",
+        "description": "A Wide Area Network is a network that spans a large geographical area, connecting computers and devices across multiple locations, using various communication technologies."
+    },
+    {
+        "word": "Failover",
+        "description": "Failover is the process of switching from a failed or offline system or component to a backup or redundant system to ensure continued availability and reliability of services."
+    },
+    {
+        "word": "High Availability",
+        "description": "High Availability refers to a system or service that is continuously operational and accessible, with minimal downtime and the ability to recover quickly from failures."
+    },
+    {
+        "word": "Metadata",
+        "description": "Metadata is data that provides information about other data, such as the structure, format, content, location, and other attributes of the underlying data."
+    },
+    {
+        "word": "Load Balancing",
+        "description": "Load Balancing is the process of distributing network traffic or computing workload across multiple servers or devices to optimize resource utilization, maximize performance, and minimize response time."
+    },
+    {
+        "word": "Over-The-Air (Ota)",
+        "description": "Over-the-Air refers to the wireless transmission of data, software, or updates to devices or systems, without the need for physical connection or manual intervention."
+    },
+    {
+        "word": "Endpoint",
+        "description": "An Endpoint refers to a device or software application that serves as a termination point in a network or communication channel, where data is sent or received."
+    },
+    {
+        "word": "Zero Trust",
+        "description": "Zero Trust is an approach to cybersecurity that assumes no trust in any user or device, requiring identity verification, strict access controls, and continuous authorization monitoring."
+    }
+]
