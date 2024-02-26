@@ -1,0 +1,410 @@
+[
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics is the use of historical data, statistical algorithms, and machine learning techniques to predict future outcomes or trends."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data Mining is the process of discovering patterns and extracting useful information from large datasets."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a subset of AI that focuses on getting machines to learn from data and make predictions or decisions without being explicitly programmed."
+    },
+    {
+        "word": "Regression Analysis",
+        "description": "Regression Analysis is a statistical technique used to model and analyze the relationships between a dependent variable and one or more independent variables."
+    },
+    {
+        "word": "Classification",
+        "description": "Classification is a machine learning technique that predicts the class or category of a given input based on its features or characteristics."
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering is a technique used to group similar data points or objects together in order to discover underlying patterns or structures."
+    },
+    {
+        "word": "Decision Tree",
+        "description": "Decision Tree is a simple yet powerful predictive modeling technique that uses a tree-like structure to make decisions or predictions based on a series of rules."
+    },
+    {
+        "word": "Random Forest",
+        "description": "Random Forest is an ensemble learning algorithm that constructs a multitude of decision trees and combines their predictions to make accurate predictions."
+    },
+    {
+        "word": "Support Vector Machines",
+        "description": "Support Vector Machines (SVM) is a supervised learning algorithm used for classification and regression analysis."
+    },
+    {
+        "word": "Neural Network",
+        "description": "Neural Network is a type of machine learning algorithm that is inspired by the structure and functions of the human brain, consisting of interconnected layers of artificial neurons."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers to learn hierarchical representations of data."
+    },
+    {
+        "word": "Feature Selection",
+        "description": "Feature Selection is the process of selecting the most relevant and informative features from a dataset for use in predictive modeling."
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "Feature Engineering is the process of creating new features or transforming existing features in a dataset to improve the performance of a machine learning algorithm."
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "Cross-Validation is a technique used to assess the performance and generalization ability of a predictive model by splitting the data into multiple subsets for training and testing."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting occurs when a predictive model is overly complex and captures noise or random fluctuations in the training data, leading to poor performance on new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting occurs when a predictive model is too simple and fails to capture the underlying patterns or relationships in the data, resulting in low predictive accuracy."
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning is a machine learning technique that combines multiple models or learning algorithms to improve the overall predictive accuracy."
+    },
+    {
+        "word": "Regression Model",
+        "description": "A Regression Model is a statistical model used to predict a continuous target variable."
+    },
+    {
+        "word": "Classification Model",
+        "description": "A Classification Model is a statistical model used to predict the class or category of a given observation."
+    },
+    {
+        "word": "A/B Testing",
+        "description": "A/B Testing is an experimental method used to compare two versions (A and B) of a webpage, feature, or marketing campaign to determine which one performs better."
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "Time Series Analysis is a statistical technique used to analyze and forecast data points collected over time."
+    },
+    {
+        "word": "Naive Bayes",
+        "description": "Naive Bayes is a simple probabilistic classifier based on Bayes' theorem and assumes that the features are conditionally independent given the class label."
+    },
+    {
+        "word": "Logistic Regression",
+        "description": "Logistic Regression is a statistical regression technique used for binary classification problems, modeling the probability of the dependent variable belonging to a certain class."
+    },
+    {
+        "word": "K-Nearest Neighbors",
+        "description": "K-nearest Neighbors (KNN) is a non-parametric machine learning algorithm that predicts the class label of a given input by considering the classes of its k nearest neighbors."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "Artificial Neural Network (ANN) is a computational model inspired by the biological neural networks in the human brain, used for various machine learning tasks."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning is a type of machine learning where an agent learns to make decisions in an environment to maximize a reward signal."
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning is a combination of deep learning and reinforcement learning, where an agent learns to take actions in an environment to maximize a reward signal."
+    },
+    {
+        "word": "Gradient Boosting",
+        "description": "Gradient Boosting is an ensemble learning technique that combines weak prediction models, typically decision trees, in a sequential manner to create a strong predictive model."
+    },
+    {
+        "word": "Principal Component Analysis",
+        "description": "Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms a set of correlated variables into a new set of uncorrelated variables called principal components."
+    },
+    {
+        "word": "Feature Scaling",
+        "description": "Feature Scaling is the process of standardizing or normalizing the range of features in a dataset to ensure they have a similar scale."
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "Confusion Matrix is a table that summarizes the performance of a classification model by showing the predicted and actual class labels for a set of test data."
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a performance metric that measures the proportion of true positive predictions out of the total predicted positives, indicating the model's ability to avoid false positives."
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a performance metric that measures the proportion of true positive predictions out of the actual positive instances, indicating the model's ability to avoid false negatives."
+    },
+    {
+        "word": "F1 Score",
+        "description": "F1 Score is the harmonic mean of precision and recall, providing a single metric that balances both metrics and is useful for comparing models."
+    },
+    {
+        "word": "Roc Curve",
+        "description": "ROC Curve is a graphical representation of the trade-off between the true positive rate (sensitivity) and false positive rate (1 - specificity) for different classification thresholds."
+    },
+    {
+        "word": "Area Under The Curve",
+        "description": "The Area Under the Curve (AUC) is a metric used to evaluate the performance of a binary classification model, representing the probability that the model ranks a randomly chosen positive instance higher than a randomly chosen negative instance."
+    },
+    {
+        "word": "Bias-Variance Tradeoff",
+        "description": "Bias-Variance Tradeoff is the balance between underfitting (high bias) and overfitting (high variance) in a predictive model, aiming to minimize the overall error."
+    },
+    {
+        "word": "Lift Chart",
+        "description": "A Lift Chart is a graphical representation of the performance of a predictive model by comparing the cumulative response generated by the model with a random selection."
+    },
+    {
+        "word": "Churn Prediction",
+        "description": "Churn Prediction is the task of identifying customers who are likely to discontinue using a product or service based on their behavior, enabling proactive retention strategies."
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "Customer Segmentation is the process of dividing customers into groups based on their characteristics, behaviors, or purchasing patterns, allowing targeted marketing and personalized services."
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection is the process of identifying data points or patterns that deviate significantly from the expected or normal behavior."
+    },
+    {
+        "word": "Association Rule Mining",
+        "description": "Association Rule Mining is the process of discovering interesting associations or relationships among items in large datasets."
+    },
+    {
+        "word": "Recommendation Systems",
+        "description": "Recommendation Systems are algorithms that provide personalized suggestions or recommendations to users based on their preferences, behaviors, or similarities to other users."
+    },
+    {
+        "word": "Time Series Forecasting",
+        "description": "Time Series Forecasting is the process of predicting future values or trends of a variable based on its historical data points collected over time."
+    },
+    {
+        "word": "Optimization",
+        "description": "Optimization involves finding the best solution to a problem given certain constraints or objectives, often used in predictive analytics to optimize model parameters or decision-making processes."
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data Preprocessing is the process of cleaning, transforming, and organizing raw data to make it suitable for further analysis."
+    },
+    {
+        "word": "Categorical Variable",
+        "description": "A Categorical Variable is a variable that can take on one of a limited number of categories or levels."
+    },
+    {
+        "word": "Numeric Variable",
+        "description": "A Numeric Variable is a variable that represents quantities or numbers and can be measured on a numerical scale."
+    },
+    {
+        "word": "Outlier Detection",
+        "description": "Outlier Detection is the process of identifying and treating data points that deviate significantly from the norm or are erroneous."
+    },
+    {
+        "word": "Imputation",
+        "description": "Imputation is the process of filling in missing values in a dataset with estimated or imputed values."
+    },
+    {
+        "word": "Sampling",
+        "description": "Sampling is the process of selecting a subset of individuals or observations from a larger population to infer or generalize about the entire population."
+    },
+    {
+        "word": "Time Series Decomposition",
+        "description": "Time Series Decomposition is the process of separating a time series into its underlying trend, seasonal, and residual components."
+    },
+    {
+        "word": "Hypothesis Testing",
+        "description": "Hypothesis Testing is a statistical technique used to make inferences or conclusions about a population based on a sample, testing the validity of a hypothesis."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the process of representing data and information in a visual form, aiming to facilitate exploration, understanding, and communication of insights."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex datasets that cannot be easily managed, processed, or analyzed using traditional data processing techniques."
+    },
+    {
+        "word": "Sparse Data",
+        "description": "Sparse Data refers to datasets in which most of the values are missing or zero, requiring specialized techniques for analysis and prediction."
+    },
+    {
+        "word": "Feature Importance",
+        "description": "Feature Importance is a measure of the usefulness or significance of each feature in a predictive model for making accurate predictions."
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "description": "Dimensionality Reduction is the process of reducing the number of variables or features in a dataset while preserving its information content and reducing its complexity."
+    },
+    {
+        "word": "Bias",
+        "description": "Bias is the systematic deviation of the predicted values from the true values, indicating a model's tendency to consistently overestimate or underestimate."
+    },
+    {
+        "word": "Variance",
+        "description": "Variance is the variability or spread of predicted values around the mean, indicating a model's sensitivity to fluctuations in the training data."
+    },
+    {
+        "word": "Root Mean Square Error",
+        "description": "Root Mean Square Error (RMSE) is a commonly used metric to measure the accuracy of a prediction model by calculating the square root of the average of the squared differences between predicted and actual values."
+    },
+    {
+        "word": "Mean Absolute Error",
+        "description": "Mean Absolute Error (MAE) is a loss function that measures the average absolute difference between the predicted and actual values in regression models."
+    },
+    {
+        "word": "R-Squared",
+        "description": "R-squared is a statistical metric that represents the proportion of the variance in the dependent variable that is predictable from the independent variables."
+    },
+    {
+        "word": "P-Value",
+        "description": "P-value is a statistical measure that represents the probability of obtaining results as extreme as the observed results, assuming the null hypothesis is true."
+    },
+    {
+        "word": "Correlation",
+        "description": "Correlation measures the strength and direction of the relationship between two or more variables, indicating how changes in one variable are associated with changes in another variable."
+    },
+    {
+        "word": "Coefficient",
+        "description": "In statistics, a Coefficient represents the degree of association between two variables or the amount of change in the dependent variable for a unit change in the independent variable."
+    },
+    {
+        "word": "Statistical Modeling",
+        "description": "Statistical Modeling is the process of estimating and making inferences about the relationships between variables using statistical techniques."
+    },
+    {
+        "word": "Auc-Roc",
+        "description": "AUC-ROC (Area Under the ROC Curve) is a performance metric that measures the overall quality of a binary classification model by calculating the area under the ROC curve."
+    },
+    {
+        "word": "Support Vector Machine",
+        "description": "Support Vector Machine (SVM) is a supervised learning algorithm used for classification and regression tasks, aiming to find the best hyperplane that separates data points of different classes."
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "Recurrent Neural Network (RNN) is a type of neural network that is capable of processing sequential data by using information from previous time steps."
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network architecture that addresses the vanishing gradient problem and can remember long-term dependencies."
+    },
+    {
+        "word": "Xgboost",
+        "description": "XGBoost (Extreme Gradient Boosting) is a scalable and efficient implementation of gradient boosting that has gained popularity due to its outstanding performance in machine learning competitions."
+    },
+    {
+        "word": "K-Means Clustering",
+        "description": "K-means Clustering is a popular unsupervised learning algorithm used to divide a dataset into clusters based on similarities in the feature space."
+    },
+    {
+        "word": "Singular Value Decomposition",
+        "description": "Singular Value Decomposition (SVD) is a matrix factorization technique that represents a matrix as the product of three matrices, enabling dimensionality reduction and data compression."
+    },
+    {
+        "word": "Association Rule Learning",
+        "description": "Association Rule Learning is a data mining technique that discovers interesting relationships or associations between variables in large datasets."
+    },
+    {
+        "word": "Anova",
+        "description": "Anova (Analysis of Variance) is a statistical technique used to determine if there are any statistically significant differences between the means of two or more groups."
+    },
+    {
+        "word": "Ridge Regression",
+        "description": "Ridge Regression is a technique used to mitigate the problem of multicollinearity in regression models by adding a penalty term to the least squares objective function."
+    },
+    {
+        "word": "Lasso Regression",
+        "description": "Lasso Regression is a technique used to perform variable selection and shrink the coefficients of less important variables towards zero, leading to sparse models."
+    },
+    {
+        "word": "Elastic Net",
+        "description": "Elastic Net is a technique that combines both Ridge and Lasso Regression by adding a linear combination of L1 and L2 penalties to the objective function."
+    },
+    {
+        "word": "Mean Squared Error",
+        "description": "Mean Squared Error (MSE) is a commonly used loss function that measures the average squared difference between the predicted and actual values in regression models."
+    },
+    {
+        "word": "Root Mean Squared Error",
+        "description": "Root Mean Squared Error (RMSE) is the square root of the mean squared error and provides a more interpretable metric for regression models."
+    },
+    {
+        "word": "Residuals",
+        "description": "Residuals are the differences between the predicted values and the actual values in regression models, representing the unexplained variation in the data."
+    },
+    {
+        "word": "Power Analysis",
+        "description": "Power Analysis is a statistical technique used to determine the sample size needed to detect a certain effect size with a desired level of statistical power."
+    },
+    {
+        "word": "Tableau",
+        "description": "Tableau is a popular data visualization tool that enables users to create interactive and visually appealing dashboards, reports, and charts."
+    },
+    {
+        "word": "Python",
+        "description": "Python is a popular programming language widely used in data analysis, machine learning, and scientific computing due to its simplicity and extensive libraries."
+    },
+    {
+        "word": "R",
+        "description": "R is a programming language and environment commonly used in statistical analysis, data visualization, and machine learning, known for its vast collection of packages."
+    },
+    {
+        "word": "Sql",
+        "description": "SQL (Structured Query Language) is a standard programming language used to manage and analyze relational databases, enabling data retrieval, manipulation, and querying."
+    },
+    {
+        "word": "Data Wrangling",
+        "description": "Data Wrangling, also known as Data Munging, is the process of cleaning, transforming, and mapping raw data into a usable format for analysis."
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governance is a framework that ensures data quality, security, privacy, and compliance within an organization, establishing policies and procedures for data management."
+    },
+    {
+        "word": "Data Quality",
+        "description": "Data Quality refers to the accuracy, completeness, consistency, and reliability of data, ensuring that data is fit for its intended purpose."
+    },
+    {
+        "word": "Data Warehouse",
+        "description": "Data Warehouse is a centralized repository that integrates data from various sources for reporting, analysis, and decision-making purposes."
+    },
+    {
+        "word": "Etl",
+        "description": "ETL (Extract, Transform, Load) is the process of extracting data from various sources, transforming it into a consistent format, and loading it into a data warehouse or other target system."
+    },
+    {
+        "word": "Business Intelligence",
+        "description": "Business Intelligence (BI) refers to technologies, applications, and practices that transform raw data into meaningful and actionable insights for business decision-making."
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "Data-driven Decision Making is an approach that relies on the analysis of data and quantitative methods to guide business decisions and strategy."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a subfield of AI that focuses on the interaction between computers and humans, enabling machines to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Sentiment Analysis",
+        "description": "Sentiment Analysis is a technique that uses natural language processing and machine learning to determine the sentiment or emotion expressed in a piece of text."
+    },
+    {
+        "word": "Unstructured Data",
+        "description": "Unstructured Data refers to data that does not have a predefined format or organization, such as text documents, social media posts, or audio recordings."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed digital ledger technology that securely records and verifies transactions across multiple computers or nodes."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "Internet of Things (IoT) refers to the network of physical objects or devices embedded with sensors, software, and connectivity to exchange data and communicate with each other."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing is a model for delivering computing services over the internet, providing on-demand access to a shared pool of resources, such as servers, storage, and applications."
+    },
+    {
+        "word": "Automated Machine Learning",
+        "description": "Automated Machine Learning (AutoML) is the process of automating various stages of the machine learning workflow, such as feature engineering, model selection, and hyperparameter tuning."
+    },
+    {
+        "word": "Explainable Ai",
+        "description": "Explainable AI is an approach that focuses on developing AI models and algorithms that can provide transparent explanations for their predictions or decisions."
+    }
+]
