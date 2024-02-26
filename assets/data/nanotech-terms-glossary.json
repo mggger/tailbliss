@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Nanotechnology",
+        "description": "Nanotechnology is the science, engineering, and application of materials and devices with structures, properties, and behaviors characterized by nanoscale dimensions."
+    },
+    {
+        "word": "Nanoparticles",
+        "description": "Nanoparticles are particles with dimensions on the nanoscale, often engineered to have specific properties for various applications, such as drug delivery or catalysis."
+    },
+    {
+        "word": "Quantum Dots",
+        "description": "Quantum dots are nanoscale semiconductors that exhibit quantum mechanical properties, such as size-tunable emission of light."
+    },
+    {
+        "word": "Self-Assembly",
+        "description": "Self-assembly is the spontaneous organization of molecules or nanoparticles into ordered structures through non-covalent interactions, without external control."
+    },
+    {
+        "word": "Nanofabrication",
+        "description": "Nanofabrication is the process of creating nanoscale structures and devices using techniques such as lithography, etching, and deposition."
+    },
+    {
+        "word": "Nanocomposites",
+        "description": "Nanocomposites are materials that combine nanoparticles or nanofillers with a matrix material, resulting in enhanced mechanical, thermal, electrical, or barrier properties compared to the pure matrix material."
+    },
+    {
+        "word": "Carbon Nanotubes",
+        "description": "Carbon nanotubes are cylindrical structures made of carbon atoms arranged in a tube-like fashion; they possess exceptional mechanical, thermal, and electrical properties."
+    },
+    {
+        "word": "Nanomedicine",
+        "description": "Nanomedicine refers to the use of nanotechnology in medicine, allowing for targeted drug delivery, imaging, and diagnostics at the molecular level."
+    },
+    {
+        "word": "Mems",
+        "description": "Microelectromechanical Systems (MEMS) refers to miniaturized devices or systems that integrate mechanical and electrical components at the micrometer scale."
+    },
+    {
+        "word": "Afm",
+        "description": "Atomic Force Microscopy (AFM) is a microscopy technique that uses a nanoscale probe to scan surfaces and measure forces at the atomic scale."
+    },
+    {
+        "word": "Nems",
+        "description": "NEMS (Nanoelectromechanical Systems) are devices that combine electrical and mechanical components on the nanometer scale."
+    },
+    {
+        "word": "Nanoimprint Lithography",
+        "description": "Nanoimprint Lithography is a technique for creating nanoscale patterns by pressing a mold into a soft material, followed by hardening the material and removing the mold."
+    },
+    {
+        "word": "Nanoengineering",
+        "description": "Nanoengineering involves designing and manipulating materials and devices at the nanoscale to create new functionalities and applications."
+    },
+    {
+        "word": "Plasmonics",
+        "description": "Plasmonics is the study and utilization of the interaction between light and metal nanoparticles, enabling applications in imaging, sensing, and energy conversion."
+    },
+    {
+        "word": "Nanorobots",
+        "description": "Nanorobots are nanoscale devices or machines that can perform specific tasks, such as drug delivery, sensing, or assembly, with precise control and manipulation at the nanoscale."
+    },
+    {
+        "word": "Fullerene",
+        "description": "Fullerene is a molecule composed entirely of carbon atoms arranged in a hollow sphere or tube, known for unique properties and potential applications."
+    },
+    {
+        "word": "Quantum Tunneling",
+        "description": "Quantum tunneling is a quantum mechanical phenomenon where particles can pass through potential barriers, allowing for electron flow and other phenomena at the nanoscale."
+    },
+    {
+        "word": "Superparamagnetism",
+        "description": "Superparamagnetism is a property exhibited by nanoparticles when their magnetic moments randomly fluctuate."
+    },
+    {
+        "word": "Nanophotonics",
+        "description": "Nanophotonics is the study and manipulation of light at the nanoscale, enabling the development of devices such as nanoscale lasers, optical circuits, and sensors."
+    },
+    {
+        "word": "Nanostructured Materials",
+        "description": "Nanostructured materials have a specific structure at the nanoscale, offering unique properties and applications in areas such as energy storage and catalysis."
+    },
+    {
+        "word": "Nano-Electronics",
+        "description": "Nano-electronics involves the design, fabrication, and application of electronic devices on the nanoscale."
+    },
+    {
+        "word": "Nanowires",
+        "description": "Nanowires are nanoscale wires with diameters typically ranging from a few nanometers to a few hundred nanometers, offering potential applications in electronics, sensors, and energy conversion."
+    },
+    {
+        "word": "Top-Down Fabrication",
+        "description": "Top-down fabrication refers to the process of creating nanostructures by reducing larger materials through etching or carving."
+    },
+    {
+        "word": "Bottom-Up Fabrication",
+        "description": "Bottom-up fabrication involves building nanostructures by assembling individual atoms or molecules."
+    },
+    {
+        "word": "Nanolithography",
+        "description": "Nanolithography is the process of patterning or engraving nanoscale features on a surface using masks or direct writing techniques, typically used in semiconductor manufacturing."
+    },
+    {
+        "word": "Dip-Pen Nanolithography",
+        "description": "Dip-pen nanolithography is a high-resolution patterning technique that uses an atomic force microscope tip to draw nanoscale features."
+    },
+    {
+        "word": "Nanopore Sequencing",
+        "description": "Nanopore Sequencing is a DNA sequencing technique that involves threading individual DNA or RNA strands through a nanopore, allowing for rapid and portable sequencing."
+    },
+    {
+        "word": "Nanotribology",
+        "description": "Nanotribology is the study of friction, wear, and lubrication at the nanoscale, exploring the behavior and interactions of surfaces or materials with nanometer-scale features."
+    },
+    {
+        "word": "Nanosensors",
+        "description": "Nanosensors are miniature sensors that utilize nanoscale materials or structures to detect and measure physical, chemical, or biological phenomena with high sensitivity and specificity."
+    },
+    {
+        "word": "Nanotechnology Roadmap",
+        "description": "A nanotechnology roadmap is a strategic plan or framework that outlines the goals, milestones, and direction of nanotechnology research and development."
+    },
+    {
+        "word": "Molecular Nanotechnology",
+        "description": "Molecular Nanotechnology aims to create functional materials and devices by manipulating individual molecules and atoms, often using tools such as scanning probe microscopes."
+    },
+    {
+        "word": "Surface Enhanced Raman Scattering",
+        "description": "Surface enhanced Raman scattering (SERS) is a technique that enhances the Raman scattering signal by using metal nanoparticles."
+    },
+    {
+        "word": "Nanoimaging",
+        "description": "Nanoimaging refers to various techniques used to visualize and study materials and structures at the nanoscale."
+    },
+    {
+        "word": "Nanotoxicology",
+        "description": "Nanotoxicology is the study of the potential toxic effects of nanoparticles and nanomaterials on living organisms, including their impact on health and the environment."
+    },
+    {
+        "word": "Biosensors",
+        "description": "Biosensors are devices that combine a biological component with a transducer to detect and analyze biological analytes."
+    },
+    {
+        "word": "Nanoelectronics",
+        "description": "Nanoelectronics involves the design, fabrication, and application of nanoscale electronic components, such as transistors and nanowires, for improved performance and miniaturization."
+    },
+    {
+        "word": "Nanofluidics",
+        "description": "Nanofluidics is the study of fluid behavior at the nanoscale, including the manipulation and control of fluids within nanoscale channels or devices."
+    },
+    {
+        "word": "Nanopatterning",
+        "description": "Nanopatterning is the process of creating patterns or features on the nanoscale, often for applications in electronics, photonics, or data storage."
+    },
+    {
+        "word": "Quantum Confinement",
+        "description": "Quantum confinement is the restriction of a particle's motion, leading to quantum effects, due to its confinement in a small space."
+    },
+    {
+        "word": "Nanostructured Surfaces",
+        "description": "Nanostructured surfaces have specific patterns or features on the nanoscale that modify surface properties, such as wetting or adhesion."
+    },
+    {
+        "word": "Plasmonic Nanoparticles",
+        "description": "Plasmonic nanoparticles are metal nanoparticles that exhibit plasmon resonances, enabling strong interaction with light."
+    },
+    {
+        "word": "Nanocomputing",
+        "description": "Nanocomputing involves the use of nanoscale components or materials to create computing systems with high performance, low power consumption, or novel architectures."
+    },
+    {
+        "word": "Nanofabrication Techniques",
+        "description": "Nanofabrication Techniques encompass a variety of methods used to create nanoscale structures and devices, including techniques such as chemical vapor deposition, atomic layer deposition, or nanoscale 3D printing."
+    },
+    {
+        "word": "Dendrimers",
+        "description": "Dendrimers are highly branched macromolecules that exhibit unique properties, such as controlled size and shape."
+    },
+    {
+        "word": "Photolithography",
+        "description": "Photolithography is a technique used in nanofabrication to transfer patterns onto a substrate using light and photosensitive materials."
+    },
+    {
+        "word": "Nanopore Membranes",
+        "description": "Nanopore membranes are thin films with nanoscale pores that can selectively filter or separate molecules based on size."
+    },
+    {
+        "word": "Nanomanipulation",
+        "description": "Nanomanipulation involves the precise handling, positioning, and assembly of nanoscale objects or components, often using specialized tools and techniques."
+    },
+    {
+        "word": "Nanoparticle Synthesis",
+        "description": "Nanoparticle synthesis involves the creation and control of nanoparticles through various techniques, such as chemical precipitation, sol-gel, or vapor condensation."
+    },
+    {
+        "word": "Nanofiltration",
+        "description": "Nanofiltration is a type of water or liquid filtration process that utilizes nanoscale pores or membranes to separate and purify substances based on size or charge."
+    },
+    {
+        "word": "Nanostructured Coatings",
+        "description": "Nanostructured coatings are thin films or layers with a specific nanostructured surface, offering improved properties such as hardness, wear resistance, or self-cleaning capabilities."
+    },
+    {
+        "word": "Nanorod",
+        "description": "A nanorod is a nanoscale structure with a rod-like shape, exhibiting unique physical and optical properties."
+    },
+    {
+        "word": "Nanoparticle",
+        "description": "A nanoparticle is a particle with dimensions between 1 and 100 nanometers, exhibiting unique properties due to their small size."
+    },
+    {
+        "word": "Graphene",
+        "description": "Graphene is a single layer of carbon atoms arranged in a hexagonal lattice, known for its exceptional strength and conductivity."
+    },
+    {
+        "word": "Nanorobotics",
+        "description": "Nanorobotics refers to the field of creating robotic devices or machines at the nanoscale, typically working at the molecular level for tasks like targeted drug delivery or nanoscale assembly."
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "Quantum computing is a field that utilizes quantum phenomena to perform computations, enabling faster and more powerful computing capabilities."
+    },
+    {
+        "word": "Nanoporous",
+        "description": "Nanoporous materials have pores or cavities at the nanoscale, offering high surface area and potential applications in filtration and catalysis."
+    },
+    {
+        "word": "Quantum Mechanics",
+        "description": "Quantum mechanics is the branch of physics that describes the behavior of matter and energy at the smallest scales, including particles and waves."
+    },
+    {
+        "word": "Supramolecular Chemistry",
+        "description": "Supramolecular chemistry focuses on the interactions and properties of molecules and materials through non-covalent bonds, enabling the design of functional nanoscale structures."
+    },
+    {
+        "word": "Nanobiosensors",
+        "description": "Nanobiosensors are devices that integrate nanotechnology and biosensing principles, allowing the detection and analysis of biological molecules or processes at the nanoscale."
+    },
+    {
+        "word": "Dna Nanotechnology",
+        "description": "DNA nanotechnology involves the design and construction of nanoscale structures using DNA molecules as building blocks, with applications in targeted drug delivery and nanoelectronics."
+    },
+    {
+        "word": "Nanoelectromechanical Systems (Nems)",
+        "description": "Nanoelectromechanical Systems (NEMS) are devices or systems that merge electronics with mechanical elements at the nanoscale, enabling applications such as sensors, actuators, or resonators."
+    },
+    {
+        "word": "Bio-Nanotechnology",
+        "description": "Bio-nanotechnology combines biological and nanoscale concepts to create new materials, devices, and applications for areas such as medicine and environmental monitoring."
+    },
+    {
+        "word": "Top-Down Approach",
+        "description": "Top-down approach refers to a fabrication method where materials or structures are created by removing and shaping larger structures at the macro or micro scale until the desired nanoscale features are achieved."
+    },
+    {
+        "word": "Bottom-Up Approach",
+        "description": "Bottom-up approach refers to a fabrication method where materials or structures are built from atomic or molecular components, gradually assembling them into the desired nanostructures."
+    },
+    {
+        "word": "Nanocatalysis",
+        "description": "Nanocatalysis involves the use of nanomaterials as catalysts to enhance chemical reactions, providing higher efficiency and selectivity compared to conventional catalysts."
+    },
+    {
+        "word": "Nanogenerators",
+        "description": "Nanogenerators are devices that convert mechanical, thermal, or other forms of energy into electrical energy at the nanoscale, offering potential for self-powered nanosystems."
+    },
+    {
+        "word": "Nanophysiology",
+        "description": "Nanophysiology is the study of physiological processes and interactions at the nanoscale, essential for understanding biological phenomena and developing targeted therapies."
+    },
+    {
+        "word": "Quantum Dots Solar Cells",
+        "description": "Quantum dot solar cells utilize quantum dots as light-absorbing materials to convert solar energy into electricity, offering higher efficiency and tunable properties."
+    },
+    {
+        "word": "Nanosatellites",
+        "description": "Nanosatellites, also known as CubeSats, are small satellites with nanoscale dimensions, offering cost-effective solutions for space exploration and communication."
+    },
+    {
+        "word": "Dna Origami",
+        "description": "DNA origami is a technique that uses DNA molecules as a scaffold to fold and self-assemble into specified 2D or 3D structures with nanometer-scale precision."
+    },
+    {
+        "word": "Surface Enhanced Raman Spectroscopy (Sers)",
+        "description": "Surface Enhanced Raman Spectroscopy (SERS) is a technique that enhances the Raman scattering signal of molecules adsorbed on a roughened metal surface, enabling ultrasensitive detection and analysis."
+    },
+    {
+        "word": "Nanografting",
+        "description": "Nanografting is a technique used to manipulate and transfer individual molecules or nanometer-scale structures with high precision, enabling the creation of custom nanoscale patterns."
+    },
+    {
+        "word": "Nanowrinkles",
+        "description": "Nanowrinkles are surface patterns or wrinkles at the nanoscale, often formed through the introduction of compressive stress, offering unique optical, mechanical, or adhesive properties."
+    },
+    {
+        "word": "Nano-Optics",
+        "description": "Nano-optics involves the study and manipulation of light at the nanoscale, enabling applications such as enhanced imaging resolution, nanoscale lasers, and optical data storage."
+    },
+    {
+        "word": "Nanofabric Sensors",
+        "description": "Nanofabric sensors are nanoscale devices or systems designed to detect and measure physical, chemical, or biological phenomena, offering high sensitivity and selectivity."
+    },
+    {
+        "word": "Nemsensor",
+        "description": "Nemsensor refers to nanoelectromechanical sensors, which integrate nanoscale mechanical components, such as cantilevers or beams, with sensing elements to detect and analyze various parameters."
+    },
+    {
+        "word": "Nanolaser",
+        "description": "Nanolasers are extremely small lasers that emit light on the nanoscale, utilizing various nanoscale materials and structures as gain media."
+    },
+    {
+        "word": "Nanophysics",
+        "description": "Nanophysics is the branch of physics that focuses on the behavior and properties of materials, systems, and phenomena at the nanoscale, offering insights into the unique nature of matter at this scale."
+    },
+    {
+        "word": "Nanomaterials Characterization",
+        "description": "Nanomaterials characterization involves analyzing and understanding the structure, composition, and properties of nanomaterials using various techniques, such as electron microscopy, spectroscopy, and microscopy."
+    },
+    {
+        "word": "Dendrimer",
+        "description": "Dendrimers are highly branched synthetic macromolecules with well-defined structures, offering precise control over molecular size and shape, and finding applications in drug delivery and nanotechnology."
+    },
+    {
+        "word": "Nanoparticle Tracking",
+        "description": "Nanoparticle tracking is a technique used to monitor and analyze individual nanoparticles in solution, providing information on size, concentration, and motion."
+    },
+    {
+        "word": "Nanolasers",
+        "description": "Nanolasers are ultra-compact lasers with dimensions on the nanoscale, offering low-power and energy-efficient light sources for various applications, including data storage and optical computing."
+    },
+    {
+        "word": "Nanobubbles",
+        "description": "Nanobubbles are tiny gas-filled cavities formed at the solid-liquid interface with diameters on the nanometer scale, exhibiting unique properties and applications in areas such as water treatment and nanomedicine."
+    },
+    {
+        "word": "Nanotheranostics",
+        "description": "Nanotheranostics refer to the integration of therapeutic and diagnostic capabilities into a single nanoscale platform, enabling personalized medicine approaches and improved treatment efficacy."
+    },
+    {
+        "word": "Hybrid Nanomaterials",
+        "description": "Hybrid nanomaterials are composite materials that combine different types of nanoscale components, such as nanoparticles, nanotubes, or nanowires, to achieve synergistic properties and versatile applications."
+    },
+    {
+        "word": "Nanoscale",
+        "description": "Nanoscale refers to the size range of approximately 1 to 100 nanometers, where unique physical and chemical properties emerge."
+    },
+    {
+        "word": "Fullerenes",
+        "description": "Fullerenes are carbon-based molecules consisting of closed cages or tubes, with various applications in nanotechnology, including drug delivery and electronics."
+    },
+    {
+        "word": "Scanning Probe Microscopy",
+        "description": "Scanning Probe Microscopy is a group of techniques that use a probe to image, measure, or manipulate nanoscale surfaces, including Atomic Force Microscopy (AFM) and Scanning Tunneling Microscopy (STM)."
+    },
+    {
+        "word": "Quantum Nanotechnology",
+        "description": "Quantum Nanotechnology combines nanotechnology with quantum physics, aiming to develop technologies that exploit quantum phenomena at the nanoscale."
+    },
+    {
+        "word": "Top-Down Nanofabrication",
+        "description": "Top-Down Nanofabrication is a method of creating nanoscale structures by starting with a larger material and removing portions of it until the desired features are achieved."
+    },
+    {
+        "word": "Bottom-Up Nanofabrication",
+        "description": "Bottom-Up Nanofabrication is a method of creating nanoscale structures by assembling or growing them from smaller components or molecules, utilizing self-assembly or chemical synthesis."
+    },
+    {
+        "word": "Two-Dimensional Materials",
+        "description": "Two-Dimensional Materials are ultrathin materials that consist of a single layer of atoms, such as graphene or transition metal dichalcogenides, exhibiting unique electronic and mechanical properties."
+    },
+    {
+        "word": "Nanopillars",
+        "description": "Nanopillars are vertically aligned, nanoscale structures that can be used to enhance light absorption, improve catalytic reactions, or act as templates for nanowire growth."
+    },
+    {
+        "word": "Nanorods",
+        "description": "Nanorods are elongated nanoparticles with a high aspect ratio, often used in applications such as sensors, drug delivery, or as building blocks for more complex nanostructures."
+    },
+    {
+        "word": "Nanopore Sensors",
+        "description": "Nanopore Sensors are devices that utilize nanopores to detect and analyze molecules, such as DNA, proteins, or ions, based on changes in electrical signals as they pass through the nanopore."
+    },
+    {
+        "word": "Plasmonic Nanomaterials",
+        "description": "Plasmonic Nanomaterials are nanoscale materials that exhibit unique optical properties due to their interactions with plasmons, enabling applications such as enhanced sensing or photothermal therapy."
+    },
+    {
+        "word": "Nanoflakes",
+        "description": "Nanoflakes are thin, nanoscale flakes or sheets of material, often used in applications such as energy storage devices or catalysts."
+    },
+    {
+        "word": "Nanopatterning Techniques",
+        "description": "Nanopatterning Techniques are methods used to create patterns on the nanoscale, including techniques such as electron beam lithography, nanoimprint lithography, or block copolymer lithography."
+    },
+    {
+        "word": "Nanogaps",
+        "description": "Nanogaps are tiny gaps or spaces on the nanoscale, often utilized in nanoelectronics or plasmonic devices to confine and control electromagnetic fields."
+    },
+    {
+        "word": "Nanomaterials",
+        "description": "Nanomaterials are materials with structures, properties, or behaviors that emerge at the nanoscale, offering unique characteristics and often enabling novel applications."
+    },
+    {
+        "word": "Nanocapsules",
+        "description": "Nanocapsules are nanoparticles with a hollow core, often used for encapsulating and delivering drugs, nutrients, or other functional payloads."
+    },
+    {
+        "word": "Nanolenses",
+        "description": "Nanolenses are optical devices or structures that can focus or manipulate light at the nanoscale, often composed of arrays of nanoscale features with periodic spacing."
+    },
+    {
+        "word": "Nanochannels",
+        "description": "Nanochannels are tiny channels or conduits on the nanoscale, often used for controlling fluid flow, separating molecules, or creating miniature lab-on-a-chip devices."
+    },
+    {
+        "word": "Nanomotors",
+        "description": "Nanomotors are tiny motors or machines that operate at the nanoscale, often utilizing chemical, electrical, or light-driven propulsion mechanisms."
+    },
+    {
+        "word": "Nanofluids",
+        "description": "Nanofluids are liquids that contain suspended nanoparticles, often engineered to enhance heat transfer, lubrication, or optical properties."
+    },
+    {
+        "word": "Nanoplasmonics",
+        "description": "Nanoplasmonics is the study and manipulation of the collective oscillations of electrons, known as plasmons, in nanostructured materials, enabling applications in sensing, imaging, and energy conversion."
+    },
+    {
+        "word": "Nanomembranes",
+        "description": "Nanomembranes are extremely thin, nanoscale membranes with unique properties, often used in applications such as filtration, separation, or electronic components."
+    },
+    {
+        "word": "Nanoprinting",
+        "description": "Nanoprinting is the process of printing or depositing nanoscale patterns, structures, or materials onto a substrate using techniques such as inkjet printing, nano-transfer printing, or direct-write lithography."
+    },
+    {
+        "word": "Nanoscale Interfaces",
+        "description": "Nanoscale Interfaces are boundaries between different materials or phases at the nanoscale, often exhibiting unique properties or behaviors compared to the bulk materials."
+    },
+    {
+        "word": "Nanosurgery",
+        "description": "Nanosurgery refers to the use of nanoscale tools or techniques for precise surgical procedures at the cellular or molecular level, offering potential advancements in medical treatments."
+    },
+    {
+        "word": "Nanopiezotronics",
+        "description": "Nanopiezotronics is a field that combines nanotechnology with piezoelectric materials to develop devices that can convert mechanical strain or stress into electrical signals or energy."
+    },
+    {
+        "word": "Nanopharmaceutics",
+        "description": "Nanopharmaceutics is the application of nanotechnology in pharmaceutical science, focusing on the design, development, and delivery of novel drug formulations at the nanoscale."
+    },
+    {
+        "word": "Nanoframes",
+        "description": "Nanoframes are hollow, nanoscale structures with frame-like shapes, often made of metals or metal oxides, offering potential applications in catalysis or energy storage."
+    },
+    {
+        "word": "Nanolithography Techniques",
+        "description": "Nanolithography Techniques encompass various methods used to create nanoscale patterns or structures, including techniques such as electron beam lithography, nanoimprint lithography, or interference lithography."
+    },
+    {
+        "word": "Nanolubricants",
+        "description": "Nanolubricants are lubricants that incorporate nanoscale additives or nanoparticles, improving the lubricating properties and reducing friction and wear in various mechanical systems."
+    },
+    {
+        "word": "Nanobiotechnology",
+        "description": "Nanobiotechnology combines nanotechnology and biology to create devices, materials, or systems for applications in healthcare, environmental monitoring, or biological research."
+    },
+    {
+        "word": "Nanopatch",
+        "description": "Nanopatch refers to a tiny, needle-free patch or device that can deliver vaccines or drugs directly into the skin, offering advantages such as painless and needle-free administration."
+    },
+    {
+        "word": "Nanowelding",
+        "description": "Nanowelding is the process of joining or bonding nanoscale materials or structures together, often utilizing heat, pressure, or chemical reactions at the nanoscale."
+    },
+    {
+        "word": "Nanotweezers",
+        "description": "Nanotweezers are nanoscale devices or tools capable of manipulating or trapping particles, molecules, or cells with high precision and control."
+    },
+    {
+        "word": "Nanofiltration Membranes",
+        "description": "Nanofiltration Membranes are specialized membranes with nanoscale pores that selectively separate and purify substances based on size or charge, used in applications such as water treatment or desalination."
+    },
+    {
+        "word": "Nanolabels",
+        "description": "Nanolabels are small labels or tags, often based on nanoscale materials, used for tracking or detecting specific targets, such as biomolecules, in applications like biosensing or anti-counterfeiting."
+    },
+    {
+        "word": "Nanopumping",
+        "description": "Nanopumping is the process of moving or transporting fluids at the nanoscale, often utilizing physical or chemical mechanisms to generate flow through nanochannels or nanoscale pumps."
+    },
+    {
+        "word": "Nanomuscle",
+        "description": "Nanomuscle refers to a nanoscale actuator or muscle-like component that can undergo shape changes or mechanical movements triggered by external stimuli, such as temperature or electric fields."
+    },
+    {
+        "word": "Nanograss",
+        "description": "Nanograss refers to a dense array of vertically aligned, nanoscale structures resembling grass, often used to enhance light trapping, surface wetting, or energy harvesting in various applications."
+    }
+]
