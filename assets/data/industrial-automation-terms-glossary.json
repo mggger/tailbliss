@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Industrial Automation",
+        "description": "Industrial Automation refers to the use of control systems, such as computers or robots, to handle different processes and machinery in an industrial environment."
+    },
+    {
+        "word": "Plc",
+        "description": "Programmable Logic Controller (PLC) is a digital computer used for automation of electromechanical processes."
+    },
+    {
+        "word": "Scada",
+        "description": "Supervisory Control and Data Acquisition (SCADA) is a control system architecture that uses computers, networked data communications, and graphical user interfaces."
+    },
+    {
+        "word": "Hmi",
+        "description": "Human-Machine Interface (HMI) is a user interface that allows interaction between humans and machines."
+    },
+    {
+        "word": "Dcs",
+        "description": "Distributed Control System (DCS) is a control system that uses input and output instructions to control various parts of a machine or process."
+    },
+    {
+        "word": "Mes",
+        "description": "Manufacturing Execution System (MES) is an information system that connects, monitors, and controls complex manufacturing systems and data flows."
+    },
+    {
+        "word": "Scara",
+        "description": "Selective Compliance Assembly Robot Arm (SCARA) is a type of robotic arm that is equipped with horizontal and rotary motion capabilities."
+    },
+    {
+        "word": "Cnc",
+        "description": "Computer Numerical Control (CNC) is the automation of machine tools that are operated by precisely programmed commands."
+    },
+    {
+        "word": "Robotics",
+        "description": "Robotics refers to the study, design, and use of robots for automation and control."
+    },
+    {
+        "word": "Ai",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Ml",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of Machine Learning that involves training neural networks with a vast amount of data to make accurate predictions or classifications."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field of AI that enables computers to capture, analyze, and understand visual information from images or videos."
+    },
+    {
+        "word": "Plm",
+        "description": "Product Lifecycle Management (PLM) is the process of managing the entire lifecycle of a product from inception to disposal."
+    },
+    {
+        "word": "Erp",
+        "description": "Enterprise Resource Planning (ERP) is a business process management software that integrates different aspects of a company's operations into a unified system."
+    },
+    {
+        "word": "Cad",
+        "description": "Computer-Aided Design (CAD) is the use of computer systems to create, modify, and optimize the design of a product or system."
+    },
+    {
+        "word": "Cam",
+        "description": "Computer-Aided Manufacturing (CAM) is the use of software and computer-controlled machinery to automate the manufacturing process."
+    },
+    {
+        "word": "Iiot",
+        "description": "The Industrial Internet of Things (IIoT) refers to the extension of IoT technologies to the industrial sector."
+    },
+    {
+        "word": "Opc",
+        "description": "OLE for Process Control (OPC) is a set of standards and specifications for connectivity between devices and automation software."
+    },
+    {
+        "word": "Fieldbus",
+        "description": "Fieldbus is a digital communication protocol used in automation systems for connecting field devices."
+    },
+    {
+        "word": "Opc Ua",
+        "description": "OPC Unified Architecture (OPC UA) is an industrial communication standard for secure and reliable exchange of data."
+    },
+    {
+        "word": "Pid",
+        "description": "Proportional-Integral-Derivative (PID) Controller is a control loop feedback mechanism commonly used in industrial control systems."
+    },
+    {
+        "word": "Distributed Control System",
+        "description": "Distributed Control System (DCS) is a control system that is used to control and monitor processes or operations in different locations in an industrial setting."
+    },
+    {
+        "word": "Plc Programming",
+        "description": "PLC Programming is the process of creating and editing programs for a programmable logic controller."
+    },
+    {
+        "word": "Motion Control",
+        "description": "Motion control is the use of various technologies to control the speed, position, and torque of automated machinery."
+    },
+    {
+        "word": "Sensors",
+        "description": "Sensors are devices that detect and respond to physical input such as light, heat, pressure, or motion."
+    },
+    {
+        "word": "Actuators",
+        "description": "Actuators are devices that convert energy into mechanical motion or control."
+    },
+    {
+        "word": "Safety Systems",
+        "description": "Safety Systems are designed to protect personnel and equipment by mitigating and preventing hazards in industrial environments."
+    },
+    {
+        "word": "Network Communication Protocols",
+        "description": "Network Communication Protocols define rules and conventions for communication between devices or systems in a networked environment."
+    },
+    {
+        "word": "Industrial Robots",
+        "description": "Industrial Robots are programmable machines designed to handle and perform tasks in an industrial environment."
+    },
+    {
+        "word": "Cad/Cam",
+        "description": "Computer-Aided Design/Computer-Aided Manufacturing (CAD/CAM) is the integration of CAD and CAM technologies to facilitate the design and manufacturing of products."
+    },
+    {
+        "word": "Continuous Improvement",
+        "description": "Continuous Improvement is an ongoing effort to enhance products, processes, or services through incremental and incremental improvements."
+    },
+    {
+        "word": "Six Sigma",
+        "description": "Six Sigma is a set of techniques and tools for process improvement, aimed at reducing defects and variation."
+    },
+    {
+        "word": "Lean Manufacturing",
+        "description": "Lean Manufacturing is an approach to production that focuses on minimizing waste and maximizing value."
+    },
+    {
+        "word": "Industrial Networking",
+        "description": "Industrial Networking refers to the use of networks and communication protocols to enable information exchange and control between industrial devices and systems."
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "Predictive Maintenance is a technique that uses data analysis to detect and predict equipment failures before they occur."
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote Monitoring is the process of using sensors, devices, or systems to monitor and collect data from a remote location."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics is the process of examining and interpreting data to extract valuable insights and make data-driven decisions."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to huge volumes of data that cannot be effectively processed using traditional data processing techniques."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing is the delivery of computing services, such as servers, storage, databases, software, over the internet."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity refers to the practices, measures, and technologies used to protect computer systems, networks, and data from unauthorized access or attacks."
+    },
+    {
+        "word": "Rtu",
+        "description": "Remote Terminal Unit (RTU) is a control device used in SCADA systems to interface with field devices."
+    },
+    {
+        "word": "Scm",
+        "description": "Supply Chain Management (SCM) is the management of the flow of goods and services, involving the movement and storage of raw materials, inventory management, and coordination of production."
+    },
+    {
+        "word": "Rfid",
+        "description": "Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to automatically identify and track tags attached to objects."
+    },
+    {
+        "word": "Hart",
+        "description": "Highway Addressable Remote Transducer (HART) is a communication protocol used for sending and receiving digital information between field devices and a control system."
+    },
+    {
+        "word": "Iot",
+        "description": "The Internet of Things (IoT) refers to the network of physical devices embedded with sensors, software, and connectivity to exchange data with other devices and systems."
+    },
+    {
+        "word": "Stp",
+        "description": "Standard Temperature and Pressure (STP) is a set of standard conditions of temperature and pressure used for measuring and comparing chemical and physical properties of substances."
+    },
+    {
+        "word": "Vfd",
+        "description": "Variable Frequency Drive (VFD) is a type of motor controller that drives an electric motor by varying the frequency and voltage supplied to the motor."
+    },
+    {
+        "word": "M2M",
+        "description": "Machine-to-Machine (M2M) refers to direct communication between devices without human intervention, typically using wireless or wired connections."
+    },
+    {
+        "word": "Sop",
+        "description": "Standard Operating Procedure (SOP) is a documented procedure that outlines the steps to be followed in various routine or non-routine tasks."
+    },
+    {
+        "word": "Tpm",
+        "description": "Total Productive Maintenance (TPM) is a methodology for improving the efficiency and effectiveness of production equipment through employee involvement."
+    },
+    {
+        "word": "Oee",
+        "description": "Overall Equipment Effectiveness (OEE) is a measure of how effectively a manufacturing operation is used."
+    },
+    {
+        "word": "Ppe",
+        "description": "Personal Protective Equipment (PPE) refers to protective clothing, helmets, goggles, or other garments or equipment used to protect the wearer's body from injury or infection."
+    },
+    {
+        "word": "Cip",
+        "description": "Cleaning in Place (CIP) is a method of cleaning the interior surfaces of pipes, vessels, equipment, and filters in processing plants without disassembling them."
+    },
+    {
+        "word": "Automation",
+        "description": "Automation refers to the use of technology or machinery to perform tasks with minimal human intervention."
+    },
+    {
+        "word": "Data Logging",
+        "description": "Data Logging involves the collection and storage of data from various sources for analysis and troubleshooting."
+    },
+    {
+        "word": "Io",
+        "description": "Input/Output (IO) refers to the communication between a computer or controller and external devices such as sensors and actuators."
+    },
+    {
+        "word": "Safety Plc",
+        "description": "A Safety PLC is a specialized programmable logic controller designed to ensure the safety of industrial processes."
+    },
+    {
+        "word": "Energy Efficiency",
+        "description": "Energy Efficiency in industrial automation refers to the optimization of energy consumption and reduction of waste."
+    },
+    {
+        "word": "Serial Communication",
+        "description": "Serial Communication is a method of sending data one bit at a time over a communication channel."
+    },
+    {
+        "word": "Modbus",
+        "description": "Modbus is a communication protocol widely used in industrial automation for connecting electronic devices."
+    },
+    {
+        "word": "Ethernet/Ip",
+        "description": "Ethernet/IP is an industrial network protocol that combines standard Ethernet and the Internet Protocol."
+    },
+    {
+        "word": "Alarm Management",
+        "description": "Alarm Management involves the monitoring, analysis, and response to alarms generated by industrial processes."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A Digital Twin is a virtual replica of a physical asset, product, or process used for simulation and analysis."
+    },
+    {
+        "word": "Virtualization",
+        "description": "Virtualization is the creation of virtual versions of computing resources, such as servers, storage, and networks."
+    },
+    {
+        "word": "Batch Process",
+        "description": "A Batch Process is a manufacturing process where the product is made in discrete quantities, rather than continuously."
+    },
+    {
+        "word": "S88",
+        "description": "ISA-88, also known as S88, is a standard for batch control in the process industry."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine Vision refers to the technology and methods used to provide imaging-based automatic inspection and analysis for applications such as quality control."
+    },
+    {
+        "word": "Simulation",
+        "description": "Simulation is the imitation of the operation of a real-world process or system over time."
+    },
+    {
+        "word": "Root Cause Analysis",
+        "description": "Root Cause Analysis is a problem-solving method used to identify and address the underlying causes of problems."
+    },
+    {
+        "word": "Fault Detection And Diagnosis",
+        "description": "Fault Detection and Diagnosis involves the monitoring and identification of abnormal conditions or faults in industrial systems."
+    },
+    {
+        "word": "Robot Gripper",
+        "description": "A Robot Gripper is an end effector used on robotic arms to grip, hold, and manipulate objects."
+    },
+    {
+        "word": "Asset Management",
+        "description": "Asset Management involves the systematic management of physical assets throughout their lifecycle."
+    },
+    {
+        "word": "Work Order Management",
+        "description": "Work Order Management involves the planning, scheduling, and tracking of work orders for maintenance and operations."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics uses historical and real-time data to forecast future events or trends in industrial processes."
+    },
+    {
+        "word": "Energy Management",
+        "description": "Energy Management involves the monitoring and control of energy consumption in industrial processes."
+    },
+    {
+        "word": "Condition Monitoring",
+        "description": "Condition Monitoring involves the continuous monitoring of the condition of equipment to identify potential faults or failures."
+    },
+    {
+        "word": "Reliability Engineering",
+        "description": "Reliability Engineering is a discipline that ensures products or systems perform their intended function consistently over time."
+    },
+    {
+        "word": "Quality Control",
+        "description": "Quality Control involves the processes and techniques used to ensure that products or services meet specified requirements."
+    },
+    {
+        "word": "M2M Communication",
+        "description": "Machine-to-Machine (M2M) Communication refers to direct communication between devices without human interaction."
+    },
+    {
+        "word": "Predictive Quality",
+        "description": "Predictive Quality involves the use of data and analytics to predict and prevent quality issues in manufacturing processes."
+    },
+    {
+        "word": "Traceability",
+        "description": "Traceability is the ability to track and trace the history, location, and usage of a product or component."
+    },
+    {
+        "word": "Process Optimization",
+        "description": "Process Optimization involves the improvement of industrial processes to maximize efficiency, quality, or cost-effectiveness."
+    },
+    {
+        "word": "Batch Control",
+        "description": "Batch Control is the process of managing and controlling the production of products in batches rather than continuous or discrete manufacturing."
+    },
+    {
+        "word": "Asset Performance Management",
+        "description": "Asset Performance Management involves the optimization of asset performance to improve productivity and reduce costs."
+    },
+    {
+        "word": "Root Cause Failure Analysis",
+        "description": "Root Cause Failure Analysis is a method used to investigate failures and identify the underlying causes."
+    },
+    {
+        "word": "Supply Chain Automation",
+        "description": "Supply Chain Automation involves the use of technology and automation to optimize supply chain operations."
+    },
+    {
+        "word": "Manufacturing Intelligence",
+        "description": "Manufacturing Intelligence involves the collection, analysis, and visualization of data from manufacturing operations."
+    },
+    {
+        "word": "Workforce Management",
+        "description": "Workforce Management involves the planning, scheduling, and management of personnel in industrial operations."
+    },
+    {
+        "word": "Downtime",
+        "description": "Downtime refers to the period of time during which a machine is not in operation or is unable to perform its intended function."
+    },
+    {
+        "word": "Rpm",
+        "description": "Revolutions Per Minute (RPM) is a unit of rotational speed, indicating the number of complete rotations a mechanical component makes in one minute."
+    },
+    {
+        "word": "Asrs",
+        "description": "Automated Storage and Retrieval System (ASRS) is a computer-controlled system for automatically placing and retrieving loads from designated storage locations."
+    },
+    {
+        "word": "Pneumatics",
+        "description": "Pneumatics is a branch of engineering that uses compressed air or gas to generate mechanical motion."
+    },
+    {
+        "word": "Hydraulics",
+        "description": "Hydraulics is a branch of engineering that focuses on the mechanical properties of liquids and their control."
+    },
+    {
+        "word": "Wireless Sensor Networks",
+        "description": "Wireless Sensor Networks (WSN) are networks of spatially distributed sensors that communicate wirelessly to monitor physical or environmental conditions."
+    },
+    {
+        "word": "Relay",
+        "description": "A relay is an electrically operated switch that allows control of one electrical circuit by an independent low-power signal."
+    },
+    {
+        "word": "Distributed I/O",
+        "description": "Distributed Input/Output (Distributed I/O) refers to the use of multiple input and output devices spread throughout a system."
+    },
+    {
+        "word": "Safety Interlock",
+        "description": "Safety Interlock is a device or system that prevents a hazardous operation from occurring until conditions are met."
+    },
+    {
+        "word": "Field Device",
+        "description": "Field Device is a physical device such as a sensor, actuator, or other component used for monitoring or controlling a system."
+    },
+    {
+        "word": "Control Loop",
+        "description": "Control Loop is a feedback mechanism used to control a system by continuously comparing the actual system output with the desired setpoint."
+    },
+    {
+        "word": "Conveyor",
+        "description": "A conveyor is a machine for transporting materials or products from one location to another."
+    },
+    {
+        "word": "Servo Motor",
+        "description": "A servo motor is a rotary or linear actuator that precisely controls position, velocity, and acceleration."
+    },
+    {
+        "word": "Actuator",
+        "description": "An actuator is a mechanical device that is responsible for moving or controlling a mechanism or system."
+    },
+    {
+        "word": "Jit",
+        "description": "Just-In-Time (JIT) is a production strategy that involves producing items at the exact time they are needed."
+    },
+    {
+        "word": "Robot Programming",
+        "description": "Robot Programming is the process of designing and implementing sequences of instructions to control the operation of a robot."
+    },
+    {
+        "word": "Field Instrumentation",
+        "description": "Field Instrumentation refers to the devices used to measure and control physical quantities, such as temperature, pressure, flow, and level."
+    },
+    {
+        "word": "Hart Protocol",
+        "description": "HART (Highway Addressable Remote Transducer) Protocol is a communication protocol used in process automation field devices."
+    },
+    {
+        "word": "Supervisory Control",
+        "description": "Supervisory Control is the process of monitoring and controlling a system or process from a higher-level computer."
+    },
+    {
+        "word": "Data Historian",
+        "description": "A Data Historian is a software program or appliance that archives and retrieves time-series data."
+    }
+]
