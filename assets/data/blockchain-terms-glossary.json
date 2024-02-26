@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for security."
+    },
+    {
+        "word": "Smart Contract",
+        "description": "A smart contract is a self-executing contract with the terms of the agreement directly written into code, stored on a blockchain."
+    },
+    {
+        "word": "Decentralization",
+        "description": "Decentralization refers to the distribution of control or authority away from a central entity or organization."
+    },
+    {
+        "word": "Node",
+        "description": "A node is a participant in a blockchain network that maintains a copy of the blockchain and follows the consensus rules."
+    },
+    {
+        "word": "Consensus",
+        "description": "Consensus is the agreement among participants of a blockchain network on the validity of transactions and the order in which they are added to the ledger."
+    },
+    {
+        "word": "Mining",
+        "description": "Mining is the process of validating transactions and adding them to the blockchain through computational puzzle solving, often associated with proof-of-work consensus algorithms."
+    },
+    {
+        "word": "Immutable",
+        "description": "Immutable means that once something is recorded on a blockchain, it cannot be altered or tampered with."
+    },
+    {
+        "word": "Token",
+        "description": "A token represents a digital asset that can be fungible or non-fungible and is often used to represent ownership, access rights, or utility within a blockchain system."
+    },
+    {
+        "word": "Fork",
+        "description": "A fork occurs in a blockchain when there is a divergence in the protocol, resulting in two or more different versions of the blockchain."
+    },
+    {
+        "word": "Hash Function",
+        "description": "A hash function is a mathematical algorithm that takes an input and produces a fixed-size string of characters, which is typically used for data integrity verification in blockchain."
+    },
+    {
+        "word": "Wallet",
+        "description": "A wallet is a software application or physical device used to store, manage, and interact with digital assets like cryptocurrencies."
+    },
+    {
+        "word": "Address",
+        "description": "An address is a unique identifier used to receive or send cryptocurrencies on a blockchain."
+    },
+    {
+        "word": "Proof Of Work",
+        "description": "Proof of Work is a consensus algorithm that requires participants to solve a computational puzzle to validate transactions."
+    },
+    {
+        "word": "Proof Of Stake",
+        "description": "Proof of Stake is a consensus algorithm that selects validators based on the amount of cryptocurrency they hold."
+    },
+    {
+        "word": "Dapp",
+        "description": "Short for Decentralized Application, refers to an application that is built on a blockchain platform."
+    },
+    {
+        "word": "Private Key",
+        "description": "A private key is a randomly generated string of characters that allows access to the ownership and control of digital assets."
+    },
+    {
+        "word": "Public Key",
+        "description": "A public key is derived from a private key and is used to receive and verify transactions on the blockchain."
+    },
+    {
+        "word": "Consensus Algorithm",
+        "description": "A set of rules or protocols that determine how consensus is achieved in a blockchain network."
+    },
+    {
+        "word": "Transaction",
+        "description": "An action or event that changes the state of information stored on a blockchain."
+    },
+    {
+        "word": "Block Height",
+        "description": "Block height refers to the number of blocks that have been added to the blockchain from the genesis block."
+    },
+    {
+        "word": "Genesis Block",
+        "description": "The first block of a blockchain, often hardcoded with special properties."
+    },
+    {
+        "word": "Timestamp",
+        "description": "A unique identifier that records the date and time at which a transaction or event occurs on the blockchain."
+    },
+    {
+        "word": "Gas",
+        "description": "Gas is a unit used to measure the computational effort required to execute operations or contracts on the Ethereum blockchain."
+    },
+    {
+        "word": "Oracle",
+        "description": "An oracle is a trusted external source of data that can provide information to a smart contract on a blockchain network."
+    },
+    {
+        "word": "Permissionless",
+        "description": "Permissionless refers to a blockchain system that allows anyone to participate in the network without needing authorization or approval."
+    },
+    {
+        "word": "Permissioned",
+        "description": "Permissioned refers to a blockchain system that requires participants to have specific permissions or credentials to access and operate within the network."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability refers to the ability of different blockchain networks or systems to communicate and interact with each other."
+    },
+    {
+        "word": "Cold Storage",
+        "description": "The practice of keeping cryptocurrencies offline in a secure, offline storage device to mitigate the risk of hacking."
+    },
+    {
+        "word": "Hot Wallet",
+        "description": "A software-based cryptocurrency wallet that is connected to the internet and used for frequent transactions."
+    },
+    {
+        "word": "Multi-Signature",
+        "description": "A digital signature scheme that requires multiple signatures to authorize a transaction on a blockchain."
+    },
+    {
+        "word": "Double Spending",
+        "description": "Double spending is a potential issue in digital currencies where the same amount of cryptocurrency is spent twice."
+    },
+    {
+        "word": "Private Blockchain",
+        "description": "A private blockchain is a blockchain that is restricted to a specific group of participants and may require permission to access and participate."
+    },
+    {
+        "word": "Public Blockchain",
+        "description": "A public blockchain is a blockchain that is open to anyone and allows anyone to participate in the network, view, and validate transactions."
+    },
+    {
+        "word": "Sidechain",
+        "description": "A sidechain is a separate blockchain that is interoperable with a main blockchain, allowing for the transfer of assets between the two chains."
+    },
+    {
+        "word": "Scalability",
+        "description": "Scalability refers to the ability of a blockchain system to handle increasing transaction volumes and user demand without impacting performance."
+    },
+    {
+        "word": "Fungibility",
+        "description": "Fungibility refers to the interchangeability of individual units of a particular asset or currency."
+    },
+    {
+        "word": "Blockchain Explorer",
+        "description": "A blockchain explorer is a tool that allows users to view and analyze the activity on a blockchain network."
+    },
+    {
+        "word": "Gas Limit",
+        "description": "The maximum amount of gas that can be used in a block to execute transactions on a blockchain."
+    },
+    {
+        "word": "Hyperledger",
+        "description": "An open-source collaborative project focused on developing cross-industry blockchain technologies."
+    },
+    {
+        "word": "Smart Property",
+        "description": "Smart property refers to physical or digital assets that are controlled via smart contracts on a blockchain."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of converting real-world assets into digital tokens on a blockchain."
+    },
+    {
+        "word": "Merkle Tree",
+        "description": "A Merkle tree is a data structure used in blockchain technology to efficiently verify the integrity of large amounts of data."
+    },
+    {
+        "word": "Initial Coin Offering",
+        "description": "A fundraising method where a new cryptocurrency or token is sold to investors to finance a project or venture."
+    },
+    {
+        "word": "Stablecoin",
+        "description": "A stablecoin is a type of cryptocurrency designed to maintain a stable value, often pegged to a fiat currency like the US dollar."
+    },
+    {
+        "word": "Sharding",
+        "description": "Sharding is a technique used to partition a blockchain's data into smaller parts, called shards, to improve scalability."
+    },
+    {
+        "word": "Atomic Swap",
+        "description": "An atomic swap is a direct peer-to-peer exchange of cryptocurrencies across different blockchain networks, without the need for intermediaries or centralized exchanges."
+    },
+    {
+        "word": "Decentralized Autonomous Organization",
+        "description": "An organization governed by smart contracts and run on a blockchain with no central authority."
+    },
+    {
+        "word": "Zero-Knowledge Proof",
+        "description": "A zero-knowledge proof is a cryptographic method that allows one party to prove to another party the validity of a statement without revealing any additional information."
+    },
+    {
+        "word": "Distributed Ledger Technology",
+        "description": "The technology that underlies blockchain, enabling the recording, sharing, and synchronization of data across multiple entities."
+    },
+    {
+        "word": "Token Economy",
+        "description": "The ecosystem and economic system built around the use and exchange of digital tokens."
+    },
+    {
+        "word": "Cross-Chain",
+        "description": "Cross-chain refers to the ability to transfer assets or data between two or more different blockchain networks."
+    },
+    {
+        "word": "Transaction Fee",
+        "description": "The fee paid to miners or validators to process and prioritize transactions on a blockchain network."
+    },
+    {
+        "word": "Bitcoin",
+        "description": "Bitcoin is the first and most well-known cryptocurrency, created by an anonymous person or group of people using the pseudonym Satoshi Nakamoto."
+    },
+    {
+        "word": "Ethereum",
+        "description": "Ethereum is a decentralized, open-source blockchain platform that enables the development of smart contracts and decentralized applications (dApps)."
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "A distributed ledger is a type of database that is shared, replicated, and synchronized across multiple nodes in a network."
+    },
+    {
+        "word": "Hash Rate",
+        "description": "Hash rate refers to the computational power used in mining cryptocurrency and securing the blockchain network."
+    },
+    {
+        "word": "Block",
+        "description": "A block is a collection of data that is stored on a blockchain and contains a list of transactions."
+    },
+    {
+        "word": "Fungible",
+        "description": "Fungible means that individual units of a asset or currency are identical and can be exchanged on a one-to-one basis."
+    },
+    {
+        "word": "Non-Fungible",
+        "description": "Assets or tokens that are unique and cannot be replaced by another identical asset or token."
+    },
+    {
+        "word": "Oracles",
+        "description": "Oracles are third-party services that provide external data to be used in smart contracts on a blockchain."
+    },
+    {
+        "word": "51% Attack",
+        "description": "A potential attack where more than half of the computing power in a network is controlled by a single entity, allowing them to control transactions and potentially disrupt the blockchain."
+    },
+    {
+        "word": "Permissioned Blockchain",
+        "description": "A blockchain network that requires participants to have permission to access and participate in the network."
+    },
+    {
+        "word": "Permissionless Blockchain",
+        "description": "A blockchain network that allows anyone to join and participate in the network without requiring permission."
+    },
+    {
+        "word": "Cryptographic Hash",
+        "description": "A fixed-size string of characters generated by a hash function, used to verify data integrity and security."
+    },
+    {
+        "word": "Hybrid Blockchain",
+        "description": "A combination of public and private blockchains, offering both transparency and privacy based on the specific use case."
+    },
+    {
+        "word": "Hard Fork",
+        "description": "A hard fork is a major protocol upgrade or change that is not backward-compatible, resulting in a permanent divergence from the previous version of the blockchain."
+    },
+    {
+        "word": "Soft Fork",
+        "description": "A soft fork is a backward-compatible protocol upgrade or change in which blocks or transactions that were previously valid remain valid in the new version of the blockchain."
+    },
+    {
+        "word": "Supply Chain Management",
+        "description": "The management and monitoring of goods, products, or materials as they move from the supplier to the end consumer, often utilizing blockchain technology for transparency and traceability."
+    },
+    {
+        "word": "Initial Coin Offering (Ico)",
+        "description": "An Initial Coin Offering (ICO) is a fundraising method in which a company or individual issues and sells tokens in exchange for funding, often used by blockchain startups."
+    },
+    {
+        "word": "Digital Identity",
+        "description": "Digital identity refers to an online representation of an individual, organization, or entity that can be verified and used for interactions on a blockchain network."
+    },
+    {
+        "word": "Block Explorer",
+        "description": "A tool or website that allows users to search and explore the contents of a blockchain, including transactions, addresses, and block information."
+    },
+    {
+        "word": "Immutable Ledger",
+        "description": "A ledger or record that cannot be modified, tampered with, or deleted, ensuring the integrity and transparency of data."
+    },
+    {
+        "word": "Consensus Mechanism",
+        "description": "The process or algorithm used in a blockchain network to achieve agreement among participants on the validity of transactions and the order in which they are added to the blockchain."
+    },
+    {
+        "word": "Defi",
+        "description": "Short for Decentralized Finance, refers to the use of blockchain technology and cryptocurrencies to recreate traditional financial systems and services in a decentralized manner."
+    },
+    {
+        "word": "Gas Fees",
+        "description": "The fees paid by users for executing transactions, running smart contracts, or using resources on a blockchain network."
+    },
+    {
+        "word": "Off-Chain",
+        "description": "Off-chain refers to actions, transactions, or data that occur or are stored outside of the blockchain network."
+    },
+    {
+        "word": "On-Chain",
+        "description": "On-chain refers to actions, transactions, or data that occur or are stored directly on the blockchain network."
+    },
+    {
+        "word": "Tokenomics",
+        "description": "The economic and financial aspects of a blockchain project or cryptocurrency, including the distribution, creation, and value of tokens."
+    },
+    {
+        "word": "Governance",
+        "description": "Governance refers to the process and structure by which decisions are made and implemented within a blockchain network or organization."
+    },
+    {
+        "word": "Cross-Border Payments",
+        "description": "The transfer of funds or value across different countries or jurisdictions, often facilitated by blockchain technology for efficiency and cost reduction."
+    },
+    {
+        "word": "Orphan Block",
+        "description": "A block that is valid but not included in the main blockchain because it was mined too late or conflicts with another longer chain."
+    },
+    {
+        "word": "Hash",
+        "description": "A hash is a fixed-size string of characters generated by a cryptographic algorithm to uniquely identify data."
+    },
+    {
+        "word": "Cryptographic Puzzle",
+        "description": "A cryptographic puzzle is a computational problem used to secure blockchain networks."
+    },
+    {
+        "word": "Cryptography",
+        "description": "Cryptography is the practice of securing communication by converting information into an unreadable format."
+    },
+    {
+        "word": "Decentralized Application (Dapp)",
+        "description": "A decentralized application is an application that runs on a decentralized network, such as a blockchain."
+    },
+    {
+        "word": "Privacy",
+        "description": "Privacy is the protection of sensitive information and the ability to control its disclosure."
+    },
+    {
+        "word": "Token Swap",
+        "description": "A token swap is the process of exchanging one type of token for another, often on different blockchain networks."
+    },
+    {
+        "word": "Blockchain-As-A-Service (Baas)",
+        "description": "Blockchain-as-a-Service (BaaS) allows businesses or individuals to create, host, and operate their own blockchain network using cloud-based services."
+    },
+    {
+        "word": "Timestamping",
+        "description": "Timestamping is the process of securely recording the date and time of a specific event or transaction on a blockchain."
+    },
+    {
+        "word": "Multisig",
+        "description": "Multisig, or multisignature, refers to requiring multiple signatures to authorize a transaction on a blockchain."
+    },
+    {
+        "word": "Off-Chain Scaling",
+        "description": "Off-chain scaling refers to solutions that enable increased transaction throughput without directly adding load to the main blockchain network."
+    },
+    {
+        "word": "On-Chain Scaling",
+        "description": "On-chain scaling refers to solutions that directly increase the transaction capacity of the main blockchain network."
+    },
+    {
+        "word": "Tokenomic",
+        "description": "Tokenomics is the study of the underlying economic and incentive design principles of a token-driven ecosystem."
+    },
+    {
+        "word": "Proof-Of-Stake (Pos)",
+        "description": "Proof-of-Stake (PoS) is a consensus algorithm in which the creator of a new block is chosen in a deterministic way, based on their ownership stake in the network."
+    },
+    {
+        "word": "Byzantine Fault Tolerance",
+        "description": "Byzantine Fault Tolerance (BFT) is the ability of a distributed system to reach consensus despite the presence of faulty or malicious nodes."
+    },
+    {
+        "word": "Smart Grid",
+        "description": "A smart grid is an electrical grid that integrates blockchain technology to enable more efficient and secure energy transactions."
+    },
+    {
+        "word": "Proof-Of-Work (Pow)",
+        "description": "Proof-of-Work (PoW) is a consensus algorithm in which participants must solve a computationally intensive puzzle to create a new block and secure the network."
+    },
+    {
+        "word": "Non-Fungible Token (Nft)",
+        "description": "A non-fungible token (NFT) is a type of token that represents something unique, indivisible, and cannot be exchanged on a like-for-like basis."
+    },
+    {
+        "word": "Zero Confirmation Transaction",
+        "description": "A zero confirmation transaction is a transaction that has been broadcasted to the network but not yet included in a block."
+    },
+    {
+        "word": "Merklized Abstract Syntax Tree (Mast)",
+        "description": "Merklized Abstract Syntax Tree (MAST) is a technique used to optimize the storage and verification of complex smart contracts on a blockchain."
+    },
+    {
+        "word": "Poison Pill Attack",
+        "description": "A poison pill attack is a type of cyber attack in which an attacker intentionally adds malicious code or data to a blockchain, compromising its integrity or performance."
+    },
+    {
+        "word": "Centralized Exchange",
+        "description": "A centralized exchange is a platform or organization that facilitates the buying, selling, and trading of cryptocurrencies or digital assets."
+    },
+    {
+        "word": "Decentralized Exchange (Dex)",
+        "description": "A decentralized exchange (DEX) is a platform that allows for the peer-to-peer trading of cryptocurrencies without the need for a central authority or third-party intermediary."
+    },
+    {
+        "word": "Multi-Signature (Multi-Sig)",
+        "description": "Multi-signature (multi-sig) is a feature that requires multiple parties to sign off on a transaction before it can be executed, adding an extra layer of security."
+    },
+    {
+        "word": "Zero-Knowledge Succinct Non-Interactive Argument Of Knowledge (Zk-Snark)",
+        "description": "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK) is a cryptographic method that allows for the verification of information without revealing the underlying data."
+    },
+    {
+        "word": "Privacy Coin",
+        "description": "Privacy coins are cryptocurrencies that emphasize and provide enhanced privacy and anonymity features to protect the identity and transactions of users."
+    },
+    {
+        "word": "Central Bank Digital Currency (Cbdc)",
+        "description": "Central Bank Digital Currency (CBDC) refers to a digital form of fiat currency issued and regulated by a country's central bank."
+    },
+    {
+        "word": "Cross-Chain Atomic Swap",
+        "description": "Cross-chain atomic swap is a trustless mechanism that allows for the direct exchange of cryptocurrencies between different blockchain networks without the need for intermediaries or centralized exchanges."
+    }
+]
