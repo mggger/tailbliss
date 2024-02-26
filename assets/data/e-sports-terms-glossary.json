@@ -1,0 +1,518 @@
+[
+    {
+        "word": "E-Sports",
+        "description": "E-sports, also known as electronic sports, is a form of competitive video gaming where professional players or teams compete against each other in various multiplayer games."
+    },
+    {
+        "word": "Moba",
+        "description": "MOBA stands for Multiplayer Online Battle Arena, which is a genre of video games where teams of players compete against each other in strategic battles."
+    },
+    {
+        "word": "Fps",
+        "description": "FPS stands for first-person shooter, which is a genre of video games where the player experiences the game from a first-person perspective and typically involves shooting enemies."
+    },
+    {
+        "word": "Lan",
+        "description": "LAN stands for Local Area Network, which is a network infrastructure that enables players to connect and play games together in a localized environment."
+    },
+    {
+        "word": "Streamer",
+        "description": "A streamer refers to an individual who broadcasts their gameplay live over the internet, often providing commentary and engaging with their audience."
+    },
+    {
+        "word": "Viewership",
+        "description": "Viewership refers to the number of people watching an E-sports event or live stream."
+    },
+    {
+        "word": "Twitch",
+        "description": "Twitch is a popular live streaming platform primarily used by gamers to stream their gameplay and engage with viewers."
+    },
+    {
+        "word": "Streamer House",
+        "description": "A streamer house is a location where multiple streamers live together, often collaborating on content creation and streaming."
+    },
+    {
+        "word": "Achievement",
+        "description": "An achievement is a goal or milestone that players can accomplish in a game, often providing rewards or recognition."
+    },
+    {
+        "word": "Meta",
+        "description": "Meta, short for metagame, refers to the prevailing strategies, tactics, and gameplay styles that are most effective or popular among professional players in a particular game."
+    },
+    {
+        "word": "Nerf",
+        "description": "To nerf refers to the act of reducing the power, effectiveness, or strength of a character, item, or ability in a game."
+    },
+    {
+        "word": "Buff",
+        "description": "To buff refers to the act of increasing the power, effectiveness, or strength of a character, item, or ability in a game."
+    },
+    {
+        "word": "Patch",
+        "description": "A patch refers to a software update or modification that is released by game developers to fix bugs, improve gameplay, or introduce new features."
+    },
+    {
+        "word": "Meta-Game",
+        "description": "Meta-game refers to the strategies, trends, and decisions made outside of the actual gameplay that can influence the outcome of a match or tournament."
+    },
+    {
+        "word": "Lan Party",
+        "description": "A LAN party is a social gathering of players who bring their computers or gaming consoles to a specific location to play games together over a local area network."
+    },
+    {
+        "word": "Skill Ceiling",
+        "description": "Skill ceiling refers to the highest level of skill or proficiency that can be achieved in a game, often associated with complex mechanics or advanced strategies."
+    },
+    {
+        "word": "Hp",
+        "description": "HP stands for Hit Points, a measure of how much damage a character or object can sustain before being defeated."
+    },
+    {
+        "word": "Mp",
+        "description": "MP stands for Mana Points, a resource used to cast spells or abilities in many games."
+    },
+    {
+        "word": "Cooldown",
+        "description": "Cooldown refers to the period of time after using a specific ability or action in a game before it can be used again."
+    },
+    {
+        "word": "Team Composition",
+        "description": "Team composition refers to the specific combination of characters or roles chosen by a team in a game."
+    },
+    {
+        "word": "Sponsorship",
+        "description": "Sponsorship refers to a partnership or financial support provided by a company or organization to e-sports teams, players, or events in exchange for advertising or brand promotion."
+    },
+    {
+        "word": "Prize Pool",
+        "description": "Prize pool refers to the total amount of money or rewards available for distribution in a tournament or competition."
+    },
+    {
+        "word": "Lan Center",
+        "description": "A LAN center is a physical establishment where players can gather and play games together on high-performance computers or consoles, often for a fee."
+    },
+    {
+        "word": "Strat",
+        "description": "Strat is an abbreviation for strategy, often used to describe specific tactics or plans employed by players or teams."
+    },
+    {
+        "word": "Respawn",
+        "description": "Respawn refers to the process in a game where a player who has been defeated or killed is brought back to life and re-enters the game."
+    },
+    {
+        "word": "Gank",
+        "description": "Gank is a term used to describe the act of ambushing or surprising an opponent in a game, usually with the objective of gaining an advantage or securing a kill."
+    },
+    {
+        "word": "Push",
+        "description": "Push refers to the act of aggressively advancing towards the enemy's base or objectives to gain an advantage."
+    },
+    {
+        "word": "Farm",
+        "description": "Farm refers to the act of collecting resources or earning in-game currency in order to become stronger."
+    },
+    {
+        "word": "Carry",
+        "description": "Carry refers to a player or character who has the potential to deal significant damage or carry the team to victory."
+    },
+    {
+        "word": "Jungle",
+        "description": "Jungle refers to a role in games where the player focuses on farming neutral monsters in the jungle and providing map control."
+    },
+    {
+        "word": "Support",
+        "description": "Support refers to a player or character who provides assistance, healing, or protection to their team."
+    },
+    {
+        "word": "Tank",
+        "description": "Tank refers to a player or character who has high durability and is capable of absorbing damage for their team."
+    },
+    {
+        "word": "Damage Dealer",
+        "description": "Damage dealer refers to a role or character in a game whose primary role is dealing damage to opponents."
+    },
+    {
+        "word": "Ultimate",
+        "description": "Ultimate refers to a powerful, game-changing ability that is typically earned or charged over time."
+    },
+    {
+        "word": "Frag",
+        "description": "Frag is a term used to describe a kill or elimination of an opponent in a game."
+    },
+    {
+        "word": "Gg",
+        "description": "GG, short for 'good game', is a term used to express sportsmanship and respect after completing a match."
+    },
+    {
+        "word": "Lag",
+        "description": "Lag refers to a delay or disruption in gameplay caused by a slow or poor internet connection."
+    },
+    {
+        "word": "Ping",
+        "description": "Ping refers to the measure of the response time between a player's computer and the game server, indicating the level of latency or delay."
+    },
+    {
+        "word": "Respawn Timer",
+        "description": "Respawn timer refers to the amount of time a player must wait before they can respawn after being defeated."
+    },
+    {
+        "word": "Rage Quit",
+        "description": "Rage quit refers to the act of abruptly and angrily quitting a game out of frustration, often due to losing or facing unfavorable circumstances."
+    },
+    {
+        "word": "Microtransactions",
+        "description": "Microtransactions are small in-game purchases made with real money, typically used to acquire cosmetic items, in-game currency, or additional game content."
+    },
+    {
+        "word": "Afk",
+        "description": "AFK stands for 'Away From Keyboard', used to describe a player who is temporarily or intentionally not participating in the game."
+    },
+    {
+        "word": "Mmr",
+        "description": "MMR stands for Matchmaking Rating, a numerical value that represents a player's skill level in a matchmaking system."
+    },
+    {
+        "word": "Caster",
+        "description": "Caster, short for commentator, is an individual who provides live commentary and analysis during e-sports matches or tournaments."
+    },
+    {
+        "word": "Roster",
+        "description": "A roster refers to the list or lineup of players on a team or organization, often specifying their roles, positions, or responsibilities."
+    },
+    {
+        "word": "Lan Tournament",
+        "description": "A LAN tournament is a competitive event where players gather in person to compete against each other."
+    },
+    {
+        "word": "Coaching",
+        "description": "Coaching in E-sports involves knowledgeable individuals providing guidance, analysis, and strategy to players or teams."
+    },
+    {
+        "word": "Ping Spikes",
+        "description": "Ping spikes refer to sudden and temporary increases in ping, causing brief periods of latency or lag."
+    },
+    {
+        "word": "Flame",
+        "description": "Flame refers to insulting, derogatory, or offensive comments made by players towards each other."
+    },
+    {
+        "word": "Niche Game",
+        "description": "A niche game is one that targets a small, specific audience with unique gameplay or features."
+    },
+    {
+        "word": "Crowdfunding",
+        "description": "Crowdfunding is a method of financing or fundraising where a large number of individuals contribute small amounts of money to support a project or venture."
+    },
+    {
+        "word": "Skins",
+        "description": "Skins are cosmetic items in a game that change the appearance of characters, weapons, or other in-game elements, but do not affect gameplay."
+    },
+    {
+        "word": "Queue",
+        "description": "Queue refers to the waiting line or system in place for players to find matches or join games."
+    },
+    {
+        "word": "Replay",
+        "description": "A replay is a recorded gameplay session that can be watched or analyzed later, often used by players, coaches, or commentators to review strategies, tactics, or mistakes."
+    },
+    {
+        "word": "Pug",
+        "description": "PUG stands for 'Pick Up Game', referring to an impromptu or informal game played with a group of people."
+    },
+    {
+        "word": "Rts",
+        "description": "RTS, or Real-Time Strategy, is a genre of video games that require players to control and manage resources and units in real-time."
+    },
+    {
+        "word": "Rng",
+        "description": "RNG stands for Random Number Generator, which is a system or algorithm used in games to introduce random events, outcomes, or probabilities."
+    },
+    {
+        "word": "Skill Shot",
+        "description": "A skill shot refers to an ability or attack in a game that requires skillful aiming or timing to successfully hit the target."
+    },
+    {
+        "word": "Role",
+        "description": "In team-based games, a role refers to a specific position or function that a player takes on, often with unique responsibilities or abilities."
+    },
+    {
+        "word": "Adc",
+        "description": "ADC, or Attack Damage Carry, refers to a role in games where the primary focus is dealing physical damage to enemies."
+    },
+    {
+        "word": "Apc",
+        "description": "APC, or Ability Power Carry, refers to a role in games where the primary focus is dealing magical damage to enemies."
+    },
+    {
+        "word": "Creep",
+        "description": "Creep refers to non-player units controlled by the game that offer additional challenges or objectives for players."
+    },
+    {
+        "word": "Farming",
+        "description": "Farming refers to the act of repeatedly killing or defeating enemies or completing specific tasks to gain experience points, resources, or in-game items."
+    },
+    {
+        "word": "Rotation",
+        "description": "Rotation refers to the movement of players or teams across the game map to secure objectives or gain advantages."
+    },
+    {
+        "word": "Kda",
+        "description": "KDA stands for Kills, Deaths, and Assists, which are numerical statistics used to measure a player's performance in a game."
+    },
+    {
+        "word": "Hud",
+        "description": "HUD stands for Heads-Up Display, which is the graphical user interface in a game that presents information, stats, or indicators to the player."
+    },
+    {
+        "word": "Teamfight",
+        "description": "A teamfight refers to a scenario in a game where multiple players from each team engage in combat simultaneously, often in a specific area of the game map."
+    },
+    {
+        "word": "Pull",
+        "description": "Pull refers to the act of luring or attracting an opponent towards a specific location or situation."
+    },
+    {
+        "word": "Disengage",
+        "description": "Disengage refers to the act of removing oneself or one's team from a fight or engagement to avoid further damage."
+    },
+    {
+        "word": "Engage",
+        "description": "Engage refers to the act of initiating or starting a fight or engagement with the enemy team."
+    },
+    {
+        "word": "Baron Nashor",
+        "description": "Baron Nashor is a powerful neutral monster in some games that provides significant buffs and rewards when defeated."
+    },
+    {
+        "word": "Dragon",
+        "description": "Dragon is a powerful neutral monster in some games that provide various buffs or advantages to the team that defeats it."
+    },
+    {
+        "word": "Inhibitor",
+        "description": "Inhibitor refers to a structure or objective that, when destroyed, grants the destroying team advantages in terms of stronger minions."
+    },
+    {
+        "word": "Pentakill",
+        "description": "Pentakill refers to the achievement of a single player killing all five members of the enemy team within a short time period."
+    },
+    {
+        "word": "Gosu",
+        "description": "Gosu is a term used to describe an extremely skilled or talented player in a game."
+    },
+    {
+        "word": "Tilt",
+        "description": "Tilt refers to a state in which a player becomes emotionally or mentally frustrated, leading to a decrease in performance."
+    },
+    {
+        "word": "Cheese Strategy",
+        "description": "Cheese strategy refers to unconventional or unexpected tactics used by players to catch their opponents off-guard."
+    },
+    {
+        "word": "Esports Organization",
+        "description": "An e-sports organization is a professional team or group that supports and manages players who compete in e-sports tournaments."
+    },
+    {
+        "word": "Game Mode",
+        "description": "Game mode refers to different variations or formats of a game, each with its own rules, objectives, or mechanics."
+    },
+    {
+        "word": "Tournament",
+        "description": "A tournament is a competitive event in which players or teams compete against each other to win prizes, titles, or recognition."
+    },
+    {
+        "word": "Playoffs",
+        "description": "Playoffs refer to the final stage or rounds of a tournament, where the top teams or players compete for the championship."
+    },
+    {
+        "word": "World Championship",
+        "description": "World championship refers to the highest level of competition in a particular game, where teams or players from around the world compete."
+    },
+    {
+        "word": "Qualifier",
+        "description": "Qualifier refers to a tournament or competition where teams or players compete for spots in a larger or more prestigious event."
+    },
+    {
+        "word": "Game Balance",
+        "description": "Game balance refers to the state in which a game's mechanics, characters, or strategies are fair and evenly matched."
+    },
+    {
+        "word": "Game Mechanics",
+        "description": "Game mechanics refer to the rules, systems, and interactions that govern gameplay in a particular game."
+    },
+    {
+        "word": "Strategy",
+        "description": "Strategy refers to the overall plan or approach used by players or teams to achieve their goals and outperform their opponents."
+    },
+    {
+        "word": "Metagame",
+        "description": "Metagame refers to the prevailing strategies, tactics, and trends in a game's competitive scene."
+    },
+    {
+        "word": "Tier List",
+        "description": "Tier list refers to a ranking or classification system that categorizes characters or items based on their perceived strength or viability."
+    },
+    {
+        "word": "Patch Notes",
+        "description": "Patch notes are official documentation that provide details about the changes and updates implemented in a game's patch."
+    },
+    {
+        "word": "Beta",
+        "description": "Beta refers to a stage of game development where the product is released to a limited audience for testing and feedback."
+    },
+    {
+        "word": "Glitch",
+        "description": "A glitch is a programming or technical error in a game that causes unexpected behavior, often allowing players to exploit or gain unfair advantages."
+    },
+    {
+        "word": "Exploit",
+        "description": "Exploit refers to a specific technique or action that takes advantage of a flaw or loophole in a game's mechanics or design."
+    },
+    {
+        "word": "Hotfix",
+        "description": "A hotfix is a small software update or patch that is released to fix critical issues or bugs in a game, typically deployed quickly to address urgent problems."
+    },
+    {
+        "word": "Combat",
+        "description": "Combat refers to the part of a game where players engage in battles, fights, or conflicts against each other or non-player characters (NPCs)."
+    },
+    {
+        "word": "Objective",
+        "description": "In a game, an objective refers to a task, goal, or target that players must complete or achieve to progress, win the game, or gain an advantage."
+    },
+    {
+        "word": "Casters",
+        "description": "Casters, short for commentators, are individuals who provide live commentary and analysis during e-sports matches or tournaments."
+    },
+    {
+        "word": "Camping",
+        "description": "Camping refers to the strategy in a game where a player stays in a static position, often in a hidden or advantageous location, to surprise or ambush opponents."
+    },
+    {
+        "word": "Freemium",
+        "description": "Freemium refers to a business model where a game is initially available for free, but additional features or content can be purchased with real money."
+    },
+    {
+        "word": "Balance",
+        "description": "Balance in a game refers to the state of fair competition and gameplay, where no character, strategy, or mechanic is significantly stronger or weaker than others."
+    },
+    {
+        "word": "Streamer Mode",
+        "description": "Streamer mode is a feature in some games that allows streamers to hide or censor certain elements, such as in-game usernames or personal information, to maintain privacy while broadcasting."
+    },
+    {
+        "word": "Cheating",
+        "description": "Cheating in a game refers to the act of using unauthorized methods or software to gain an unfair advantage over other players."
+    },
+    {
+        "word": "Skillshot",
+        "description": "A skillshot is an ability or attack in a game that requires manual aiming or precise timing to hit an opponent, making it more difficult to land compared to other attacks."
+    },
+    {
+        "word": "Kdr",
+        "description": "KDR stands for Kill-Death Ratio, which is a statistic that represents the number of kills a player has compared to the number of deaths."
+    },
+    {
+        "word": "Massive Multiplayer Online",
+        "description": "Massive Multiplayer Online (MMO) refers to games that can support a large number of simultaneous players interacting with each other in a shared virtual world."
+    },
+    {
+        "word": "Pvp",
+        "description": "PvP stands for Player versus Player, which refers to a game mode or activity in which players directly compete against each other, often in combat or strategic scenarios."
+    },
+    {
+        "word": "Pve",
+        "description": "PvE stands for Player versus Environment, which refers to a game mode or activity where players cooperate to defeat non-player characters (NPCs) or complete objectives."
+    },
+    {
+        "word": "Fanbase",
+        "description": "A fanbase refers to a dedicated group of fans who actively support and follow a specific e-sports team, player, or game."
+    },
+    {
+        "word": "Scrims",
+        "description": "Scrims, short for scrimmages, refer to practice matches or games in which teams compete against each other to improve their skills, teamwork, and strategies."
+    },
+    {
+        "word": "Loot Box",
+        "description": "A loot box is a virtual item in a game that contains random rewards, and players can acquire them through gameplay or by purchasing them."
+    },
+    {
+        "word": "Twitch Chat",
+        "description": "Twitch chat refers to the live chat room on the Twitch streaming platform, where viewers can interact with the streamer and other viewers."
+    },
+    {
+        "word": "Jump Spot",
+        "description": "A jump spot is a specific location or area in a game map where players can perform a specialized movement to gain a positional advantage."
+    },
+    {
+        "word": "Boosting",
+        "description": "Boosting refers to a service where a highly skilled player plays on behalf of another player, often for a fee, to help them achieve a higher rank or improve their in-game performance."
+    },
+    {
+        "word": "Stream Sniping",
+        "description": "Stream sniping refers to the act of watching a streamer's live broadcast to gain an unfair advantage by preemptively knowing their in-game actions or location."
+    },
+    {
+        "word": "Stunlock",
+        "description": "Stunlock is a term used to describe a situation in a game where a player is repeatedly stunned, immobilized, or prevented from taking action by the opponent."
+    },
+    {
+        "word": "Demo",
+        "description": "A demo refers to a limited version of a game that allows players to try or preview the game before deciding to purchase the full version."
+    },
+    {
+        "word": "Cheat Code",
+        "description": "A cheat code is a sequence of commands or inputs that, when entered, enables special abilities, unlocks content, or modifies the gameplay in a game."
+    },
+    {
+        "word": "Lexicon",
+        "description": "Lexicon refers to the vocabulary or set of terms and expressions unique to a specific game, community, or e-sports scene."
+    },
+    {
+        "word": "Leaderboard",
+        "description": "A leaderboard is a ranking system in a game that lists the top players or teams based on their performance or achievements."
+    },
+    {
+        "word": "Dpi",
+        "description": "DPI stands for Dots Per Inch and refers to the sensitivity setting of a computer mouse, often adjusted to control the cursor or camera movement in-game."
+    },
+    {
+        "word": "Recoil",
+        "description": "Recoil is the backward movement or kickback experienced by a player's character or weapon after firing a shot, affecting accuracy and control."
+    },
+    {
+        "word": "Lan Cafe",
+        "description": "A LAN cafe is a public establishment where players can rent time on high-performance computers or consoles to play games together in a LAN environment."
+    },
+    {
+        "word": "Meta Shift",
+        "description": "A meta shift refers to a significant change in the prevailing strategies, tactics, or gameplay styles in a game, often influenced by game updates or balance changes."
+    },
+    {
+        "word": "Bootcamp",
+        "description": "A bootcamp refers to a focused training or practice session, often before an important event or tournament, where players intensively prepare and improve their skills."
+    },
+    {
+        "word": "Gaming House",
+        "description": "A gaming house is a residence or facility where professional players live and train together, often provided by e-sports organizations to support team synergy and practice."
+    },
+    {
+        "word": "Matchmaking",
+        "description": "Matchmaking is a process or system in games that pairs players together based on similar skills, levels, or other criteria to create fair and balanced matches."
+    },
+    {
+        "word": "Trading",
+        "description": "Trading refers to the exchange or transfer of in-game items, currency, or resources between players, often done to obtain desired items or achieve in-game progression."
+    },
+    {
+        "word": "Censorship",
+        "description": "Censorship in games refers to the act or process of altering or removing content, such as violence, profanity, or sensitive themes, to adhere to societal or regulatory standards."
+    },
+    {
+        "word": "Single-Player",
+        "description": "Single-player refers to a game mode or experience that is designed for a single player, typically involving a story-driven or objective-based gameplay."
+    },
+    {
+        "word": "Cross-Platform",
+        "description": "Cross-platform refers to the ability of a game or application to run and allow players from different platforms, such as PC, console, or mobile, to play together."
+    }
+]
