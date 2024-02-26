@@ -1,0 +1,474 @@
+[
+    {
+        "word": "Risk Management",
+        "description": "Risk Management is the process of identifying, assessing, and prioritizing risks, and taking actions to minimize, monitor, and control the impact and likelihood of negative events."
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "Risk Assessment involves identifying, analyzing, and evaluating risks to determine their potential impact and likelihood of occurrence."
+    },
+    {
+        "word": "Risk Mitigation",
+        "description": "Risk mitigation involves implementing measures to reduce or eliminate the likelihood or impact of identified risks."
+    },
+    {
+        "word": "Risk Appetite",
+        "description": "Risk Appetite is the amount of risk that an organization is willing to accept in pursuit of its objectives."
+    },
+    {
+        "word": "Risk Tolerance",
+        "description": "Risk Tolerance is the level of risk that an organization is willing to withstand."
+    },
+    {
+        "word": "Risk Identification",
+        "description": "Risk Identification is the process of identifying and documenting potential risks."
+    },
+    {
+        "word": "Risk Analysis",
+        "description": "Risk Analysis involves assessing the likelihood and impact of identified risks."
+    },
+    {
+        "word": "Risk Response",
+        "description": "A Risk Response is an action or plan to address a specific risk, such as transferring, avoiding, accepting, or mitigating the risk."
+    },
+    {
+        "word": "Risk Register",
+        "description": "A Risk Register is a documented record of identified risks, their assessment, and planned responses."
+    },
+    {
+        "word": "Key Risk Indicator",
+        "description": "A Key Risk Indicator is a metric or variable used to monitor and assess the likelihood of potential risk events."
+    },
+    {
+        "word": "Business Continuity Planning",
+        "description": "Business continuity planning involves developing strategies and procedures to ensure the ongoing operation of critical business functions in the event of a disruption."
+    },
+    {
+        "word": "Crisis Management",
+        "description": "Crisis Management involves the processes and procedures put in place to respond to and manage a crisis or emergency situation."
+    },
+    {
+        "word": "Solvency Risk",
+        "description": "Solvency risk refers to the risk of an organization being unable to meet its financial obligations."
+    },
+    {
+        "word": "Operational Risk",
+        "description": "Operational Risk is the risk of loss resulting from inadequate or failed internal processes, people, and systems."
+    },
+    {
+        "word": "Financial Risk",
+        "description": "Financial Risk is the risk of loss resulting from financial instruments and markets."
+    },
+    {
+        "word": "Market Risk",
+        "description": "Market Risk is the risk of loss resulting from fluctuations in market prices, such as interest rates, exchange rates, and commodity prices."
+    },
+    {
+        "word": "Credit Risk",
+        "description": "Credit Risk is the risk of loss resulting from a borrower's failure to meet its financial obligations."
+    },
+    {
+        "word": "Liquidity Risk",
+        "description": "Liquidity Risk is the risk of not being able to meet financial obligations as they become due."
+    },
+    {
+        "word": "Reputational Risk",
+        "description": "Reputational risk is the potential damage to an organization's reputation or brand value."
+    },
+    {
+        "word": "Compliance Risk",
+        "description": "Compliance Risk is the risk of legal or regulatory sanctions, fines, or penalties resulting from non-compliance with laws and regulations."
+    },
+    {
+        "word": "Enterprise Risk Management",
+        "description": "Enterprise risk management (ERM) is a holistic approach to managing risks across an entire organization."
+    },
+    {
+        "word": "Risk Culture",
+        "description": "Risk Culture refers to the set of shared values, beliefs, and behaviors within an organization that shape its approach to risk management."
+    },
+    {
+        "word": "Risk Assessment Matrix",
+        "description": "A Risk Assessment Matrix is a tool used to assess and prioritize risks based on their likelihood and impact."
+    },
+    {
+        "word": "Risk Tolerance Level",
+        "description": "Risk tolerance level is the degree to which an organization is willing to accept risk."
+    },
+    {
+        "word": "Risk Control",
+        "description": "Risk control refers to the implementation of specific measures to manage, reduce, or eliminate identified risks."
+    },
+    {
+        "word": "Risk Transfer",
+        "description": "Risk Transfer is the process of shifting the financial consequences of a risk to another party, such as through insurance or contracts."
+    },
+    {
+        "word": "Risk Avoidance",
+        "description": "Risk avoidance involves taking actions to completely eliminate exposure to a particular risk."
+    },
+    {
+        "word": "Risk Sharing",
+        "description": "Risk sharing involves distributing the potential impact of a risk among multiple parties."
+    },
+    {
+        "word": "Risk Monitoring",
+        "description": "Risk Monitoring is the ongoing process of tracking and reviewing risks to ensure that risk management activities remain effective."
+    },
+    {
+        "word": "Risk Reporting",
+        "description": "Risk Reporting involves the documentation and communication of risks and risk management activities to stakeholders."
+    },
+    {
+        "word": "Risk Assessment Framework",
+        "description": "A risk assessment framework is a structured approach or model used to guide and standardize the risk assessment process."
+    },
+    {
+        "word": "Risk Management Plan",
+        "description": "A Risk Management Plan is a document that outlines the risk management approach, activities, and responsibilities for a project or initiative."
+    },
+    {
+        "word": "Contingency Plan",
+        "description": "A contingency plan is a course of action developed in advance to respond to potential risks or unexpected events."
+    },
+    {
+        "word": "Risk Profile",
+        "description": "A Risk Profile is a summary or assessment of an organization's overall risk exposure and appetite."
+    },
+    {
+        "word": "Risk-Based Decision Making",
+        "description": "Risk-based decision making involves considering and incorporating risk factors into the decision-making process."
+    },
+    {
+        "word": "Risk Aggregation",
+        "description": "Risk aggregation involves combining individual risks to provide a broader view of an organization's overall risk exposure."
+    },
+    {
+        "word": "Risk Audit",
+        "description": "A risk audit is a systematic review of an organization's risk-management processes and practices to ensure they are effective and compliant with industry standards."
+    },
+    {
+        "word": "Risk Ownership",
+        "description": "Risk ownership refers to the assignment of responsibility for managing and overseeing a specific risk."
+    },
+    {
+        "word": "Risk Assessment Tool",
+        "description": "A risk assessment tool is a software or methodology used to identify, assess, and prioritize risks."
+    },
+    {
+        "word": "Risk Management Framework",
+        "description": "A Risk Management Framework is a structured and systematic approach to managing risks, including the establishment of policies, processes, and controls."
+    },
+    {
+        "word": "Risk Transfer Mechanism",
+        "description": "A risk transfer mechanism refers to the specific methods or tools used to transfer risk to another party, such as contracts, insurance policies, or hedging strategies."
+    },
+    {
+        "word": "Risk Treatment Plan",
+        "description": "A risk treatment plan outlines the specific actions, strategies, and resources required to address identified risks."
+    },
+    {
+        "word": "Risk Scenario Analysis",
+        "description": "Risk scenario analysis involves identifying and analyzing potential scenarios based on different combinations of risks to assess their potential impact."
+    },
+    {
+        "word": "Risk Threshold",
+        "description": "A risk threshold is the level at which a particular risk is considered unacceptable and requires immediate action."
+    },
+    {
+        "word": "Risk Governance",
+        "description": "Risk Governance refers to the framework, policies, and processes that guide risk management activities within an organization."
+    },
+    {
+        "word": "Risk Management Policy",
+        "description": "A risk management policy is a document that outlines an organization's approach to identifying, assessing, and managing risks."
+    },
+    {
+        "word": "Risk Appetite Statement",
+        "description": "A Risk Appetite Statement is a formal document that articulates an organization's approach and boundaries for risk-taking."
+    },
+    {
+        "word": "Risk Communication",
+        "description": "Risk Communication is the exchange of information and insights related to risks among stakeholders."
+    },
+    {
+        "word": "Risk Avoidance Strategy",
+        "description": "A risk avoidance strategy involves taking actions to eliminate or avoid exposure to a particular risk."
+    },
+    {
+        "word": "Risk Transfer Strategy",
+        "description": "A risk transfer strategy involves transferring the potential financial impact of a risk to another party, such as through insurance or contractual arrangements."
+    },
+    {
+        "word": "Risk Acceptance",
+        "description": "Risk Acceptance is the decision to accept the potential consequences and impact of a risk and not take any further action to mitigate or avoid it."
+    },
+    {
+        "word": "Risk Monitoring And Review",
+        "description": "Risk monitoring and review involves regularly assessing and evaluating the effectiveness of risk-management processes and activities."
+    },
+    {
+        "word": "Risk Assessment Methodology",
+        "description": "A Risk Assessment Methodology is a systematic and structured approach to assessing and quantifying risks."
+    },
+    {
+        "word": "Risk Response Plan",
+        "description": "A risk response plan outlines the specific actions and measures to be taken in response to identified risks."
+    },
+    {
+        "word": "Risk Indicator",
+        "description": "A risk indicator is a trigger or measurement that is used to assess the potential for an identified risk."
+    },
+    {
+        "word": "Risk-Based Capital",
+        "description": "Risk-Based Capital is a regulatory requirement for financial institutions to hold capital in proportion to the risks they undertake."
+    },
+    {
+        "word": "Risk-Adjusted Return",
+        "description": "Risk-adjusted return is a measure of investment performance that takes into account the level of risk taken to achieve that return."
+    },
+    {
+        "word": "Risk Event",
+        "description": "A Risk Event is an incident or occurrence that could have a positive or negative impact on an organization's objectives."
+    },
+    {
+        "word": "Risk Quantification",
+        "description": "Risk quantification involves assigning values or measures to the likelihood and impact of identified risks in order to prioritize and manage them effectively."
+    },
+    {
+        "word": "Risk Matrix",
+        "description": "A risk matrix is a tool used to assess and prioritize risks based on their likelihood and impact."
+    },
+    {
+        "word": "Cyber Risk",
+        "description": "Cyber risk refers to the potential loss resulting from a breach or compromise of an organization's information systems or data."
+    },
+    {
+        "word": "Disaster Recovery",
+        "description": "Disaster recovery is the process of restoring and recovering critical systems and data following a significant disruption."
+    },
+    {
+        "word": "Loss Event",
+        "description": "A loss event refers to an incident or occurrence that results in an actual loss or negative impact."
+    },
+    {
+        "word": "Business Impact Analysis",
+        "description": "Business impact analysis (BIA) is the process of assessing the potential financial and operational impacts of a disruption on an organization."
+    },
+    {
+        "word": "Risk Owner",
+        "description": "A Risk Owner is the individual or entity responsible for managing and overseeing a specific risk."
+    },
+    {
+        "word": "Scenario Analysis",
+        "description": "Scenario Analysis is a technique used to assess the impact of different possible future scenarios on an organization's objectives and risks."
+    },
+    {
+        "word": "Stress Testing",
+        "description": "Stress Testing is a technique used to assess an organization's resilience by subjecting it to extreme or adverse conditions."
+    },
+    {
+        "word": "Third-Party Risk",
+        "description": "Third-party risk refers to the potential risks arising from the use of third-party vendors, suppliers, or service providers."
+    },
+    {
+        "word": "Risk Transfer Agreement",
+        "description": "A risk transfer agreement is a contractual arrangement that transfers specified risks from one party to another."
+    },
+    {
+        "word": "Risk Documentation",
+        "description": "Risk documentation refers to the recording and documentation of risks, including their identification, assessment, and mitigation measures."
+    },
+    {
+        "word": "Risk Evaluation",
+        "description": "Risk evaluation is the process of comparing the results of risk assessments against predetermined criteria to determine the significance of risks."
+    },
+    {
+        "word": "Risk Probability",
+        "description": "Risk Probability is the likelihood or chance that a risk event will occur."
+    },
+    {
+        "word": "Risk Impact",
+        "description": "Risk impact refers to the potential magnitude or severity of the consequences resulting from a specific risk event."
+    },
+    {
+        "word": "Risk Treatment",
+        "description": "Risk treatment involves selecting and implementing appropriate measures to address and mitigate identified risks."
+    },
+    {
+        "word": "Internal Control",
+        "description": "Internal control refers to the processes, policies, and safeguards in place to ensure the reliability, accuracy, and integrity of financial and operational information."
+    },
+    {
+        "word": "Risk Financing",
+        "description": "Risk financing involves determining the most appropriate mechanisms and strategies to fund and manage potential losses."
+    },
+    {
+        "word": "Risk Awareness",
+        "description": "Risk awareness is the degree to which individuals within an organization understand and recognize the potential risks they face."
+    },
+    {
+        "word": "Risk Scenario",
+        "description": "A risk scenario is a description or narrative of a potential risk event, including its causes, consequences, and likelihood."
+    },
+    {
+        "word": "Risk Workshop",
+        "description": "A risk workshop is a collaborative session involving key stakeholders to identify, assess, and prioritize risks."
+    },
+    {
+        "word": "Risk Modeling",
+        "description": "Risk Modeling involves using statistical techniques and data analysis to predict and quantify risks."
+    },
+    {
+        "word": "Risk Culture Assessment",
+        "description": "A risk culture assessment involves evaluating the existing risk culture within an organization to identify strengths and areas for improvement."
+    },
+    {
+        "word": "Risk Governance Framework",
+        "description": "A risk governance framework provides a structured approach to the management and oversight of risks at an organizational level."
+    },
+    {
+        "word": "Risk Metrics",
+        "description": "Risk metrics are quantitative measures used to assess and evaluate risks, such as loss potential, volatility, or correlation."
+    },
+    {
+        "word": "Risk Review",
+        "description": "A risk review involves periodically assessing and reassessing identified risks to ensure their continued relevance and effectiveness of mitigation strategies."
+    },
+    {
+        "word": "Risk Culture Transformation",
+        "description": "Risk culture transformation involves intentionally changing the values, attitudes, and behaviors within an organization to foster a more effective risk culture."
+    },
+    {
+        "word": "Risk Register Management",
+        "description": "Risk register management involves updating and maintaining the risk register to ensure it remains a current and accurate record of identified risks."
+    },
+    {
+        "word": "Risk-Based Audit",
+        "description": "A risk-based audit approach focuses on assessing and evaluating risks as a basis for determining the scope, nature, and timing of audit procedures."
+    },
+    {
+        "word": "Risk Identification Techniques",
+        "description": "Risk identification techniques are methods or tools used to systematically identify and document potential risks within an organization."
+    },
+    {
+        "word": "Risk Heat Map",
+        "description": "A Risk Heat Map is a visual representation of risks, where the likelihood and impact of each risk are plotted on a matrix."
+    },
+    {
+        "word": "Risk Culture Survey",
+        "description": "A risk culture survey is a structured questionnaire or assessment tool used to gather information about the existing risk culture within an organization."
+    },
+    {
+        "word": "Risk-Based Pricing",
+        "description": "Risk-Based Pricing is a strategy used by financial institutions to set prices and interest rates based on the perceived risk of a borrower."
+    },
+    {
+        "word": "Risk Committee",
+        "description": "A risk committee is a group of individuals within an organization responsible for overseeing and guiding the risk management process."
+    },
+    {
+        "word": "Control Environment",
+        "description": "The control environment refers to the overall attitude, awareness, and actions of management and employees regarding internal control."
+    },
+    {
+        "word": "Risk-Based Compliance",
+        "description": "Risk-based compliance involves aligning compliance efforts with the identified risks and focusing resources on areas of highest risk."
+    },
+    {
+        "word": "Risk Transfer Pricing",
+        "description": "Risk Transfer Pricing is the practice of assigning costs to different business units or products based on their exposure to risk."
+    },
+    {
+        "word": "Risk",
+        "description": "Risk refers to the potential for loss or harm resulting from uncertainties and events that may affect an organization's objectives."
+    },
+    {
+        "word": "Control",
+        "description": "A Control is a measure or action taken to minimize, monitor, or manage risks."
+    },
+    {
+        "word": "Mitigation",
+        "description": "Mitigation refers to the actions taken to reduce the impact or likelihood of a risk event."
+    },
+    {
+        "word": "Residual Risk",
+        "description": "Residual Risk is the risk that remains after risk mitigation actions have been implemented."
+    },
+    {
+        "word": "Risk Aversion",
+        "description": "Risk Aversion refers to a tendency to avoid or minimize risks."
+    },
+    {
+        "word": "Control Self-Assessment",
+        "description": "Control Self-Assessment is a process where internal stakeholders assess the effectiveness of controls within the organization."
+    },
+    {
+        "word": "Business Continuity",
+        "description": "Business Continuity refers to the planning and preparation undertaken to ensure the continuous operation of critical business functions in the event of a disruption or disaster."
+    },
+    {
+        "word": "Risk Framework",
+        "description": "A Risk Framework is a structured approach that provides a common language and methodology for managing risks."
+    },
+    {
+        "word": "Reputation Risk",
+        "description": "Reputation Risk is the risk of damage to an organization's reputation, brand, or image."
+    },
+    {
+        "word": "Strategic Risk",
+        "description": "Strategic Risk is the risk of loss resulting from an organization's strategic decisions and actions."
+    },
+    {
+        "word": "Environmental Risk",
+        "description": "Environmental Risk is the risk of loss resulting from environmental factors, such as natural disasters, climate change, and pollution."
+    },
+    {
+        "word": "Operational Resilience",
+        "description": "Operational Resilience refers to an organization's ability to withstand and recover from disruptive events while maintaining the delivery of critical business functions."
+    },
+    {
+        "word": "Risk Maturity",
+        "description": "Risk Maturity refers to the level of sophistication and effectiveness in an organization's risk management practices."
+    },
+    {
+        "word": "Risk Pooling",
+        "description": "Risk Pooling is the practice of aggregating and sharing risks across a group of entities to reduce individual exposure."
+    },
+    {
+        "word": "Risk Appetite Framework",
+        "description": "A Risk Appetite Framework is a comprehensive set of policies, procedures, and guidelines that govern an organization's risk appetite and risk-taking."
+    },
+    {
+        "word": "Risk-Adjusted Return On Capital (Raroc)",
+        "description": "Risk-Adjusted Return on Capital (RAROC) is a measure of profitability that takes into account the level of risk a financial institution assumes."
+    },
+    {
+        "word": "Risk Return Trade-Off",
+        "description": "The Risk-Return Trade-Off refers to the concept that higher levels of risk are usually associated with higher potential returns."
+    },
+    {
+        "word": "Risk Monitoring Framework",
+        "description": "A Risk Monitoring Framework is a structured approach to monitoring risks, including the establishment of risk indicators, thresholds, and reporting mechanisms."
+    },
+    {
+        "word": "Risk Universe",
+        "description": "A Risk Universe is a comprehensive list or map of all the potential risks that an organization may face."
+    },
+    {
+        "word": "Risk Assessment Techniques",
+        "description": "Risk Assessment Techniques are the methods and tools used to conduct risk assessments, such as checklists, interviews, workshops, and quantitative models."
+    },
+    {
+        "word": "Risk-Adjusted Performance",
+        "description": "Risk-Adjusted Performance is a measure of investment performance that takes into account the level of risk assumed."
+    },
+    {
+        "word": "Risk Maturity Model",
+        "description": "A Risk Maturity Model is a tool or framework used to assess and improve an organization's risk management practices and capabilities."
+    },
+    {
+        "word": "Risk Map",
+        "description": "A Risk Map is a visual representation of risks, where risks are plotted based on their likelihood and impact."
+    }
+]
