@@ -1,0 +1,574 @@
+[
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is a technology that superimposes computer-generated content onto the real world, enhancing the user's perception and interaction with their environment."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a technology that immerses users in a completely virtual environment, often blocking out the real world entirely."
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "Mixed reality (MR) is a spectrum that encompasses both AR and VR, where virtual and real-world elements are seamlessly integrated and interact with each other."
+    },
+    {
+        "word": "Holography",
+        "description": "Holography is a technique that produces a 3D image, called a hologram, by using diffraction to record and reconstruct the light field of an object."
+    },
+    {
+        "word": "Marker-Based Ar",
+        "description": "Marker-based AR involves the use of physical markers or images as reference points for AR systems to overlay digital content."
+    },
+    {
+        "word": "Markerless Ar",
+        "description": "Markerless AR, also known as location-based AR, allows virtual objects to be placed in the real world without the need for physical markers or reference points."
+    },
+    {
+        "word": "Slam",
+        "description": "Simultaneous Localization and Mapping (SLAM) is a technique used in AR to create a map of the physical environment while tracking the user's position within it."
+    },
+    {
+        "word": "Pose Estimation",
+        "description": "Pose estimation in AR involves determining the precise position and orientation of an object or user within the real-world environment."
+    },
+    {
+        "word": "Image Recognition",
+        "description": "Image recognition in AR refers to the process of identifying and classifying objects or patterns in real-time using a device's camera."
+    },
+    {
+        "word": "Computer-Generated Imagery (Cgi)",
+        "description": "Computer-generated imagery (CGI) refers to the creation of visual content using computer graphics."
+    },
+    {
+        "word": "3D Modeling",
+        "description": "3D Modeling is the process of creating a three-dimensional representation of an object or scene using specialized software or scanning technology."
+    },
+    {
+        "word": "Lidar",
+        "description": "Lidar is a remote sensing technology that uses lasers to measure distances and create highly accurate 3D representations of the environment, often used in AR applications."
+    },
+    {
+        "word": "Depth Sensing",
+        "description": "Depth sensing in AR involves the measurement of the distance between a device's camera and objects in the real world, enabling more accurate virtual object placement."
+    },
+    {
+        "word": "Geolocation",
+        "description": "Geolocation is the process of determining the precise geographic location of a device or user in the real world."
+    },
+    {
+        "word": "Virtual Object",
+        "description": "A virtual object is a computer-generated 3D model or element that is overlaid onto the real world in AR."
+    },
+    {
+        "word": "Real-Time Rendering",
+        "description": "Real-time rendering in AR involves generating and displaying virtual content in response to user interactions or changes in the real world."
+    },
+    {
+        "word": "Spatial Mapping",
+        "description": "Spatial mapping in AR is the process of creating a 3D representation of the physical environment, allowing virtual objects to interact with the real world."
+    },
+    {
+        "word": "Hand Tracking",
+        "description": "Hand tracking in AR involves the detection and tracking of a user's hand movements, enabling interaction with virtual objects using hand gestures."
+    },
+    {
+        "word": "Gaze Tracking",
+        "description": "Gaze tracking is a technology that detects and tracks the direction of a user's gaze, often used for interaction and user interface control in augmented reality experiences."
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "Haptic feedback, also known as haptics, refers to the tactile sensations or vibrations created by a device to provide a sense of touch or physical interaction in augmented reality applications."
+    },
+    {
+        "word": "Reflection Mapping",
+        "description": "Reflection mapping is a technique used in computer graphics to simulate the appearance of reflective surfaces by mapping the environment onto the surface of the object."
+    },
+    {
+        "word": "Physics Simulation",
+        "description": "Physics simulation is the process of emulating real-world physical behaviors, such as gravity, collision, and motion, in a virtual environment."
+    },
+    {
+        "word": "Pseudo Haptics",
+        "description": "Pseudo haptics is a technique used in augmented reality to create the illusion of physical feedback or resistance without actual physical contact."
+    },
+    {
+        "word": "Field Of View (Fov)",
+        "description": "Field of view (FOV) refers to the extent of the visible world that can be seen at any given moment through a device such as an AR headset or camera."
+    },
+    {
+        "word": "Calibration",
+        "description": "Calibration is the process of adjusting and aligning devices or sensors to ensure accurate measurements and tracking in augmented reality systems."
+    },
+    {
+        "word": "Rendering Pipeline",
+        "description": "Rendering pipeline refers to the sequence of stages and processes used to transform geometric data into visual output, including vertex processing, rasterization, shading, and output."
+    },
+    {
+        "word": "Head-Mounted Display (Hmd)",
+        "description": "Head-mounted display (HMD) is a device worn on the head, often in the form of goggles or glasses, that provides a virtual or augmented reality experience."
+    },
+    {
+        "word": "Optical See-Through (Ost)",
+        "description": "Optical see-through (OST) refers to a display technology that allows users to see the real world directly while overlaying computer-generated digital content."
+    },
+    {
+        "word": "Video Pass-Through",
+        "description": "Video pass-through is a technique used in augmented reality to transmit real-time video from the device's camera to the display, allowing the user to see the real world while augmenting it."
+    },
+    {
+        "word": "Real-World Occlusion",
+        "description": "Real-world occlusion is the ability of an augmented reality system to accurately hide virtual objects behind real-world objects, creating a seamless blending of the virtual and real worlds."
+    },
+    {
+        "word": "Inertial Measurement Unit (Imu)",
+        "description": "An Inertial Measurement Unit (IMU) is a sensor device that measures and reports the device's acceleration, orientation, and angular velocity."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer vision in AR involves the use of algorithms and techniques to enable devices to understand and interpret visual information from the real world."
+    },
+    {
+        "word": "Handheld Ar",
+        "description": "Handheld AR refers to AR experiences that are viewed and interacted with using handheld devices such as smartphones or tablets."
+    },
+    {
+        "word": "Projected Ar",
+        "description": "Projected AR involves projecting digital content onto physical surfaces or objects, creating an augmented reality experience without the need for specialized glasses or headsets."
+    },
+    {
+        "word": "Retinal Projection",
+        "description": "Retinal projection is a technique that uses lasers or other display technologies to project images or information directly onto the viewer's retina, creating a virtual display within the user's field of vision."
+    },
+    {
+        "word": "Visual Odometry",
+        "description": "Visual odometry is a method used in augmented reality systems to track the movement and position of a device or the user by analyzing changes in visual sensor data, such as camera images."
+    },
+    {
+        "word": "Hand Gesture Recognition",
+        "description": "Hand gesture recognition is the process of detecting and interpreting the gestures made by a user's hands, often used for interaction and control in augmented reality applications."
+    },
+    {
+        "word": "Avatar",
+        "description": "An avatar is a digital representation of a user, often in the form of a 3D model or character, used to interact with others or navigate virtual environments in augmented reality."
+    },
+    {
+        "word": "Eyeglass-Based Ar",
+        "description": "Eyeglass-based AR, also known as smart glasses, refers to augmented reality experiences that are viewed through wearable glasses or goggles."
+    },
+    {
+        "word": "Image Registration",
+        "description": "Image registration is the process of aligning and overlaying images or data captured from different sources or time periods to create a composite or augmented view."
+    },
+    {
+        "word": "Natural Feature Tracking",
+        "description": "Natural feature tracking (NFT) is a technique used in augmented reality to recognize and track distinctive features and objects in the real world, allowing the alignment and placement of virtual objects."
+    },
+    {
+        "word": "Field-Of-View Expansion",
+        "description": "Field-of-view expansion is a technique used in augmented reality to extend the user's visual perception beyond the physical field of view of the device, often using image processing or optical tricks."
+    },
+    {
+        "word": "Virtual Retinal Display",
+        "description": "Virtual retinal display is a display technology that uses scanning laser beams to create an image directly on the viewer's retina, producing a virtual display within the user's field of vision."
+    },
+    {
+        "word": "Augmented Reality Browser",
+        "description": "An augmented reality browser is an application or software that overlays digital information onto the real world through the device's camera and displays relevant content based on the user's location."
+    },
+    {
+        "word": "Context-Aware Computing",
+        "description": "Context-aware computing refers to systems or applications that dynamically adapt their behavior and presentation based on the user's context, such as location, time, environment, or user preferences."
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "Sensor fusion in AR involves combining data from multiple sensors, such as accelerometers, gyroscopes, and cameras, to improve tracking accuracy and performance."
+    },
+    {
+        "word": "Smartglasses",
+        "description": "Smartglasses, also known as augmented reality glasses, are lightweight wearable devices that overlay digital information onto the real world, allowing the user to see and interact with virtual objects."
+    },
+    {
+        "word": "Virtual Marker",
+        "description": "A virtual marker refers to a digital marker or trigger that is recognized by an augmented reality system to superimpose digital information onto the real world without the need for physical markers."
+    },
+    {
+        "word": "Image-Based Tracking",
+        "description": "Image-based tracking is a technique used in augmented reality to track the position and movement of an object or device by matching it to a reference image or pattern."
+    },
+    {
+        "word": "Sensor Augmentation",
+        "description": "Sensor augmentation is the process of enhancing or extending the capabilities of existing sensors in a device by combining them with additional sensors or external data sources."
+    },
+    {
+        "word": "Perspective Distortion",
+        "description": "Perspective distortion refers to the change in the perceived shape and size of objects in an image or video due to variations in the projection or viewing angle."
+    },
+    {
+        "word": "Illumination Estimation",
+        "description": "Illumination estimation is the process of estimating the lighting conditions and the color and intensity of ambient light in an augmented reality scene, often used for more realistic rendering and object interaction."
+    },
+    {
+        "word": "Spatial Computing",
+        "description": "Spatial computing refers to a computing paradigm that focuses on the understanding and interaction with the physical world in real-time, incorporating elements of augmented reality, virtual reality, and mixed reality."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and models that enable computers to learn and make predictions or decisions without explicit programming."
+    },
+    {
+        "word": "Handheld Virtual Reality",
+        "description": "Handheld virtual reality refers to virtual reality experiences that are viewed through handheld devices, such as smartphones or VR headsets that can be held in the hand."
+    },
+    {
+        "word": "Simulated Environment",
+        "description": "A simulated environment refers to a digital or virtual representation of a real or imagined world, often used in virtual reality or simulation applications."
+    },
+    {
+        "word": "Spatial Sound",
+        "description": "Spatial Sound is an audio technology that creates a three-dimensional sound experience in virtual or augmented reality."
+    },
+    {
+        "word": "Surface Detection",
+        "description": "Surface detection in AR involves identifying and detecting flat surfaces in the real-world environment, allowing virtual objects to be placed or interacted with on those surfaces."
+    },
+    {
+        "word": "Object Recognition",
+        "description": "Object Recognition is the ability of a computer vision system to identify and classify specific objects or instances in images or video."
+    },
+    {
+        "word": "Geospatial Ar",
+        "description": "Geospatial AR involves augmenting the real world with digital content based on geographical data, such as maps, points of interest, or real-time location information."
+    },
+    {
+        "word": "Depth Perception",
+        "description": "Depth perception in AR involves the ability to perceive the distance or depth of objects in the real world, often achieved through depth sensing or stereoscopic vision techniques."
+    },
+    {
+        "word": "Holographic Display",
+        "description": "A Holographic Display uses holography techniques to present a three-dimensional visual representation of objects."
+    },
+    {
+        "word": "Markerless Tracking",
+        "description": "Markerless Tracking is a method of tracking an object or device without the need for physical markers or sensors."
+    },
+    {
+        "word": "Marker-Based Tracking",
+        "description": "Marker-based Tracking is a method of tracking an object or device using physical markers or sensors."
+    },
+    {
+        "word": "Field Of View",
+        "description": "The field of view (FOV) in AR refers to the extent or range of the physical or virtual environment that a user can see through their AR device."
+    },
+    {
+        "word": "Head-Mounted Display",
+        "description": "A head-mounted display (HMD) is a device worn on the head that provides a virtual, immersive experience by overlaying digital content onto the user's field of view."
+    },
+    {
+        "word": "Gestures",
+        "description": "Gestures in augmented reality refer to physical movements or actions made by the user to interact with virtual objects or interfaces."
+    },
+    {
+        "word": "Simultaneous Localization And Mapping",
+        "description": "Simultaneous Localization and Mapping (SLAM) is a technique used in augmented reality to map and navigate an environment in real-time."
+    },
+    {
+        "word": "Marker",
+        "description": "In augmented reality, a Marker is a physical object or pattern that triggers the display of virtual content when detected by a device."
+    },
+    {
+        "word": "Haptics",
+        "description": "Haptics refers to the sense of touch and the use of tactile feedback in virtual and augmented reality experiences."
+    },
+    {
+        "word": "Image Overlay",
+        "description": "Image overlay in AR involves overlaying digital images or graphics onto the real-world view captured by a device's camera."
+    },
+    {
+        "word": "Persistent Ar",
+        "description": "Persistent Augmented Reality (AR) refers to AR experiences that can be saved and revisited over time, anchored to specific locations in the physical world."
+    },
+    {
+        "word": "Ar Cloud",
+        "description": "The AR Cloud is a virtual 3D map of the real world that is used as a common reference for multiple augmented reality applications and devices."
+    },
+    {
+        "word": "Social Ar",
+        "description": "Social AR refers to augmented reality experiences that enable users to interact and share content with others in real-time."
+    },
+    {
+        "word": "Smart Glasses",
+        "description": "Smart glasses are a type of wearable AR device that combines a display with features such as connectivity, sensors, and computing capabilities."
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencing is a location-based technology that uses GPS or RFID to create virtual boundaries or trigger actions when a user enters or exits a specific area."
+    },
+    {
+        "word": "Inside-Out Tracking",
+        "description": "Inside-out Tracking is a method of tracking the position and movement of a device or user in augmented reality without the need for external sensors or markers."
+    },
+    {
+        "word": "Outside-In Tracking",
+        "description": "Outside-in Tracking is a method of tracking the position and movement of a device or user in augmented reality using external sensors or markers."
+    },
+    {
+        "word": "Registration",
+        "description": "Registration in AR involves aligning or registering virtual content with the real-world environment, ensuring accurate alignment and positioning."
+    },
+    {
+        "word": "Real-Time Collaboration",
+        "description": "Real-time Collaboration in augmented reality allows multiple users to interact and work together on a shared virtual environment or project."
+    },
+    {
+        "word": "Projection Mapping",
+        "description": "Projection Mapping is a technique used in augmented reality to project digital content onto physical objects or surfaces to create immersive visual experiences."
+    },
+    {
+        "word": "Telepresence",
+        "description": "Telepresence is a technology that allows users to feel as if they are present or have a physical presence in a remote location, often using augmented reality."
+    },
+    {
+        "word": "Context Awareness",
+        "description": "Context Awareness in augmented reality refers to the ability of a system or device to understand the user's environment and adapt the virtual content accordingly."
+    },
+    {
+        "word": "Occlusion",
+        "description": "In AR, occlusion refers to the ability of virtual objects to be occluded or hidden by real-world objects, creating a more realistic and immersive experience."
+    },
+    {
+        "word": "Tracking",
+        "description": "Tracking in AR refers to the process of continuously sensing and determining the position and orientation of a user's device."
+    },
+    {
+        "word": "Cloud Anchors",
+        "description": "Cloud Anchors are a feature of augmented reality platforms that allow virtual objects to be placed and persistently anchored in specific locations."
+    },
+    {
+        "word": "Visual Slam",
+        "description": "Visual SLAM (Simultaneous Localization and Mapping) is a variant of SLAM that primarily relies on visual information for navigation and mapping."
+    },
+    {
+        "word": "Viewer Tracking",
+        "description": "Viewer Tracking is a technology that enables devices to detect and track the user's position and movements, often used in augmented reality."
+    },
+    {
+        "word": "Motion Tracking",
+        "description": "Motion Tracking is a technology that enables devices to accurately track the movement of objects or humans in augmented reality applications."
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "Gesture recognition in AR involves the ability of a device to interpret and understand hand or body movements made by the user."
+    },
+    {
+        "word": "Environmental Integration",
+        "description": "Environmental Integration in augmented reality refers to the seamless blending of virtual content with the user's real-world environment, enhancing believability and immersion."
+    },
+    {
+        "word": "Slam Mapping",
+        "description": "SLAM Mapping is the process of generating and updating a map of the environment in real-time, using SLAM techniques in augmented reality applications."
+    },
+    {
+        "word": "Virtual Try-On",
+        "description": "Virtual Try-On is a technology that allows users to virtually try on and visualize products or items before making a purchase decision, often used in retail and fashion industries."
+    },
+    {
+        "word": "Remote Assistance",
+        "description": "Remote assistance in AR involves the use of AR technology to provide real-time guidance or support to a user in a different physical location."
+    },
+    {
+        "word": "Motion Parallax",
+        "description": "Motion Parallax is a depth cue used in augmented reality where objects that are closer appear to move faster than objects that are farther away as the user moves their head or viewpoint."
+    },
+    {
+        "word": "Virtual Collaboration",
+        "description": "Virtual Collaboration refers to the ability of multiple users to interact, communicate, and work together in a shared virtual environment, often enabled by augmented reality."
+    },
+    {
+        "word": "Semantic Tracking",
+        "description": "Semantic Tracking is a method of tracking and understanding objects or features in augmented reality based on their semantic meaning, enabling more accurate and contextual visualization."
+    },
+    {
+        "word": "Virtual Tourism",
+        "description": "Virtual Tourism involves using augmented reality to provide virtual travel experiences, allowing users to explore and interact with virtual representations of real-world locations."
+    },
+    {
+        "word": "Ar",
+        "description": "Augmented Reality (AR) refers to the integration of digital information with the real world in real-time."
+    },
+    {
+        "word": "Ar Marker",
+        "description": "AR Markers are physical objects or patterns that are used as reference points by AR systems to overlay digital content."
+    },
+    {
+        "word": "Hologram",
+        "description": "A hologram is a 3D virtual image that appears to be floating in the air and can be perceived by AR devices."
+    },
+    {
+        "word": "Augmented Reality Glasses",
+        "description": "Augmented Reality (AR) glasses are a type of head-mounted display that overlays virtual content onto the real world, allowing users to see both simultaneously."
+    },
+    {
+        "word": "Augmented World",
+        "description": "The augmented world refers to the combination of the real world and virtual content in AR, creating an enhanced interactive environment."
+    },
+    {
+        "word": "Overlay",
+        "description": "In AR, overlay refers to the act of superimposing virtual content onto the real world, combining the virtual and physical elements."
+    },
+    {
+        "word": "Simulation",
+        "description": "Simulation in AR refers to the creation of a virtual representation or imitation of the real world for training, educational, or entertainment purposes."
+    },
+    {
+        "word": "Projection-Based Ar",
+        "description": "Projection-based AR involves projecting virtual content onto real-world surfaces to create an augmented experience."
+    },
+    {
+        "word": "Field-Of-Depth",
+        "description": "Field-of-Depth (FoD) refers to the range of distances at which AR devices can accurately overlay virtual objects onto the real world."
+    },
+    {
+        "word": "Application Programming Interface",
+        "description": "An Application Programming Interface (API) is a set of rules and protocols that allows different software applications to communicate and interact with each other."
+    },
+    {
+        "word": "User Interface",
+        "description": "The user interface (UI) in AR refers to the graphical elements or controls through which users interact with and control virtual content."
+    },
+    {
+        "word": "Motion Capture",
+        "description": "Motion capture in AR involves recording and tracking the movements of objects or individuals to generate digital representations or animations."
+    },
+    {
+        "word": "Augmented Audio",
+        "description": "Augmented audio in AR involves enhancing or modifying a user's auditory perception of the real world by adding virtual or digital sounds."
+    },
+    {
+        "word": "Marker Tracking",
+        "description": "Marker tracking in AR involves continuously detecting, identifying, and tracking the position and orientation of physical markers in the real world."
+    },
+    {
+        "word": "Optical See-Through",
+        "description": "Optical see-through in AR refers to a display technology that allows users to see the real world directly through transparent panels, with overlaid virtual content."
+    },
+    {
+        "word": "Inertial Measurement Unit",
+        "description": "An Inertial Measurement Unit (IMU) is a device that measures and reports linear and angular motion using a combination of accelerometers and gyroscopes."
+    },
+    {
+        "word": "Remote Collaboration",
+        "description": "Remote collaboration in AR involves multiple users interacting and working together in a shared virtual space, regardless of physical location."
+    },
+    {
+        "word": "Aerial Ar",
+        "description": "Aerial AR involves displaying virtual content or information in the context of the user's aerial view, often using drones or aircraft as the primary platform."
+    },
+    {
+        "word": "Screen-Based Ar",
+        "description": "Screen-based AR involves overlaying virtual content onto a screen, such as a smartphone, tablet, or computer display, enhancing the user's visual experience."
+    },
+    {
+        "word": "Tracked Area",
+        "description": "A tracked area in AR refers to the defined space or environment in which the user can move and interact with virtual objects, typically requiring specific tracking technologies."
+    },
+    {
+        "word": "Enhanced Reality",
+        "description": "Enhanced Reality (ER) refers to a form of AR that enhances or enriches the user's perception of the real-world environment by providing additional information or context."
+    },
+    {
+        "word": "Field Of Vision",
+        "description": "The field of vision refers to the total area or extent that a user can observe through their natural vision, including peripheral vision."
+    },
+    {
+        "word": "Wireless Tracking",
+        "description": "Wireless tracking in AR involves using wireless technologies, such as Bluetooth or Wi-Fi, to track the position and movement of AR devices or objects."
+    },
+    {
+        "word": "360-Degree Ar",
+        "description": "360-degree AR involves creating AR experiences that surround the user in a complete 360-degree view, allowing them to explore and interact with virtual content from any angle."
+    },
+    {
+        "word": "Contextual Information",
+        "description": "Contextual information in AR refers to additional data or content that is overlaid onto the real world, providing relevant information or enhancing the user's understanding of their surroundings."
+    },
+    {
+        "word": "Collaborative Ar",
+        "description": "Collaborative AR involves multiple users interacting and experiencing AR content simultaneously, often in a shared physical or virtual space."
+    },
+    {
+        "word": "Physical Environment",
+        "description": "The physical environment in AR refers to the real-world surroundings and objects that are present and interact with virtual content."
+    },
+    {
+        "word": "Environmental Understanding",
+        "description": "Environmental understanding in AR involves the ability of AR systems to recognize and understand the real-world environment, including object recognition, scene understanding, and context awareness."
+    },
+    {
+        "word": "Spatial Audio",
+        "description": "Spatial audio in AR involves reproducing sound in a way that gives users the perception of sounds coming from specific directions or locations within the augmented space."
+    },
+    {
+        "word": "Multi-User Ar",
+        "description": "Multi-user AR involves multiple users experiencing and interacting with AR content simultaneously, often in a shared virtual or physical space."
+    },
+    {
+        "word": "Real-World Interaction",
+        "description": "Real-world interaction in AR involves the ability of users to physically interact with virtual objects or content, often using gestures, touch, or other input methods."
+    },
+    {
+        "word": "Ambient Light Estimation",
+        "description": "Ambient light estimation in AR involves measuring and estimating the lighting conditions of the real world, allowing virtual objects to be rendered more realistically."
+    },
+    {
+        "word": "Geolocation Ar",
+        "description": "Geolocation AR involves augmenting the real-world environment with virtual content or information that is specific to a particular geographic location."
+    },
+    {
+        "word": "3D Model",
+        "description": "A 3D model is a digital representation of a physical object or scene, often used in AR to create virtual objects or environments."
+    },
+    {
+        "word": "Virtual Content",
+        "description": "Virtual content in AR refers to digital elements such as images, videos, 3D models, or information that is overlaid onto the real-world environment."
+    },
+    {
+        "word": "Real-Time Mapping",
+        "description": "Real-time mapping in AR involves the dynamic creation and updating of a map or representation of the real-world environment, allowing virtual objects to interact with the surroundings."
+    },
+    {
+        "word": "Gesture-Based Interaction",
+        "description": "Gesture-based interaction in AR involves the use of hand or body movements to control and interact with virtual objects or content."
+    },
+    {
+        "word": "Virtual Shopping",
+        "description": "Virtual shopping in AR involves the ability to browse and interact with virtual products or items in a simulated or augmented shopping environment."
+    },
+    {
+        "word": "Manufacturing",
+        "description": "In the context of AR, manufacturing refers to the application of AR technology in manufacturing processes, such as assembly, maintenance, or quality control."
+    },
+    {
+        "word": "Training And Simulation",
+        "description": "Training and simulation in AR involves using AR technology to provide realistic and interactive training experiences, often simulating real-world scenarios or tasks."
+    },
+    {
+        "word": "Education",
+        "description": "In the field of AR, education refers to the use of AR technology to enhance teaching and learning experiences by providing interactive and immersive educational content."
+    },
+    {
+        "word": "Entertainment",
+        "description": "Entertainment in AR involves the use of AR technology to create interactive and engaging experiences for games, movies, or other forms of digital entertainment."
+    },
+    {
+        "word": "Advertising",
+        "description": "In AR, advertising refers to the use of AR technology to create interactive and immersive advertising campaigns, allowing users to experience products or services in a virtual context."
+    },
+    {
+        "word": "Navigation",
+        "description": "In AR, navigation refers to the use of AR technology to provide real-time directions, information, or guidance, often overlaying digital content onto the real-world view."
+    },
+    {
+        "word": "Healthcare",
+        "description": "In the context of AR, healthcare refers to the application of AR technology in medical diagnosis, surgery, rehabilitation, or patient care, enhancing healthcare practices and outcomes."
+    }
+]
