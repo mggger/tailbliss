@@ -1,0 +1,466 @@
+[
+    {
+        "word": "Talent Acquisition",
+        "description": "Talent Acquisition is the process of finding, attracting, and hiring talented individuals to meet the hiring needs of an organization."
+    },
+    {
+        "word": "Employer Branding",
+        "description": "Employer branding refers to the image, reputation, and perception of an organization as an employer in the job market."
+    },
+    {
+        "word": "Job Description",
+        "description": "A job description is a written statement that describes the responsibilities, tasks, and requirements of a particular job."
+    },
+    {
+        "word": "Candidate Experience",
+        "description": "Candidate experience refers to the overall experience that a candidate has during the recruitment and hiring process."
+    },
+    {
+        "word": "Sourcing",
+        "description": "Sourcing is the process of proactively identifying and attracting potential candidates for a job through various channels like job boards, social media, and referrals."
+    },
+    {
+        "word": "Screening",
+        "description": "Screening is the process of reviewing and evaluating resumes, applications, and other candidate information to determine their suitability for a job."
+    },
+    {
+        "word": "Interviewing",
+        "description": "Interviewing is the process of conducting interactions with candidates to assess their suitability and fit for a specific job position."
+    },
+    {
+        "word": "Assessment",
+        "description": "Assessment refers to the process of evaluating a candidate's skills, competencies, or personality traits through various methods."
+    },
+    {
+        "word": "Background Check",
+        "description": "A background check is a process of verifying a candidate's personal, educational, and professional history to confirm their credentials and suitability for a job."
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboarding is the process of integrating and orienting a new employee into an organization, including training and assimilation."
+    },
+    {
+        "word": "Employee Referral",
+        "description": "An employee referral is a candidate who is recommended or referred by an existing employee of the organization."
+    },
+    {
+        "word": "Recruitment Marketing",
+        "description": "Recruitment marketing is the application of marketing strategies and tactics to attract and engage potential candidates."
+    },
+    {
+        "word": "Candidate Relationship Management (Crm)",
+        "description": "Candidate Relationship Management (CRM) refers to the practices, strategies, and technologies used to build and maintain relationships with potential candidates."
+    },
+    {
+        "word": "Talent Pipeline",
+        "description": "A Talent Pipeline is a pool of qualified candidates who have expressed interest in working for an organization, forming a potential source of future hires."
+    },
+    {
+        "word": "Passive Candidate",
+        "description": "A passive candidate is an individual who is not actively seeking employment but may be open to new opportunities if presented."
+    },
+    {
+        "word": "Active Candidate",
+        "description": "An active candidate is an individual who is actively searching and applying for job opportunities."
+    },
+    {
+        "word": "Boolean Search",
+        "description": "A Boolean search is a technique used to combine keywords and search operators to perform more advanced and specific searches."
+    },
+    {
+        "word": "Recruitment Process Outsourcing (Rpo)",
+        "description": "Recruitment Process Outsourcing (RPO) is a business model where an organization outsources some or all of its recruitment processes to an external provider."
+    },
+    {
+        "word": "Applicant Tracking System (Ats)",
+        "description": "An Applicant Tracking System (ATS) is a software system used by organizations to manage and streamline their recruitment and hiring processes."
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "Diversity and inclusion refers to an organization's commitment to creating a diverse workforce and fostering an inclusive work environment."
+    },
+    {
+        "word": "Employment Brand",
+        "description": "Employment brand refers to the perception, reputation, and values associated with an organization as an employer."
+    },
+    {
+        "word": "Human Resources (Hr)",
+        "description": "Human Resources (HR) is a department within an organization responsible for managing employee relations, recruitment, benefits, and other HR functions."
+    },
+    {
+        "word": "Recruiter",
+        "description": "A recruiter is an individual responsible for finding, attracting, and assessing candidates for job openings within an organization."
+    },
+    {
+        "word": "Job Board",
+        "description": "A job board is a website or online platform where employers can advertise job openings and job seekers can search for and apply to those positions."
+    },
+    {
+        "word": "Passive Talent Pool",
+        "description": "A passive talent pool refers to a network or database of potential candidates who are not currently seeking job opportunities but may be interested in future ones."
+    },
+    {
+        "word": "Employment Screening",
+        "description": "Employment screening is the process of conducting background checks, reference checks, and other assessments to verify a candidate's suitability for a job."
+    },
+    {
+        "word": "Employment Value Proposition (Evp)",
+        "description": "Employment Value Proposition (EVP) refers to the unique mix of benefits, rewards, and values that an organization offers to its employees."
+    },
+    {
+        "word": "Pre-Employment Testing",
+        "description": "Pre-employment testing refers to assessments or evaluations conducted during the hiring process to measure a candidate's skills, knowledge, or aptitude."
+    },
+    {
+        "word": "Job Requisition",
+        "description": "A Job Requisition is a formal request or document that authorizes and initiates the recruitment process for a new job opening within an organization."
+    },
+    {
+        "word": "Candidate Pool",
+        "description": "A candidate pool refers to a group or database of potential candidates that an organization can draw from for current or future job openings."
+    },
+    {
+        "word": "Talent Management",
+        "description": "Talent Management is the process of attracting, developing, and retaining talented individuals to meet an organization's current and future workforce needs."
+    },
+    {
+        "word": "Employment Eligibility Verification (E-Verify)",
+        "description": "Employment Eligibility Verification (E-Verify) is an internet-based system used by employers to verify the employment eligibility of newly hired employees."
+    },
+    {
+        "word": "Recruitment Metrics",
+        "description": "Recruitment Metrics are quantifiable measures used to assess the effectiveness and efficiency of the recruitment process, such as time to fill, cost per hire, and applicant-to-hire ratio."
+    },
+    {
+        "word": "Job Offer",
+        "description": "A Job Offer is an official proposal extended by an employer to a candidate, outlining the terms of employment, such as compensation, benefits, and start date."
+    },
+    {
+        "word": "Succession Planning",
+        "description": "Succession planning is the process of identifying and developing internal employees who have the potential to fill key positions in the future."
+    },
+    {
+        "word": "Candidate Assessment",
+        "description": "Candidate assessment is the process of evaluating and measuring the knowledge, skills, abilities, and fit of candidates for a specific job position."
+    },
+    {
+        "word": "Behavioral Interview",
+        "description": "A Behavioral Interview is an interview technique that focuses on asking candidates about their past behavior and experiences to assess their future performance."
+    },
+    {
+        "word": "Remote Hiring",
+        "description": "Remote hiring refers to the process of hiring and onboarding employees who will primarily work remotely, rather than in a physical office or location."
+    },
+    {
+        "word": "Recruitment Funnel",
+        "description": "A Recruitment Funnel, also known as a Talent Funnel or Hiring Funnel, is a visual representation of the stages in the recruitment process, starting from sourcing candidates to making job offers."
+    },
+    {
+        "word": "Job Posting",
+        "description": "A job posting is a public announcement or advertisement that outlines the details and requirements of a particular job."
+    },
+    {
+        "word": "Employment Law",
+        "description": "Employment law refers to the legal rights, obligations, and regulations governing the relationship between employers and employees."
+    },
+    {
+        "word": "Talent Analytics",
+        "description": "Talent Analytics is the application of data analysis and statistics to understand and improve various aspects of the talent acquisition and management processes."
+    },
+    {
+        "word": "Candidate Persona",
+        "description": "A Candidate Persona is a fictional representation of an ideal candidate for a specific job, including their skills, traits, and preferences, used to guide recruitment and sourcing efforts."
+    },
+    {
+        "word": "Job Satisfaction",
+        "description": "Job satisfaction refers to an individual's level of contentment and fulfillment in their job and overall work experience."
+    },
+    {
+        "word": "Recruitment Strategy",
+        "description": "Recruitment Strategy is a long-term plan that outlines an organization's approach to attract, engage, and hire top talent, aligned with its goals and workforce needs."
+    },
+    {
+        "word": "Employment Agreement",
+        "description": "An employment agreement is a legally binding contract between an employer and employee, outlining the terms and conditions of employment."
+    },
+    {
+        "word": "Competency-Based Interview",
+        "description": "A Competency-Based Interview is an interview method that evaluates candidates' skills, knowledge, and abilities based on specific behavioral indicators and job-related competencies."
+    },
+    {
+        "word": "High-Potential Employees",
+        "description": "High-potential employees refer to individuals within an organization who have the capability and potential for future leadership and success."
+    },
+    {
+        "word": "Outplacement Services",
+        "description": "Outplacement services refer to support and assistance provided to employees who are leaving an organization, typically as a result of downsizing or reorganization."
+    },
+    {
+        "word": "Employment Engagement",
+        "description": "Employment engagement refers to the level of emotional connection, commitment, and satisfaction that employees have towards their work and the organization."
+    },
+    {
+        "word": "Career Development",
+        "description": "Career development refers to the processes and activities that help individuals manage their careers, acquire new skills, and advance within their profession."
+    },
+    {
+        "word": "Employment Contract",
+        "description": "An employment contract is a legally binding agreement between an employer and an employee that outlines the terms and conditions of employment."
+    },
+    {
+        "word": "Talent Pool Management",
+        "description": "Talent pool management refers to the systematic process of identifying, engaging, and nurturing potential candidates for future job openings."
+    },
+    {
+        "word": "Workforce Planning",
+        "description": "Workforce planning is the process of analyzing an organization's current and future talent needs and developing strategies to meet those needs."
+    },
+    {
+        "word": "Exit Interview",
+        "description": "An exit interview is a meeting or conversation conducted with an employee who is leaving the organization to gather feedback and insights."
+    },
+    {
+        "word": "Retention Rate",
+        "description": "Retention rate is a metric used to measure the percentage of employees who remain with an organization for a certain period of time, typically a year."
+    },
+    {
+        "word": "Employment Brand Ambassador",
+        "description": "An employment brand ambassador is an individual, often an employee, who represents and promotes the organization's employment brand."
+    },
+    {
+        "word": "Job Rotation",
+        "description": "Job rotation is a practice where employees are assigned to different roles or responsibilities within an organization to enhance their skills and knowledge."
+    },
+    {
+        "word": "Talent Marketplace",
+        "description": "A talent marketplace is a platform or system that allows employees to explore and apply for job opportunities within their organization."
+    },
+    {
+        "word": "Competency Framework",
+        "description": "A competency framework is a structured set of defined competencies (knowledge, skills, abilities) needed to perform effectively in specific job roles."
+    },
+    {
+        "word": "Workforce Diversity",
+        "description": "Workforce Diversity refers to the range of differences in a workforce, including factors such as gender, age, ethnicity, national origin, religion, and disability status."
+    },
+    {
+        "word": "Applicant Tracking System",
+        "description": "Applicant Tracking System (ATS) is a software used by recruiters and hiring managers to manage and streamline the recruitment process, including job posting, resume screening, and applicant communication."
+    },
+    {
+        "word": "Resume Screening",
+        "description": "Resume Screening is the process of reviewing and evaluating resumes and applications to identify candidates who meet the required qualifications for a job."
+    },
+    {
+        "word": "Interview",
+        "description": "An interview is a formal meeting or conversation between a candidate and an employer to assess the candidate's qualifications and fit for a job."
+    },
+    {
+        "word": "Employment Equity",
+        "description": "Employment equity is the principle of promoting fairness and equal employment opportunities for all individuals."
+    },
+    {
+        "word": "Employee Referral Program",
+        "description": "An Employee Referral Program is a formalized process that incentivizes and encourages employees to refer potential candidates for job openings within their organization."
+    },
+    {
+        "word": "Employer Value Proposition",
+        "description": "Employer Value Proposition (EVP) refers to the unique value and benefits an organization offers to its employees, differentiating it from other employers and attracting top talent."
+    },
+    {
+        "word": "Talent Pool",
+        "description": "A talent pool refers to a group of potential candidates who have expressed interest in working for an organization or have relevant skills and qualifications."
+    },
+    {
+        "word": "Employer Of Choice",
+        "description": "An employer of choice is an organization that is highly regarded and preferred by job seekers due to its positive reputation and employee benefits."
+    },
+    {
+        "word": "Employer Interview",
+        "description": "An Employer Interview is a meeting held by an organization with a candidate to assess their qualifications, fit, and expectations before making a final hiring decision."
+    },
+    {
+        "word": "Remote Work",
+        "description": "Remote Work, also known as telecommuting or remote job, refers to a work arrangement where employees perform their job duties from a location other than the office, typically their home."
+    },
+    {
+        "word": "Employee Value Proposition",
+        "description": "Employee Value Proposition (EVP) is the unique set of benefits, rewards, and opportunities an organization offers to its employees in exchange for their skills, talent, and commitment."
+    },
+    {
+        "word": "Recruitment Process Outsourcing",
+        "description": "Recruitment Process Outsourcing (RPO) is a business solution where an organization partners with an external provider to handle some or all of its recruitment activities."
+    },
+    {
+        "word": "Employee Engagement",
+        "description": "Employee engagement refers to the level of enthusiasm, commitment, and motivation that employees have towards their work and the organization."
+    },
+    {
+        "word": "Job Market",
+        "description": "Job Market refers to the conditions and trends of employment opportunities and job seeker supply and demand."
+    },
+    {
+        "word": "Employer Brand Perception",
+        "description": "Employer Brand Perception is how external stakeholders, such as potential candidates and customers, perceive and evaluate an organization as an employer."
+    },
+    {
+        "word": "Retention Strategy",
+        "description": "Retention Strategy is a set of policies, practices, and initiatives aimed at keeping employees engaged, satisfied, and committed to the organization over the long term."
+    },
+    {
+        "word": "Employee Benefits",
+        "description": "Employee Benefits are non-wage compensations provided to employees in addition to their regular salary, such as health insurance, retirement plans, and paid time off."
+    },
+    {
+        "word": "Employer Reputation",
+        "description": "Employer Reputation, also known as Employer Brand Reputation, is the overall perception and reputation an organization has as an employer in the eyes of potential candidates and current employees."
+    },
+    {
+        "word": "Employee Turnover",
+        "description": "Employee Turnover, also known as Staff Turnover or Employee Attrition, is the rate at which employees leave an organization and need to be replaced."
+    },
+    {
+        "word": "Recruitment Automation",
+        "description": "Recruitment Automation refers to the use of technology and tools to automate and streamline various aspects of the recruitment process, such as resume screening, interview scheduling, and candidate communication."
+    },
+    {
+        "word": "Talent Acquisition Strategy",
+        "description": "Talent Acquisition Strategy is a long-term plan that outlines an organization's approach to attract, engage, and hire top talent, aligned with its goals and workforce needs."
+    },
+    {
+        "word": "Employer Advocacy",
+        "description": "Employer Advocacy refers to the practice of actively supporting and promoting an organization as an employer, often through employee referrals and testimonials."
+    },
+    {
+        "word": "Outplacement",
+        "description": "Outplacement is a service provided by organizations to support employees who are leaving the organization, helping them transition to new job opportunities, typically through career coaching and job search assistance."
+    },
+    {
+        "word": "Employer Brand Communication",
+        "description": "Employer Brand Communication encompasses the various methods and channels used by an organization to convey its employer brand image, values, and employment opportunities to external audiences."
+    },
+    {
+        "word": "Job Analysis",
+        "description": "Job analysis is the process of gathering and analyzing information about the tasks, duties, and requirements of a particular job."
+    },
+    {
+        "word": "Redeployment",
+        "description": "Redeployment refers to the process of assigning employees to different roles or departments within an organization, often as an alternative to layoffs or termination during times of workforce changes."
+    },
+    {
+        "word": "Human Resources Information System",
+        "description": "A Human Resources Information System (HRIS) is a software solution that combines various HR functions, including talent acquisition, employee management, and HR analytics, into a unified system."
+    },
+    {
+        "word": "Job Market Analysis",
+        "description": "Job Market Analysis involves studying and analyzing economic and labor market data to assess job demand, salary trends, and talent availability for specific roles and industries."
+    },
+    {
+        "word": "Candidate Relationship Management",
+        "description": "Candidate Relationship Management (CRM) is an approach and system that focuses on building and nurturing relationships with potential candidates, even before they apply for a job."
+    },
+    {
+        "word": "Employer Brand Identity",
+        "description": "Employer Brand Identity is the unique personality, values, and culture an organization projects to stakeholders, aiming to differentiate itself and attract top talent."
+    },
+    {
+        "word": "Employer Of Record",
+        "description": "Employer of Record (EOR) is an outsourcing solution where an organization partners with a third-party employer to handle payroll, benefits administration, and other HR-related tasks for their employees."
+    },
+    {
+        "word": "Resume",
+        "description": "A resume is a document that provides an overview of an individual's education, work experience, skills, and qualifications."
+    },
+    {
+        "word": "Candidate",
+        "description": "A candidate refers to an individual who is being considered for a job or position."
+    },
+    {
+        "word": "Offer Letter",
+        "description": "An offer letter is a formal document that outlines the terms and conditions of employment offered to a selected candidate."
+    },
+    {
+        "word": "Recruitment Process",
+        "description": "The recruitment process is a series of steps and activities involved in finding, attracting, and selecting candidates for job openings."
+    },
+    {
+        "word": "Metrics",
+        "description": "Metrics are measurable data or indicators used to assess and track the effectiveness and efficiency of talent acquisition strategies and processes."
+    },
+    {
+        "word": "Time To Hire",
+        "description": "Time to Hire is the duration it takes for an organization to fill a job opening from the initial posting to the candidate accepting the offer."
+    },
+    {
+        "word": "Cost Per Hire",
+        "description": "Cost per Hire is a metric that measures the total cost incurred by an organization to hire a new employee."
+    },
+    {
+        "word": "Employment Agency",
+        "description": "An employment agency is a company or organization that provides recruitment and staffing services to employers."
+    },
+    {
+        "word": "Virtual Interview",
+        "description": "A virtual interview is an interview conducted remotely using video conferencing or other online communication tools."
+    },
+    {
+        "word": "Job Fair",
+        "description": "A job fair is an event where employers and job seekers come together to interact, network, and explore job opportunities."
+    },
+    {
+        "word": "Employment Gap",
+        "description": "An employment gap refers to a period of time during which an individual is not employed or engaged in work."
+    },
+    {
+        "word": "Retention",
+        "description": "Retention refers to the ability of an organization to keep its employees engaged, satisfied, and committed to the organization."
+    },
+    {
+        "word": "Employment Visa",
+        "description": "An employment visa is a document issued by a country's immigration authorities that allows foreign individuals to work legally in that country."
+    },
+    {
+        "word": "Employer Engagement",
+        "description": "Employer engagement refers to the level of interaction and collaboration between employers and educational institutions or training providers."
+    },
+    {
+        "word": "Workforce Analytics",
+        "description": "Workforce analytics is the practice of analyzing and interpreting HR and talent data to make data-driven decisions and improve workforce performance."
+    },
+    {
+        "word": "Employment Termination",
+        "description": "Employment termination refers to the ending of the employment relationship between an employer and an employee."
+    },
+    {
+        "word": "Flexible Work Arrangements",
+        "description": "Flexible work arrangements refer to alternative work schedules or arrangements that allow employees to have greater control over their working hours and conditions."
+    },
+    {
+        "word": "Candidate Selection",
+        "description": "Candidate selection refers to the process of choosing the most qualified and suitable candidate for a job from the pool of applicants."
+    },
+    {
+        "word": "Employment Benefits",
+        "description": "Employment benefits are non-wage compensations provided by an employer to employees, such as health insurance, retirement plans, and paid time off."
+    },
+    {
+        "word": "Performance Management",
+        "description": "Performance management is the process of setting goals, providing feedback, and evaluating the performance and development of employees."
+    },
+    {
+        "word": "Candidate Pipeline",
+        "description": "A candidate pipeline refers to a pool or database of potential candidates that an organization can draw from for future job openings."
+    },
+    {
+        "word": "Employment Standards",
+        "description": "Employment standards refer to the laws, regulations, and requirements set by the government to protect the rights and interests of employees."
+    },
+    {
+        "word": "On-Demand Staffing",
+        "description": "On-demand staffing refers to the practice of hiring temporary or contingent workers to meet short-term or immediate business needs."
+    },
+    {
+        "word": "Employee Handbook",
+        "description": "An employee handbook is a document that provides employees with information about the organization's policies, procedures, and expectations."
+    }
+]
