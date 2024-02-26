@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Renewable Energy",
+        "description": "Renewable energy refers to energy sources that are replenished naturally and do not deplete finite resources, such as solar, wind, hydro, and geothermal energy."
+    },
+    {
+        "word": "Solar Power",
+        "description": "Solar power is the conversion of energy from sunlight into electricity, either directly using photovoltaics (PV), indirectly using concentrated solar power, or a combination of both."
+    },
+    {
+        "word": "Wind Energy",
+        "description": "Wind energy is the use of air flow through wind turbines to mechanically power generators for electric power."
+    },
+    {
+        "word": "Hydropower",
+        "description": "Hydropower is power derived from the energy of falling or fast-running water, which may be harnessed for useful purposes."
+    },
+    {
+        "word": "Geothermal Energy",
+        "description": "Geothermal energy is heat energy generated and stored beneath the Earth's surface, which can be harnessed for electricity generation or heating."
+    },
+    {
+        "word": "Bioenergy",
+        "description": "Bioenergy is renewable energy derived from biomass, which includes organic materials such as plant matter and animal waste."
+    },
+    {
+        "word": "Energy Efficiency",
+        "description": "Energy efficiency refers to the use of technology and practices that reduce the amount of energy required to perform a specific task or provide a service."
+    },
+    {
+        "word": "Smart Grid",
+        "description": "A smart grid refers to an electricity network that uses digital technology to efficiently monitor, control, and optimize the generation, distribution, and consumption of electricity."
+    },
+    {
+        "word": "Energy Storage",
+        "description": "Energy storage involves the capture and storage of energy produced at one time for use at a later time, enabling more efficient utilization of renewable energy and grid stability."
+    },
+    {
+        "word": "Carbon Capture And Storage",
+        "description": "Carbon capture and storage (CCS) is a process that captures carbon dioxide emissions from industrial sources and stores them underground to mitigate climate change."
+    },
+    {
+        "word": "Circular Economy",
+        "description": "A circular economy is an economic system that aims to eliminate waste and promote the continual use of resources through recycling, reusing, and remanufacturing."
+    },
+    {
+        "word": "Waste-To-Energy",
+        "description": "Waste-to-energy is the process of generating electricity or heat by combusting waste materials, such as municipal solid waste or agricultural residues."
+    },
+    {
+        "word": "Electric Vehicles",
+        "description": "Electric vehicles (EVs) are vehicles that are propelled by one or more electric motors."
+    },
+    {
+        "word": "Smart Buildings",
+        "description": "Smart buildings are buildings that utilize technologies, sensors, and automation to optimize energy consumption, reduce environmental impact, and improve occupant comfort and efficiency."
+    },
+    {
+        "word": "Greenhouse Gas",
+        "description": "Greenhouse gases (GHGs) are gases that trap heat in the Earth's atmosphere, contributing to the greenhouse effect and climate change. Examples include carbon dioxide and methane."
+    },
+    {
+        "word": "Energy Management System",
+        "description": "An energy management system (EMS) is a software-based system that allows organizations to monitor, control, and optimize their energy use, ensuring efficient operation and cost savings."
+    },
+    {
+        "word": "Sustainable Development",
+        "description": "Sustainable development is a concept that aims to meet the needs of the present without compromising the ability of future generations to meet their own needs."
+    },
+    {
+        "word": "Carbon Footprint",
+        "description": "Carbon footprint is the total amount of greenhouse gases, mainly carbon dioxide, emitted directly or indirectly by an individual, organization, event, or product."
+    },
+    {
+        "word": "Climate Change",
+        "description": "Climate change refers to long-term shifts in temperature patterns and weather conditions across the planet, primarily caused by human activities and the accumulation of greenhouse gases in the atmosphere."
+    },
+    {
+        "word": "Net Zero",
+        "description": "Net zero refers to achieving a balance between the amount of greenhouse gases emitted and the amount removed from the atmosphere, resulting in no net increase in the concentration of greenhouse gases."
+    },
+    {
+        "word": "Carbon Neutrality",
+        "description": "Carbon neutrality refers to achieving a net-zero carbon footprint by balancing the amount of emitted carbon dioxide with an equivalent amount removed from the atmosphere."
+    },
+    {
+        "word": "Decentralized Energy",
+        "description": "Decentralized energy refers to the generation of electricity or heat from smaller-scale, local sources, often situated close to the point of consumption, reducing transmission losses and improving grid resilience."
+    },
+    {
+        "word": "Energy Harvesting",
+        "description": "Energy harvesting is the process of capturing and converting ambient energy, such as light, heat, or mechanical vibrations, into usable electrical energy."
+    },
+    {
+        "word": "Demand Response",
+        "description": "Demand response is a strategy to shift or reduce electricity consumption during periods of high demand or when the grid is stressed."
+    },
+    {
+        "word": "Smart Metering",
+        "description": "Smart metering is the measurement and monitoring of energy consumption, often with real-time data, to enable more efficient energy management and billing."
+    },
+    {
+        "word": "Carbon Offsetting",
+        "description": "Carbon offsetting involves compensating for greenhouse gas emissions by funding projects that reduce or remove emissions elsewhere, such as reforestation or renewable energy projects."
+    },
+    {
+        "word": "Environmental Impact Assessment",
+        "description": "Environmental Impact Assessment (EIA) is a process that assesses the potential environmental, social, and economic impacts of a proposed development project or policy, helping inform decision-making."
+    },
+    {
+        "word": "Life Cycle Assessment",
+        "description": "Life cycle assessment (LCA) is a methodology to assess the environmental impacts associated with all stages of a product's life, from raw material extraction to disposal."
+    },
+    {
+        "word": "Eco-Design",
+        "description": "Eco-design, also known as sustainable design, involves the integration of environmental considerations into the design and development of products, aiming to minimize their environmental impact."
+    },
+    {
+        "word": "Green Building",
+        "description": "A green building refers to a structure designed and constructed to have minimal impact on the environment, through energy efficiency, use of sustainable materials, and waste reduction."
+    },
+    {
+        "word": "Net Metering",
+        "description": "Net metering is a billing arrangement that allows customers who generate their own electricity, typically through solar panels, to receive credit for any excess electricity they export to the grid."
+    },
+    {
+        "word": "Carbon Disclosure",
+        "description": "Carbon disclosure refers to the process of measuring and reporting an organization's greenhouse gas emissions and related information."
+    },
+    {
+        "word": "Energy Independence",
+        "description": "Energy independence refers to a state or region's ability to meet its energy needs from domestic or locally available sources, reducing dependency on imported energy and enhancing energy security."
+    },
+    {
+        "word": "Green Chemistry",
+        "description": "Green chemistry, also known as sustainable chemistry, involves the design and development of chemical products and processes that minimize the use and generation of hazardous substances."
+    },
+    {
+        "word": "Carbon Trading",
+        "description": "Carbon trading is a market-based approach to reducing greenhouse gas emissions, allowing organizations to buy and sell carbon credits to meet regulatory requirements or voluntary commitments."
+    },
+    {
+        "word": "Sustainable Transportation",
+        "description": "Sustainable transportation refers to modes of transportation, such as walking, cycling, public transit, and electric vehicles, that have a lower environmental impact and promote energy efficiency."
+    },
+    {
+        "word": "Greenwashing",
+        "description": "Greenwashing refers to the deceptive practice of promoting products, services, or organizations as environmentally friendly or sustainable, without supporting evidence or meaningful action."
+    },
+    {
+        "word": "Smart Cities",
+        "description": "Smart cities use data and technology to improve the efficiency of urban services and enhance the quality of life for their citizens."
+    },
+    {
+        "word": "Carbon Sequestration",
+        "description": "Carbon sequestration is the process of capturing and storing carbon dioxide from the atmosphere, typically underground or in vegetation, to mitigate climate change."
+    },
+    {
+        "word": "Green Infrastructure",
+        "description": "Green infrastructure refers to the network of natural and semi-natural features, such as parks, forests, and wetlands, that provide environmental, social, and economic benefits to communities."
+    },
+    {
+        "word": "Energy Auditing",
+        "description": "Energy auditing is a process to evaluate the energy consumption and efficiency of a building or facility."
+    },
+    {
+        "word": "Zero Waste",
+        "description": "Zero waste is a waste management approach that aims to minimize the amount of waste generated and maximize resource recovery through recycling, composting, and other methods."
+    },
+    {
+        "word": "Sustainability Reporting",
+        "description": "Sustainability reporting is the practice of disclosing an organization's environmental, social, and governance (ESG) performance, helping to inform stakeholders and demonstrate commitment to sustainability."
+    },
+    {
+        "word": "Smart Appliances",
+        "description": "Smart appliances are household appliances that have internet connectivity and can be remotely monitored and controlled."
+    },
+    {
+        "word": "Microgrids",
+        "description": "Microgrids are localized energy systems that can operate independently or in conjunction with the main electrical grid."
+    },
+    {
+        "word": "Green Jobs",
+        "description": "Green jobs are employment opportunities that contribute to the development and implementation of environmentally friendly products, services, or practices, resulting in reduced environmental impact and improved sustainability."
+    },
+    {
+        "word": "Carbon Footprint Reduction",
+        "description": "Carbon footprint reduction refers to the actions and initiatives taken to decrease the amount of greenhouse gases emitted by an individual, organization, or activity."
+    },
+    {
+        "word": "Eco-Friendly",
+        "description": "Eco-friendly, also known as environmentally friendly, refers to products, practices, and policies that are not harmful or damaging to the environment."
+    },
+    {
+        "word": "Environmental Stewardship",
+        "description": "Environmental stewardship is the responsible use and protection of natural resources and ecosystems, minimizing negative impacts and promoting their long-term sustainability."
+    },
+    {
+        "word": "Green Energy",
+        "description": "Green energy, also known as clean energy or sustainable energy, refers to energy generated from renewable and low-carbon sources, such as solar, wind, hydro, and geothermal."
+    },
+    {
+        "word": "Renewable Portfolio Standard",
+        "description": "A renewable portfolio standard (RPS) is a policy that requires utilities to obtain a certain percentage of their electricity from renewable energy sources."
+    },
+    {
+        "word": "Low-Carbon Economy",
+        "description": "A low-carbon economy is an economic model that minimizes the consumption of fossil fuels and reduces greenhouse gas emissions, promoting sustainable growth and the transition to renewable energy sources."
+    },
+    {
+        "word": "Climate Resilience",
+        "description": "Climate resilience refers to the ability of natural and human systems to withstand and recover from the impacts of climate change, reducing vulnerability and adapting to changing conditions."
+    },
+    {
+        "word": "Sustainable Agriculture",
+        "description": "Sustainable agriculture is a farming practice that aims to produce food, fiber, and other plant and animal products in a way that preserves the environment, supports local communities, and maintains the long-term viability of the land."
+    },
+    {
+        "word": "Biomass Energy",
+        "description": "Biomass energy is energy generated from organic material, such as plants, crops, agricultural and forestry waste, and dedicated energy crops, through combustion, fermentation, or other conversion processes."
+    },
+    {
+        "word": "Ocean Energy",
+        "description": "Ocean energy refers to the harnessing of energy from the ocean's waves, tides, currents, and thermal gradients, using various technologies for electricity generation."
+    },
+    {
+        "word": "Greenhouse Gas Emissions",
+        "description": "Greenhouse gas emissions are gases, primarily carbon dioxide, methane, and nitrous oxide, released into the atmosphere, contributing to the greenhouse effect and climate change."
+    },
+    {
+        "word": "Clean Technology",
+        "description": "Clean technology, also known as cleantech, refers to the use of innovative and environmentally friendly products, services, and practices to reduce environmental impact and promote sustainability."
+    },
+    {
+        "word": "Retrofitting",
+        "description": "Retrofitting refers to the process of modifying or adding new features, technologies, or systems to existing buildings, infrastructure, or processes to improve energy efficiency, sustainability, and functionality."
+    },
+    {
+        "word": "Green Supply Chain",
+        "description": "A green supply chain, also known as a sustainable supply chain, is a system that incorporates environmentally friendly practices and principles into the procurement, production, and distribution of goods and services."
+    },
+    {
+        "word": "Climate Action",
+        "description": "Climate action refers to efforts and measures taken to mitigate and adapt to climate change, such as reducing greenhouse gas emissions, advocating for policy changes, and promoting sustainability."
+    },
+    {
+        "word": "Responsible Consumption",
+        "description": "Responsible consumption, also known as sustainable consumption, involves making informed choices and using products and resources in a way that minimizes environmental impact and promotes social well-being."
+    },
+    {
+        "word": "Sustainable Packaging",
+        "description": "Sustainable packaging involves the use of materials and design strategies that minimize environmental impact, reduce waste, and promote recycling or composting."
+    },
+    {
+        "word": "Green Bonds",
+        "description": "Green bonds are fixed-income financial instruments that are used to fund projects with environmental benefits."
+    },
+    {
+        "word": "Climate Mitigation",
+        "description": "Climate mitigation refers to actions and strategies to reduce or prevent greenhouse gas emissions, aiming to minimize the impact of climate change and global warming."
+    },
+    {
+        "word": "Water Conservation",
+        "description": "Water conservation involves the responsible and efficient use of water resources, reducing water waste, and implementing practices and technologies to preserve and protect freshwater ecosystems."
+    },
+    {
+        "word": "Emissions Trading",
+        "description": "Emissions trading, also known as cap-and-trade, is a market-based approach to reducing greenhouse gas emissions, allowing organizations to buy and sell allowances or credits for their emissions."
+    },
+    {
+        "word": "Green Computing",
+        "description": "Green computing, also known as sustainable computing, involves the design, manufacture, use, and disposal of computers and related products in an environmentally friendly manner, reducing energy consumption and electronic waste."
+    },
+    {
+        "word": "Carbon Pricing",
+        "description": "Carbon pricing is a system that places a monetary value on carbon dioxide emissions, either through taxes or a cap-and-trade market, to incentivize emission reductions."
+    },
+    {
+        "word": "Battery Technology",
+        "description": "Battery technology refers to the methods and materials used to store electrical energy in a battery."
+    },
+    {
+        "word": "Clean Water",
+        "description": "Clean water refers to water that is free from pollutants, contaminants, and impurities, making it safe for consumption and use."
+    },
+    {
+        "word": "Waste Management",
+        "description": "Waste management is the process of treating, storing, and disposing of waste materials in a safe and efficient manner."
+    },
+    {
+        "word": "Net Zero Emissions",
+        "description": "Net zero emissions refers to achieving a balance between the amount of greenhouse gases emitted into the atmosphere and the amount removed or offset."
+    },
+    {
+        "word": "Adaptation",
+        "description": "Adaptation refers to actions taken to adjust and respond to the impacts of climate change."
+    },
+    {
+        "word": "Mitigation",
+        "description": "Mitigation refers to actions taken to reduce or prevent greenhouse gas emissions."
+    },
+    {
+        "word": "Emission Standards",
+        "description": "Emission standards are regulations that set limits on the amount of pollutants that can be released into the environment."
+    },
+    {
+        "word": "Offshore Wind",
+        "description": "Offshore wind refers to wind turbines located in bodies of water, typically in the ocean."
+    },
+    {
+        "word": "Smart Home",
+        "description": "A smart home is a residence equipped with devices and systems that can be controlled remotely or automated to optimize energy consumption, enhance security, and improve comfort."
+    },
+    {
+        "word": "Green Hydrogen",
+        "description": "Green hydrogen is hydrogen produced using renewable energy sources, typically through water electrolysis."
+    },
+    {
+        "word": "Smart Meter",
+        "description": "A smart meter is a digital device that measures and records electricity, gas, or water consumption in real time, providing accurate data for billing, monitoring, and efficiency purposes."
+    },
+    {
+        "word": "Grid Integration",
+        "description": "Grid integration refers to the incorporation of renewable energy sources into the existing electricity grid system, ensuring their efficient and reliable integration."
+    },
+    {
+        "word": "Pumped Hydro Storage",
+        "description": "Pumped hydro storage is a method of storing energy by using two water reservoirs at different elevations."
+    },
+    {
+        "word": "Distributed Energy Resources",
+        "description": "Distributed energy resources (DERs) refer to localized generation, storage, and demand management of electricity."
+    },
+    {
+        "word": "Life Cycle Costing",
+        "description": "Life cycle costing is a method to assess the total cost of ownership of a product or system over its entire lifecycle, including acquisition, operation, and disposal."
+    },
+    {
+        "word": "Carbon-Neutral Buildings",
+        "description": "Carbon-neutral buildings are designed, constructed, and operated to have no or minimal carbon emissions during their lifecycle."
+    },
+    {
+        "word": "Biomimicry",
+        "description": "Biomimicry is the practice of imitating natural processes and systems to solve human problems and create sustainable solutions."
+    },
+    {
+        "word": "Building Automation Systems",
+        "description": "Building automation systems (BAS) are centralized, computer-based systems that monitor and control a building's mechanical and electrical systems."
+    },
+    {
+        "word": "Carbon Nanotubes",
+        "description": "Carbon nanotubes are cylindrical carbon molecules with exceptional mechanical, electrical, and thermal properties."
+    },
+    {
+        "word": "Energy Poverty",
+        "description": "Energy poverty is the lack of access to modern energy services, including electricity and clean cooking facilities."
+    },
+    {
+        "word": "Floating Solar",
+        "description": "Floating solar refers to solar photovoltaic systems installed on water bodies, such as lakes, reservoirs, and dams."
+    },
+    {
+        "word": "Hybrid Power Systems",
+        "description": "Hybrid power systems combine two or more renewable energy sources with traditional power generation technologies to provide a more stable and reliable source of electricity."
+    },
+    {
+        "word": "Ocean Power",
+        "description": "Ocean power refers to the harnessing of energy from the ocean, including waves, tides, and thermal gradients."
+    },
+    {
+        "word": "Passive House",
+        "description": "A passive house is a building designed and constructed to achieve high energy efficiency and thermal comfort, with little to no reliance on active heating or cooling systems."
+    },
+    {
+        "word": "Smart Transportation",
+        "description": "Smart transportation refers to the integration of advanced technologies and intelligent systems into transportation infrastructure and vehicles to improve safety, efficiency, and sustainability."
+    },
+    {
+        "word": "Wave Energy",
+        "description": "Wave energy is the capture and conversion of the energy carried by ocean waves into electricity, typically using devices installed offshore."
+    },
+    {
+        "word": "Green Roofs",
+        "description": "Green roofs are rooftops covered with vegetation that help reduce heat loss, improve air quality, and absorb stormwater."
+    },
+    {
+        "word": "Carbon Farming",
+        "description": "Carbon farming involves implementing practices that sequester carbon dioxide and reduce greenhouse gas emissions in agricultural and land management systems."
+    },
+    {
+        "word": "Biofuel",
+        "description": "Biofuel is a type of fuel derived from biomass, such as agricultural crops, residues, or waste materials, which can be used as a renewable alternative to traditional fossil fuels."
+    },
+    {
+        "word": "Hydroelectric Power",
+        "description": "Hydroelectric power refers to electricity generated by harnessing the energy of flowing water, usually from a dam or a river."
+    },
+    {
+        "word": "Photovoltaic",
+        "description": "Photovoltaic (PV) refers to the conversion of sunlight into electricity using solar cells or panels."
+    },
+    {
+        "word": "Wind Turbine",
+        "description": "A wind turbine is a device that converts the kinetic energy of wind into electrical power, consisting of a rotor, generator, and control system."
+    },
+    {
+        "word": "Carbon Neutral",
+        "description": "Carbon neutrality refers to achieving a net-zero carbon footprint by balancing the amount of emitted carbon dioxide with an equivalent amount removed from the atmosphere."
+    },
+    {
+        "word": "Biodiversity",
+        "description": "Biodiversity refers to the variety of plants, animals, and microorganisms in ecosystems, including genetic diversity, species diversity, and ecosystem diversity."
+    },
+    {
+        "word": "Electric Vehicle",
+        "description": "An electric vehicle (EV) is a vehicle that is powered by an electric motor and uses a rechargeable battery or other energy storage device as its primary source of propulsion."
+    },
+    {
+        "word": "Energy Audit",
+        "description": "An energy audit is a systematic process conducted to assess the energy use and efficiency of a building, facility, or industrial process, identifying opportunities for improvement."
+    },
+    {
+        "word": "Greenhouse Effect",
+        "description": "The greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap heat, resulting in the warming of the planet's surface and lower atmosphere."
+    },
+    {
+        "word": "Sustainability",
+        "description": "Sustainability refers to the practice of using resources in a way that meets current needs without compromising the ability of future generations to meet their own needs."
+    },
+    {
+        "word": "Emission Reduction",
+        "description": "Emission reduction refers to actions taken to reduce the amount of greenhouse gas emissions released into the atmosphere, helping mitigate climate change and air pollution."
+    },
+    {
+        "word": "Hybrid Vehicle",
+        "description": "A hybrid vehicle combines a conventional internal combustion engine propulsion system with an electric propulsion system, resulting in improved fuel efficiency and reduced emissions."
+    },
+    {
+        "word": "Distributed Generation",
+        "description": "Distributed generation refers to the production of electricity from decentralized, smaller-scale power sources located near the point of consumption, reducing transmission losses and improving grid stability."
+    },
+    {
+        "word": "Offshore Wind Farm",
+        "description": "An offshore wind farm is a collection of wind turbines installed in a body of water, typically the ocean, to harness the energy of strong and consistent offshore winds for electricity generation."
+    },
+    {
+        "word": "Green Bond",
+        "description": "A green bond is a financial instrument issued to raise capital for projects and activities that have positive environmental or climate benefits, such as renewable energy projects or energy-efficient buildings."
+    },
+    {
+        "word": "Smart City",
+        "description": "A smart city is an urban area that uses digital technology and data to improve the efficiency of urban services, enhance sustainability, and improve the quality of life for its residents."
+    },
+    {
+        "word": "Green Technology",
+        "description": "Green technology, also known as clean technology, refers to the use of innovative and environmentally friendly products, services, and practices to reduce environmental impact and promote sustainability."
+    },
+    {
+        "word": "Carbon Disclosure Project",
+        "description": "The Carbon Disclosure Project (CDP) is a global initiative that encourages companies, cities, and regions to measure, manage, and disclose their environmental impact, including carbon emissions and climate-related risks."
+    },
+    {
+        "word": "Lifecycle Assessment",
+        "description": "Lifecycle assessment (LCA) is a methodology that evaluates the environmental impacts of a product, process, or service throughout its entire lifecycle, from extraction of raw materials to disposal."
+    },
+    {
+        "word": "Carbon Offset",
+        "description": "A carbon offset is a unit of greenhouse gas reduction or removal, typically measured in metric tons of carbon dioxide equivalent, used to compensate for emissions produced elsewhere."
+    },
+    {
+        "word": "Net Zero Energy",
+        "description": "Net zero energy refers to a building or community that produces as much energy as it consumes on an annual basis, often achieved through a combination of energy efficiency measures and onsite renewable energy generation."
+    },
+    {
+        "word": "Energy Recovery",
+        "description": "Energy recovery refers to the conversion and utilization of waste heat or energy that would otherwise be lost, improving overall energy efficiency and reducing environmental impact."
+    },
+    {
+        "word": "Environmental Sustainability",
+        "description": "Environmental sustainability refers to the responsible and balanced use of natural resources and ecosystems to meet current needs without compromising the ability of future generations to meet their own needs."
+    },
+    {
+        "word": "Climate Adaptation",
+        "description": "Climate adaptation refers to the process of adjusting and preparing for changing climate conditions, such as extreme weather events and sea-level rise, to reduce vulnerability and build resilience."
+    },
+    {
+        "word": "Recycling",
+        "description": "Recycling is the process of converting waste materials into reusable materials to prevent them from being deposited in landfills or incinerated, conserving resources and reducing environmental pollution."
+    },
+    {
+        "word": "Carbon Capture",
+        "description": "Carbon capture is a process that captures carbon dioxide emissions from industrial sources, such as power plants or factories, to prevent their release into the atmosphere and mitigate climate change."
+    },
+    {
+        "word": "Clean Energy",
+        "description": "Clean energy refers to energy generated from renewable sources, such as solar, wind, hydro, and geothermal energy, as well as from nuclear power with advanced safety features and waste management practices."
+    }
+]
