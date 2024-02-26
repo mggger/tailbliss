@@ -1,0 +1,494 @@
+[
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field of study that focuses on enabling computers to understand and interpret visual information from digital images or videos."
+    },
+    {
+        "word": "Image Classification",
+        "description": "Image Classification is a task in Computer Vision that involves assigning a label or category to an input image based on its content or characteristics."
+    },
+    {
+        "word": "Object Detection",
+        "description": "Object Detection is a task in Computer Vision that involves identifying and localizing objects within an image or video."
+    },
+    {
+        "word": "Semantic Segmentation",
+        "description": "Semantic Segmentation is the process of partitioning an image into different regions or segments based on their semantic meaning."
+    },
+    {
+        "word": "Instance Segmentation",
+        "description": "Instance Segmentation is a more advanced form of image segmentation that involves not only segmenting objects but also distinguishing between individual instances of the same object class."
+    },
+    {
+        "word": "Object Tracking",
+        "description": "Object Tracking is the process of following and monitoring the movement of an object or person in a sequence of images or video frames."
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "Feature Extraction is the process of transforming raw data, such as images, into a representation that captures important or meaningful information."
+    },
+    {
+        "word": "Feature Matching",
+        "description": "Feature Matching is a process in Computer Vision that involves comparing and matching features or keypoints between images."
+    },
+    {
+        "word": "Image Registration",
+        "description": "Image Registration is the process of aligning or transforming different images of the same scene to a common coordinate system."
+    },
+    {
+        "word": "Object Recognition",
+        "description": "Object Recognition is the task of identifying and classifying specific objects or instances within an image or video."
+    },
+    {
+        "word": "Image Segmentation",
+        "description": "Image Segmentation is the process of partitioning an image into multiple meaningful segments or regions."
+    },
+    {
+        "word": "Depth Estimation",
+        "description": "Depth Estimation is the task of estimating the 3D depth information of a scene or object from a 2D image or video."
+    },
+    {
+        "word": "Human Pose Estimation",
+        "description": "Human Pose Estimation is the task of estimating the pose or body keypoint locations of a person within an image or video."
+    },
+    {
+        "word": "Image Super-Resolution",
+        "description": "Image Super-Resolution is the process of generating a high-resolution image from a low-resolution input image."
+    },
+    {
+        "word": "Image Denoising",
+        "description": "Image Denoising is the process of removing noise or undesirable artifacts from an image."
+    },
+    {
+        "word": "Image Inpainting",
+        "description": "Image Inpainting is the task of filling in missing or corrupted parts of an image with plausible content."
+    },
+    {
+        "word": "Image Enhancement",
+        "description": "Image Enhancement refers to techniques used to improve the quality or visual appearance of an image."
+    },
+    {
+        "word": "Visual Search",
+        "description": "Visual Search is a process that allows users to search through large image databases using images as queries, instead of text-based search terms."
+    },
+    {
+        "word": "Facial Recognition",
+        "description": "Facial Recognition is a technology that uses computer algorithms to identify and verify individuals based on their facial features."
+    },
+    {
+        "word": "Image Annotation",
+        "description": "Image Annotation refers to the process of labeling or tagging images with metadata, such as object bounding boxes, segmentation masks, or descriptive labels, to enable supervised learning or analysis."
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation is a technique used to artificially increase the size or diversity of a training dataset by applying various transformations or modifications to the existing data."
+    },
+    {
+        "word": "Convolutional Neural Networks",
+        "description": "Convolutional Neural Networks (CNNs) are deep learning models specifically designed to process and analyze visual data, often used in computer vision tasks."
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "Transfer Learning is a technique in Machine Learning where pre-trained models or knowledge from one task or domain is applied to a different but related task or domain."
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) are deep learning models that consist of two neural networks, a generator and a discriminator, working together to generate realistic synthetic data."
+    },
+    {
+        "word": "Image Reconstruction",
+        "description": "Image Reconstruction is the process of creating a high-quality image from limited or incomplete image data, often used in medical imaging or remote sensing applications."
+    },
+    {
+        "word": "Camera Calibration",
+        "description": "Camera Calibration is the process of estimating the parameters and intrinsic properties of a camera to enable accurate 3D reconstruction or measurement."
+    },
+    {
+        "word": "Stereo Vision",
+        "description": "Stereo Vision is a technique that uses two or more images taken from different perspectives to estimate depth and 3D information."
+    },
+    {
+        "word": "Optical Flow",
+        "description": "Optical Flow is the pattern of apparent motion of objects, surfaces, and edges within a sequence of images or video frames."
+    },
+    {
+        "word": "Edge Detection",
+        "description": "Edge Detection is a process in Computer Vision that involves identifying the boundaries or edges of objects within an image."
+    },
+    {
+        "word": "Corner Detection",
+        "description": "Corner Detection is a process in Computer Vision that involves identifying and localizing the corners or points of interest within an image."
+    },
+    {
+        "word": "Histogram Equalization",
+        "description": "Histogram Equalization is a technique used to enhance the contrast and dynamic range of an image by redistributing its pixel intensities."
+    },
+    {
+        "word": "Image Morphing",
+        "description": "Image Morphing is the process of smoothly transforming one image into another by creating a sequence of intermediate frames."
+    },
+    {
+        "word": "Texture Analysis",
+        "description": "Texture Analysis is the process of characterizing and describing the texture patterns within an image."
+    },
+    {
+        "word": "Pose Estimation",
+        "description": "Pose Estimation is the task of estimating the pose, position, and orientation of an object or person within an image or video."
+    },
+    {
+        "word": "Camera Pose Estimation",
+        "description": "Camera Pose Estimation is the task of determining the 3D position and orientation of a camera relative to the observed scene, often used in augmented reality or robotics applications."
+    },
+    {
+        "word": "Video Summarization",
+        "description": "Video Summarization is the process of generating a concise summary or representation of a long video sequence, often by selecting keyframes or extracting important events."
+    },
+    {
+        "word": "Video Compression",
+        "description": "Video Compression refers to the process of reducing the size or data rate of a video while maintaining an acceptable level of visual quality, often used for efficient storage or transmission."
+    },
+    {
+        "word": "Video Stabilization",
+        "description": "Video Stabilization is the process of removing unwanted camera motion or shake from a video sequence, resulting in a smoother and more stable video output."
+    },
+    {
+        "word": "Image-Based Rendering",
+        "description": "Image-Based Rendering (IBR) is a technique that generates new views of a scene or object based on a set of input images, enabling 3D reconstruction or view synthesis."
+    },
+    {
+        "word": "Keypoint Detection",
+        "description": "Keypoint Detection is the process of identifying and localizing specific interest points or keypoints within an image."
+    },
+    {
+        "word": "Visual Object Tracking",
+        "description": "Visual Object Tracking is the task of following or tracking an object of interest within a video sequence, often in the presence of occlusions, scale changes, or viewpoint variations."
+    },
+    {
+        "word": "Biometrics",
+        "description": "Biometrics refers to the measurement and analysis of unique physical or behavioral characteristics of individuals, often used for identification purposes."
+    },
+    {
+        "word": "Saliency Detection",
+        "description": "Saliency Detection is the process of identifying the most visually distinctive regions or objects within an image or scene."
+    },
+    {
+        "word": "Robot Vision",
+        "description": "Robot Vision is a subfield of computer vision that focuses on enabling robots to perceive, understand, and interact with their environment using visual information."
+    },
+    {
+        "word": "Pattern Recognition",
+        "description": "Pattern Recognition is the task of identifying and classifying patterns or regularities within data, often used in computer vision for object recognition or image analysis."
+    },
+    {
+        "word": "Motion Detection",
+        "description": "Motion Detection is the process of detecting and tracking the movement of objects within a video sequence, often used for surveillance or activity recognition."
+    },
+    {
+        "word": "Foreground Segmentation",
+        "description": "Foreground Segmentation is the process of separating the foreground objects from the background in an image or video."
+    },
+    {
+        "word": "Video Object Detection",
+        "description": "Video Object Detection is the task of detecting and localizing objects of interest within a video sequence, often in real-time or near-real-time scenarios."
+    },
+    {
+        "word": "Real-Time Tracking",
+        "description": "Real-Time Tracking is the process of continuously and accurately tracking the movement of objects within a video sequence in real-time."
+    },
+    {
+        "word": "Visual Odometry",
+        "description": "Visual Odometry is the process of estimating the trajectory or motion of a camera based on the analysis of input video sequences."
+    },
+    {
+        "word": "Image-Based Localization",
+        "description": "Image-Based Localization is the task of estimating the position and orientation of a camera or robot within an environment using visual information acquired from images, often used for tasks such as autonomous navigation or augmented reality."
+    },
+    {
+        "word": "Data Labeling",
+        "description": "Data Labeling is the process of assigning annotations or labels to data, such as images or videos, to create training or validation datasets for machine learning models."
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "Model Evaluation is the process of assessing the performance or accuracy of a trained machine learning model using various metrics or evaluation criteria."
+    },
+    {
+        "word": "Image Processing",
+        "description": "Image Processing refers to the techniques used to enhance, analyze, or modify images using mathematical operations."
+    },
+    {
+        "word": "Classification",
+        "description": "Classification is the process of categorizing input data into predefined classes or categories based on their features or characteristics."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subfield of Machine Learning that focuses on training artificial neural networks with multiple layers to learn and extract features from data."
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "A Convolutional Neural Network (CNN) is a type of neural network designed for processing and analyzing visual data, particularly images."
+    },
+    {
+        "word": "Feature Detection",
+        "description": "Feature Detection is the process of identifying specific structures or patterns within an image, such as edges or corners."
+    },
+    {
+        "word": "Optical Character Recognition",
+        "description": "Optical Character Recognition (OCR) is the technology used to extract text from images or scanned documents and convert it into editable and searchable text."
+    },
+    {
+        "word": "Motion Tracking",
+        "description": "Motion Tracking involves analyzing image sequences to track the movement of objects or capture the motion of the camera itself."
+    },
+    {
+        "word": "Image Recognition",
+        "description": "Image Recognition is the ability of a computer system to identify and classify objects or patterns within digital images."
+    },
+    {
+        "word": "Instance Recognition",
+        "description": "Instance Recognition is the task of recognizing and identifying instances of objects within an image, often involving identifying their location, pose, and instance-specific information."
+    },
+    {
+        "word": "Image Stitching",
+        "description": "Image Stitching is the process of combining multiple images with overlapping fields of view to create a larger composite image."
+    },
+    {
+        "word": "Deep Neural Networks",
+        "description": "Deep Neural Networks are complex artificial neural networks with multiple hidden layers, designed to learn and handle more complex patterns and abstractions."
+    },
+    {
+        "word": "Generative Adversarial Network",
+        "description": "A Generative Adversarial Network (GAN) is a type of deep learning architecture consisting of two neural networks, a generator and a discriminator, trained in an adversarial manner to generate realistic data."
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "Gesture Recognition is the process of interpreting and understanding human gestures, such as hand movements or body postures, using computer vision techniques."
+    },
+    {
+        "word": "Object Segmentation",
+        "description": "Object Segmentation is the process of partitioning an image into distinct regions or segments, with each segment representing a separate object or region of interest."
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection is the process of identifying and flagging patterns or instances that deviate significantly from the expected behavior."
+    },
+    {
+        "word": "Motion Estimation",
+        "description": "Motion Estimation is the process of estimating the motion between consecutive frames in a video sequence, which can be used for tasks such as video compression, object tracking, or video stabilization."
+    },
+    {
+        "word": "Foreground Detection",
+        "description": "Foreground Detection, also known as Background Subtraction, is a technique used to separate the foreground objects from the static or dynamic background in a video or image sequence."
+    },
+    {
+        "word": "Image Retrieval",
+        "description": "Image Retrieval is the task of retrieving images from a large image database that are similar or relevant to a given query image based on their visual content."
+    },
+    {
+        "word": "Semantic Understanding",
+        "description": "Semantic Understanding involves extracting higher-level meaning or understanding from visual data, going beyond low-level feature extraction or pattern recognition."
+    },
+    {
+        "word": "Matched Filtering",
+        "description": "Matched Filtering is a signal processing technique used in image processing to enhance the detection of specific patterns or features in an image by filtering it with a template or matching filter."
+    },
+    {
+        "word": "Superpixel Segmentation",
+        "description": "Superpixel Segmentation is a technique that groups pixels together into perceptually meaningful and coherent regions, often used as a preprocessing step for various computer vision tasks."
+    },
+    {
+        "word": "Depth Map",
+        "description": "A Depth Map is a 2D representation of the distance or depth information of a scene, usually generated by stereo vision or depth estimation algorithms."
+    },
+    {
+        "word": "Image Recognition System",
+        "description": "An Image Recognition System is a computer vision system designed to recognize and identify objects, patterns, or features within images, often used for various applications such as surveillance, quality control, or autonomous navigation."
+    },
+    {
+        "word": "Spatial Filtering",
+        "description": "Spatial Filtering is a type of image filtering performed on a pixel-by-pixel basis using a neighborhood of pixels to produce a new output image, often used for tasks such as noise reduction, edge enhancement, or feature extraction."
+    },
+    {
+        "word": "Image Restoration",
+        "description": "Image Restoration involves the process of improving the visual quality of a degraded or corrupted image, typically through techniques such as denoising, deblurring, or inpainting."
+    },
+    {
+        "word": "Image-Based Modeling",
+        "description": "Image-Based Modeling is a technique that reconstructs 3D models of objects or scenes from a set of 2D images, enabling applications such as virtual reality, augmented reality, or 3D visualization."
+    },
+    {
+        "word": "Image Segmentation Evaluation",
+        "description": "Image Segmentation Evaluation involves assessing the quality and accuracy of an image segmentation algorithm by comparing the generated segmentation results with ground truth annotations or manual labels."
+    },
+    {
+        "word": "Edge Enhancement",
+        "description": "Edge Enhancement is a technique used to enhance the visibility and emphasis of edges within an image."
+    },
+    {
+        "word": "Image Compression",
+        "description": "Image Compression refers to techniques used to reduce the file size of an image while maintaining an acceptable level of visual quality."
+    },
+    {
+        "word": "Real-Time Object Detection",
+        "description": "Real-Time Object Detection is the task of detecting and recognizing objects within a video or image stream in real-time, often used in applications such as autonomous driving, robotics, or surveillance systems."
+    },
+    {
+        "word": "Feature Descriptor",
+        "description": "A Feature Descriptor is a compact representation of a keypoint or local feature within an image, typically used for tasks such as feature matching, image registration, or object recognition."
+    },
+    {
+        "word": "Foreground Estimation",
+        "description": "Foreground Estimation is the task of estimating the foreground pixels or regions within an image or video, often used for tasks such as background subtraction, object tracking, or surveillance."
+    },
+    {
+        "word": "Biometric Identification",
+        "description": "Biometric Identification is the process of recognizing individuals based on their unique physical or behavioral characteristics, such as fingerprints, iris patterns, or gait analysis, often used for security or access control systems."
+    },
+    {
+        "word": "Image Segmentation Algorithms",
+        "description": "Image Segmentation Algorithms are computational methods or techniques used to partition an image into meaningful regions or segments based on certain criteria, such as intensity, color, texture, or motion."
+    },
+    {
+        "word": "Visual Saliency",
+        "description": "Visual Saliency refers to the conspicuousness or importance of regions or objects within an image that draw the attention of human observers, often used for tasks such as image quality assessment, object recognition, or video summarization."
+    },
+    {
+        "word": "Structured Light",
+        "description": "Structured Light is a technique that projects a pattern of known geometric shapes or illumination onto a scene or object to enable accurate 3D reconstruction or depth estimation."
+    },
+    {
+        "word": "Texture Synthesis",
+        "description": "Texture Synthesis is the process of generating new textures that are similar to a given sample texture, often used for tasks such as texture analysis, image editing, or computer graphics."
+    },
+    {
+        "word": "Shadow Detection",
+        "description": "Shadow Detection is the task of identifying and distinguishing between shadow regions and non-shadow regions within an image or video, often used for various applications such as object recognition, scene understanding, or autonomous navigation."
+    },
+    {
+        "word": "Image-Based Lighting",
+        "description": "Image-Based Lighting is a technique that uses high-dynamic-range (HDR) images to accurately capture and represent the lighting information of a real-world scene, enabling realistic rendering and illumination of computer-generated objects within that scene."
+    },
+    {
+        "word": "Image Synthesis",
+        "description": "Image Synthesis is the process of generating new images that are realistic or visually consistent with a given set of input images or desired properties, often used in computer graphics, virtual reality, or data augmentation for deep learning."
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "A Convolutional Neural Network (CNN) is a type of deep neural network commonly used in Computer Vision tasks, specifically designed to process grid-like data such as images."
+    },
+    {
+        "word": "Optical Character Recognition (Ocr)",
+        "description": "Optical Character Recognition (OCR) is the technology used to convert images of text into machine-readable text."
+    },
+    {
+        "word": "Super-Resolution",
+        "description": "Super-Resolution is the process of enhancing or increasing the resolution of an image beyond its original quality."
+    },
+    {
+        "word": "Histogram Of Oriented Gradients (Hog)",
+        "description": "Histogram of Oriented Gradients (HOG) is a feature descriptor commonly used in object detection and recognition, extracting information about local object shape and appearance."
+    },
+    {
+        "word": "Background Subtraction",
+        "description": "Background Subtraction is a process in Computer Vision that involves isolating and extracting the foreground objects or regions from a video or image sequence."
+    },
+    {
+        "word": "Heatmap",
+        "description": "A Heatmap is a visualization technique that uses color coding to represent the intensity or density of information within an image."
+    },
+    {
+        "word": "Semantic Feature Extraction",
+        "description": "Semantic Feature Extraction is the process of extracting high-level semantic or meaningful features from images."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a type of Machine Learning where the algorithms learn patterns and relationships in data without labeled or annotated examples."
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning is a type of Machine Learning where the algorithms learn patterns and relationships using labeled or annotated examples."
+    },
+    {
+        "word": "Fine-Tuning",
+        "description": "Fine-tuning is a process in Transfer Learning where a pre-trained model is further trained or adapted on a specific task or dataset."
+    },
+    {
+        "word": "Generative Adversarial Networks (Gans)",
+        "description": "Generative Adversarial Networks (GANs) are a class of deep learning models that consist of a generator and discriminator network to generate new data samples."
+    },
+    {
+        "word": "Recurrent Neural Networks (Rnns)",
+        "description": "Recurrent Neural Networks (RNNs) are a type of artificial neural network designed for sequence data processing, applying the same set of weights recursively at each step."
+    },
+    {
+        "word": "Video Surveillance",
+        "description": "Video Surveillance is the use of video cameras to monitor and record activities in specific areas or premises."
+    },
+    {
+        "word": "Keypoint Description",
+        "description": "Keypoint Description is the process of generating a compact and discriminative descriptor for specific keypoints within an image."
+    },
+    {
+        "word": "Data Annotation",
+        "description": "Data Annotation is the process of labeling or tagging data with metadata or ground truth information for training and evaluation purposes."
+    },
+    {
+        "word": "Artificial Neural Networks (Anns)",
+        "description": "Artificial Neural Networks (ANNs) are computational models inspired by the biological neural networks in the human brain, used for solving complex tasks."
+    },
+    {
+        "word": "Bag-Of-Words (Bow)",
+        "description": "Bag-of-Words (BoW) is a popular feature representation technique in natural language processing and computer vision, treating texts or images as unordered collections of features."
+    },
+    {
+        "word": "Mean-Shift",
+        "description": "Mean-Shift is an iterative algorithm used for finding the modes or peaks in a probability density function, often applied to image segmentation and tracking."
+    },
+    {
+        "word": "Region Of Interest (Roi)",
+        "description": "Region of Interest (ROI) refers to a specific area or portion within an image or video frame that is of particular interest for analysis or processing."
+    },
+    {
+        "word": "Scale-Invariant Feature Transform (Sift)",
+        "description": "Scale-Invariant Feature Transform (SIFT) is a popular feature detection and description technique that detects and describes local features in an image, invariant to scale and rotation."
+    },
+    {
+        "word": "Speeded Up Robust Features (Surf)",
+        "description": "Speeded Up Robust Features (SURF) is a feature detection and description technique that detects and describes local features in an image, designed to be more efficient than SIFT."
+    },
+    {
+        "word": "Mean Average Precision (Map)",
+        "description": "Mean Average Precision (mAP) is a common evaluation metric used to assess the performance of object detection and recognition algorithms."
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a performance metric used to measure the proportion of correctly predicted positive instances out of the total predicted positive instances."
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a performance metric used to measure the proportion of correctly predicted positive instances out of the total number of actual positive instances."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting is a phenomenon in machine learning where a model performs well on the training data but fails to generalize and perform well on new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting is a phenomenon in machine learning where a model is too simple or lacks the capacity to capture the underlying structure of the data, resulting in poor performance."
+    },
+    {
+        "word": "Activation Function",
+        "description": "An Activation Function is a mathematical function applied to the output of a neuron in an artificial neural network, introducing non-linearities and enabling the network to learn complex mappings."
+    },
+    {
+        "word": "Loss Function",
+        "description": "A Loss Function, also known as a cost function or objective function, measures the discrepancy or error between the predicted output of a model and the true target output during training."
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation is an algorithm used in training artificial neural networks, where the gradients of the loss function with respect to the network's parameters are recursively computed and used to update the weights."
+    },
+    {
+        "word": "Pooling",
+        "description": "Pooling is a technique in Convolutional Neural Networks (CNNs) that reduces the spatial dimensions of feature maps, reducing the computational complexity and making the network more robust to spatial variations."
+    }
+]
