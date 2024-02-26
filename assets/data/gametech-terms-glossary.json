@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Gamification",
+        "description": "Gamification is the application of game design elements and principles in non-game contexts to enhance engagement and motivation."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) refers to the use of computer technology to create a simulated environment that can be similar to or completely different from the real world."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or data, onto the real  world, enhancing the user's perception and interaction with their environment."
+    },
+    {
+        "word": "Game Engine",
+        "description": "A Game Engine is a software framework that developers use to build and create video games."
+    },
+    {
+        "word": "Physics Engine",
+        "description": "A Physics Engine is a software component that simulates physics interactions within a game world."
+    },
+    {
+        "word": "Asset Pipeline",
+        "description": "An asset pipeline is a system or process used in game development to manage and optimize the workflow for creating, organizing, and importing game assets, such as 3D models, textures, and sounds."
+    },
+    {
+        "word": "Level Design",
+        "description": "Level Design is the process of creating the layouts, environments, and challenges within a game's levels or stages."
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) refers to the visual elements and controls that allow users to interact with a game."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) encompasses the overall experience a user has while interacting with a game."
+    },
+    {
+        "word": "Gameplay",
+        "description": "Gameplay refers to the specific interactions and mechanics that define how a game is played."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Procedural Generation",
+        "description": "Procedural Generation is a technique used to create content or levels algorithmically, rather than manually."
+    },
+    {
+        "word": "Game Balance",
+        "description": "Game balance refers to the intentional design and tuning of a game to ensure fair and enjoyable gameplay, where no single strategy or player has a significant advantage."
+    },
+    {
+        "word": "Multiplayer",
+        "description": "Multiplayer refers to the ability for multiple players to play a game together, either cooperatively or competitively, using network connectivity."
+    },
+    {
+        "word": "Loot Box",
+        "description": "A loot box is a virtual item in a game that can be purchased or earned and contains randomized virtual items, such as weapons, skins, or boosts, creating an element of chance or surprise."
+    },
+    {
+        "word": "Achievements",
+        "description": "Achievements are virtual rewards or recognition given to players for completing specific tasks, goals, or challenges within a game, often providing additional goals and motivations."
+    },
+    {
+        "word": "Microtransactions",
+        "description": "Microtransactions are small purchases made within a game, usually for virtual goods or additional content."
+    },
+    {
+        "word": "Game Testing",
+        "description": "Game Testing involves the evaluation and verification of a game's functionality, performance, and quality."
+    },
+    {
+        "word": "Localization",
+        "description": "Localization is the process of adapting a game to be suitable for different languages, cultures, and regions."
+    },
+    {
+        "word": "E-Sports",
+        "description": "E-sports, or electronic sports, refers to competitive video game tournaments or organized leagues where professional players or teams compete for prizes and recognition."
+    },
+    {
+        "word": "Streaming",
+        "description": "Streaming is the act of broadcasting gameplay or live video of games over the internet, allowing viewers to watch the game being played in real-time."
+    },
+    {
+        "word": "Mods",
+        "description": "Mods, short for modifications, are user-created content or alterations made to a game, often providing new features, levels, or assets to enhance or modify the original game."
+    },
+    {
+        "word": "Cloud Gaming",
+        "description": "Cloud Gaming allows users to play games remotely on servers, which stream the gameplay to their devices."
+    },
+    {
+        "word": "Game Jam",
+        "description": "A game jam is a gathering of game developers, usually held in a limited amount of time, where participants create and develop games based on a specific theme or set of constraints."
+    },
+    {
+        "word": "F2P",
+        "description": "F2P stands for Free-to-Play, a business model in which a game is available to play at no cost, but may offer in-game purchases or advertisements to generate revenue."
+    },
+    {
+        "word": "Monetization",
+        "description": "Monetization refers to the process of generating revenue from a game, often through in-app purchases, advertising, or subscriptions."
+    },
+    {
+        "word": "Game Design Document (Gdd)",
+        "description": "A Game Design Document (GDD) is a written document that outlines the concept, features, mechanics, and specifications of a video game, serving as a blueprint for the development team."
+    },
+    {
+        "word": "Playable Prototype",
+        "description": "A playable prototype is an early version of a game that has enough functionality and content to be played and tested, providing a tangible experience of the game's core mechanics."
+    },
+    {
+        "word": "Gamemaster (Gm)",
+        "description": "A gamemaster (GM) is a person who oversees and facilitates a role-playing or tabletop game, guiding the game's narrative, enforcing rules, and portraying non-player characters."
+    },
+    {
+        "word": "Open World",
+        "description": "Open World games allow players to freely explore a virtual world without strict linear progression."
+    },
+    {
+        "word": "Respawn",
+        "description": "Respawn is the act of a player returning to the game after being defeated or killed, often with a new set of resources, in a multiplayer or respawn-based game."
+    },
+    {
+        "word": "Storytelling",
+        "description": "Storytelling in games refers to the use of narrative techniques, plots, and character development to engage players and provide a cohesive and immersive experience."
+    },
+    {
+        "word": "Character Customization",
+        "description": "Character customization refers to the ability for players to personalize their in-game characters' appearance, traits, abilities, and equipment."
+    },
+    {
+        "word": "Persistent World",
+        "description": "A persistent world is an online game environment that continues to exist and evolve even when players are not actively participating, allowing for ongoing exploration and interaction."
+    },
+    {
+        "word": "Rpg",
+        "description": "RPG stands for Role-Playing Game, a genre of video games where players assume the roles of characters and engage in quests, battles, and immersive narratives."
+    },
+    {
+        "word": "Pvp",
+        "description": "PvP stands for Player versus Player, referring to gameplay or game modes where players directly compete or battle against each other."
+    },
+    {
+        "word": "Pve",
+        "description": "PvE stands for Player versus Environment, referring to gameplay or game modes where players cooperate to battle against computer-controlled enemies or complete objectives."
+    },
+    {
+        "word": "Hud",
+        "description": "HUD stands for Heads-Up Display, which is the visual interface or overlay in a game that displays important information, such as health, score, and ammunition, directly in the player's view."
+    },
+    {
+        "word": "Sound Design",
+        "description": "Sound Design involves creating and implementing the audio elements of a game, including music, sound effects, and voice acting."
+    },
+    {
+        "word": "Animation",
+        "description": "Animation in games refers to the process of creating and rendering visual movements and actions for characters, objects, or environmental effects to bring them to life."
+    },
+    {
+        "word": "Art Style",
+        "description": "Art style in games refers to the visual aesthetic, design choices, and overall artistic direction used to create the game's graphics and visual elements."
+    },
+    {
+        "word": "Cutscene",
+        "description": "A cutscene is a non-interactive cinematic sequence or video in a game that advances the story, reveals information, or provides visual storytelling."
+    },
+    {
+        "word": "Modding Tools",
+        "description": "Modding tools are software or programs that enable players or game developers to modify or create custom content for a game, such as new levels, characters, or assets."
+    },
+    {
+        "word": "Pathfinding",
+        "description": "Pathfinding is the algorithmic process in games that determines an optimal path or route for a character or object to navigate obstacles or reach a specific destination."
+    },
+    {
+        "word": "Shader",
+        "description": "A shader is a program or script used in games to control the rendering and visual effects of objects, surfaces, or environments, enhancing the game's graphics and realism."
+    },
+    {
+        "word": "Twitch",
+        "description": "Twitch is a popular streaming platform primarily focused on video game live streaming."
+    },
+    {
+        "word": "Gamepad",
+        "description": "A gamepad, also known as a controller, is a handheld device with buttons, thumbsticks, and triggers, used to play games on consoles or computers."
+    },
+    {
+        "word": "Asset Store",
+        "description": "An asset store is an online marketplace or platform where game developers can browse, purchase, or download pre-made game assets, such as 3D models, textures, or sound effects."
+    },
+    {
+        "word": "Platformer",
+        "description": "A platformer is a genre of video games where players control a character that must navigate levels by jumping and overcoming obstacles on various platforms."
+    },
+    {
+        "word": "Stealth",
+        "description": "Stealth gameplay or mechanics in games focus on avoiding detection or confrontation, requiring players to use stealthy tactics, concealment, and evasion to progress."
+    },
+    {
+        "word": "Controller Support",
+        "description": "Controller support in games refers to the functionality and compatibility of game inputs with various gamepad controllers, ensuring smooth and intuitive control for players."
+    },
+    {
+        "word": "Motion Capture",
+        "description": "Motion capture, or mocap, is the process of recording and digitizing real-world movements of actors or objects to animate characters or objects in a game."
+    },
+    {
+        "word": "Playable Character",
+        "description": "A playable character is a character or avatar that a player controls and directly interacts with in a game, usually representing themselves or a specific role within the game world."
+    },
+    {
+        "word": "Leaderboards",
+        "description": "Leaderboards are in-game ranking systems that display and compare the scores or achievements of players, providing competition and motivation."
+    },
+    {
+        "word": "Quick Time Events (Qte)",
+        "description": "Quick Time Events (QTEs) are gameplay segments or actions in games where players must press specific buttons or perform timed inputs to successfully complete the sequence."
+    },
+    {
+        "word": "Ragdoll Physics",
+        "description": "Ragdoll physics in games refers to a simulation technique where characters or objects have dynamically animated limbs or body parts that react to physical forces, creating more realistic and interactive animations."
+    },
+    {
+        "word": "Level Editor",
+        "description": "A level editor is a tool or software that allows game designers or players to create and design game levels or environments, often providing a graphical interface and object placement features."
+    },
+    {
+        "word": "Dlc",
+        "description": "DLC stands for Downloadable Content, referring to additional content, features, or expansions that can be downloaded and added to a base game, often providing new experiences, levels, or items."
+    },
+    {
+        "word": "Game Analyst",
+        "description": "A game analyst is a professional who analyzes and studies player behavior, game data, and market trends to provide insights and recommendations for game improvements, monetization, and player engagement strategies."
+    },
+    {
+        "word": "Game Monetization",
+        "description": "Game monetization refers to the methods and strategies used to generate revenue from a game, such as in-app purchases, subscription models, advertisements, or downloadable content."
+    },
+    {
+        "word": "Inventory System",
+        "description": "An inventory system in games is a feature or component that allows players to manage and keep track of their owned items, equipment, resources, or collectibles within the game world."
+    },
+    {
+        "word": "High Score",
+        "description": "A high score is the highest achieved score in a game or game mode, often recorded and displayed to encourage competition and challenge players to achieve a higher score."
+    },
+    {
+        "word": "Pixel Art",
+        "description": "Pixel art is a style of digital art or graphics where images are created or manipulated at the pixel level, often using limited color palettes and a retro aesthetic reminiscent of early video games."
+    },
+    {
+        "word": "Random Number Generator (Rng)",
+        "description": "A random number generator (RNG) is an algorithm or mechanism used in games to generate random numbers or events, providing unpredictability and chance in gameplay."
+    },
+    {
+        "word": "Cutting-Edge Graphics",
+        "description": "Cutting-edge graphics refers to advanced and state-of-the-art visual technology, rendering techniques, and graphical effects used in games to achieve highly realistic or visually impressive graphics."
+    },
+    {
+        "word": "Input Lag",
+        "description": "Input lag refers to the delay between a player's input, such as pressing a button or moving a controller, and the corresponding action or response on-screen, which can affect gameplay responsiveness and immersion."
+    },
+    {
+        "word": "Gametech",
+        "description": "Gametech refers to the use of technology in the gaming industry to enhance gameplay experiences."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual Reality (VR) is a technology that simulates a user's physical presence in a virtual environment."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality (AR) overlays digital content onto the real world, enhancing the user's perception of reality."
+    },
+    {
+        "word": "Mixed Reality (Mr)",
+        "description": "Mixed Reality (MR) combines elements of both virtual reality and augmented reality to create immersive experiences."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "Natural Language Processing (NLP) involves the interaction between computers and human language."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field that focuses on enabling computers to understand and interpret visual information."
+    },
+    {
+        "word": "Rendering Engine",
+        "description": "A Rendering Engine is responsible for generating the visual output of a game."
+    },
+    {
+        "word": "Game Design",
+        "description": "Game Design involves the creation and development of the rules, mechanics, and overall structure of a game."
+    },
+    {
+        "word": "Game Development",
+        "description": "Game Development refers to the process of creating a video game, including concept, design, programming, testing, and production."
+    },
+    {
+        "word": "Virtual Goods",
+        "description": "Virtual Goods are digital items that can be bought, sold, or traded within a game."
+    },
+    {
+        "word": "Esports",
+        "description": "Esports refers to competitive video gaming, often in organized leagues and tournaments."
+    },
+    {
+        "word": "Game Publishers",
+        "description": "Game Publishers are companies responsible for funding, marketing, and distributing games."
+    },
+    {
+        "word": "Game Development Studios",
+        "description": "Game Development Studios are companies that specialize in creating and developing video games."
+    },
+    {
+        "word": "Quality Assurance (Qa)",
+        "description": "Quality Assurance (QA) is the process of ensuring that a game meets desired standards and specifications."
+    },
+    {
+        "word": "Multiplayer Gaming",
+        "description": "Multiplayer Gaming involves multiple players interacting in the same game environment, either cooperatively or competitively."
+    },
+    {
+        "word": "Player Versus Player (Pvp)",
+        "description": "Player Versus Player (PvP) refers to the gameplay mode where players directly compete against each other."
+    },
+    {
+        "word": "Player Versus Environment (Pve)",
+        "description": "Player Versus Environment (PvE) refers to gameplay modes where players fight against computer-controlled opponents."
+    },
+    {
+        "word": "Turn-Based Strategy",
+        "description": "Turn-based Strategy games are characterized by gameplay that proceeds in discrete turns, allowing players to plan and execute strategies."
+    },
+    {
+        "word": "First-Person Shooter (Fps)",
+        "description": "First-person Shooter (FPS) games are characterized by the player experiencing the game from a first-person perspective and engaging in combat."
+    },
+    {
+        "word": "Role-Playing Game (Rpg)",
+        "description": "Role-playing Game (RPG) is a genre of games where players assume the roles of characters in a fictional world."
+    },
+    {
+        "word": "Massively Multiplayer Online (Mmo)",
+        "description": "Massively Multiplayer Online (MMO) refers to games that can support thousands of players simultaneously in a persistent online world."
+    },
+    {
+        "word": "Free-To-Play (F2P)",
+        "description": "Free-to-play (F2P) games can be played without initial purchase and often generate revenue through in-game purchases."
+    },
+    {
+        "word": "Downloadable Content (Dlc)",
+        "description": "Downloadable Content (DLC) is additional game content that can be purchased and downloaded after the initial release."
+    },
+    {
+        "word": "Modding",
+        "description": "Modding refers to the act of modifying or customizing a game, often by adding or changing content using community-created mods."
+    },
+    {
+        "word": "Game Mods",
+        "description": "Game Mods are modifications made by players to alter the gameplay, graphics, or other aspects of a game."
+    },
+    {
+        "word": "Hackers",
+        "description": "Hackers are individuals who attempt to exploit vulnerabilities in games or disrupt the gameplay experience of others."
+    },
+    {
+        "word": "Cheating",
+        "description": "Cheating refers to the act of using unauthorized methods or tools to gain an unfair advantage in a game."
+    },
+    {
+        "word": "Game Streaming",
+        "description": "Game Streaming allows players to broadcast their gameplay live over the internet to viewers."
+    },
+    {
+        "word": "Mixer",
+        "description": "Mixer was a streaming platform where users could watch and stream video games, which has since been shut down."
+    },
+    {
+        "word": "Game Capture",
+        "description": "Game Capture refers to the process of recording or capturing gameplay footage for sharing or editing."
+    },
+    {
+        "word": "Speedrunning",
+        "description": "Speedrunning is the practice of completing a game or specific objectives as quickly as possible."
+    },
+    {
+        "word": "Game Consoles",
+        "description": "Game Consoles are dedicated devices designed for playing video games."
+    },
+    {
+        "word": "Pc Gaming",
+        "description": "PC Gaming refers to gaming on personal computers, which offer greater customization and performance options."
+    },
+    {
+        "word": "Mobile Gaming",
+        "description": "Mobile Gaming refers to playing games on smartphones, tablets, or portable gaming devices."
+    },
+    {
+        "word": "Cloud Gaming Platforms",
+        "description": "Cloud Gaming Platforms allow users to play games directly over the internet without the need for a dedicated gaming device."
+    },
+    {
+        "word": "Game Streaming Services",
+        "description": "Game Streaming Services provide the infrastructure and technology for users to stream and play games remotely."
+    },
+    {
+        "word": "Indie Games",
+        "description": "Indie Games are video games created and developed independently by small teams or individuals."
+    },
+    {
+        "word": "Game Jams",
+        "description": "Game Jams are events where developers create video games in a short amount of time, often based on a theme or constraint."
+    },
+    {
+        "word": "Game Engines",
+        "description": "Game Engines are software frameworks that provide developers with tools and libraries for building games."
+    },
+    {
+        "word": "Graphics",
+        "description": "Graphics in games encompass the visual elements, including 2D and 3D rendering, textures, and visual effects."
+    },
+    {
+        "word": "Game Music",
+        "description": "Game Music refers to the musical compositions and soundtracks created specifically for video games."
+    },
+    {
+        "word": "Easter Eggs",
+        "description": "Easter Eggs are hidden features or messages within a game, often intended as a playful surprise for players."
+    }
+]
