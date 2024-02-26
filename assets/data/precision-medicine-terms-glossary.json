@@ -1,0 +1,450 @@
+[
+    {
+        "word": "Genomics",
+        "description": "Genomics is the study of the entire genetic material of an organism, including genes and non-coding DNA."
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "Precision Medicine is an approach to healthcare that takes into account individual variability in genes, environment, and lifestyle for each person."
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "Pharmacogenomics is the study of how a person's genes affect their response to drugs."
+    },
+    {
+        "word": "Biomarkers",
+        "description": "Biomarkers are measurable indicators of a biological condition or process, often used to predict, diagnose, or monitor diseases."
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-Generation Sequencing is a high-throughput method used to sequence DNA or RNA."
+    },
+    {
+        "word": "Variant",
+        "description": "A variant refers to a difference in the DNA sequence compared to a standard or reference sequence."
+    },
+    {
+        "word": "Single Nucleotide Polymorphism",
+        "description": "A Single Nucleotide Polymorphism (SNP) is a variation at a single position in a DNA sequence among individuals."
+    },
+    {
+        "word": "Structural Variant",
+        "description": "A structural variant is a variation in the DNA structure, such as insertions, deletions, duplications, or inversions, that can affect gene function or expression."
+    },
+    {
+        "word": "Genotype",
+        "description": "Genotype refers to the genetic makeup or set of genes present in an organism."
+    },
+    {
+        "word": "Phenotype",
+        "description": "Phenotype refers to an individual's observable characteristics resulting from the interaction between genes and the environment."
+    },
+    {
+        "word": "Functional Genomics",
+        "description": "Functional Genomics is the study of how genes work and interact with each other within an organism."
+    },
+    {
+        "word": "Transcriptomics",
+        "description": "Transcriptomics is the study of all the RNA molecules transcribed from a genome."
+    },
+    {
+        "word": "Proteomics",
+        "description": "Proteomics is the study of all the proteins produced by a cell, tissue, or organism."
+    },
+    {
+        "word": "Metabolomics",
+        "description": "Metabolomics is the study of small molecules, known as metabolites, in an organism."
+    },
+    {
+        "word": "Gene Expression",
+        "description": "Gene Expression is the process by which information from a gene is used in the synthesis of a functional gene product."
+    },
+    {
+        "word": "Epigenetics",
+        "description": "Epigenetics is the study of changes in gene expression or cellular phenotype that do not involve alterations in DNA sequence."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that uses artificial neural networks to model and understand complex patterns in data."
+    },
+    {
+        "word": "Clinical Decision Support",
+        "description": "Clinical Decision Support provides healthcare professionals with actionable information and knowledge to enhance patient care."
+    },
+    {
+        "word": "Data Integration",
+        "description": "Data Integration is the process of combining and analyzing data from different sources to generate meaningful insights."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data Mining is the process of discovering patterns and extracting knowledge from large datasets."
+    },
+    {
+        "word": "Insilico Medicine",
+        "description": "InSilico Medicine refers to the use of computer-based approaches, such as computational modeling and simulation, to study biological systems and develop treatment strategies."
+    },
+    {
+        "word": "Clinical Trials",
+        "description": "Clinical Trials are research studies that evaluate the safety and efficacy of medical interventions on human subjects."
+    },
+    {
+        "word": "Electronic Health Record",
+        "description": "An Electronic Health Record (EHR) is a digital version of a patient's medical history, maintained by healthcare providers."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection of personal information and the regulation of its collection, storage, and usage."
+    },
+    {
+        "word": "Data Security",
+        "description": "Data Security refers to the measures and protocols implemented to protect data from unauthorized access, alteration, or destruction."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing is the delivery of on-demand computing resources, such as servers, storage, and applications, over the internet."
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "Bioinformatics is the application of computer science and statistics to analyze and interpret biological data."
+    },
+    {
+        "word": "Population Health",
+        "description": "Population Health refers to the health outcomes, patterns of health determinants, and policies that impact the health of a specific population."
+    },
+    {
+        "word": "Cancer Genomics",
+        "description": "Cancer Genomics is the study of the genetic changes and alterations that occur in cancer cells."
+    },
+    {
+        "word": "Personalized Medicine",
+        "description": "Personalized Medicine is an approach that tailors medical treatment to an individual's unique characteristics."
+    },
+    {
+        "word": "Clinical Genomics",
+        "description": "Clinical Genomics is the integration of genomic information into clinical care for diagnosis, prognosis, and treatment."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization is the representation of data and information in a visual format to facilitate understanding and analysis."
+    },
+    {
+        "word": "Data Analysis",
+        "description": "Data Analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover meaningful patterns, insights, and information."
+    },
+    {
+        "word": "High-Throughput Screening",
+        "description": "High-Throughput Screening is a method for rapid and automated testing of large numbers of compounds or genes in various biological assays."
+    },
+    {
+        "word": "Pharmacokinetics",
+        "description": "Pharmacokinetics is the study of how a drug is absorbed, distributed, metabolized, and excreted by the body."
+    },
+    {
+        "word": "Pharmacodynamics",
+        "description": "Pharmacodynamics is the study of the physiological effects of drugs and their mechanisms of action."
+    },
+    {
+        "word": "Targeted Therapy",
+        "description": "Targeted Therapy is a type of treatment that uses drugs or other substances to identify and attack specific cancer cells."
+    },
+    {
+        "word": "Pharmacogenetics",
+        "description": "Pharmacogenetics is the study of how an individual's genetic makeup influences their response to drugs."
+    },
+    {
+        "word": "Immunotherapy",
+        "description": "Immunotherapy is a type of treatment that harnesses the power of the immune system to recognize and eliminate cancer cells or other disease-causing agents."
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "Gene Therapy is an experimental approach that aims to treat or prevent disease by introducing genetic material into cells to modify or correct abnormal genes."
+    },
+    {
+        "word": "Cell Therapy",
+        "description": "Cell Therapy involves the use of living cells, such as stem cells or immune cells, to treat or prevent diseases."
+    },
+    {
+        "word": "Drug Discovery",
+        "description": "Drug Discovery is the process of identifying and developing new therapeutic compounds."
+    },
+    {
+        "word": "Genome Editing",
+        "description": "Genome Editing is a group of technologies that enable scientists to change an organism's DNA."
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9 is a genome editing tool that allows for precise and specific modifications to the DNA sequence."
+    },
+    {
+        "word": "Prognostic Biomarker",
+        "description": "A Prognostic Biomarker is a biomarker that provides information about the likely course of a disease or the likelihood of treatment success."
+    },
+    {
+        "word": "Diagnostic Biomarker",
+        "description": "A Diagnostic Biomarker is a biomarker that can be used to identify the presence of a disease or condition in an individual."
+    },
+    {
+        "word": "Therapeutic Biomarker",
+        "description": "A Therapeutic Biomarker is a biomarker that indicates the likelihood or potential response of an individual to a specific treatment or therapeutic intervention."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex datasets that are difficult to manage, analyze, and process using traditional data processing techniques."
+    },
+    {
+        "word": "Clinical Data",
+        "description": "Clinical Data refers to information about patients or individuals obtained during the course of routine clinical care, including medical records, test results, and treatment history."
+    },
+    {
+        "word": "Electronic Medical Record",
+        "description": "An Electronic Medical Record (EMR) is a digital version of a patient's medical record, containing clinical data and information about their healthcare encounters."
+    },
+    {
+        "word": "Telemedicine",
+        "description": "Telemedicine is the remote delivery of healthcare services, including medical consultations, diagnosis, and treatment, using telecommunications technology."
+    },
+    {
+        "word": "Omics",
+        "description": "Omics is a collective term used to describe various large-scale biological data sets, such as genomics, proteomics, and metabolomics."
+    },
+    {
+        "word": "Pharmacoepidemiology",
+        "description": "Pharmacoepidemiology is the study of how drugs are used, their effects on populations, and the factors that influence drug utilization and outcomes."
+    },
+    {
+        "word": "Single-Cell Analysis",
+        "description": "Single-Cell Analysis is a method for studying individual cells, enabling the investigation of cellular heterogeneity and the identification of rare cell types."
+    },
+    {
+        "word": "Liquid Biopsy",
+        "description": "A Liquid Biopsy is a non-invasive diagnostic test that detects genetic alterations in circulating tumor DNA."
+    },
+    {
+        "word": "Telehealth",
+        "description": "Telehealth refers to the use of telecommunications technology to deliver healthcare services, education, and information remotely."
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "Genetic Testing is a laboratory method used to identify changes in genes, chromosomes, or proteins."
+    },
+    {
+        "word": "Biomarker",
+        "description": "A Biomarker is a measurable indicator of a normal biological process, disease, or response to treatment."
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA Sequencing is the process of determining the order of nucleotides in a DNA molecule."
+    },
+    {
+        "word": "Genetic Variant",
+        "description": "A genetic variant refers to a difference in DNA sequence compared to a reference."
+    },
+    {
+        "word": "Single-Nucleotide Polymorphism (Snp)",
+        "description": "A single-nucleotide polymorphism (SNP) is a variation at a single position in a DNA sequence."
+    },
+    {
+        "word": "Clinical Trial",
+        "description": "A clinical trial is a research study that investigates the effects of new drugs, treatments, or interventions on human subjects."
+    },
+    {
+        "word": "Electronic Health Record (Ehr)",
+        "description": "An electronic health record (EHR) is a digital version of a patient's medical history, including diagnoses, medications, and test results."
+    },
+    {
+        "word": "Exome Sequencing",
+        "description": "Exome sequencing is the targeted sequencing of the protein-coding regions of the genome."
+    },
+    {
+        "word": "Genome-Wide Association Study (Gwas)",
+        "description": "A genome-wide association study (GWAS) is a study that examines the entire genome of a large number of individuals to identify genetic variations associated with a particular trait or disease."
+    },
+    {
+        "word": "Biobank",
+        "description": "A Biobank is a collection of biological samples and related health information, used for research purposes."
+    },
+    {
+        "word": "Hereditary Disease",
+        "description": "A hereditary disease is a disorder that is passed down from one generation to another through changes or mutations in genes."
+    },
+    {
+        "word": "Variant Calling",
+        "description": "Variant calling refers to the process of identifying genetic variations, such as single-nucleotide polymorphisms (SNPs) and small insertions or deletions (indels), from genomic sequencing data."
+    },
+    {
+        "word": "Drug Response",
+        "description": "Drug response refers to how a patient's body reacts to a drug, including its efficacy and side effects."
+    },
+    {
+        "word": "Immuno-Oncology",
+        "description": "Immuno-oncology is a field of study that focuses on harnessing the body's immune system to fight cancer."
+    },
+    {
+        "word": "Pharmacogenomic Testing",
+        "description": "Pharmacogenomic testing is a type of genetic testing that predicts an individual's response to specific medications based on their genetic makeup."
+    },
+    {
+        "word": "Population Genetics",
+        "description": "Population Genetics is the study of genetic variation and evolutionary processes within populations."
+    },
+    {
+        "word": "Polygenic Risk Score",
+        "description": "A Polygenic Risk Score is a numerical value that estimates an individual's genetic risk for a particular disease."
+    },
+    {
+        "word": "Drug Resistance",
+        "description": "Drug resistance is the ability of a microorganism, such as a bacteria or cancer cell, to withstand the effects of a drug that would normally kill or inhibit its growth."
+    },
+    {
+        "word": "Drug Repurposing",
+        "description": "Drug repurposing refers to the identification and development of new uses for existing drugs."
+    },
+    {
+        "word": "Pharmacokinetic Variability",
+        "description": "Pharmacokinetic variability refers to differences in the rate and extent to which drugs are absorbed, distributed, metabolized, and excreted among individuals."
+    },
+    {
+        "word": "Genome Assembly",
+        "description": "Genome assembly is the process of piecing together the individual fragments of DNA sequence to reconstruct the complete genome."
+    },
+    {
+        "word": "Chemoinformatics",
+        "description": "Chemoinformatics is the application of computer science and information technology to solve problems in the field of chemistry."
+    },
+    {
+        "word": "Mutation",
+        "description": "A mutation is a permanent change in the DNA sequence that can alter the structure and function of a gene."
+    },
+    {
+        "word": "Germline Mutation",
+        "description": "A germline mutation is a genetic alteration that is present in the germ cells (i.e., sperm or egg cells) and can be passed on to offspring."
+    },
+    {
+        "word": "Somatic Mutation",
+        "description": "A somatic mutation is a genetic alteration that occurs in non-germline cells and is not inherited by future generations."
+    },
+    {
+        "word": "Bioethics",
+        "description": "Bioethics is the study of ethical issues arising from advances in biology and medicine."
+    },
+    {
+        "word": "Network Analysis",
+        "description": "Network analysis is the study of complex systems or networks, such as protein-protein interaction networks, to understand their structure and function."
+    },
+    {
+        "word": "Patient Stratification",
+        "description": "Patient stratification is the process of dividing a patient population into subgroups based on specific biological or clinical characteristics."
+    },
+    {
+        "word": "Clinical Decision Support System (Cdss)",
+        "description": "A clinical decision support system (CDSS) is a computer-based tool that provides healthcare professionals with evidence-based recommendations and guidelines to aid in clinical decision-making."
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "Genetic Variation refers to differences in the DNA sequence among individuals."
+    },
+    {
+        "word": "Pharmacoepigenomics",
+        "description": "Pharmacoepigenomics is the study of how epigenetic factors influence an individual's response to drugs."
+    },
+    {
+        "word": "Genetic Counseling",
+        "description": "Genetic Counseling is a process that helps individuals and families understand and cope with the genetic risk of inherited conditions."
+    },
+    {
+        "word": "Single-Nucleotide Polymorphism",
+        "description": "A Single-Nucleotide Polymorphism (SNP) is a variation at a single position in a DNA sequence."
+    },
+    {
+        "word": "Systems Biology",
+        "description": "Systems Biology is an interdisciplinary field that studies and models complex biological systems."
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "Genetic Engineering is the manipulation of an organism's genes to produce desired traits."
+    },
+    {
+        "word": "Translational Research",
+        "description": "Translational Research bridges the gap between scientific discoveries and their application in clinical practice."
+    },
+    {
+        "word": "Genome-Wide Association Study",
+        "description": "A Genome-wide Association Study (GWAS) is an approach to identify genetic variants associated with a specific trait or disease."
+    },
+    {
+        "word": "Phenomics",
+        "description": "Phenomics is the study of all measurable phenotypes of an organism."
+    },
+    {
+        "word": "Drug Response Prediction",
+        "description": "Drug Response Prediction is the use of genetic and genomic information to forecast an individual's response to a specific drug."
+    },
+    {
+        "word": "Heritability",
+        "description": "Heritability refers to the proportion of phenotypic variance in a population that can be attributed to genetic factors."
+    },
+    {
+        "word": "Functional Medicine",
+        "description": "Functional Medicine is a personalized approach to healthcare that focuses on identifying and addressing the root causes of illness."
+    },
+    {
+        "word": "Informed Consent",
+        "description": "Informed Consent is the process of obtaining permission from an individual for a medical or research procedure after they have been fully informed of the risks and benefits."
+    },
+    {
+        "word": "Heterogeneity",
+        "description": "Heterogeneity is the presence of diverse or dissimilar characteristics within a population or group."
+    },
+    {
+        "word": "Companion Diagnostics",
+        "description": "Companion Diagnostics are tests that are used to identify whether a patient is likely to respond to a specific targeted therapy."
+    },
+    {
+        "word": "Healthcare Analytics",
+        "description": "Healthcare Analytics involves the systematic analysis of healthcare data to improve patient outcomes and decision-making."
+    },
+    {
+        "word": "Phenome-Wide Association Study",
+        "description": "A Phenome-wide Association Study (PheWAS) is an approach to identify relationships between genetic variations and a range of phenotypes."
+    },
+    {
+        "word": "Regulatory Genomics",
+        "description": "Regulatory Genomics is the study of how genes are regulated and controlled by non-coding regions of the genome."
+    },
+    {
+        "word": "Drug-Drug Interaction",
+        "description": "A Drug-Drug Interaction occurs when two or more drugs interact with each other and alter the effects or toxicity of one or both drugs."
+    },
+    {
+        "word": "Phenotypic Screening",
+        "description": "Phenotypic Screening is a drug discovery approach that screens compounds based on their ability to alter a cellular phenotype."
+    },
+    {
+        "word": "Pharmacovigilance",
+        "description": "Pharmacovigilance is the science and activities related to the detection, assessment, understanding, and prevention of adverse effects or any other drug-related problem."
+    },
+    {
+        "word": "Pharmaceutical Industry",
+        "description": "The Pharmaceutical Industry involves the discovery, development, and manufacture of drugs for use as medications."
+    },
+    {
+        "word": "Genetic Epidemiology",
+        "description": "Genetic Epidemiology is the study of how genetic factors contribute to the health and disease patterns within populations."
+    },
+    {
+        "word": "Functional Annotation",
+        "description": "Functional Annotation is the process of assigning biological function to genes based on experimental evidence or computational predictions."
+    },
+    {
+        "word": "Digital Health",
+        "description": "Digital Health refers to the use of digital technologies and data to improve healthcare delivery and patient outcomes."
+    }
+]
