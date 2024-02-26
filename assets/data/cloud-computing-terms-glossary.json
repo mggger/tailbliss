@@ -1,0 +1,450 @@
+[
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing refers to the on-demand delivery of computing services over the internet."
+    },
+    {
+        "word": "Virtualization",
+        "description": "Virtualization is the process of creating virtual versions of physical resources, such as servers, storage, or networks."
+    },
+    {
+        "word": "Iaas",
+        "description": "Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet."
+    },
+    {
+        "word": "Paas",
+        "description": "Platform as a Service (PaaS) is a cloud computing model that provides a platform with features and tools used for application development, testing, deployment, and management."
+    },
+    {
+        "word": "Saas",
+        "description": "Software as a Service (SaaS) is a cloud computing model that delivers applications over the internet, typically on a subscription basis."
+    },
+    {
+        "word": "Hybrid Cloud",
+        "description": "Hybrid Cloud is a cloud computing environment that combines both private and public cloud infrastructure, allowing data and applications to be shared between them."
+    },
+    {
+        "word": "Public Cloud",
+        "description": "Public Cloud refers to a cloud computing environment where resources are owned and managed by a third-party cloud service provider."
+    },
+    {
+        "word": "Private Cloud",
+        "description": "Private Cloud refers to a cloud computing environment that is dedicated solely to one organization, providing greater control and security."
+    },
+    {
+        "word": "Multi-Cloud",
+        "description": "Multi-Cloud refers to the use of multiple cloud computing providers or platforms to meet an organization's computing needs."
+    },
+    {
+        "word": "Serverless Computing",
+        "description": "Serverless Computing is a cloud computing model where applications are developed and executed without the need to manage or provision servers."
+    },
+    {
+        "word": "Elasticity",
+        "description": "Elasticity in cloud computing refers to the ability to automatically scale computing resources up or down based on demand."
+    },
+    {
+        "word": "Scalability",
+        "description": "Scalability in cloud computing refers to the ability to increase or decrease the size or capacity of computing resources."
+    },
+    {
+        "word": "Virtual Machine",
+        "description": "A virtual machine (VM) is a software emulation of a physical computer, running an operating system and applications."
+    },
+    {
+        "word": "Containerization",
+        "description": "Containerization is a lightweight virtualization technology that encapsulates an application and its dependencies into a standardized unit called a container."
+    },
+    {
+        "word": "Orchestration",
+        "description": "Orchestration is the automated arrangement, coordination, and management of complex computer systems, services, and workflows."
+    },
+    {
+        "word": "Api",
+        "description": "An API (Application Programming Interface) allows different software systems to communicate and interact with each other."
+    },
+    {
+        "word": "Autoscaling",
+        "description": "Autoscaling is the ability of a system or application to automatically adjust resources, such as compute instances, based on predefined conditions or metrics."
+    },
+    {
+        "word": "Load Balancing",
+        "description": "Load Balancing is the process of distributing incoming network traffic across multiple servers to optimize resource utilization and ensure high availability."
+    },
+    {
+        "word": "Data Security",
+        "description": "Data Security refers to the protection of data from unauthorized access, use, disclosure, disruption, modification, or destruction."
+    },
+    {
+        "word": "Data Encryption",
+        "description": "Data Encryption is the process of converting data into a form that cannot be easily understood by unauthorized individuals, ensuring the confidentiality and security of the data."
+    },
+    {
+        "word": "Data Backup",
+        "description": "Data Backup is the process of making copies of data and storing them securely in order to restore the data in case of loss, corruption, or accidental deletion."
+    },
+    {
+        "word": "Disaster Recovery",
+        "description": "Disaster Recovery is the process of restoring business operations after a disruptive event, such as a natural disaster or a cyber attack, occurs."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a user, device, or system through the use of credentials, such as usernames and passwords."
+    },
+    {
+        "word": "Authorization",
+        "description": "Authorization is the process of granting or denying access to specific resources or actions based on the authenticated identity and associated permissions."
+    },
+    {
+        "word": "Monitoring",
+        "description": "Monitoring in cloud computing involves the collection, analysis, and visualization of data related to the performance, health, and usage of cloud resources."
+    },
+    {
+        "word": "Service Level Agreement",
+        "description": "A Service Level Agreement (SLA) is a contract between a service provider and a customer that defines the level of service, support, and performance guarantees."
+    },
+    {
+        "word": "Fault Tolerance",
+        "description": "Fault Tolerance refers to the ability of a system or service to remain operational and continue providing services in the event of a component failure or system disruption."
+    },
+    {
+        "word": "High Availability",
+        "description": "High Availability refers to the ability of a system or service to remain operational and accessible despite failures or disruptions."
+    },
+    {
+        "word": "Replication",
+        "description": "Data replication is the process of creating and maintaining duplicate copies of data in multiple storage locations to ensure data availability and integrity."
+    },
+    {
+        "word": "Data Center",
+        "description": "A Data Center is a facility used to house computer systems and associated components, such as servers, networking equipment, and storage systems."
+    },
+    {
+        "word": "Server Farm",
+        "description": "A server farm is a collection of interconnected servers that work together to support various computing tasks and services."
+    },
+    {
+        "word": "Content Delivery Network",
+        "description": "A Content Delivery Network (CDN) is a geographically distributed network of servers designed to deliver content efficiently to users."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computing is a decentralized computing model where data processing and storage takes place near the edge of the network, closer to the source of data."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "Internet of Things (IoT) refers to a network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors, software, and connectivity to exchange data and perform actions."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex datasets that cannot be easily managed or processed using traditional data processing applications."
+    },
+    {
+        "word": "Analytics",
+        "description": "Analytics is the discovery, interpretation, and communication of meaningful patterns and insights from data."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines to perform tasks and solve problems that typically require human intelligence."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a subset of AI that focuses on enabling machines to learn from data and improve their performance on specific tasks without being explicitly programmed."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that utilizes artificial neural networks to model and understand complex patterns and relationships in data."
+    },
+    {
+        "word": "Data Science",
+        "description": "Data Science refers to the extraction, cleaning, analysis, visualization, and interpretation of large and complex datasets to gain insights and support decision-making."
+    },
+    {
+        "word": "Devops",
+        "description": "DevOps is a cultural and operational approach that combines software development (Dev) and IT operations (Ops) to deliver applications and services rapidly and reliably."
+    },
+    {
+        "word": "Managed Services",
+        "description": "Managed Services refer to the outsourcing of certain IT functions and responsibilities to a third-party service provider, who takes care of managing and maintaining those services."
+    },
+    {
+        "word": "Compliance",
+        "description": "Compliance refers to meeting specific legal, regulatory, or contractual requirements related to data privacy, security, and governance."
+    },
+    {
+        "word": "Governance",
+        "description": "Governance involves establishing policies, procedures, and controls to ensure that resources and operations are managed effectively, efficiently, and in line with organizational objectives."
+    },
+    {
+        "word": "Cloud Native",
+        "description": "Cloud Native refers to an approach where applications are built and deployed using cloud computing principles, such as microservices, containers, and continuous delivery."
+    },
+    {
+        "word": "Serverless Architecture",
+        "description": "Serverless Architecture is an architectural pattern where applications are built by using serverless computing services, which abstract away the need to manage servers or infrastructure."
+    },
+    {
+        "word": "Microservices",
+        "description": "Microservices is a software architectural approach where applications are built as a collection of small, loosely coupled, and independently deployable services."
+    },
+    {
+        "word": "Continuous Integration",
+        "description": "Continuous Integration (CI) is a development practice that involves frequently integrating code changes into a shared repository and running automated builds and tests."
+    },
+    {
+        "word": "Continuous Deployment",
+        "description": "Continuous Deployment is a practice where every code change that passes the automated tests is automatically deployed to production environments."
+    },
+    {
+        "word": "Infrastructure Automation",
+        "description": "Infrastructure automation involves the use of software-defined configurations and tools to automate the provisioning and management of IT infrastructure."
+    },
+    {
+        "word": "Server Consolidation",
+        "description": "Server consolidation is the process of combining multiple physical servers into fewer virtual or cloud-based servers to reduce hardware costs and improve resource utilization."
+    },
+    {
+        "word": "Data Migration",
+        "description": "Data Migration is the process of transferring data from one storage system or format to another, often in the context of transitioning to a cloud environment."
+    },
+    {
+        "word": "Vendor Lock-In",
+        "description": "Vendor Lock-In is a situation in which a customer is dependent on a particular vendor's products or services and faces difficulties in switching to alternatives."
+    },
+    {
+        "word": "Cost Optimization",
+        "description": "Cost Optimization in cloud computing refers to the process of managing and reducing costs associated with cloud services and resources while ensuring desired performance and outcomes."
+    },
+    {
+        "word": "Server Park",
+        "description": "A server park is a collection of dedicated servers that are used to provide specific services or applications within an organization's infrastructure."
+    },
+    {
+        "word": "Data Sovereignty",
+        "description": "Data Sovereignty refers to the concept that data is subject to the laws and governance structures of the country or region in which it is physically stored."
+    },
+    {
+        "word": "Data Loss Prevention",
+        "description": "Data loss prevention (DLP) is a set of practices and technologies used to prevent the unauthorized exposure, leakage, or loss of sensitive data."
+    },
+    {
+        "word": "Cloud Bursting",
+        "description": "Cloud bursting is the practice of dynamically scaling application workloads between private and public clouds to handle sudden spikes in demand."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy concerns the protection of personal or sensitive information from unauthorized access, use, or disclosure."
+    },
+    {
+        "word": "Thin Client",
+        "description": "A thin client is a lightweight computer or software application that relies on the resources and processing power of a server or cloud-based environment."
+    },
+    {
+        "word": "Software Development Lifecycle",
+        "description": "The software development lifecycle (SDLC) is a structured approach to developing, testing, and deploying software applications."
+    },
+    {
+        "word": "Server Virtualization",
+        "description": "Server Virtualization is the process of dividing a physical server into multiple virtual servers, each capable of running its own operating system and applications."
+    },
+    {
+        "word": "Hypervisor",
+        "description": "A Hypervisor, also known as a virtual machine monitor (VMM), is software or firmware that creates and runs virtual machines."
+    },
+    {
+        "word": "Infrastructure As A Service (Iaas)",
+        "description": "Infrastructure as a Service (IaaS) is a cloud computing model where virtualized computing resources are provided over the internet."
+    },
+    {
+        "word": "Platform As A Service (Paas)",
+        "description": "Platform as a Service (PaaS) is a cloud computing model where a platform is provided as a service over the internet, enabling developers to build and deploy applications."
+    },
+    {
+        "word": "Software As A Service (Saas)",
+        "description": "Software as a Service (SaaS) is a cloud computing model where software applications are provided as a service over the internet."
+    },
+    {
+        "word": "Cloud Service Provider (Csp)",
+        "description": "A Cloud Service Provider (CSP) is a company or organization that offers cloud computing services and resources to other organizations or individuals."
+    },
+    {
+        "word": "Redundancy",
+        "description": "Redundancy in cloud computing refers to the duplication of critical components or resources to ensure high availability and fault tolerance."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics is the process of examining large datasets to uncover patterns, trends, and insights that can be used to make informed business decisions."
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "The Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to enable data exchange and automation."
+    },
+    {
+        "word": "Containers",
+        "description": "Containers are lightweight, portable, and self-sufficient software packages that encapsulate an application and its dependencies, enabling consistent deployment across different environments."
+    },
+    {
+        "word": "Identity And Access Management (Iam)",
+        "description": "Identity and Access Management (IAM) is a framework and set of technologies used to ensure only authorized individuals can access resources and perform actions in a cloud computing environment."
+    },
+    {
+        "word": "Api (Application Programming Interface)",
+        "description": "An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and interact with each other."
+    },
+    {
+        "word": "Latency",
+        "description": "Latency is the time delay between the moment a request is sent and the moment a response is received, influencing the responsiveness and performance of applications."
+    },
+    {
+        "word": "Bandwidth",
+        "description": "Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time, measured in bits per second."
+    },
+    {
+        "word": "Content Delivery Network (Cdn)",
+        "description": "A Content Delivery Network (CDN) is a distributed system of servers that delivers web content to users based on their geographic location, improving the speed and performance of content delivery."
+    },
+    {
+        "word": "Data Warehouse",
+        "description": "A Data Warehouse is a central repository that stores structured data collected from various sources, enabling efficient querying and analysis."
+    },
+    {
+        "word": "Hybrid Integration Platform",
+        "description": "A Hybrid Integration Platform is a suite of technologies and tools used to integrate applications, systems, and data across on-premises and cloud environments."
+    },
+    {
+        "word": "Server Migration",
+        "description": "Server Migration is the process of moving a server from one environment to another, such as from an on-premises data center to a cloud provider."
+    },
+    {
+        "word": "Serverless Database",
+        "description": "A Serverless Database is a cloud-based database service that automatically scales, provisions, and manages the infrastructure required to store and retrieve data."
+    },
+    {
+        "word": "Internet Service Provider (Isp)",
+        "description": "An Internet Service Provider (ISP) is a company or organization that provides internet access to customers."
+    },
+    {
+        "word": "Cloud Migration",
+        "description": "Cloud Migration is the process of moving data, applications, and other business elements from an on-premises environment or one cloud platform to another."
+    },
+    {
+        "word": "Data Loss Prevention (Dlp)",
+        "description": "Data Loss Prevention (DLP) is a set of security practices and technologies used to prevent the unauthorized disclosure of sensitive data."
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governance is a set of processes and policies that ensures data is created, stored, and used in a consistent, secure, and compliant manner."
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "Distributed Computing is a model in which components of a system are located on different computers and communicate and coordinate their actions by passing messages."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability is the ability of different systems, applications, or components to exchange and use information in a seamless and efficient manner."
+    },
+    {
+        "word": "Single Sign-On (Sso)",
+        "description": "Single Sign-On (SSO) is an authentication process that allows users to access multiple applications and systems with a single set of credentials."
+    },
+    {
+        "word": "Virtual Private Cloud (Vpc)",
+        "description": "A Virtual Private Cloud (VPC) is a virtual network dedicated to a specific cloud computing environment, isolated from other virtual networks."
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "Cloud Storage refers to the storage of data on remote servers accessed over the internet, providing scalable and durable storage options."
+    },
+    {
+        "word": "Cloud Orchestration",
+        "description": "Cloud Orchestration is the coordination and management of multiple cloud services, applications, and resources to automate and optimize complex workflows."
+    },
+    {
+        "word": "Incident Management",
+        "description": "Incident Management is a process for identifying, responding to, and resolving incidents or disruptions in cloud computing environments to minimize their impact on services."
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "A Service Level Agreement (SLA) is a contractual agreement between a service provider and a customer that defines the expected level of service, including performance, availability, and support metrics."
+    },
+    {
+        "word": "Business Continuity",
+        "description": "Business Continuity refers to the planning and preparation of processes and resources to ensure that essential functions can continue during and after a disaster or crisis."
+    },
+    {
+        "word": "Api Gateway",
+        "description": "An API Gateway is a server or service that acts as an intermediary between an application and backend services, providing a single entry point for multiple APIs and managing aspects such as authentication, rate limiting, and request/response transformation."
+    },
+    {
+        "word": "Serverless Function",
+        "description": "A Serverless Function, also known as a Function as a Service (FaaS), is a self-contained, event-triggered piece of code that runs in a serverless computing environment."
+    },
+    {
+        "word": "Chatops",
+        "description": "ChatOps is a collaboration model that incorporates real-time messaging and chatbots to facilitate DevOps workflows and automate tasks within a cloud computing environment."
+    },
+    {
+        "word": "Horizontal Scaling",
+        "description": "Horizontal Scaling, also known as scaling out, involves adding more instances of resources such as servers to increase capacity."
+    },
+    {
+        "word": "Vertical Scaling",
+        "description": "Vertical Scaling, also known as scaling up, involves increasing the capacity of existing resources such as servers."
+    },
+    {
+        "word": "Multi-Tenancy",
+        "description": "Multi-tenancy refers to a cloud computing model where multiple tenants share the same physical resources, such as servers or storage."
+    },
+    {
+        "word": "Sandbox Environment",
+        "description": "A Sandbox Environment is a controlled and isolated testing environment that allows developers to safely test new applications or changes."
+    },
+    {
+        "word": "Network Virtualization",
+        "description": "Network Virtualization is the process of abstracting and combining network resources, such as switches, routers, and firewalls, to create virtual networks that can be provisioned and managed independently."
+    },
+    {
+        "word": "Data Virtualization",
+        "description": "Data Virtualization is the process of combining data from multiple sources and presenting it as a single, unified view, without physically moving or copying the data."
+    },
+    {
+        "word": "Data Replication",
+        "description": "Data Replication is the process of creating and maintaining multiple copies of data in different storage systems or geographic locations to ensure data availability and durability."
+    },
+    {
+        "word": "Auto Scaling",
+        "description": "Auto Scaling is a feature offered by cloud service providers that allows the automatic adjustment of computing resources based on predefined scaling policies or conditions."
+    },
+    {
+        "word": "Cloud Backup",
+        "description": "Cloud Backup is the process of copying and storing data in a cloud environment as a backup or protection against data loss, allowing for easy recovery in case of disasters or emergencies."
+    },
+    {
+        "word": "Cloud Monitoring",
+        "description": "Cloud Monitoring involves the collection, analysis, and visualization of cloud infrastructure and application performance data to ensure optimal performance, availability, and security."
+    },
+    {
+        "word": "Cloud Security",
+        "description": "Cloud Security is a set of practices, technologies, and policies designed to protect cloud computing environments and data from security threats and breaches."
+    },
+    {
+        "word": "Cloud Governance",
+        "description": "Cloud Governance involves the establishment and enforcement of policies, procedures, and controls to ensure compliance, security, and cost optimization in cloud computing."
+    },
+    {
+        "word": "Cloud Cost Management",
+        "description": "Cloud Cost Management involves the monitoring, analysis, and optimization of cloud resource usage and expenditure to control and minimize cloud costs."
+    },
+    {
+        "word": "Data Lake",
+        "description": "A Data Lake is a centralized repository that stores both structured and unstructured data at any scale, allowing for high-speed processing and analysis."
+    },
+    {
+        "word": "Api Integration",
+        "description": "API Integration is the process of linking or connecting different software systems or components using APIs to enable communication and data exchange."
+    },
+    {
+        "word": "Cloud Ci/Cd",
+        "description": "Cloud CI/CD (Continuous Integration/Continuous Delivery) is a software development practice that enables rapid and automated building, testing, and deployment of applications on cloud platforms."
+    }
+]
