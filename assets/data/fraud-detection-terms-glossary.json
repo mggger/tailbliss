@@ -1,0 +1,562 @@
+[
+    {
+        "word": "Fraud",
+        "description": "Fraud refers to the act of intentionally deceiving others for personal or financial gain."
+    },
+    {
+        "word": "Detection",
+        "description": "Detection is the process of identifying fraudulent activities, transactions, or behaviors."
+    },
+    {
+        "word": "Risk",
+        "description": "Risk is the potential for financial loss or harm resulting from fraudulent activities."
+    },
+    {
+        "word": "Anomaly",
+        "description": "Anomaly refers to a deviation or irregularity from the expected or normal behavior, which can indicate the presence of fraud."
+    },
+    {
+        "word": "Data Analysis",
+        "description": "Data analysis involves inspecting, cleaning, and transforming data to discover useful information, patterns, and insights for fraud detection."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a subset of Artificial Intelligence (AI) that focuses on getting machines to learn and improve from data without being explicitly programmed."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial intelligence refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence."
+    },
+    {
+        "word": "Predictive Modeling",
+        "description": "Predictive modeling is the process of creating a mathematical model to predict future outcomes based on historical data."
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning is a type of Machine Learning where the model is trained on labeled data with predefined outcomes, enabling it to make predictions or classifications."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a type of Machine Learning where the model learns from unlabeled data, identifying patterns or structures without predefined outcomes."
+    },
+    {
+        "word": "Fraudulent Transaction",
+        "description": "A fraudulent transaction refers to any transaction or activity that is intentionally deceptive or misleading, aiming to cause financial harm."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data mining is the process of discovering patterns and insights from large datasets."
+    },
+    {
+        "word": "Behavioral Analytics",
+        "description": "Behavioral Analytics is a technique used to analyze and detect patterns or anomalies in users' behavior, enabling the identification of potential fraud or malicious activities."
+    },
+    {
+        "word": "Identity Theft",
+        "description": "Identity Theft is a form of fraud where an individual's personal or financial information is stolen without their consent and used for illegal purposes, such as accessing accounts or making unauthorized transactions."
+    },
+    {
+        "word": "Digital Forensics",
+        "description": "Digital forensics is the process of collecting, analyzing, and preserving electronic evidence to investigate and prevent cybercrime, including fraud."
+    },
+    {
+        "word": "Fraud Prevention",
+        "description": "Fraud Prevention encompasses the strategies, techniques, and measures employed to proactively identify, mitigate, and deter fraudulent activities before they occur."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a user or entity."
+    },
+    {
+        "word": "Transaction Monitoring",
+        "description": "Transaction Monitoring is a process used by financial institutions to review, analyze, and evaluate customer transactions or activities for potential suspicious or fraudulent behavior, ensuring compliance with regulatory requirements."
+    },
+    {
+        "word": "Biometrics",
+        "description": "Biometrics refers to the unique physical or behavioral characteristics of individuals, such as fingerprints, voice patterns, or facial features, used for authentication or identification purposes."
+    },
+    {
+        "word": "Pattern Recognition",
+        "description": "Pattern recognition is the automated identification of patterns or regularities in data, often used in fraud detection to identify abnormal activities."
+    },
+    {
+        "word": "False Positive",
+        "description": "False Positive is a term used to describe a situation where a legitimate transaction or activity is mistakenly flagged as fraudulent."
+    },
+    {
+        "word": "False Negative",
+        "description": "False Negative is a term used to describe a situation where a fraudulent transaction or activity is incorrectly classified as legitimate."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization is the process of presenting data in visual formats, such as charts or graphs, to facilitate better understanding and analysis of fraud-related data."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big data refers to large, complex data sets that cannot be easily managed or analyzed using traditional data processing techniques, often utilized in fraud detection to uncover hidden patterns."
+    },
+    {
+        "word": "Machine Learning Algorithms",
+        "description": "Machine learning algorithms are mathematical models and techniques used in machine learning to enable automated learning from data and make accurate predictions or classifications."
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "Feature Engineering is the process of selecting, transforming, and creating relevant features from the available data to improve the performance of a Machine Learning model."
+    },
+    {
+        "word": "Advanced Analytics",
+        "description": "Advanced analytics refers to the use of sophisticated techniques and algorithms, such as machine learning and data mining, to analyze and extract insights from complex data sets for fraud detection."
+    },
+    {
+        "word": "Credit Card Fraud",
+        "description": "Credit card fraud is a type of financial fraud where someone uses another person's credit card or card details without their authorization to make unauthorized transactions."
+    },
+    {
+        "word": "Data Leakage",
+        "description": "Data leakage refers to the unauthorized or accidental transfer of sensitive or confidential information, which can lead to identity theft or other fraudulent activities."
+    },
+    {
+        "word": "Knowledge-Based Systems",
+        "description": "Knowledge-based systems are AI systems that utilize expert knowledge and rules to make decisions or recommendations in specific domains, such as fraud detection."
+    },
+    {
+        "word": "Neural Networks",
+        "description": "Neural networks are computational models inspired by the structure and functioning of the human brain, used in machine learning to recognize complex patterns and relationships in data for fraud detection."
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering is an unsupervised learning technique that groups similar instances together based on their features, without predefined class labels."
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data preprocessing involves cleaning, transforming, and preparing data before it can be used for analysis, ensuring its quality and compatibility with fraud detection algorithms."
+    },
+    {
+        "word": "Fraudulent Applications",
+        "description": "Fraudulent applications refer to falsified or misleading information provided in applications, such as credit card applications or insurance claims, with the intention of committing fraud."
+    },
+    {
+        "word": "Data Integration",
+        "description": "Data integration is the process of combining data from multiple sources or systems to create a unified view for analysis and fraud detection."
+    },
+    {
+        "word": "Feature Selection",
+        "description": "Feature Selection is the process of identifying and selecting the most relevant features from a dataset to be used in a Machine Learning model."
+    },
+    {
+        "word": "Transaction Fraud",
+        "description": "Transaction fraud involves fraudulent activities carried out during financial transactions, such as unauthorized use of credit cards, money laundering, or falsifying transaction records."
+    },
+    {
+        "word": "Real-Time Monitoring",
+        "description": "Real-time monitoring involves the continuous and immediate observation of events or activities as they occur, enabling prompt detection and response to fraudulent activities."
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "Model Evaluation is the process of assessing the performance and effectiveness of a Machine Learning model using various metrics and techniques."
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "Feature Extraction is the process of transforming raw data, such as text or images, into a format suitable for Machine Learning models by extracting relevant features."
+    },
+    {
+        "word": "Fraud Rings",
+        "description": "Fraud rings refer to organized groups or networks of individuals collaborating to commit fraudulent activities, often using sophisticated methods to evade detection."
+    },
+    {
+        "word": "Data Imputation",
+        "description": "Data imputation is the process of filling in missing values or replacing inaccurate data with estimated or calculated values to ensure the integrity and completeness of data used in fraud detection."
+    },
+    {
+        "word": "Fraudulent Claims",
+        "description": "Fraudulent claims refer to false or exaggerated insurance claims, where individuals or organizations attempt to deceive insurance companies for financial gain."
+    },
+    {
+        "word": "Decision Trees",
+        "description": "Decision trees are tree-like models that use a hierarchical structure of nodes and branches to make decisions or classifications based on input data, often used in fraud detection as part of ensemble methods."
+    },
+    {
+        "word": "Model Training",
+        "description": "Model training is the process of training machine learning models using labeled data to learn patterns and make accurate predictions or classifications in fraud detection."
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning is a technique that combines multiple models, such as classifiers or regressors, to make predictions with improved accuracy and generalization."
+    },
+    {
+        "word": "Feature Importance",
+        "description": "Feature importance refers to the measure of the relative importance or contribution of each feature or variable in a machine learning model for fraud detection."
+    },
+    {
+        "word": "Fraud Analytics",
+        "description": "Fraud analytics involves using statistical techniques and data analysis to identify and prevent fraudulent activities."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting refers to a situation where a Machine Learning model performs extremely well on the training data but fails to generalize well to new or unseen data."
+    },
+    {
+        "word": "Model Deployment",
+        "description": "Model deployment is the process of integrating and operationalizing machine learning models into existing systems or applications to make real-time predictions or classifications for fraud detection."
+    },
+    {
+        "word": "Fraud Detection Rules",
+        "description": "Fraud detection rules are predefined criteria or conditions used to flag or identify potentially fraudulent transactions or activities based on specific patterns or behaviors."
+    },
+    {
+        "word": "Model Validation",
+        "description": "Model validation involves verifying and assessing the performance, accuracy, and generalizability of machine learning models for fraud detection using independent test data."
+    },
+    {
+        "word": "Fraud Intelligence",
+        "description": "Fraud intelligence refers to the information, insights, and knowledge derived from analyzing fraud-related data, which can be used to identify new fraud patterns and improve detection strategies."
+    },
+    {
+        "word": "Imbalanced Data",
+        "description": "Imbalanced data refers to a situation where the classes in a dataset for fraud detection are not represented equally, posing challenges for accurate model training and detection of the minority class (fraud cases)."
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection is a technique used to identify patterns or data points that significantly differ from the norm or expected behavior."
+    },
+    {
+        "word": "Social Engineering",
+        "description": "Social Engineering is a method used by attackers to manipulate or deceive individuals into revealing sensitive information or performing actions that can be exploited for malicious purposes."
+    },
+    {
+        "word": "Model Optimization",
+        "description": "Model optimization is the process of fine-tuning machine learning models to improve their performance and accuracy in fraud detection, often through hyperparameter tuning or algorithm selection."
+    },
+    {
+        "word": "Fraud Detection System",
+        "description": "A fraud detection system is a software or system that uses various techniques and algorithms to automatically identify and prevent fraudulent activities in real-time or post-transaction analysis."
+    },
+    {
+        "word": "Fraudster",
+        "description": "A fraudster is an individual or entity that engages in fraudulent activities."
+    },
+    {
+        "word": "Transaction",
+        "description": "A transaction is an exchange or transfer of goods, services, or funds."
+    },
+    {
+        "word": "Alert",
+        "description": "An alert is a notification or signal indicating a potential fraudulent event."
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "Risk assessment is the evaluation of potential risks associated with fraudulent activities."
+    },
+    {
+        "word": "Suspicious Activity",
+        "description": "Suspicious activity refers to behavior or actions that are indicative of potential fraud."
+    },
+    {
+        "word": "Risk Score",
+        "description": "A risk score is a numerical value that assesses the likelihood of a transaction being fraudulent."
+    },
+    {
+        "word": "Chargeback",
+        "description": "A chargeback occurs when a customer disputes a transaction and the amount is returned to the customer."
+    },
+    {
+        "word": "Blacklist",
+        "description": "A blacklist is a list of individuals, entities, or activities that are considered suspicious or high-risk."
+    },
+    {
+        "word": "Forensic Analysis",
+        "description": "Forensic analysis involves investigating and analyzing evidence to uncover fraudulent activities."
+    },
+    {
+        "word": "Payment Card Fraud",
+        "description": "Payment card fraud is the unauthorized use of another person's payment card information."
+    },
+    {
+        "word": "Phishing",
+        "description": "Phishing is a fraudulent activity where attackers impersonate legitimate entities or organizations to deceive users into revealing sensitive information or performing malicious actions."
+    },
+    {
+        "word": "Money Laundering",
+        "description": "Money laundering is the process of making illegally-gained proceeds appear legal."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity involves protecting computer systems and networks from unauthorized access and digital attacks."
+    },
+    {
+        "word": "Fraud Awareness",
+        "description": "Fraud awareness refers to the knowledge and understanding of different types of fraud and how to prevent them."
+    },
+    {
+        "word": "Fraud Investigator",
+        "description": "A fraud investigator is an individual responsible for examining and resolving fraud cases."
+    },
+    {
+        "word": "Customer Due Diligence",
+        "description": "Customer due diligence is the process of verifying the identity of customers to prevent fraud and money laundering."
+    },
+    {
+        "word": "Data Breach",
+        "description": "Data Breach is a security incident where unauthorized individuals gain access to sensitive or confidential information, often resulting in its theft, exposure, or misuse."
+    },
+    {
+        "word": "Multi-Factor Authentication",
+        "description": "Multi-factor authentication is a security system that requires users to provide multiple forms of identification to access a system or service."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a digital ledger that records transactions across multiple computers, making it highly secure and tamper-resistant."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is the process of converting information into a form that can only be accessed or understood by authorized parties, preventing unauthorized access or interception."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "The Internet of Things refers to the network of physical devices connected to the internet that can collect and exchange data."
+    },
+    {
+        "word": "Privacy Laws",
+        "description": "Privacy laws are regulations that govern the collection, use, and protection of personal data."
+    },
+    {
+        "word": "Fraudulent Insurance Claims",
+        "description": "Fraudulent insurance claims involve filing false or exaggerated claims for financial gain."
+    },
+    {
+        "word": "Aml (Anti-Money Laundering)",
+        "description": "AML refers to the set of regulations, policies, and procedures implemented to prevent the generation of income through illegal activities."
+    },
+    {
+        "word": "Pci Dss (Payment Card Industry Data Security Standard)",
+        "description": "PCI DSS is a widely recognized set of security standards designed to ensure the safe handling of payment card information."
+    },
+    {
+        "word": "Insider Threat",
+        "description": "An insider threat refers to a current or former employee who uses their access to commit fraudulent activities."
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "Biometric Authentication is a security method that uses unique biological characteristics, such as fingerprints, facial recognition, or iris scans, to verify an individual's identity."
+    },
+    {
+        "word": "E-Commerce Fraud",
+        "description": "E-commerce fraud involves fraudulent activities specifically targeted at online retail platforms and transactions."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics involves analyzing large datasets to uncover patterns, correlations, and insights that can be used to prevent fraud."
+    },
+    {
+        "word": "Fraud Risk Management",
+        "description": "Fraud risk management is the process of identifying and mitigating fraud risks within an organization."
+    },
+    {
+        "word": "Data Validation",
+        "description": "Data validation is the process of ensuring that data entered or imported into a system is accurate, complete, and conforms to specified rules."
+    },
+    {
+        "word": "Fraud Triangle",
+        "description": "The fraud triangle is a framework used to analyze the three factors that contribute to fraudulent behavior: opportunity, pressure, and rationalization."
+    },
+    {
+        "word": "Stolen Identity",
+        "description": "Stolen identity refers to the unauthorized use of someone else's personal information to commit fraud or deception."
+    },
+    {
+        "word": "Risk Mitigation",
+        "description": "Risk mitigation involves implementing strategies to reduce the likelihood or impact of fraudulent activities."
+    },
+    {
+        "word": "Insurance Fraud",
+        "description": "Insurance fraud involves making false claims or providing misleading information to obtain insurance benefits."
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "KYC is the process of verifying the identity of customers to prevent fraudulent activities, money laundering, and terrorist financing."
+    },
+    {
+        "word": "Data Integrity",
+        "description": "Data integrity refers to the accuracy, consistency, and reliability of data, ensuring it remains unaltered and complete throughout its lifecycle."
+    },
+    {
+        "word": "Penetration Testing",
+        "description": "Penetration testing, or ethical hacking, involves simulating cyber attacks to identify vulnerabilities and weaknesses in a system's security."
+    },
+    {
+        "word": "Insider Trading",
+        "description": "Insider trading occurs when individuals trade stocks or other securities based on material non-public information."
+    },
+    {
+        "word": "Fraud Risk Assessment",
+        "description": "Fraud risk assessment is the process of evaluating the potential risks and vulnerabilities to fraudulent activities within an organization."
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "Fraud Detection is the process of identifying and preventing fraudulent activities."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning is a type of Machine Learning where the model is trained on a combination of labeled and unlabeled data, leveraging both types of information."
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a metric used to measure the proportion of correctly predicted positive instances out of the total predicted positive instances by a model."
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a metric used to measure the proportion of correctly predicted positive instances out of the total actual positive instances in a dataset."
+    },
+    {
+        "word": "F1 Score",
+        "description": "F1 Score is a metric used to evaluate the harmonized balance between precision and recall of a model, calculated as the weighted average of these two metrics."
+    },
+    {
+        "word": "Roc Curve",
+        "description": "ROC Curve (Receiver Operating Characteristic Curve) is a graphical representation of the performance of a binary classification model at various classification thresholds."
+    },
+    {
+        "word": "Auc",
+        "description": "AUC (Area Under the ROC Curve) is a metric used to evaluate the overall performance of a binary classification model, representing the area under the ROC Curve."
+    },
+    {
+        "word": "Decision Tree",
+        "description": "Decision Tree is a supervised learning algorithm used for classification and regression tasks, where the model creates a tree-like structure to make decisions based on feature conditions."
+    },
+    {
+        "word": "Random Forest",
+        "description": "Random Forest is an ensemble learning method that combines multiple Decision Trees to make predictions, resulting in improved accuracy and robustness."
+    },
+    {
+        "word": "Logistic Regression",
+        "description": "Logistic Regression is a statistical algorithm used for binary classification problems by estimating the probability of an input belonging to a certain class."
+    },
+    {
+        "word": "Neural Network",
+        "description": "Neural Network is a Machine Learning model inspired by the structure and functioning of the human brain, consisting of interconnected nodes (neurons) and layers."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of Machine Learning that focuses on modeling and learning high-level abstractions in data using artificial neural networks with multiple layers."
+    },
+    {
+        "word": "K-Means",
+        "description": "K-means is a popular clustering algorithm that partitions data into K clusters by minimizing the within-cluster sum of squared distances from each point to the centroid of its cluster."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a field of Artificial Intelligence that focuses on enabling machines to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Text Classification",
+        "description": "Text Classification is a task in Natural Language Processing (NLP) that involves categorizing text documents into predefined classes or categories."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting refers to a situation where a Machine Learning model is too simple and fails to capture the underlying patterns or relationships in the training data."
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "Cross-Validation is a resampling technique used to assess the performance and generalization ability of Machine Learning models by partitioning the data into multiple subsets."
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "Hyperparameter is a parameter defined outside of a Machine Learning model that determines its behavior, settings, or structure, often set before the learning process begins."
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization is a technique used in Machine Learning to prevent or reduce overfitting by adding a penalty term to the loss function, discouraging complex or extreme model parameter values."
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient Descent is an optimization algorithm used in Machine Learning to minimize the loss function and find the optimal values for the model parameters by iteratively updating them in the direction of steepest descent."
+    },
+    {
+        "word": "Anomaly Score",
+        "description": "Anomaly Score is a numerical value or metric assigned to each data point or instance, indicating its degree of deviance from the normal or expected behavior."
+    },
+    {
+        "word": "Black Box Model",
+        "description": "Black Box Model is a Machine Learning model or algorithm that provides predictions or results without revealing the underlying internal workings or reasons behind those predictions."
+    },
+    {
+        "word": "Gray Box Model",
+        "description": "Gray Box Model is a Machine Learning model or algorithm that provides some insight or limited access to the internal workings or intermediate representations used in the prediction process."
+    },
+    {
+        "word": "White Box Model",
+        "description": "White Box Model is a Machine Learning model or algorithm where the internal workings, structure, and reasoning behind the predictions are fully transparent, allowing for full visibility and control."
+    },
+    {
+        "word": "Bias",
+        "description": "Bias in Machine Learning refers to the systematic error or deviation of predictions from the actual values or outcomes, often caused by an overly simplified or insufficiently representative model."
+    },
+    {
+        "word": "Variance",
+        "description": "Variance in Machine Learning refers to the variability or spread of predictions across different instances or datasets, often caused by an excessively complex or overfitted model."
+    },
+    {
+        "word": "Imbalanced Dataset",
+        "description": "Imbalanced Dataset is a dataset where the distribution of classes is unequal or skewed, with one or more classes having significantly more or fewer instances than others."
+    },
+    {
+        "word": "Oversampling",
+        "description": "Oversampling is a technique used to mitigate the class imbalance problem in Machine Learning by artificially increasing the number of instances in the minority class."
+    },
+    {
+        "word": "Undersampling",
+        "description": "Undersampling is a technique used to mitigate the class imbalance problem in Machine Learning by reducing the number of instances in the majority class."
+    },
+    {
+        "word": "Smote",
+        "description": "SMOTE (Synthetic Minority Over-sampling Technique) is a popular algorithm used to address the class imbalance problem by generating synthetic instances of the minority class based on the existing instances."
+    },
+    {
+        "word": "Validation Set",
+        "description": "Validation Set is a subset of the data used for evaluating the performance of a Machine Learning model during training, often used to fine-tune the hyperparameters."
+    },
+    {
+        "word": "Holdout Set",
+        "description": "Holdout Set is a subset of the data used for the final evaluation of a Machine Learning model after training and model selection, providing an unbiased measure of its performance."
+    },
+    {
+        "word": "Cross-Site Scripting",
+        "description": "Cross-Site Scripting (XSS) is a type of security vulnerability where malicious scripts are injected into web pages viewed by users, allowing attackers to bypass security mechanisms and execute malicious code on the victim's browser."
+    },
+    {
+        "word": "Payment Card Skimming",
+        "description": "Payment Card Skimming is a technique used by attackers to steal credit or debit card information by installing malicious devices or software on point-of-sale (POS) systems or ATMs."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of replacing sensitive data, such as credit card numbers or social security numbers, with uniquely generated tokens that have no meaningful information, reducing the risk of data exposure."
+    },
+    {
+        "word": "Two-Factor Authentication",
+        "description": "Two-Factor Authentication (2FA) is a security mechanism that requires users to provide two different forms of authentication, typically a password and a unique code sent to their mobile device, to access an account or system."
+    },
+    {
+        "word": "Audit Trail",
+        "description": "Audit Trail is a record that captures and chronologically documents the activities, changes, or events related to a system or process, providing a comprehensive history for analysis and investigation."
+    },
+    {
+        "word": "Token Authentication",
+        "description": "Token Authentication is a security method that uses a unique token, often generated by a trusted third party, to authenticate and authorize users, reducing the exposure of sensitive credentials."
+    },
+    {
+        "word": "Anti-Money Laundering",
+        "description": "Anti-Money Laundering (AML) refers to the regulations, policies, and procedures implemented by financial institutions to prevent or detect activities associated with money laundering, terrorism financing, or other illicit funds."
+    },
+    {
+        "word": "Know Your Customer",
+        "description": "Know Your Customer (KYC) is a process followed by financial institutions to verify and gather relevant information about their customers in order to assess their identity, risk level, and suitability for financial services."
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "Regulatory Compliance refers to the adherence and conformance to laws, regulations, and guidelines set by governmental or industry-specific authorities, ensuring the legality, security, and ethical standards of an organization's operations."
+    },
+    {
+        "word": "Suspicious Activity Report",
+        "description": "Suspicious Activity Report (SAR) is a report submitted by financial institutions to relevant authorities when they suspect potentially unlawful or suspicious activities, such as money laundering or terrorist financing."
+    }
+]
