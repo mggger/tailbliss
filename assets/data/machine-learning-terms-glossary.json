@@ -1,0 +1,482 @@
+[
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised learning is a machine learning task that involves learning a function from labeled training data to make predictions or decisions on new, unseen data."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised learning is a machine learning task that involves learning patterns or relationships in unlabeled data."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement learning is a type of machine learning that involves an agent learning to make decisions in an environment to maximize a reward signal."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep learning is a subset of machine learning that focuses on artificial neural networks with multiple layers, allowing for complex and hierarchical representations of data."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A neural network is a computational model inspired by the structure and function of biological neural networks."
+    },
+    {
+        "word": "Feature",
+        "description": "A Feature is an individual measurable property or characteristic of a phenomenon being observed."
+    },
+    {
+        "word": "Feature Selection",
+        "description": "Feature Selection is the process of selecting a subset of relevant features from the original feature set."
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "Feature extraction is the process of selecting and transforming relevant features from the raw data to be used as input for machine learning algorithms."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting occurs when a machine learning model performs well on the training data but fails to generalize to new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting occurs when a machine learning model is too simple or has not been trained enough to capture the underlying patterns in the data."
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "Cross-validation is a technique used to assess the performance of a machine learning model by splitting the available data into multiple subsets for training and evaluation."
+    },
+    {
+        "word": "Bias",
+        "description": "In machine learning, bias refers to the tendency of a machine learning algorithm to consistently learn the same wrong thing."
+    },
+    {
+        "word": "Variance",
+        "description": "In statistics and machine learning, variance is a measure of how much the values in a dataset vary from the mean value."
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble learning is a machine learning technique that combines multiple models or classifiers to improve the overall predictive performance."
+    },
+    {
+        "word": "Classification",
+        "description": "Classification is a supervised learning task that involves assigning a label or category to input data based on its features."
+    },
+    {
+        "word": "Regression",
+        "description": "Regression is a supervised learning task that involves predicting a continuous numeric value based on input features."
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering is an unsupervised learning task that involves grouping similar data points together based on their characteristics or features."
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "description": "Dimensionality Reduction is a technique used to reduce the number of input features while retaining important information."
+    },
+    {
+        "word": "Bias-Variance Tradeoff",
+        "description": "The bias-variance tradeoff is the balance between a model's ability to make accurate predictions on new, unseen data (bias) and its sensitivity to fluctuations in the training data (variance)."
+    },
+    {
+        "word": "Precision",
+        "description": "In machine learning, precision is a measure of the accuracy of a classification model, defined as the ratio of correctly predicted positive samples to the total predicted positive samples."
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a metric used to measure the ability of a classification model to find all the relevant instances in a dataset."
+    },
+    {
+        "word": "F1 Score",
+        "description": "The F1 score is a metric used to measure the tradeoff between precision and recall in classification tasks, calculated as the harmonic mean of precision and recall."
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A confusion matrix is a table used to describe the performance of a classification model by comparing its predicted labels with the true labels of the test data."
+    },
+    {
+        "word": "Roc Curve",
+        "description": "The ROC Curve is a graphical representation of the tradeoff between the true positive rate and the false positive rate."
+    },
+    {
+        "word": "Auc-Roc",
+        "description": "The AUC-ROC is the area under the ROC curve, providing an aggregate measure of a classification model's performance."
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient descent is an optimization algorithm used to minimize the loss function and find the optimal values of a model's parameters."
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation is a method used to train neural networks by computing the gradient of the loss function with respect to the network's weights."
+    },
+    {
+        "word": "Batch Size",
+        "description": "Batch Size is a hyperparameter that determines the number of training samples used in each iteration of the optimization algorithm during model training."
+    },
+    {
+        "word": "Epoch",
+        "description": "In machine learning, an epoch refers to one complete pass of the entire training dataset through the model during the training process."
+    },
+    {
+        "word": "Learning Rate",
+        "description": "The learning rate is a hyperparameter that controls the step size or rate at which a machine learning model learns from the training data."
+    },
+    {
+        "word": "Activation Function",
+        "description": "An activation function is a mathematical function applied to the output of a neuron in an artificial neural network."
+    },
+    {
+        "word": "Dropout",
+        "description": "Dropout is a regularization technique used in neural networks to prevent overfitting by randomly disabling a proportion of neurons during training."
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch normalization is a technique used to normalize the inputs of each layer in a neural network to improve training performance and stability."
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "A convolutional neural network (CNN) is a type of artificial neural network that is particularly effective for analyzing visual data."
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "A recurrent neural network (RNN) is a type of artificial neural network designed to process sequential data by using an internal memory."
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network that addresses the vanishing gradient problem and can retain information for long periods."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "An artificial neural network (ANN) is a computational model inspired by the structure and function of biological neural networks."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a subfield of AI that focuses on the interaction between computers and human language, enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "Transfer learning is a machine learning technique where a pretrained model is used as a starting point for a new task."
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) are a type of neural network architecture that consists of two components: a generator network and a discriminator network, trained together to generate realistic data."
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "A hyperparameter is a parameter that is not learned directly from the training data but is set manually before training a machine learning model."
+    },
+    {
+        "word": "Grid Search",
+        "description": "Grid Search is a technique used to find the best combination of hyperparameter values for a Machine Learning model by exhaustively searching through a specified subset of the hyperparameter space."
+    },
+    {
+        "word": "Feature Scaling",
+        "description": "Feature Scaling is the process of normalizing or standardizing the range and distribution of input features, ensuring that each feature contributes equally to the machine learning model."
+    },
+    {
+        "word": "One-Hot Encoding",
+        "description": "One-hot encoding is a technique used to represent categorical variables as binary vectors or multiple binary variables."
+    },
+    {
+        "word": "Gradient Boosting",
+        "description": "Gradient Boosting is an ensemble learning technique that combines multiple weak models into a strong model, with each model sequentially learning from the mistakes of the previous models."
+    },
+    {
+        "word": "Xgboost",
+        "description": "XGBoost is an optimized gradient boosting machine learning library that is widely used for supervised learning tasks."
+    },
+    {
+        "word": "Random Forest",
+        "description": "A random forest is an ensemble learning method that combines multiple decision trees to create a more robust and accurate model."
+    },
+    {
+        "word": "K-Nearest Neighbors",
+        "description": "K-nearest Neighbors (KNN) is a non-parametric classification algorithm that makes predictions based on the majority vote of the K nearest training examples in the feature space."
+    },
+    {
+        "word": "Support Vector Machine",
+        "description": "Support Vector Machine (SVM) is a supervised learning algorithm that separates data points by finding the optimal hyperplane that maximizes the margin between different classes."
+    },
+    {
+        "word": "Principal Component Analysis",
+        "description": "Principal Component Analysis (PCA) is a dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional space while preserving the most relevant information."
+    },
+    {
+        "word": "Latent Dirichlet Allocation",
+        "description": "Latent Dirichlet Allocation (LDA) is a probabilistic generative model used for topic modeling."
+    },
+    {
+        "word": "Bias Correction",
+        "description": "Bias Correction is a technique used to correct for bias in models by applying adjustments or corrections."
+    },
+    {
+        "word": "Bootstrapping",
+        "description": "Bootstrapping is a resampling technique where multiple training datasets are created by sampling with replacement from the original dataset."
+    },
+    {
+        "word": "Bagging",
+        "description": "Bagging is an ensemble learning technique that involves training multiple models on different random subsets of the training data and averaging their predictions."
+    },
+    {
+        "word": "Boosting",
+        "description": "Boosting is an ensemble learning technique that trains models sequentially, with each model placing more importance on the misclassified instances from the previous models."
+    },
+    {
+        "word": "Cost Function",
+        "description": "A Cost Function is a measure of the error or difference between the predicted output of a Machine Learning model and the actual output."
+    },
+    {
+        "word": "Loss Function",
+        "description": "A loss function is a measure of how well a machine learning model is able to predict the correct outcome for a given input."
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization is a technique used to prevent overfitting in machine learning models by adding a penalty term to the loss function."
+    },
+    {
+        "word": "L1 Regularization",
+        "description": "L1 regularization, also known as Lasso regularization, is a technique used to add a penalty term to the loss function to encourage sparsity in the model's weights."
+    },
+    {
+        "word": "L2 Regularization",
+        "description": "L2 regularization, also known as Ridge regularization, is a technique used to add a penalty term to the loss function to prevent large weight values."
+    },
+    {
+        "word": "Early Stopping",
+        "description": "Early Stopping is a technique used to prevent overfitting by monitoring the performance of a Machine Learning model on a validation set and stopping the training when the performance starts to degrade."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a field of Artificial Intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to learn and make decisions or predictions without explicit programming."
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "Feature Engineering is the process of transforming raw data into a format that can be used by machine learning algorithms, often involving creating new features."
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data preprocessing is a crucial step in machine learning that involves cleaning, transforming, and preparing the data for training and testing."
+    },
+    {
+        "word": "Training Data",
+        "description": "Training Data is a portion of data used to train a machine learning model, consisting of input data and corresponding output or target values."
+    },
+    {
+        "word": "Testing Data",
+        "description": "Testing Data is a portion of data used to evaluate the performance of a machine learning model, to assess its accuracy and generalization abilities."
+    },
+    {
+        "word": "Validation Data",
+        "description": "Validation Data is a portion of data used to tune the hyperparameters of a machine learning model and assess its performance during training."
+    },
+    {
+        "word": "Accuracy",
+        "description": "Accuracy is a performance metric that measures the overall correctness of predictions made by a machine learning model."
+    },
+    {
+        "word": "Support Vector Machines",
+        "description": "Support Vector Machines (SVM) is a machine learning algorithm that separates instances into different classes by finding the best possible hyperplane."
+    },
+    {
+        "word": "K-Means Clustering",
+        "description": "K-means clustering is a popular unsupervised learning algorithm used to partition a dataset into K non-overlapping clusters based on the similarity of the data points."
+    },
+    {
+        "word": "Feature Importance",
+        "description": "Feature Importance is a measure of the relevance or contribution of an input feature in a machine learning model's predictions."
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data augmentation is a technique used to artificially increase the size of a training dataset by creating modified versions of existing data."
+    },
+    {
+        "word": "Autoencoder",
+        "description": "An Autoencoder is a type of neural network architecture used for unsupervised learning and dimensionality reduction."
+    },
+    {
+        "word": "Recommender System",
+        "description": "A Recommender System is an information filtering system that predicts and suggests items or content to users based on their preferences and previous interactions."
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "Time Series Analysis is a field of machine learning that focuses on analyzing and forecasting data points or observations collected over a continuous time interval."
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection is the task of identifying instances that deviate significantly from the normal behavior or pattern of a dataset."
+    },
+    {
+        "word": "Optimization Algorithm",
+        "description": "An Optimization Algorithm is a method used to find the best values for the parameters of a machine learning model, minimizing a specific loss function and improving performance."
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "A Convolutional Neural Network (CNN) is a type of neural network commonly used for image recognition and processing."
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "A Recurrent Neural Network (RNN) is a type of neural network designed to process sequential data by using the concept of memory."
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "Natural Language Processing (NLP) is a subfield of AI that focuses on the interaction between computers and human language."
+    },
+    {
+        "word": "Generative Adversarial Network (Gan)",
+        "description": "A Generative Adversarial Network (GAN) is a type of neural network architecture used for generative modeling."
+    },
+    {
+        "word": "Batch Gradient Descent",
+        "description": "Batch Gradient Descent is a type of gradient descent algorithm that updates model parameters using the entire training dataset at once."
+    },
+    {
+        "word": "Stochastic Gradient Descent (Sgd)",
+        "description": "Stochastic Gradient Descent (SGD) is a type of gradient descent algorithm that updates model parameters using a random subset of the training data."
+    },
+    {
+        "word": "Mini-Batch Gradient Descent",
+        "description": "Mini-batch Gradient Descent is a type of gradient descent algorithm that updates model parameters using small random batches of the training data."
+    },
+    {
+        "word": "L1 Regularization (Lasso)",
+        "description": "L1 Regularization, also known as Lasso, is a regularization technique that adds the sum of the absolute values of the coefficients to the loss function."
+    },
+    {
+        "word": "L2 Regularization (Ridge)",
+        "description": "L2 Regularization, also known as Ridge, is a regularization technique that adds the sum of the squared values of the coefficients to the loss function."
+    },
+    {
+        "word": "Support Vector Machine (Svm)",
+        "description": "A Support Vector Machine (SVM) is a supervised learning algorithm that can be used for classification or regression tasks."
+    },
+    {
+        "word": "Kernel Function",
+        "description": "A Kernel Function is a mathematical function that transforms input data into a higher-dimensional space, allowing non-linear classification in SVMs."
+    },
+    {
+        "word": "Principal Component Analysis (Pca)",
+        "description": "Principal Component Analysis (PCA) is a technique used for dimensionality reduction by projecting data onto a lower-dimensional space."
+    },
+    {
+        "word": "Deployment",
+        "description": "Deployment refers to the process of putting a trained machine learning model into production and making it available for use."
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "Model Evaluation is the process of assessing the performance of a trained machine learning model on unseen data."
+    },
+    {
+        "word": "Precision-Recall Curve",
+        "description": "A Precision-Recall Curve is a graphical representation of the performance of a classification model at different classification thresholds."
+    },
+    {
+        "word": "Receiver Operating Characteristic (Roc) Curve",
+        "description": "A Receiver Operating Characteristic (ROC) Curve is a graphical representation of the performance of a classification model at different classification thresholds."
+    },
+    {
+        "word": "Area Under The Curve (Auc)",
+        "description": "The Area Under the Curve (AUC) is a metric used to evaluate the performance of a classification model by measuring the area under the ROC curve."
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "Distributed Computing refers to the use of multiple computers or servers to solve complex problems or process large amounts of data."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big data refers to extremely large and complex datasets that cannot be easily managed, processed, or analyzed using traditional data processing techniques."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing refers to the delivery of computing services, such as storage, processing power, or AI algorithms, over the internet."
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning is a combination of deep learning and reinforcement learning, where neural networks are used to learn complex policies."
+    },
+    {
+        "word": "Automl",
+        "description": "AutoML, or Automated Machine Learning, refers to the use of AI algorithms to automatically build and optimize machine learning models without human intervention."
+    },
+    {
+        "word": "Algorithm",
+        "description": "An algorithm is a step-by-step procedure or set of rules designed to solve a specific problem or execute a specific task."
+    },
+    {
+        "word": "Decision Tree",
+        "description": "A decision tree is a flowchart-like structure that is used to model and analyze decisions or decision-making processes."
+    },
+    {
+        "word": "Inference",
+        "description": "In machine learning, inference refers to the process of using a trained model to make predictions or decisions on new, unseen data."
+    },
+    {
+        "word": "Logistic Regression",
+        "description": "Logistic regression is a statistical model used to predict the probability of a binary or categorical outcome based on one or more independent variables."
+    },
+    {
+        "word": "Sigmoid",
+        "description": "The sigmoid function is a mathematical function that maps any real-valued number to a value between 0 and 1."
+    },
+    {
+        "word": "Svm",
+        "description": "Support Vector Machines (SVMs) are a popular machine learning method for classification and regression tasks."
+    },
+    {
+        "word": "Tensor",
+        "description": "In machine learning, a tensor is a mathematical object that is a generalization of scalars, vectors, and matrices, and is used to represent multi-dimensional arrays."
+    },
+    {
+        "word": "Training Set",
+        "description": "In machine learning, the training set is a subset of data used to train a machine learning model by adjusting its parameters based on the provided input and output examples."
+    },
+    {
+        "word": "Validation Set",
+        "description": "In machine learning, the validation set is a subset of the data used to evaluate the performance of a trained model and tune its hyperparameters."
+    },
+    {
+        "word": "Zero-Padding",
+        "description": "Zero-padding is a technique used to increase the size of an input by adding zeros to the beginning or end of a sequence."
+    },
+    {
+        "word": "Exploratory Data Analysis",
+        "description": "Exploratory data analysis (EDA) is an approach to analyze and summarize the main characteristics of a dataset to gain insights and make informed decisions."
+    },
+    {
+        "word": "Gaussian Distribution",
+        "description": "The Gaussian distribution, also known as the normal distribution or bell curve, is a common continuous probability distribution used in statistics and machine learning."
+    },
+    {
+        "word": "Hypothesis Testing",
+        "description": "Hypothesis testing is a statistical method used to make inferences and draw conclusions about a population based on a sample of data."
+    },
+    {
+        "word": "Imputation",
+        "description": "Imputation is the process of filling in missing data values with estimated values based on the available information in the dataset."
+    },
+    {
+        "word": "Min-Max Scaling",
+        "description": "Min-max scaling is a technique used to normalize the features of a dataset to a fixed range, typically between 0 and 1."
+    },
+    {
+        "word": "Nlp",
+        "description": "Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language."
+    },
+    {
+        "word": "Pca",
+        "description": "Principal Component Analysis (PCA) is a dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional representation."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-supervised learning is a machine learning approach that combines labeled and unlabeled data to improve the performance of a model."
+    },
+    {
+        "word": "Word Embedding",
+        "description": "Word embedding is a technique used to represent words or phrases as numerical vectors in a high-dimensional space, allowing for the analysis and processing of textual data."
+    },
+    {
+        "word": "X-Axis",
+        "description": "The x-axis is the horizontal axis in a coordinate system, used to represent the independent variable or predictor."
+    },
+    {
+        "word": "Y-Axis",
+        "description": "The y-axis is the vertical axis in a coordinate system, used to represent the dependent variable or response."
+    }
+]
