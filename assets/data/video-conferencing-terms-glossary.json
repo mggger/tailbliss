@@ -1,0 +1,406 @@
+[
+    {
+        "word": "Video Conferencing",
+        "description": "Video Conferencing allows people in different locations to meet and communicate through audio and video transmissions."
+    },
+    {
+        "word": "Webcam",
+        "description": "Webcam is a camera device used to capture video and audio of participants in a video conferencing call."
+    },
+    {
+        "word": "Microphone",
+        "description": "Microphone is a device used to capture audio in a video conferencing call."
+    },
+    {
+        "word": "Speaker",
+        "description": "Speaker is a device used to output audio in a video conferencing call."
+    },
+    {
+        "word": "Bandwidth",
+        "description": "Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time."
+    },
+    {
+        "word": "Latency",
+        "description": "Latency is the delay or lag between the transmission and receipt of data in a video conferencing call."
+    },
+    {
+        "word": "Firewall",
+        "description": "Firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+    },
+    {
+        "word": "Endpoint",
+        "description": "Endpoint is a device, such as a computer, smartphone, or conferencing system, that is used to initiate or receive video conferencing calls."
+    },
+    {
+        "word": "Codec",
+        "description": "Codec is a device or software that is used to compress and decompress audio and video data for transmission over a network."
+    },
+    {
+        "word": "Resolution",
+        "description": "Resolution refers to the number of pixels displayed on a screen, impacting the clarity and detail of video images during a video conferencing call."
+    },
+    {
+        "word": "Frame Rate",
+        "description": "Frame rate is the number of individual frames or images displayed per second, determining the fluidity and smoothness of video motion during a video conferencing session."
+    },
+    {
+        "word": "H.264",
+        "description": "H.264 is a video compression standard widely used in video conferencing, providing efficient and high-quality video compression while minimizing bandwidth requirements."
+    },
+    {
+        "word": "H.265",
+        "description": "H.265, also known as High Efficiency Video Coding (HEVC), is an advanced video compression standard that offers higher video quality at lower bitrates compared to H.264."
+    },
+    {
+        "word": "Multipoint Conference",
+        "description": "A multipoint conference is a video conferencing session involving three or more participants located in different places, enabling multi-party communication."
+    },
+    {
+        "word": "Point-To-Point Conference",
+        "description": "A point-to-point conference is a video conferencing session between two participants located in different places, enabling one-on-one communication."
+    },
+    {
+        "word": "Virtual Background",
+        "description": "Virtual Background is a feature in video conferencing that allows users to replace their actual background with a virtual image or video."
+    },
+    {
+        "word": "Screen Sharing",
+        "description": "Screen Sharing is a feature in video conferencing that allows participants to share their computer screen with others in the meeting."
+    },
+    {
+        "word": "Interactive Whiteboard",
+        "description": "An interactive whiteboard is a collaboration tool in video conferencing that enables participants to draw, write, and annotate on a shared digital whiteboard in real-time."
+    },
+    {
+        "word": "Chat",
+        "description": "Chat is a feature in video conferencing applications that enables participants to send text messages to each other during a video conferencing session, facilitating real-time communication."
+    },
+    {
+        "word": "Participant",
+        "description": "A participant is an individual who is actively involved in a video conferencing session, either as a speaker, viewer, or collaborator."
+    },
+    {
+        "word": "Host",
+        "description": "The host of a video conferencing session is the person responsible for setting up and managing the session, including inviting participants, controlling features, and ensuring smooth communication."
+    },
+    {
+        "word": "Meeting Room",
+        "description": "Meeting Room is a dedicated physical space equipped with video conferencing equipment for holding remote meetings."
+    },
+    {
+        "word": "Web Conferencing",
+        "description": "Web Conferencing is a form of video conferencing that specifically relies on web-based technologies and platforms to facilitate virtual meetings and collaborations."
+    },
+    {
+        "word": "Conference Call",
+        "description": "A conference call is a telephone call in which three or more participants can communicate simultaneously, often used interchangeably with video conferencing."
+    },
+    {
+        "word": "Group Chat",
+        "description": "Group chat is a feature in video conferencing applications that allows multiple participants to engage in a text-based conversation during a video conference."
+    },
+    {
+        "word": "Recording",
+        "description": "Recording is the process of capturing and storing a video conferencing session for later playback or reference."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is the process of converting data into a coded form to prevent unauthorized access."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a user or device in a video conferencing system."
+    },
+    {
+        "word": "Single Sign-On (Sso)",
+        "description": "Single Sign-On (SSO) is an authentication process that allows users to access multiple applications or systems with a single set of login credentials."
+    },
+    {
+        "word": "Cloud-Based",
+        "description": "Cloud-based refers to a video conferencing solution hosted on remote servers and accessed via the internet."
+    },
+    {
+        "word": "On-Premises",
+        "description": "On-premises refers to a video conferencing solution that is hosted and managed within an organization's own infrastructure."
+    },
+    {
+        "word": "Virtual Meeting",
+        "description": "Virtual Meeting is a video conferencing session where participants join remotely from different locations."
+    },
+    {
+        "word": "Webinar",
+        "description": "A webinar is a live or recorded web-based seminar or presentation that allows participants to join remotely and interact with the presenter or host."
+    },
+    {
+        "word": "Video Conferencing Room",
+        "description": "A video conferencing room is a dedicated physical space equipped with video conferencing systems and equipment for conducting high-quality video conferencing sessions."
+    },
+    {
+        "word": "Video Bridge",
+        "description": "A video bridge, also known as a Multipoint Control Unit (MCU), is a device or software that enables multipoint video conferencing by connecting multiple endpoints into a single video stream."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual Reality (VR) is a technology that immerses users in a simulated, interactive 3D environment, enhancing the visual and sensory experience of video conferencing."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality (AR) is a technology that overlays virtual objects, information, or visuals onto the real-world environment, enhancing the visual and collaborative aspects of video conferencing."
+    },
+    {
+        "word": "Virtual Meeting Background",
+        "description": "A virtual meeting background is a feature in video conferencing applications that allows users to replace the actual background with a virtual image or video, enhancing the aesthetics and privacy of the video conference."
+    },
+    {
+        "word": "Breakout Rooms",
+        "description": "Breakout rooms are virtual rooms within a video conferencing session that allow participants to divide into smaller groups for discussions, collaborations, or activities."
+    },
+    {
+        "word": "Webcasting",
+        "description": "Webcasting is the live broadcasting of video and audio content over the internet, allowing a large number of participants to watch and listen to a presentation or event in real-time."
+    },
+    {
+        "word": "Virtual Waiting Room",
+        "description": "Virtual Waiting Room is a feature that allows participants to wait in a virtual area before being admitted to a video conference."
+    },
+    {
+        "word": "Presenter",
+        "description": "A presenter is an individual who leads or delivers a presentation or content during a video conferencing session, typically sharing their screen and engaging with participants through audio and video."
+    },
+    {
+        "word": "Co-Host",
+        "description": "A co-host is a participant in a video conferencing session who has been assigned additional hosting privileges by the host, such as muting participants, managing controls, or controlling content sharing."
+    },
+    {
+        "word": "Hand Raise",
+        "description": "Hand raise is a feature in video conferencing applications that allows participants to electronically indicate that they have a question, comment, or request, facilitating structured communication and interaction."
+    },
+    {
+        "word": "Background Noise Suppression",
+        "description": "Background noise suppression is a feature in video conferencing applications that suppresses or filters out unwanted background noise, enhancing the clarity and intelligibility of audio during a video conference."
+    },
+    {
+        "word": "Headset",
+        "description": "Headset is a device worn on the head that combines headphones and a microphone for better audio quality in a video conference."
+    },
+    {
+        "word": "Digital Signal Processing (Dsp)",
+        "description": "Digital Signal Processing (DSP) is the technology used to process and enhance audio signals in real-time during a video conferencing session, improving the overall audio quality."
+    },
+    {
+        "word": "Low Light Correction",
+        "description": "Low light correction is a feature in video conferencing applications that automatically adjusts the video settings to compensate for poor lighting conditions, ensuring better visibility and image quality."
+    },
+    {
+        "word": "Screen Recording",
+        "description": "Screen recording is a feature in video conferencing applications that allows participants to record their screen activity during a video conference, capturing both video and audio for later reference or sharing."
+    },
+    {
+        "word": "Waiting Room",
+        "description": "A waiting room is a virtual space in video conferencing applications where participants can wait before the host admits them to the main video conference, ensuring privacy and security."
+    },
+    {
+        "word": "Two-Factor Authentication (2Fa)",
+        "description": "Two-Factor Authentication (2FA) is a security measure that requires users to provide two forms of identification, typically a password and a verification code sent to a mobile device, to access a video conference."
+    },
+    {
+        "word": "Scheduling",
+        "description": "Scheduling is the process of setting a date, time, and agenda for a video conferencing session, facilitating coordination and organization among participants."
+    },
+    {
+        "word": "Mobile Application",
+        "description": "A mobile application is a software application designed to run on mobile devices, allowing users to access and participate in video conferencing sessions using smartphones or tablets."
+    },
+    {
+        "word": "Virtual Break",
+        "description": "A virtual break is a scheduled pause or recess during a video conferencing session, allowing participants to take a short break, refresh, or engage in informal conversations."
+    },
+    {
+        "word": "Virtual Handshake",
+        "description": "A virtual handshake is a metaphorical expression for an exchange of greetings or introductions that occur at the beginning of a video conferencing session, establishing rapport and connection among participants."
+    },
+    {
+        "word": "Internet Protocol (Ip)",
+        "description": "Internet Protocol (IP) is a set of rules governing the format of data packets and their transmission over the internet or a network, enabling video conferencing communication."
+    },
+    {
+        "word": "Quality Of Service (Qos)",
+        "description": "Quality of Service (QoS) is a measure of the performance and reliability of a network connection, ensuring the consistent delivery of high-quality audio and video during a video conference."
+    },
+    {
+        "word": "Streaming",
+        "description": "Streaming is the continuous transmission of audio or video data over a network, allowing participants to view or listen to the content in real-time without having to wait for the entire file to download."
+    },
+    {
+        "word": "Multimedia",
+        "description": "Multimedia refers to the integration of different forms of media, such as text, images, audio, and video, in a video conferencing session to enhance communication, engagement, and understanding."
+    },
+    {
+        "word": "Virtual Handover",
+        "description": "A virtual handover is the transfer of control or hosting of a video conferencing session from one participant to another, allowing seamless continuity and smooth transition of the session."
+    },
+    {
+        "word": "Privacy",
+        "description": "Privacy in video conferencing refers to the protection and confidentiality of participants' personal information, conversations, and data shared or discussed during a video conference."
+    },
+    {
+        "word": "Accessibility",
+        "description": "Accessibility in video conferencing refers to the inclusive design and features that enable individuals with disabilities to participate and engage in video conferencing sessions, ensuring equal opportunities and experiences for all."
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) refers to the visual layout, controls, and menus in a video conferencing application that allow users to interact with the software and access its various features and functions."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) encompasses the overall experience and satisfaction of users while using a video conferencing application, including ease of use, efficiency, and effectiveness of the software."
+    },
+    {
+        "word": "Technical Support",
+        "description": "Technical support in video conferencing refers to the assistance and troubleshooting services provided to users in case of technical issues, problems, or questions related to the video conferencing software or equipment."
+    },
+    {
+        "word": "Software Update",
+        "description": "A software update is a release of new features, bug fixes, or improvements to a video conferencing application or system, ensuring that users have access to the latest technology and functionalities."
+    },
+    {
+        "word": "User Training",
+        "description": "User training in video conferencing involves providing education and guidance to users on how to effectively use the video conferencing software, features, and best practices for successful video conferences."
+    },
+    {
+        "word": "Protocol",
+        "description": "Protocol refers to a set of rules governing the format and transmission of data in a network."
+    },
+    {
+        "word": "Hd Video",
+        "description": "HD Video refers to high-definition video with a resolution of at least 720p."
+    },
+    {
+        "word": "Screen Layout",
+        "description": "Screen Layout refers to the arrangement of video feeds or content on the screen during a video conference."
+    },
+    {
+        "word": "Far-End Camera Control",
+        "description": "Far-end Camera Control is a feature that allows participants to remotely control the camera in another location during a video conference."
+    },
+    {
+        "word": "Voip",
+        "description": "VoIP (Voice over Internet Protocol) is a technology that allows voice communication over the internet."
+    },
+    {
+        "word": "Unified Communications",
+        "description": "Unified Communications refers to the integration of various communication channels, including video conferencing, into a single platform."
+    },
+    {
+        "word": "Multipoint Control Unit",
+        "description": "Multipoint Control Unit (MCU) is a device or software that enables simultaneous connections between multiple video conferencing endpoints."
+    },
+    {
+        "word": "Pin",
+        "description": "PIN (Personal Identification Number) is a numeric code used to authenticate users in a video conferencing system."
+    },
+    {
+        "word": "Qos",
+        "description": "QoS (Quality of Service) refers to the measurement and optimization of network performance to ensure reliable video conferencing."
+    },
+    {
+        "word": "Sip",
+        "description": "SIP (Session Initiation Protocol) is a signaling protocol used to establish, modify, and terminate communication sessions in an IP network."
+    },
+    {
+        "word": "H.323",
+        "description": "H.323 is a standard for audio, video, and data communication over IP networks, commonly used in video conferencing systems."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability refers to the ability of different video conferencing systems and devices to communicate with each other."
+    },
+    {
+        "word": "Huddle Room",
+        "description": "Huddle Room is a small meeting space equipped with video conferencing capabilities, designed for quick collaborations."
+    },
+    {
+        "word": "Breakout Room",
+        "description": "Breakout Room is a separate virtual meeting space created within a larger video conference to facilitate smaller group discussions."
+    },
+    {
+        "word": "Cloud Recording",
+        "description": "Cloud Recording is a feature that allows video conferencing sessions to be automatically recorded and stored in the cloud."
+    },
+    {
+        "word": "Layout Management",
+        "description": "Layout Management is the ability to control the arrangement and display of video feeds or content during a video conference."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a computer-generated simulation of a three-dimensional environment that can be interacted with using specialized hardware, such as VR headsets."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is a technology that overlays digital content onto the real-world environment, enhancing the user's perception and interaction with the surroundings."
+    },
+    {
+        "word": "Whiteboard",
+        "description": "Whiteboard is a virtual space in a video conferencing system where participants can draw, write, and share ideas."
+    },
+    {
+        "word": "Data Sharing",
+        "description": "Data Sharing is the ability to share files, documents, or presentations with other participants during a video conference."
+    },
+    {
+        "word": "Digital Signage",
+        "description": "Digital Signage refers to the use of digital displays or screens to show information or advertisements in a video conferencing environment."
+    },
+    {
+        "word": "Echo Cancellation",
+        "description": "Echo Cancellation is a technology that reduces echo and feedback in a video conferencing call caused by audio reflecting off surfaces."
+    },
+    {
+        "word": "Noise Reduction",
+        "description": "Noise Reduction is a feature that removes or suppresses background noise in a video conferencing call to improve audio quality."
+    },
+    {
+        "word": "Dial-In",
+        "description": "Dial-In is a method of joining a video conference by calling a designated phone number and entering a meeting ID."
+    },
+    {
+        "word": "Breakout Session",
+        "description": "Breakout Session is a smaller session or group discussion that is held separately within a larger video conference."
+    },
+    {
+        "word": "Dual Stream",
+        "description": "Dual Stream is a feature that allows simultaneous transmission of two video feeds, such as a main speaker and a shared presentation."
+    },
+    {
+        "word": "Green Screen",
+        "description": "Green Screen is a tool used in video conferencing to replace the background with a chosen virtual image or video."
+    },
+    {
+        "word": "Speaker Tracking",
+        "description": "Speaker Tracking is a technology that automatically detects and focuses on the active speaker during a video conference."
+    },
+    {
+        "word": "Rtp",
+        "description": "RTP (Real-time Transport Protocol) is a protocol used for the delivery of real-time audio and video over IP networks."
+    },
+    {
+        "word": "Webrtc",
+        "description": "WebRTC (Web Real-Time Communication) is a free, open-source project that enables real-time communication in web browsers through API."
+    },
+    {
+        "word": "Aspect Ratio",
+        "description": "Aspect Ratio is the ratio of the width to the height of a video display or frame."
+    },
+    {
+        "word": "Pan-Tilt-Zoom",
+        "description": "Pan-Tilt-Zoom (PTZ) is a feature in video conferencing cameras that allows remote control of the camera's movement and zoom functions."
+    },
+    {
+        "word": "Video Layout",
+        "description": "Video Layout refers to the arrangement and display of video feeds or content during a video conference."
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "Virtual Assistant is an AI-powered software that can perform tasks or provide information during a video conference."
+    }
+]
