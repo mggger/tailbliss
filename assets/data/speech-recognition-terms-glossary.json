@@ -1,0 +1,426 @@
+[
+    {
+        "word": "Speech Recognition",
+        "description": "Speech Recognition is the ability of a machine or program to identify and understand spoken language, converting it into written text or interpreting its meaning."
+    },
+    {
+        "word": "Automatic Speech Recognition (Asr)",
+        "description": "Automatic Speech Recognition (ASR) is the process of converting spoken language into written text using speech recognition technology."
+    },
+    {
+        "word": "Acoustic Model",
+        "description": "An Acoustic Model is a statistical representation of the relationship between the acoustic features of speech, such as phonemes or spectrums, and the corresponding linguistic units."
+    },
+    {
+        "word": "Language Model",
+        "description": "A Language Model is a statistical model that predicts the probability of the occurrence of a sequence of words, helping in the interpretation and understanding of speech."
+    },
+    {
+        "word": "Hidden Markov Model (Hmm)",
+        "description": "Hidden Markov Model (HMM) is a statistical model used to represent the probability distribution of a sequence of observable events, where the underlying states generating those events are not directly observable."
+    },
+    {
+        "word": "Phoneme",
+        "description": "A Phoneme is the smallest unit of sound that distinguishes one word from another in a particular language."
+    },
+    {
+        "word": "Grapheme",
+        "description": "A Grapheme is the smallest meaningful unit of written symbol in a language."
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "Feature Extraction is the process of selecting relevant and discriminative features from speech signals."
+    },
+    {
+        "word": "Mel-Frequency Cepstral Coefficients (Mfccs)",
+        "description": "Mel-Frequency Cepstral Coefficients (MFCCs) are widely used features for speech recognition, representing the power spectrum of a speech signal."
+    },
+    {
+        "word": "Hidden Unit",
+        "description": "A Hidden Unit is a node in an artificial neural network that receives inputs and applies a non-linear transformation to compute its output."
+    },
+    {
+        "word": "Connectionist Temporal Classification (Ctc)",
+        "description": "Connectionist Temporal Classification (CTC) is a technique used for training sequence-to-sequence models, such as speech recognition models."
+    },
+    {
+        "word": "Deep Neural Networks (Dnns)",
+        "description": "Deep Neural Networks (DNNs) are a class of artificial neural networks with multiple layers between the input and output layers."
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "A Recurrent Neural Network (RNN) is a type of artificial neural network designed to process sequential data by maintaining information about past inputs."
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "Long Short-Term Memory (LSTM) is a type of RNN architecture that addresses the vanishing gradient problem."
+    },
+    {
+        "word": "Convolutional Neural Networks (Cnns)",
+        "description": "Convolutional Neural Networks (CNNs) are deep learning models commonly used for image and speech recognition tasks."
+    },
+    {
+        "word": "Speaker Verification",
+        "description": "Speaker Verification is the task of authenticating or verifying the claimed identity of a speaker by comparing their voice characteristics with stored voiceprints."
+    },
+    {
+        "word": "Keyword Spotting",
+        "description": "Keyword Spotting is a speech recognition technique that focuses on identifying and recognizing specific keywords or phrases within audio recordings."
+    },
+    {
+        "word": "Language Identification",
+        "description": "Language Identification is the task of determining the language of a given speech or text."
+    },
+    {
+        "word": "Word Error Rate (Wer)",
+        "description": "Word Error Rate (WER) is a metric used to measure the accuracy of a speech recognition system by comparing the number of word errors in the recognized output to the reference transcription."
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A Confusion Matrix is a table used to evaluate the performance of a classification model, showing the number of true positive, true negative, false positive, and false negative predictions."
+    },
+    {
+        "word": "Segmentation",
+        "description": "Segmentation is the process of dividing a continuous speech signal into smaller segments to facilitate further processing."
+    },
+    {
+        "word": "Voice Activity Detection (Vad)",
+        "description": "Voice Activity Detection (VAD) is the task of detecting the presence or absence of human speech in an audio signal."
+    },
+    {
+        "word": "Noise Reduction",
+        "description": "Noise Reduction is the process of removing unwanted noise from a speech signal to enhance its quality."
+    },
+    {
+        "word": "Keyword Extraction",
+        "description": "Keyword Extraction is the process of identifying and extracting important words or phrases from a speech or text."
+    },
+    {
+        "word": "Phonetic Segmentation",
+        "description": "Phonetic Segmentation is the process of dividing a speech signal into phonetic units, such as phonemes or syllables."
+    },
+    {
+        "word": "Spectrogram",
+        "description": "A Spectrogram is a visual representation of the frequency content of an audio signal over time."
+    },
+    {
+        "word": "Word Spotting",
+        "description": "Word Spotting is a speech recognition task that involves finding occurrences of specific words within a large collection of spoken utterances."
+    },
+    {
+        "word": "Pitch Detection",
+        "description": "Pitch Detection is the process of estimating the fundamental frequency of a speech signal, which corresponds to the perceived pitch."
+    },
+    {
+        "word": "Language Modeling",
+        "description": "Language Modeling is the process of estimating the probability of a sequence of words in a given language."
+    },
+    {
+        "word": "Beam Search",
+        "description": "Beam Search is a search algorithm used in speech recognition to find the most likely sequence of words given a sequence of acoustic features."
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch Normalization is a technique used to improve the training of deep neural networks by normalizing the inputs of each layer."
+    },
+    {
+        "word": "End-To-End Speech Recognition",
+        "description": "End-to-End Speech Recognition is an approach that directly maps the acoustic features of speech to the corresponding textual output, without explicit intermediate steps."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting occurs when a machine learning model is overly optimized for the training data and performs poorly on unseen or new data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting occurs when a machine learning model is too simple or not trained enough, resulting in poor performance on both training and unseen data."
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "Transfer Learning is a machine learning technique in which knowledge gained from one task is applied to another related task, often improving performance and reducing training data requirements."
+    },
+    {
+        "word": "Word Boundary Detection",
+        "description": "Word Boundary Detection is the task of determining the boundaries between words in a speech signal."
+    },
+    {
+        "word": "Noise Robustness",
+        "description": "Noise Robustness refers to the ability of a speech recognition system to perform accurately even in the presence of background noise or adverse acoustic conditions."
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation is a technique used to artificially increase the size of a training set by applying transformations or modifications to the existing data."
+    },
+    {
+        "word": "Perplexity",
+        "description": "Perplexity is a metric used to evaluate the performance of a language model by measuring how well it predicts a sequence of words."
+    },
+    {
+        "word": "Neural Network Architecture",
+        "description": "Neural Network Architecture refers to the design and structure of a neural network, including the number and arrangement of layers and nodes."
+    },
+    {
+        "word": "Zero Padding",
+        "description": "Zero Padding is a technique used to increase the length of sequential data by adding zeros at the beginning or end of the sequence."
+    },
+    {
+        "word": "Attention Mechanism",
+        "description": "Attention Mechanism is a component in neural network architectures that allows the model to focus on different parts of the input sequence during processing."
+    },
+    {
+        "word": "Speaker Diarization",
+        "description": "Speaker Diarization is the process of segmenting and identifying individual speakers in an audio recording."
+    },
+    {
+        "word": "Mel Scale",
+        "description": "Mel Scale is a perceptual scale of pitches that approximates the human ear's response to different frequencies."
+    },
+    {
+        "word": "Fbank Features",
+        "description": "Fbank Features, also known as log filterbank energies, are commonly used features for speech recognition that capture the frequency content of a speech signal."
+    },
+    {
+        "word": "Subword Units",
+        "description": "Subword Units are linguistic units that are smaller than words, such as subword or character n-grams."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a machine learning approach in which a model learns patterns or structures in unlabeled data, without explicit input-output pairs."
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning is a machine learning approach in which a model learns from labeled data, making predictions or classifications based on input-output pairs."
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data Preprocessing is the process of cleaning, transforming, and standardizing data before it is used for training a machine learning model."
+    },
+    {
+        "word": "Voice Command Recognition",
+        "description": "Voice Command Recognition is the task of recognizing spoken commands or instructions, typically used in voice-controlled systems."
+    },
+    {
+        "word": "Speaker Adaptation",
+        "description": "Speaker Adaptation is the process of customizing a speech recognition system to recognize an individual speaker's acoustic characteristics and speech patterns."
+    },
+    {
+        "word": "Gaussian Mixture Model (Gmm)",
+        "description": "Gaussian Mixture Model (GMM) is a statistical model used for representing the distribution of acoustic features in speech recognition."
+    },
+    {
+        "word": "Neural Language Model",
+        "description": "Neural Language Model is a type of language model that is based on neural network architectures."
+    },
+    {
+        "word": "Neural Turing Machine (Ntm)",
+        "description": "Neural Turing Machine (NTM) is a neural network architecture that combines an external memory with a controller to enable more complex computations."
+    },
+    {
+        "word": "Deep Belief Networks (Dbns)",
+        "description": "Deep Belief Networks (DBNs) are a class of deep learning models that are based on the hierarchical arrangement of restricted Boltzmann machines."
+    },
+    {
+        "word": "Contextual Bandits",
+        "description": "Contextual Bandits is a type of reinforcement learning where an agent tries to learn the best action to take in each context, based on past experiences and rewards."
+    },
+    {
+        "word": "Encoder-Decoder Architecture",
+        "description": "Encoder-Decoder Architecture is a type of neural network architecture where an encoder processes the input and a decoder generates the output."
+    },
+    {
+        "word": "Streaming Speech Recognition",
+        "description": "Streaming Speech Recognition is the task of performing real-time speech recognition on streaming audio data."
+    },
+    {
+        "word": "Multilingual Speech Recognition",
+        "description": "Multilingual Speech Recognition is the capability of a speech recognition system to recognize and transcribe speech in multiple languages."
+    },
+    {
+        "word": "Distant Speech Recognition",
+        "description": "Distant Speech Recognition is the task of recognizing speech that is captured from a distance, such as in a noisy environment or from far-field microphones."
+    },
+    {
+        "word": "Multimodal Speech Recognition",
+        "description": "Multimodal Speech Recognition is the task of combining information from multiple modalities, such as audio and visual data, to improve speech recognition performance."
+    },
+    {
+        "word": "Zero-Crossing Rate",
+        "description": "Zero-Crossing Rate is a feature used in speech and audio processing to estimate the rate at which a signal changes its sign."
+    },
+    {
+        "word": "Artificial Neural Networks (Anns)",
+        "description": "Artificial Neural Networks (ANNs) are computational models inspired by the structure and function of biological neural networks, used for solving complex problems."
+    },
+    {
+        "word": "Language Transfer",
+        "description": "Language Transfer is the influence of one language on the acquisition or use of another language, often leading to similarities or transfer errors."
+    },
+    {
+        "word": "Robustness",
+        "description": "Robustness in speech recognition refers to the ability of a system to maintain high accuracy under various challenging conditions, such as noise, accent, or background interference."
+    },
+    {
+        "word": "Adversarial Examples",
+        "description": "Adversarial Examples are inputs intentionally designed to mislead or deceive an AI system, often by adding carefully crafted perturbations to the input data."
+    },
+    {
+        "word": "Phone Recognition",
+        "description": "Phone Recognition is the task of recognizing the phonemes or speech sounds in a given speech signal."
+    },
+    {
+        "word": "Word Embeddings",
+        "description": "Word Embeddings are dense vector representations of words, typically learned from large amounts of text data using techniques such as Word2Vec or GloVe."
+    },
+    {
+        "word": "Knowledge Distillation",
+        "description": "Knowledge Distillation is a technique used to train a smaller, more lightweight model (student) using a larger, more accurate model (teacher) as a guide."
+    },
+    {
+        "word": "Meta-Learning",
+        "description": "Meta-learning, also known as learning to learn, is a field of machine learning that focuses on algorithms and techniques for automatic machine learning algorithm design."
+    },
+    {
+        "word": "Language Resources",
+        "description": "Language Resources are collections of linguistic data, such as text and audio corpora, used for training and evaluating language technologies."
+    },
+    {
+        "word": "Audio Signal Processing",
+        "description": "Audio Signal Processing is the manipulation, analysis, and interpretation of audio signals to extract meaningful information or enhance audio quality."
+    },
+    {
+        "word": "Mel Frequency Cepstral Coefficients (Mfcc)",
+        "description": "Mel Frequency Cepstral Coefficients (MFCC) are a feature extraction technique widely used in speech recognition to represent the spectral characteristics of speech."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subfield of AI that uses artificial neural networks with multiple layers to model and understand complex patterns and data representations."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A Neural Network refers to a computational model inspired by the structure and function of the human brain, consisting of interconnected artificial neurons."
+    },
+    {
+        "word": "Epoch",
+        "description": "In machine learning, an Epoch refers to a complete iteration over the training dataset."
+    },
+    {
+        "word": "Noise Cancellation",
+        "description": "Noise Cancellation is the process of reducing or eliminating unwanted background noise in an audio signal to enhance speech intelligibility."
+    },
+    {
+        "word": "Beamforming",
+        "description": "Beamforming is a signal processing technique used to enhance the directional sensitivity of a microphone array, focusing on a specific sound source."
+    },
+    {
+        "word": "Pitch",
+        "description": "Pitch refers to the perceived frequency or tone of a sound, determining whether it is high or low."
+    },
+    {
+        "word": "Formants",
+        "description": "Formants are the resonant frequencies of the vocal tract that contribute to the quality and timbre of human speech sounds."
+    },
+    {
+        "word": "F0 (Fundamental Frequency)",
+        "description": "F0 or Fundamental Frequency is the lowest frequency in the harmonic series of a periodic sound waveform, corresponding to the perceived pitch of a voice."
+    },
+    {
+        "word": "Decoding",
+        "description": "Decoding is the process of mapping the acoustic features of speech to linguistic units or words using a speech recognition system."
+    },
+    {
+        "word": "Triphone",
+        "description": "A Triphone is a context-dependent speech unit consisting of three phonemes, taking into account the influence of surrounding phonetic context."
+    },
+    {
+        "word": "Deep Neural Network (Dnn)",
+        "description": "A Deep Neural Network (DNN) is an artificial neural network with multiple hidden layers, used in various speech recognition tasks."
+    },
+    {
+        "word": "Lstm (Long Short-Term Memory)",
+        "description": "LSTM (Long Short-Term Memory) is a type of recurrent neural network architecture specifically designed to process and model sequential data."
+    },
+    {
+        "word": "Gmm (Gaussian Mixture Models)",
+        "description": "GMM (Gaussian Mixture Models) is a statistical model used to represent the probability distribution of a set of observations, often used in speech recognition for acoustic modeling."
+    },
+    {
+        "word": "Asr System",
+        "description": "An ASR System is a complete speech recognition system, including components such as acoustic modeling, language modeling, and decoding."
+    },
+    {
+        "word": "Dictation System",
+        "description": "A Dictation System is a speech recognition system specifically designed for converting spoken language into written text."
+    },
+    {
+        "word": "Wake Word",
+        "description": "A Wake Word is a specific trigger word or phrase that activates a voice-controlled system or virtual assistant, such as 'Hey Siri' or 'Alexa'."
+    },
+    {
+        "word": "Grammar-Based Recognition",
+        "description": "Grammar-Based Recognition is an approach to speech recognition that uses predefined rules or grammar structures to constrain the recognition process."
+    },
+    {
+        "word": "Statistical Language Model (Slm)",
+        "description": "A Statistical Language Model (SLM) is a language model based on statistical properties of texts, used to estimate the likelihood of word sequences."
+    },
+    {
+        "word": "Mel Spectrogram",
+        "description": "A Mel Spectrogram is a spectrogram representation of an audio signal in which the frequency scale is transformed to better correspond with human perception of sound."
+    },
+    {
+        "word": "Artificial Neural Network (Ann)",
+        "description": "An Artificial Neural Network (ANN) is a computational model that loosely simulates the structure and function of biological neural networks."
+    },
+    {
+        "word": "Keyword Detection",
+        "description": "Keyword Detection is the task of identifying specific keywords or phrases in audio data, often used for applications such as voice-controlled devices."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a field of study that gives computers the ability to learn and improve from experience without being explicitly programmed."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning is a machine learning approach that combines labeled and unlabeled data to train a model, leveraging the benefits of both types of data."
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation is an algorithm used in training artificial neural networks, adjusting the weights and biases based on the error between predicted and target outputs."
+    },
+    {
+        "word": "Continuous Speech Recognition",
+        "description": "Continuous Speech Recognition is the capability to recognize speech in a continuous stream, often used in real-time transcription or dictation systems."
+    },
+    {
+        "word": "Denoising Autoencoder",
+        "description": "A Denoising Autoencoder is a type of artificial neural network used for unsupervised learning that learns to remove noise from input data."
+    },
+    {
+        "word": "Noise Adaptation",
+        "description": "Noise Adaptation is the process of adapting a speech recognition system to perform well in the presence of specific types of noise or acoustic conditions."
+    },
+    {
+        "word": "Context-Dependent Modeling",
+        "description": "Context-Dependent Modeling in speech recognition refers to modeling the relationship between phonemes and their acoustic realization, taking into account surrounding phonetic context."
+    },
+    {
+        "word": "Sphinx",
+        "description": "Sphinx is a popular open-source speech recognition toolkit created by Carnegie Mellon University, offering tools and libraries for developing speech recognition systems."
+    },
+    {
+        "word": "End-Point Detection (Epd)",
+        "description": "End-Point Detection (EPD) is the task of detecting the start and end points of speech segments in an audio signal, useful in various speech recognition applications."
+    },
+    {
+        "word": "Word-Level Alignment",
+        "description": "Word-Level Alignment is the task of aligning words in a recognized transcription with their corresponding words in the reference transcription, often used in evaluating the performance of a speech recognition system."
+    },
+    {
+        "word": "Noise Suppression",
+        "description": "Noise Suppression is the process of reducing background noise in an audio signal to improve the intelligibility and quality of speech."
+    },
+    {
+        "word": "Context-Independent Modeling",
+        "description": "Context-Independent Modeling in speech recognition refers to modeling phonemes or speech units without considering their surrounding phonetic context."
+    }
+]
