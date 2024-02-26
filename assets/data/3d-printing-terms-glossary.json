@@ -1,0 +1,426 @@
+[
+    {
+        "word": "3D Printing",
+        "description": "3D Printing, also known as additive manufacturing, is a process of creating three-dimensional objects by adding material layer by layer."
+    },
+    {
+        "word": "Cad",
+        "description": "Computer-Aided Design (CAD) is the use of software to create detailed 2D or 3D models for manufacturing or design purposes."
+    },
+    {
+        "word": "Stl",
+        "description": "STL (Standard Tessellation Language) is a file format commonly used in 3D Printing that represents the surface geometry of a 3D object."
+    },
+    {
+        "word": "Slicing",
+        "description": "Slicing is the process of dividing a 3D object into multiple layers and generating the corresponding toolpaths for 3D printing."
+    },
+    {
+        "word": "Support Structure",
+        "description": "A support structure is a temporary structure created in 3D printing to provide stability and prevent collapsing during the printing process."
+    },
+    {
+        "word": "Fdm",
+        "description": "Fused Deposition Modeling (FDM) is a popular type of 3D printing technology that builds objects by extruding molten plastic layer by layer."
+    },
+    {
+        "word": "Sla",
+        "description": "Stereolithography (SLA) is an additive manufacturing process that uses a liquid resin that is cured by a light source to create 3D objects."
+    },
+    {
+        "word": "Sls",
+        "description": "Selective Laser Sintering (SLS) is an additive manufacturing process that uses a laser to fuse powdered material together to create 3D objects."
+    },
+    {
+        "word": "Dlp",
+        "description": "Digital Light Processing (DLP) is a 3D printing technology that uses a digital light projector to cure a liquid photopolymer resin layer by layer."
+    },
+    {
+        "word": "Binder Jetting",
+        "description": "Binder Jetting is a 3D Printing technology that uses a liquid binder to selectively bond powder particles together to create an object."
+    },
+    {
+        "word": "Build Plate",
+        "description": "The Build Plate is the surface on which the object is printed during the 3D Printing process. It provides a stable base for the printed layers."
+    },
+    {
+        "word": "Nozzle",
+        "description": "A Nozzle is the part of a 3D Printer's extruder that heats and deposits the molten filament onto the build plate."
+    },
+    {
+        "word": "Layer Height",
+        "description": "Layer Height is the thickness of each individual layer that is printed by a 3D Printer. It determines the level of detail and smoothness of the printed object."
+    },
+    {
+        "word": "Infill",
+        "description": "Infill is the pattern or structure that is printed inside a 3D object to provide structural support and reduce material usage."
+    },
+    {
+        "word": "Raft",
+        "description": "A Raft is a printed base layer that is added beneath the object being printed to improve bed adhesion and prevent warping."
+    },
+    {
+        "word": "Brim",
+        "description": "A Brim is a single layer of material printed around the base of an object to increase its surface area and improve bed adhesion."
+    },
+    {
+        "word": "Supports",
+        "description": "Supports are structures added to a 3D print to provide support for overhanging or intricate features that may otherwise droop or collapse."
+    },
+    {
+        "word": "Bed Leveling",
+        "description": "Bed Leveling is a process of adjusting the build plate to ensure that it is parallel to the nozzle and at the correct height for proper printing."
+    },
+    {
+        "word": "Extruder",
+        "description": "The extruder is a component of a 3D printer that pushes material, such as filament, into the hot end to be melted and deposited."
+    },
+    {
+        "word": "Hot End",
+        "description": "The hot end is the part of the extruder that melts the filament, allowing it to be extruded through the nozzle."
+    },
+    {
+        "word": "Cooling Fan",
+        "description": "A Cooling Fan is a component of a 3D Printer that helps cool down the printed layers quickly to prevent warping or deformation."
+    },
+    {
+        "word": "G-Code",
+        "description": "G-Code is a programming language used in 3D Printing to control the 3D Printer's movements and extrusion process."
+    },
+    {
+        "word": "Filament",
+        "description": "Filament is a thermoplastic material in the form of a long string that is melted and extruded by a 3D Printer to build the object layer by layer."
+    },
+    {
+        "word": "Resolution",
+        "description": "Resolution in 3D Printing refers to the level of detail and accuracy at which a 3D Printer can produce an object. It is typically measured in microns."
+    },
+    {
+        "word": "Build Volume",
+        "description": "Build Volume refers to the maximum size of an object that a 3D Printer can print in all dimensions (length, width, and height)."
+    },
+    {
+        "word": "Overhang",
+        "description": "An overhang is a portion of a 3D printed object that extends beyond the previous layer without any support structure."
+    },
+    {
+        "word": "Warpage",
+        "description": "Warpage refers to the distortion or curling of a 3D printed object due to uneven cooling or shrinkage of the material."
+    },
+    {
+        "word": "Bed Adhesion",
+        "description": "Bed Adhesion refers to the ability of the printed object to stick to the build plate during the 3D Printing process."
+    },
+    {
+        "word": "Heated Bed",
+        "description": "A Heated Bed is a feature in some 3D Printers that helps improve bed adhesion by keeping the temperature of the build plate elevated."
+    },
+    {
+        "word": "Lcd Screen",
+        "description": "An LCD screen is a display panel used on some 3D printers to show information, settings, and progress during the printing process."
+    },
+    {
+        "word": "Curing",
+        "description": "Curing is the process of hardening a liquid resin, typically used in SLA or DLP 3D printing, using a light source like UV or laser."
+    },
+    {
+        "word": "Print Speed",
+        "description": "Print Speed refers to the speed at which the 3D Printer moves and deposits material while printing an object."
+    },
+    {
+        "word": "Infill Density",
+        "description": "Infill density refers to the amount of infill material used inside a 3D printed object, expressed as a percentage of the total volume."
+    },
+    {
+        "word": "Nozzle Diameter",
+        "description": "Nozzle diameter is the width of the opening of the nozzle, and it affects the layer thickness and printing speed."
+    },
+    {
+        "word": "Retraction",
+        "description": "Retraction is a feature in 3D Printing that pulls back the filament slightly to prevent oozing or stringing of material during non-printing moves."
+    },
+    {
+        "word": "Adaptive Layer Height",
+        "description": "Adaptive layer height is a feature in some slicing software that adjusts the layer height based on the geometry of the object to improve print quality."
+    },
+    {
+        "word": "Bed Temperature",
+        "description": "Bed temperature refers to the temperature of the build plate during the printing process, especially important for certain materials."
+    },
+    {
+        "word": "Extrusion Multiplier",
+        "description": "Extrusion multiplier is a setting in 3D printing that adjusts the flowrate of the filament to compensate for variations in extrusion."
+    },
+    {
+        "word": "Bracing",
+        "description": "Bracing refers to adding additional support structures or structures to reinforce a 3D printed object and improve its stability."
+    },
+    {
+        "word": "Post-Processing",
+        "description": "Post-Processing in 3D Printing includes any additional steps or treatments done to the printed object to improve its appearance or functionality."
+    },
+    {
+        "word": "Bed Levelling",
+        "description": "Bed levelling is the process of ensuring that the build plate is parallel to the printhead, enabling uniform printing across the entire plate."
+    },
+    {
+        "word": "Bed Skirt",
+        "description": "A bed skirt is a feature in some slicing software that prints a thin layer around the edges of the build plate before printing the actual object."
+    },
+    {
+        "word": "Carbon Fiber",
+        "description": "Carbon fiber is a strong and lightweight material often used in 3D printing to reinforce or add strength to printed parts."
+    },
+    {
+        "word": "Abs",
+        "description": "Acrylonitrile Butadiene Styrene (ABS) is a common thermoplastic used in 3D printing known for its strength and impact resistance."
+    },
+    {
+        "word": "Pla",
+        "description": "Polylactic Acid (PLA) is a biodegradable thermoplastic used in 3D printing known for its ease of use and wide availability."
+    },
+    {
+        "word": "Petg",
+        "description": "Polyethylene Terephthalate Glycol (PETG) is a popular filament material used in 3D printing known for its strength and flexibility."
+    },
+    {
+        "word": "Nylon",
+        "description": "Nylon is a durable and flexible filament material commonly used in 3D printing for producing functional and mechanical parts."
+    },
+    {
+        "word": "Tpu",
+        "description": "Thermoplastic Polyurethane (TPU) is a flexible and elastic filament material used in 3D printing for creating flexible parts or prototypes."
+    },
+    {
+        "word": "Failure",
+        "description": "Failure is a term used to describe when a 3D print does not turn out as expected, often due to issues like warping, adhesion, or print errors."
+    },
+    {
+        "word": "Bridging",
+        "description": "Bridging is the process of creating an unsupported span between two points in a 3D print, requiring careful calibration and technique."
+    },
+    {
+        "word": "Over Extrusion",
+        "description": "Over extrusion occurs when the 3D printer pushes out too much filament, resulting in excess material and a poor print quality."
+    },
+    {
+        "word": "Under Extrusion",
+        "description": "Under extrusion occurs when the 3D printer does not push out enough filament, leading to gaps or weak sections in the printed object."
+    },
+    {
+        "word": "Spool Holder",
+        "description": "A spool holder is a device or attachment on a 3D printer that holds the filament spool securely and feeds it into the extruder smoothly."
+    },
+    {
+        "word": "Raftless Printing",
+        "description": "Raftless printing is a technique in 3D printing where a raft or base layer is not used, reducing print time but requiring good bed adhesion."
+    },
+    {
+        "word": "Oversized Printing",
+        "description": "Oversized printing refers to 3D printing objects that are larger than the build volume of the printer, requiring assembly or print splitting."
+    },
+    {
+        "word": "Dual Extrusion",
+        "description": "Dual Extrusion is a feature in some 3D Printers that allows for using two different filaments or colors simultaneously to create more complex objects."
+    },
+    {
+        "word": "Sintering",
+        "description": "Sintering is a process in which powdered material is heated to a temperature just below its melting point, causing it to bond together."
+    },
+    {
+        "word": "Build Platform",
+        "description": "The build platform is the surface on which a 3D printed object is created and is typically moved in the XY plane during the printing process."
+    },
+    {
+        "word": "Build Time",
+        "description": "The build time is the total amount of time it takes to complete the 3D printing process for a given object or part."
+    },
+    {
+        "word": "Layer Adhesion",
+        "description": "Layer Adhesion is the strength of the bond between the successive layers in a 3D printed object, affecting its overall structural integrity."
+    },
+    {
+        "word": "Build Plate Adhesion",
+        "description": "Build plate adhesion is the ability of a printed object to adhere to the build plate during the printing process."
+    },
+    {
+        "word": "Bed Flattening",
+        "description": "Bed flattening is the process of ensuring that the build plate is level and free of any warping or unevenness."
+    },
+    {
+        "word": "Shell Thickness",
+        "description": "Shell thickness refers to the thickness of the outer walls of a 3D printed object, affecting its strength and durability."
+    },
+    {
+        "word": "Z-Hop",
+        "description": "Z-hop, also known as Z-lift, is the process of raising the printer's nozzle slightly during non-printing moves to avoid collisions with the printed object."
+    },
+    {
+        "word": "3D Printer",
+        "description": "A 3D Printer is a machine that utilizes 3D Printing technology to create physical objects from digital models."
+    },
+    {
+        "word": "Slicer",
+        "description": "A Slicer is software that converts a 3D model into a series of thin layers and generates the toolpath information to be used by the 3D Printer."
+    },
+    {
+        "word": "Support Structures",
+        "description": "Support Structures are additional structures created during the 3D Printing process to provide stability and prevent the collapse of overhanging or complex features."
+    },
+    {
+        "word": "Extrusion",
+        "description": "Extrusion is the process of melting the filament and pushing it through the nozzle to create a thin, continuous strand of material."
+    },
+    {
+        "word": "Resin",
+        "description": "Resin is a liquid material used in certain types of 3D Printers that solidifies when exposed to light or heat."
+    },
+    {
+        "word": "Fused Deposition Modeling (Fdm)",
+        "description": "Fused Deposition Modeling (FDM) is one of the most common 3D Printing technologies that uses a thermoplastic filament as the printing material."
+    },
+    {
+        "word": "Stereolithography (Sla)",
+        "description": "Stereolithography (SLA) is a 3D Printing technology that uses a photosensitive resin that hardens when exposed to a specific wavelength of light."
+    },
+    {
+        "word": "Selective Laser Sintering (Sls)",
+        "description": "Selective Laser Sintering (SLS) is a 3D Printing technology that uses a laser to selectively fuse powdered material, typically plastic or metal."
+    },
+    {
+        "word": "Digital Light Processing (Dlp)",
+        "description": "Digital Light Processing (DLP) is a 3D Printing technology that uses a digital light projector to selectively cure a liquid resin layer by layer."
+    },
+    {
+        "word": "Powder Bed Fusion",
+        "description": "Powder Bed Fusion is a group of 3D Printing technologies that use a powder as the base material and selectively fuse it together using heat or a binding agent."
+    },
+    {
+        "word": "Rapid Prototyping",
+        "description": "Rapid Prototyping is the process of quickly creating physical prototypes of a product or part to test and validate its design before mass production."
+    },
+    {
+        "word": "Bioprinting",
+        "description": "Bioprinting is a 3D Printing process that uses living cells or bioinks to create biological structures, such as tissues or organs."
+    },
+    {
+        "word": "Mass Customization",
+        "description": "Mass Customization is the use of 3D Printing technology to produce personalized or customized products on a large scale."
+    },
+    {
+        "word": "Additive Manufacturing",
+        "description": "Additive Manufacturing is a broader term that encompasses all processes, including 3D Printing, that build objects layer by layer using various materials and technologies."
+    },
+    {
+        "word": "Digital Design",
+        "description": "Digital Design refers to creating and manipulating 2D or 3D models using software tools, such as CAD, for use in manufacturing or visualization."
+    },
+    {
+        "word": "Quality Control",
+        "description": "Quality Control in 3D Printing involves various measures and processes to ensure that the printed objects meet the desired specifications and standards."
+    },
+    {
+        "word": "Material Properties",
+        "description": "Material Properties refer to the characteristics and behaviors of the materials used in 3D Printing, such as strength, flexibility, or heat resistance."
+    },
+    {
+        "word": "Overhangs",
+        "description": "In 3D Printing, Overhangs refer to areas or features of an object that extend horizontally or at an angle without any support underneath."
+    },
+    {
+        "word": "Warping",
+        "description": "Warping is the deformation or curling of a printed object's corners or edges due to uneven cooling or shrinkage of the material."
+    },
+    {
+        "word": "Scan To Cad",
+        "description": "Scan to CAD is the process of creating a digital 3D model from a physical object by scanning it using 3D scanning technology and converting the data into a CAD file."
+    },
+    {
+        "word": "Multi-Material Printing",
+        "description": "Multi-Material Printing is the capability of a 3D Printer to print objects using multiple materials, either simultaneously or switching between them during the printing process."
+    },
+    {
+        "word": "Tolerance",
+        "description": "In 3D Printing, Tolerance refers to the allowable variation in dimensions or measurements of a printed object from its intended design."
+    },
+    {
+        "word": "Printing Time",
+        "description": "Printing Time is the duration required to complete the 3D Printing process for a specific object, influenced by factors like size, complexity, and print settings."
+    },
+    {
+        "word": "Print Bed Adhesive",
+        "description": "Print Bed Adhesive is a substance applied to the build plate to enhance bed adhesion and prevent the printed object from detaching during the printing process."
+    },
+    {
+        "word": "Bed Levelling Probe",
+        "description": "A Bed Levelling Probe is a sensor or mechanism used to automatically measure and adjust the build plate's height and levelness for precise printing."
+    },
+    {
+        "word": "Toolpath",
+        "description": "Toolpath refers to the specific path or pattern followed by the 3D Printer's extruder nozzle as it moves and deposits material to create a printed object."
+    },
+    {
+        "word": "Closed-Loop Control",
+        "description": "Closed-Loop Control is a feature in advanced 3D Printers that uses sensors and feedback mechanisms to continuously monitor and adjust printing parameters during the process."
+    },
+    {
+        "word": "Auto Bed Leveling",
+        "description": "Auto Bed Leveling is a feature in certain 3D Printers that uses sensors or probes to automatically measure and compensate for any unevenness or tilt in the build plate."
+    },
+    {
+        "word": "Gantry",
+        "description": "A Gantry is the framework or support structure on a 3D Printer that holds and moves the extruder and build plate in a predetermined manner."
+    },
+    {
+        "word": "Bed Surface",
+        "description": "The Bed Surface refers to the material or coating applied to the build plate to improve adhesion and promote successful object removal after printing."
+    },
+    {
+        "word": "Stepper Motor",
+        "description": "A Stepper Motor is a type of motor commonly used in 3D Printers to control and precisely move the extruder nozzle or other mechanical components."
+    },
+    {
+        "word": "Firmware",
+        "description": "Firmware is the software program embedded in the 3D Printer's hardware that controls its functions, movements, and communication with other devices."
+    },
+    {
+        "word": "Build Plate Coating",
+        "description": "Build Plate Coating is a material or substance applied to the build plate's surface to enhance bed adhesion and improve object release after printing."
+    },
+    {
+        "word": "Build Plate Heater",
+        "description": "A Build Plate Heater is a component in certain 3D Printers that heats up the build plate to a desired temperature to improve bed adhesion and prevent warping."
+    },
+    {
+        "word": "Layer Fan",
+        "description": "A Layer Fan, or part cooling fan, is a fan located near the nozzle that blows cool air onto the printed layers to solidify the material quickly."
+    },
+    {
+        "word": "Enclosure",
+        "description": "An Enclosure is a cover or housing that surrounds the 3D Printer, providing a controlled environment with regulated temperature and humidity for improved print quality."
+    },
+    {
+        "word": "Preprocessing",
+        "description": "Preprocessing in 3D Printing involves adjusting and optimizing the digital model or file before the actual printing process, including tasks like repairing or slicing."
+    },
+    {
+        "word": "Recycling",
+        "description": "Recycling refers to the process of reclaiming and reusing waste or unused materials from failed or discarded 3D prints for future printing purposes."
+    },
+    {
+        "word": "Post-Curing",
+        "description": "Post-Curing is a process performed on certain 3D printed objects, particularly those made from resin, to further solidify or strengthen them using UV light or heat."
+    },
+    {
+        "word": "Continuous Carbon Fiber",
+        "description": "Continuous Carbon Fiber is a composite material used in advanced 3D Printing that combines thermoplastics with continuous carbon fibers to create strong and lightweight parts."
+    },
+    {
+        "word": "Photopolymer",
+        "description": "Photopolymer is a type of resin used in certain 3D Printers that solidifies and hardens when exposed to specific wavelengths of light, such as UV light."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A Digital Twin is a virtual replica or simulation of a physical 3D object or system, including its geometry, properties, and behavior, created and used for analysis or optimization purposes."
+    }
+]
