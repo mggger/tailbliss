@@ -1,0 +1,454 @@
+[
+    {
+        "word": "Proptech",
+        "description": "PropTech (Property Technology) refers to the use of technology innovations in the real estate industry."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a distributed ledger technology that allows multiple parties to maintain a single version of the truth, providing transparency, immutability, and security."
+    },
+    {
+        "word": "Smart Home",
+        "description": "A smart home refers to a residence that uses internet-connected devices to enable remote monitoring and management of various systems and appliances."
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "The Internet of Things (IoT) is a network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to exchange data and enable remote monitoring and control."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data and improve their performance over time without explicit programming."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or 3D models, onto the real world, enhancing the user's perception and interaction with their environment."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual Reality (VR) is a technology that creates immersive and simulated experiences by generating realistic sensations, images, and sounds, typically using a head-mounted display and motion tracking sensors."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A digital twin is a virtual replica of a physical asset, process, or system that can be used for monitoring, analysis, and prediction of behavior and performance."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex data sets that cannot be easily managed or analyzed using traditional data processing methods."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing refers to the delivery of computing services, such as storage, servers, databases, software, and analytics, over the internet."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, and perform tasks typically requiring human intelligence."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics is the practice of using historical data, statistical algorithms, and machine learning techniques to identify patterns and make predictions about future events or outcomes."
+    },
+    {
+        "word": "Chatbot",
+        "description": "A chatbot is a computer program or AI system that interacts with users through textual or auditory methods, often providing automated responses or assistance."
+    },
+    {
+        "word": "Geospatial Analysis",
+        "description": "Geospatial analysis is the gathering, display, and manipulation of geographic or spatial data to uncover patterns, relationships, and insights related to specific locations or areas."
+    },
+    {
+        "word": "Facial Recognition",
+        "description": "Facial Recognition is a biometric technology that uses facial features to identify or verify the identity of an individual."
+    },
+    {
+        "word": "Property Management Software",
+        "description": "Property management software is a system or application that helps property managers automate and streamline various tasks and processes involved in managing real estate properties."
+    },
+    {
+        "word": "Marketplace Platform",
+        "description": "A marketplace platform is an online platform or website that facilitates the buying and selling of goods or services between multiple parties, often connecting buyers and sellers in a specific industry or niche."
+    },
+    {
+        "word": "Smart Building",
+        "description": "A smart building incorporates advanced technologies and automation systems to optimize energy efficiency, comfort, and security, while providing a sustainable and intelligent environment."
+    },
+    {
+        "word": "3D Printing",
+        "description": "3D Printing, also known as additive manufacturing, is the process of creating a physical object by layering and binding materials based on a digital 3D model."
+    },
+    {
+        "word": "Remote Sensing",
+        "description": "Remote sensing is the collection of data or information about an object, area, or phenomenon from a distance, often using satellite, aerial, or drone-based imaging systems."
+    },
+    {
+        "word": "Building Information Modeling (Bim)",
+        "description": "Building Information Modeling (BIM) is a digital representation of physical and functional characteristics of a building or infrastructure, serving as a shared knowledge resource for information exchange and collaboration."
+    },
+    {
+        "word": "Sustainability",
+        "description": "Sustainability in the built environment refers to the design, construction, operation, and maintenance of buildings and properties that minimize environmental impact, conserve resources, and promote occupant well-being."
+    },
+    {
+        "word": "Smart City",
+        "description": "A smart city uses IoT, data analytics, and technology advancements to improve the quality of life of its residents, enhance infrastructure, and optimize resource management."
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "Robotic Process Automation (RPA) is the use of software robots or intelligent agents to automate repetitive, rule-based tasks or processes that were previously performed by humans."
+    },
+    {
+        "word": "Crowdfunding",
+        "description": "Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people, typically via an online platform."
+    },
+    {
+        "word": "Drone Technology",
+        "description": "Drone technology refers to unmanned aerial vehicles (UAVs) that can be remotely controlled or autonomously operated for various purposes, such as aerial photography, surveying, and inspections."
+    },
+    {
+        "word": "Smart Grid",
+        "description": "A smart grid is an electrical grid that uses digital communication and advanced technology to control and optimize the generation, distribution, and consumption of electricity."
+    },
+    {
+        "word": "Building Automation System (Bas)",
+        "description": "A building automation system (BAS) is a centralized control system that integrates and manages various building systems, such as HVAC, lighting, and security, to improve energy efficiency, occupant comfort, and maintenance."
+    },
+    {
+        "word": "Energy Management",
+        "description": "Energy management involves monitoring, controlling, and optimizing energy consumption and usage in buildings or properties to reduce waste, conserve resources, and increase efficiency."
+    },
+    {
+        "word": "Tenant Experience",
+        "description": "Tenant experience refers to the overall experience and satisfaction of tenants in a building or property, including the services, amenities, and interactions they have."
+    },
+    {
+        "word": "Property Data Analytics",
+        "description": "Property data analytics involves the collection, analysis, and interpretation of real estate-related data to gain insights, inform decision-making, and identify trends or patterns in the property market."
+    },
+    {
+        "word": "Real Estate Crowdsourcing",
+        "description": "Real estate crowdsourcing is a method of pooling funds from multiple investors to finance or invest in real estate projects, typically through online platforms or platforms."
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "Digital marketing encompasses various online strategies and tactics, such as social media, search engine optimization (SEO), content marketing, and email marketing, to promote products or services and generate leads."
+    },
+    {
+        "word": "Property Valuation",
+        "description": "Property valuation is the process of determining the fair market value of a property, taking into account various factors such as location, size, condition, and comparable sales."
+    },
+    {
+        "word": "Energy Efficiency",
+        "description": "Energy efficiency refers to the use of technology and practices to reduce energy consumption, waste, and environmental impact, while maintaining or enhancing performance and comfort."
+    },
+    {
+        "word": "Building Performance Monitoring",
+        "description": "Building performance monitoring involves the continuous measurement, tracking, and analysis of various metrics and indicators to assess the energy efficiency, sustainability, and overall performance of a building."
+    },
+    {
+        "word": "Electronic Signature",
+        "description": "An electronic signature, often referred to as e-signature, is a digital representation or encrypted version of a person's physical signature, used to authenticate, authorize, or indicate agreement to electronic documents or transactions."
+    },
+    {
+        "word": "Internet Listing Service (Ils)",
+        "description": "An internet listing service (ILS) is an online platform or database that provides real estate agents and brokers with access to a large inventory of property listings for sale or rent."
+    },
+    {
+        "word": "Property Tech Startup",
+        "description": "A property tech startup refers to a new and innovative company that leverages technology to provide solutions, products, or services in the real estate or property industry."
+    },
+    {
+        "word": "Smart Lock",
+        "description": "A smart lock is an electronic lock that can be locked or unlocked using a smartphone, key fob, or biometric authentication, offering convenience, security, and remote access control."
+    },
+    {
+        "word": "Real Estate Investment Trust (Reit)",
+        "description": "A real estate investment trust (REIT) is a company or trust that owns, operates, or finances income-generating real estate properties and allows investors to own a share or units of the properties."
+    },
+    {
+        "word": "Smart Sensor",
+        "description": "A smart sensor is a device that detects, measures, and records environmental or physical conditions and communicates the data wirelessly or via a network for monitoring, analysis, or control purposes."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce (electronic commerce) refers to the buying and selling of goods or services over the internet, encompassing online retail, auctions, digital downloads, and other business transactions."
+    },
+    {
+        "word": "Smart City Infrastructure",
+        "description": "Smart city infrastructure refers to the physical and technological elements, such as sensors, networks, and communication systems, that are deployed in an urban area to support smart city initiatives and enable data-driven decision-making."
+    },
+    {
+        "word": "Building Energy Management System (Bems)",
+        "description": "A building energy management system (BEMS) is a computer-based control system that allows building operators to monitor, manage, and optimize energy usage and performance of building systems."
+    },
+    {
+        "word": "Real Estate Crowdfunding Platform",
+        "description": "A real estate crowdfunding platform is an online platform or website that connects real estate developers or sponsors with individual investors, allowing them to collectively invest in real estate projects."
+    },
+    {
+        "word": "Smart Parking",
+        "description": "Smart parking utilizes sensors, cameras, and data analytics to optimize the management of parking spaces, providing real-time availability information, congestion reduction, and better user experience."
+    },
+    {
+        "word": "Lease Management Software",
+        "description": "Lease management software is a computer-based system or application that helps landlords, property managers, or tenants automate and streamline the processes associated with leasing and managing rental properties."
+    },
+    {
+        "word": "Digital Documentation",
+        "description": "Digital documentation refers to the use of electronic or digital formats to create, store, manage, and share various types of documents, records, or information."
+    },
+    {
+        "word": "Property Inspection",
+        "description": "Property inspection involves the examination and assessment of a property's condition, quality, and compliance with regulations, typically conducted before buying, selling, renting, or leasing."
+    },
+    {
+        "word": "Smart Sensor Network",
+        "description": "A smart sensor network consists of a group of interconnected sensors that capture and transmit data to a central system or platform for monitoring, analysis, or control."
+    },
+    {
+        "word": "Real Estate Analytics",
+        "description": "Real estate analytics involves the analysis of market and property data to gain insights and make informed decisions related to investments, development, pricing, and risk assessment."
+    },
+    {
+        "word": "Smart Irrigation",
+        "description": "Smart irrigation uses sensors, weather data, and automation to optimize the watering of plants and landscapes, conserving water, reducing waste, and maintaining healthy vegetation."
+    },
+    {
+        "word": "Property Portfolio Management",
+        "description": "Property portfolio management involves the strategic management and optimization of a portfolio of properties, considering factors such as investment goals, risk diversification, and financial performance."
+    },
+    {
+        "word": "Smart Appliances",
+        "description": "Smart appliances are household or commercial appliances that are equipped with smart features, connectivity, and automation capabilities to enhance their functionality, energy efficiency, and user experience."
+    },
+    {
+        "word": "Real Estate Transaction Management",
+        "description": "Real estate transaction management involves the coordination and oversight of processes and documentation related to buying, selling, or leasing properties, typically performed by real estate agents or brokers."
+    },
+    {
+        "word": "Robotic Construction",
+        "description": "Robotic construction, or construction robotics, involves the use of autonomous or semi-autonomous robots or machines for various construction tasks, such as bricklaying, concrete pouring, or 3D printing of structures."
+    },
+    {
+        "word": "Property Asset Management",
+        "description": "Property asset management refers to the strategic management and optimization of a property or real estate asset to maximize its value, income generation, and overall performance."
+    },
+    {
+        "word": "Smart Waste Management",
+        "description": "Smart waste management uses IoT, sensors, and data analytics to optimize waste collection and disposal processes, reducing costs, improving efficiency, and supporting sustainable practices."
+    },
+    {
+        "word": "Real Estate Marketplaces",
+        "description": "Real estate marketplaces are online platforms or websites that connect buyers, sellers, renters, or investors in the real estate market, facilitating transactions, property searches, or listing services."
+    },
+    {
+        "word": "Smart Retail",
+        "description": "Smart retail refers to the integration of technology, data analytics, and automation in retail environments to enhance the customer experience, optimize operations, and personalize marketing strategies."
+    },
+    {
+        "word": "Real-Time Data",
+        "description": "Real-time data refers to data or information that is captured, processed, and made available immediately or with minimal delay, allowing for instant analysis, monitoring, or decision-making."
+    },
+    {
+        "word": "Smart Lease",
+        "description": "Smart lease refers to the use of digital technology and automation to streamline and improve the management, documentation, and execution of lease agreements or rental contracts."
+    },
+    {
+        "word": "Property Maintenance",
+        "description": "Property maintenance involves the ongoing tasks and activities required to keep a property in a good condition, including repairs, inspections, cleaning, and landscaping."
+    },
+    {
+        "word": "Smart Mobility",
+        "description": "Smart mobility refers to the integration of advanced technologies, data analytics, and sustainable transportation solutions to improve the efficiency, safety, and accessibility of transportation systems in urban areas."
+    },
+    {
+        "word": "Property Insurance",
+        "description": "Property insurance is a type of insurance coverage that protects property owners against risks such as damage, loss, or liability related to their properties, often covering events such as fires, theft, or natural disasters."
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code, automatically executing and enforcing the agreed-upon terms without the need for intermediaries or manual intervention."
+    },
+    {
+        "word": "Property Tax Management",
+        "description": "Property tax management involves the assessment, calculation, and payment of property taxes, as well as the management of related documents, records, or appeals."
+    },
+    {
+        "word": "Smart Security Systems",
+        "description": "Smart security systems are advanced security solutions that integrate technology, sensors, and automation to monitor, detect, and respond to security threats or incidents in real-time."
+    },
+    {
+        "word": "Real Estate Market Analysis",
+        "description": "Real estate market analysis involves the assessment, evaluation, and forecasting of market conditions, trends, and factors that impact the supply, demand, and pricing of real estate properties."
+    },
+    {
+        "word": "Smart Grid Analytics",
+        "description": "Smart grid analytics involves the analysis and interpretation of data collected from smart grid systems to optimize energy management, improve grid reliability, and enable effective demand response programs."
+    },
+    {
+        "word": "Property Development",
+        "description": "Property development refers to the process of acquiring, improving, and implementing changes to a property or land to create value and generate income through construction, renovation, or redevelopment."
+    },
+    {
+        "word": "Smart Vending Machines",
+        "description": "Smart vending machines are self-service machines that incorporate electronic payment systems, connectivity, and data analytics to provide customized, interactive, and automated retail experiences."
+    },
+    {
+        "word": "Real Estate Crm",
+        "description": "A real estate customer relationship management (CRM) system is a software or platform that helps real estate professionals manage and organize customer information, interactions, and relationships."
+    },
+    {
+        "word": "Smart Water Management",
+        "description": "Smart water management involves the use of technology, sensors, and data analytics to optimize water usage, distribution, and conservation, as well as detect and prevent water leaks or inefficiencies."
+    },
+    {
+        "word": "Property Marketing",
+        "description": "Property marketing refers to the strategies, activities, and channels used to promote and advertise real estate properties to potential buyers, tenants, or investors."
+    },
+    {
+        "word": "Smart Home Security",
+        "description": "Smart home security systems encompass the integration of advanced technologies, sensors, and connectivity to protect homes and properties from security threats, such as burglary, fire, or unauthorized access."
+    },
+    {
+        "word": "Iot",
+        "description": "Internet of Things (IoT) refers to the network of physical devices, vehicles, buildings, and other objects embedded with sensors, software, and connectivity that enables them to collect and exchange data."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) refers to the technology that overlays digital information, such as images or text, onto the real world, enhancing the user's perception and experience."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to think, learn, and problem-solve like humans."
+    },
+    {
+        "word": "Geographic Information System",
+        "description": "A Geographic Information System (GIS) is a framework to gather, manage, and analyze data with spatial or geographic context."
+    },
+    {
+        "word": "Cognitive Computing",
+        "description": "Cognitive Computing refers to systems that are designed to simulate human thought processes, such as understanding natural language, learning from experience, and making decisions based on analyzed data."
+    },
+    {
+        "word": "Property Management System",
+        "description": "A property management system is a software solution that helps property managers streamline operations, such as rent collection, lease management, maintenance, and accounting."
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "Robotic Process Automation (RPA) refers to the use of software robots or bots to automate repetitive and rule-based tasks and processes."
+    },
+    {
+        "word": "Real Estate Crowdfunding",
+        "description": "Real Estate Crowdfunding is a form of crowdfunding specifically focused on investing in real estate projects, allowing individuals to pool their money together to finance properties or developments."
+    },
+    {
+        "word": "Facility Management",
+        "description": "Facility management involves the management and maintenance of buildings, properties, or facilities to ensure their efficient operation, functionality, and comfort for occupants."
+    },
+    {
+        "word": "Smart Metering",
+        "description": "Smart metering is the measurement, collection, and analysis of utility usage data, such as electricity or water consumption, using digital smart meters to support better resource management and billing."
+    },
+    {
+        "word": "Proptech Innovation",
+        "description": "Proptech innovation refers to the development and implementation of technological advancements and disruptions in the real estate and property industry to transform traditional processes and improve efficiency."
+    },
+    {
+        "word": "Open Data",
+        "description": "Open data refers to the concept of making data freely available to the public, without restrictions on access, usage, or redistribution, enabling transparency, collaboration, and innovation."
+    },
+    {
+        "word": "Building Information Modeling",
+        "description": "Building Information Modeling (BIM) is a digital representation of a building's physical and functional characteristics, used for design, construction, and operation."
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote monitoring involves the use of sensors, connectivity, and data analytics to monitor assets, systems, or processes from a remote location, enabling real-time insights and proactive maintenance."
+    },
+    {
+        "word": "Tenant Management",
+        "description": "Tenant management involves the processes and activities related to acquiring, onboarding, and maintaining relationships with tenants, ensuring their satisfaction, and managing lease agreements."
+    },
+    {
+        "word": "Real Estate Investment",
+        "description": "Real estate investment refers to the purchase, ownership, management, and sale of real estate properties with the primary goal of generating profit through appreciation, rental income, or both."
+    },
+    {
+        "word": "Building Automation",
+        "description": "Building automation involves the integration and automation of various building systems, such as lighting, HVAC, security, and access control, to optimize energy efficiency, comfort, and occupant safety."
+    },
+    {
+        "word": "Smart Sensors",
+        "description": "Smart sensors are devices equipped with sensing capabilities and connectivity, enabling the collection and transmission of data for monitoring, analysis, and control in real-time."
+    },
+    {
+        "word": "Property Marketplace",
+        "description": "A property marketplace is an online platform that connects buyers, sellers, renters, and investors in the real estate market, facilitating property transactions and providing access to property listings and information."
+    },
+    {
+        "word": "Tenant Portal",
+        "description": "A tenant portal is a secure online platform that allows tenants to access relevant information, communicate with property managers, request maintenance, make payments, and view lease agreements."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics focuses on the extraction, transformation, and analysis of large and complex data sets to discover patterns, trends, and insights that can support decision-making and improve performance."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "An artificial neural network is a computational model inspired by the structure and function of biological neural networks, used for pattern recognition, prediction, and decision-making tasks."
+    },
+    {
+        "word": "Smart Security",
+        "description": "Smart security refers to the use of advanced technology, such as surveillance cameras, access control systems, and biometric authentication, to enhance the security and safety of buildings and properties."
+    },
+    {
+        "word": "Geolocation",
+        "description": "Geolocation is a technology that enables the identification or estimation of the real-world geographic location of an object, such as a mobile device, using GPS or other positioning techniques."
+    },
+    {
+        "word": "Chatbots",
+        "description": "Chatbots are computer programs designed to simulate conversation with human users, typically using natural language processing (NLP) and machine learning algorithms to provide automated customer support or assistance."
+    },
+    {
+        "word": "Building Energy Management System",
+        "description": "A building energy management system is a centralized platform that monitors, controls, and optimizes various energy-related systems in a building, such as HVAC, lighting, and energy consumption."
+    },
+    {
+        "word": "Facial Biometrics",
+        "description": "Facial biometrics is a technology that uses unique facial features for identification or verification purposes, providing a high level of accuracy and security in access control systems."
+    },
+    {
+        "word": "Rent Collection",
+        "description": "Rent collection refers to the process of collecting rental payments from tenants, typically managed by property managers or landlords through various methods, such as online payments or automated bank transfers."
+    },
+    {
+        "word": "Smart Surveillance",
+        "description": "Smart surveillance combines video surveillance with advanced analytics and AI capabilities to enhance security monitoring, detect anomalies, and generate real-time alerts or insights."
+    },
+    {
+        "word": "Space Optimization",
+        "description": "Space optimization focuses on maximizing the efficient use of physical space in buildings or properties, considering factors such as layout, occupancy patterns, and operational needs."
+    },
+    {
+        "word": "Building Maintenance",
+        "description": "Building maintenance involves the ongoing tasks and activities required to keep a building in a good condition, including repairs, inspections, cleaning, and operational adjustments."
+    },
+    {
+        "word": "Smart Cities",
+        "description": "Smart cities leverage technology, data, and connectivity to improve the quality of life, sustainability, and efficiency of urban environments, encompassing various domains such as transportation, energy, and governance."
+    },
+    {
+        "word": "Real Estate Transactions",
+        "description": "Real estate transactions encompass the buying, selling, and transferring of properties, involving legal and financial processes, negotiations, and documentation."
+    },
+    {
+        "word": "Building Performance",
+        "description": "Building performance focuses on assessing and optimizing the energy efficiency, environmental impact, occupant comfort, and operational performance of buildings or properties."
+    },
+    {
+        "word": "Digital Twins",
+        "description": "Digital twins are virtual replicas of physical assets, systems, or processes that can be used for modeling, simulation, analysis, and decision-making to optimize performance and reduce risk."
+    }
+]
