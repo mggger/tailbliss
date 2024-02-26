@@ -1,0 +1,470 @@
+[
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of Machine Learning that focuses on neural networks with multiple layers."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A Neural Network is a computational model inspired by the structure and function of a biological brain."
+    },
+    {
+        "word": "Activation Function",
+        "description": "An Activation Function is a mathematical function that determines the output of a neural network node."
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation is a common method used to train neural networks by adjusting the weights of the connections."
+    },
+    {
+        "word": "Convolution",
+        "description": "Convolution is an operation that applies a filter to an input signal, commonly used in convolutional neural networks for image processing tasks."
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "A Recurrent Neural Network (RNN) is a type of neural network architecture that has loops, allowing information to persist."
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "Long Short-Term Memory (LSTM) is a type of RNN architecture that can retain memory over long sequences."
+    },
+    {
+        "word": "Gated Recurrent Unit",
+        "description": "The Gated Recurrent Unit (GRU) is another type of recurrent neural network that uses gating mechanisms to control the flow of information."
+    },
+    {
+        "word": "Autoencoder",
+        "description": "An Autoencoder is a type of neural network that learns to encode and decode inputs, often used for unsupervised learning and dimensionality reduction."
+    },
+    {
+        "word": "Generative Adversarial Network",
+        "description": "A Generative Adversarial Network (GAN) is a type of neural network architecture that consists of a generator and a discriminator network that compete against each other."
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "Transfer Learning is a method in which a pre-trained model is used as the starting point for a new task, reducing the amount of required training data."
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation is a technique used to artificially increase the size of a training dataset by applying various transformations to the existing data."
+    },
+    {
+        "word": "Dropout",
+        "description": "Dropout is a regularization technique used in neural networks to prevent overfitting by temporarily removing nodes during training."
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch Normalization is a technique used to normalize the inputs of each layer, improving the training speed and stability of neural networks."
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient Descent is an optimization algorithm used to minimize the loss function in a neural network."
+    },
+    {
+        "word": "Learning Rate",
+        "description": "The Learning Rate determines how quickly a neural network adjusts its weights during training."
+    },
+    {
+        "word": "Loss Function",
+        "description": "A Loss Function measures how well a machine learning model performs by comparing its predictions to the actual values."
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization is a technique in deep learning that introduces additional constraints to the weights of a neural network during training, preventing overfitting."
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "A Hyperparameter is a parameter that is set before training a machine learning model, such as the learning rate or the number of hidden units in a neural network."
+    },
+    {
+        "word": "Epoch",
+        "description": "An Epoch is one complete pass through the entire training dataset during the training process."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting occurs in machine learning models when they perform well on training data but fail to generalize to new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting occurs in machine learning models when they fail to capture the underlying patterns and relationships in the training data."
+    },
+    {
+        "word": "Vanishing Gradient Problem",
+        "description": "The vanishing gradient problem is a challenge in training deep neural networks, where the gradients become exponentially small during backpropagation, leading to slow learning or convergence."
+    },
+    {
+        "word": "Exploding Gradient Problem",
+        "description": "The exploding gradient problem is the opposite of the vanishing gradient problem, where the gradients become extremely large during backpropagation, causing numerical instability and difficulty in learning."
+    },
+    {
+        "word": "Relu",
+        "description": "ReLu, or Rectified Linear Unit, is an activation function that introduces non-linearity to a neural network."
+    },
+    {
+        "word": "Sigmoid",
+        "description": "Sigmoid is an activation function commonly used in neural networks that maps any input value to a value between 0 and 1, introducing non-linearity."
+    },
+    {
+        "word": "Softmax",
+        "description": "Softmax is an activation function often used in the output layer of a neural network to produce probabilities for each class."
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "A Convolutional Neural Network (CNN) is a type of neural network designed for image recognition and processing."
+    },
+    {
+        "word": "Kernel",
+        "description": "A Kernel is a small matrix used in convolutions to extract features from an image."
+    },
+    {
+        "word": "Pooling",
+        "description": "Pooling is a downsampling operation in convolutional neural networks that reduces the spatial dimensions of the input feature map by selecting the most important features."
+    },
+    {
+        "word": "Learning Rate Schedule",
+        "description": "A Learning Rate Schedule is a technique used to adjust the learning rate during training, often based on a predefined schedule or a performance metric."
+    },
+    {
+        "word": "Early Stopping",
+        "description": "Early Stopping is a technique used to prevent overfitting by stopping the training process when the model's performance on a validation set starts to deteriorate."
+    },
+    {
+        "word": "Optimizer",
+        "description": "An optimizer is an algorithm used to adjust the parameters of a neural network during training in order to minimize the loss function."
+    },
+    {
+        "word": "Stochastic Gradient Descent",
+        "description": "Stochastic Gradient Descent (SGD) is a variation of gradient descent that randomly selects a subset of training data for each iteration."
+    },
+    {
+        "word": "Mini-Batch Gradient Descent",
+        "description": "Mini-Batch Gradient Descent is a variation of the gradient descent algorithm where the weights are updated based on a small subset of the training data, called a mini-batch."
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a metric used to measure the exactness of a classifier, calculated as the number of true positives divided by the sum of true positives and false positives."
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a metric used to measure the completeness of a classifier, calculated as the number of true positives divided by the sum of true positives and false negatives."
+    },
+    {
+        "word": "F1 Score",
+        "description": "The F1 Score is a metric that balances precision and recall, calculated as the harmonic mean of precision and recall."
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A confusion matrix is a table that summarizes the performance of a classification model by showing the counts of true positives, true negatives, false positives, and false negatives."
+    },
+    {
+        "word": "Roc Curve",
+        "description": "The ROC (Receiver Operating Characteristic) curve is a graphical representation of the performance of a binary classification model at different classification thresholds."
+    },
+    {
+        "word": "Auc-Roc",
+        "description": "AUC-ROC (Area Under the ROC Curve) is a metric that measures the overall performance of a binary classification model, with higher values indicating better performance."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning is a branch of machine learning that focuses on teaching machines to make decisions based on trial and error."
+    },
+    {
+        "word": "Policy Gradient",
+        "description": "Policy Gradient is a class of reinforcement learning algorithms that learn to directly optimize the policy, or the behavior, of an autonomous agent, without explicitly modeling the environment."
+    },
+    {
+        "word": "Q-Learning",
+        "description": "Q-Learning is a reinforcement learning algorithm that learns an optimal policy by estimating the value of each state-action pair, known as the Q-values."
+    },
+    {
+        "word": "Markov Decision Process",
+        "description": "A Markov Decision Process (MDP) is a mathematical framework used to model decision-making in situations where outcomes are influenced by both actions and random events."
+    },
+    {
+        "word": "Deep Q-Network",
+        "description": "A Deep Q-Network (DQN) is a type of reinforcement learning algorithm that combines Q-Learning with deep neural networks to learn policies for complex environments."
+    },
+    {
+        "word": "Actor-Critic",
+        "description": "Actor-Critic is a reinforcement learning algorithm that combines the advantages of both value-based methods, such as Q-Learning, and policy-based methods, such as Policy Gradient."
+    },
+    {
+        "word": "Curriculum Learning",
+        "description": "Curriculum Learning is a training strategy where the difficulty of training examples is gradually increased to help the neural network learn more effectively."
+    },
+    {
+        "word": "Adversarial Examples",
+        "description": "Adversarial Examples are carefully crafted inputs that are slightly modified to deceive a deep learning model, highlighting vulnerabilities and potential security concerns."
+    },
+    {
+        "word": "One-Shot Learning",
+        "description": "One-Shot Learning is a type of machine learning where a model is trained to recognize objects or patterns from only a single training example per class, mimicking human learning capabilities."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a field of study that focuses on the interaction between computers and human language, enabling computers to understand, interpret, and generate natural language."
+    },
+    {
+        "word": "Word Embedding",
+        "description": "Word Embedding is a technique in deep learning that represents words as numeric vectors, capturing their semantic relationships and enabling language processing tasks."
+    },
+    {
+        "word": "Transformer",
+        "description": "The Transformer is a neural network architecture that utilizes self-attention mechanisms to capture dependencies between words in a sentence, achieving state-of-the-art performance on various NLP tasks."
+    },
+    {
+        "word": "Bert",
+        "description": "BERT (Bidirectional Encoder Representations from Transformers) is a powerful pre-trained language model that has been fine-tuned on a wide range of NLP tasks, achieving state-of-the-art performance."
+    },
+    {
+        "word": "Named Entity Recognition",
+        "description": "Named Entity Recognition (NER) is a subtask of NLP that involves identifying and classifying named entities in text, such as persons, organizations, locations, and more."
+    },
+    {
+        "word": "Text Classification",
+        "description": "Text Classification is the task of assigning predefined categories or labels to pieces of text, often used for sentiment analysis, topic classification, and spam detection."
+    },
+    {
+        "word": "Machine Translation",
+        "description": "Machine Translation is the task of automatically translating text from one language to another using machine learning techniques, commonly employing neural networks for this purpose."
+    },
+    {
+        "word": "Sequence-To-Sequence",
+        "description": "Sequence-to-Sequence is a neural network architecture that maps an input sequence to an output sequence, commonly used for machine translation and other sequence generation tasks."
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "A Convolutional Neural Network (CNN) is a deep learning model specifically designed to process structured grid-like data, commonly used for image and video recognition."
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "A Recurrent Neural Network (RNN) is a type of neural network that has an internal memory, allowing it to process sequential data and remember past information."
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "A Long Short-Term Memory (LSTM) is a type of RNN that can learn long-term dependencies by effectively capturing and remembering information over long sequences."
+    },
+    {
+        "word": "Generative Adversarial Network (Gan)",
+        "description": "A Generative Adversarial Network (GAN) is a type of neural network architecture that consists of two models: a generator and a discriminator, competing with each other to generate realistic data."
+    },
+    {
+        "word": "Optimization Algorithm",
+        "description": "An Optimization Algorithm determines how the weights of a neural network are updated during training to minimize the loss function, such as Stochastic Gradient Descent (SGD) and Adam."
+    },
+    {
+        "word": "Sigmoid Function",
+        "description": "A Sigmoid Function is a type of activation function that maps the input values to a range between 0 and 1, often used in the output layer of binary classification models."
+    },
+    {
+        "word": "Softmax Function",
+        "description": "The Softmax Function is an activation function that scales the outputs of a neural network's last layer to represent a probability distribution over classes."
+    },
+    {
+        "word": "Mini-Batch",
+        "description": "A Mini-Batch is a subset of the training dataset that is processed as a group during each iteration of training, balancing computational efficiency and gradient accuracy."
+    },
+    {
+        "word": "Bias",
+        "description": "Bias refers to a constant term added to the weighted sum of inputs in a neuron, allowing a neural network to learn and model complex relationships."
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "Natural Language Processing (NLP) involves the use of computational algorithms to analyze and understand human language, enabling tasks such as sentiment analysis and machine translation."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a multidisciplinary field that focuses on teaching computers to interpret and understand visual data from the real world, such as images and videos."
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning is a type of machine learning where a model is trained using labeled data, with the goal of predicting a specific target variable."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a type of machine learning where a model is trained using unlabeled data, aiming to find hidden patterns and structures within the data."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning is a type of machine learning where a model is trained using a combination of labeled and unlabeled data, taking advantage of both types of information."
+    },
+    {
+        "word": "Reinforcement Signal",
+        "description": "A Reinforcement Signal, also known as a reward or punishment, is a signal used in reinforcement learning to indicate the desirability or undesirability of an agent's action."
+    },
+    {
+        "word": "Object Detection",
+        "description": "Object Detection is a computer vision task that involves identifying and localizing objects within images or videos, often accomplished using deep learning models such as Faster R-CNN and YOLO."
+    },
+    {
+        "word": "Natural Language Generation (Nlg)",
+        "description": "Natural Language Generation (NLG) is an area of artificial intelligence that focuses on generating human-like text or speech, often used in chatbots and language translation systems."
+    },
+    {
+        "word": "Attention Mechanism",
+        "description": "The Attention Mechanism is a component used in neural architectures to focus on relevant parts of the input, enabling the model to selectively process and weigh different parts of the data."
+    },
+    {
+        "word": "Capsule Network",
+        "description": "A Capsule Network, also known as CapsNet, is a type of neural network architecture that aims to overcome the limitations of traditional neural networks by representing entities as capsules, capturing hierarchical relationships."
+    },
+    {
+        "word": "Natural Language Understanding (Nlu)",
+        "description": "Natural Language Understanding (NLU) is a branch of AI that focuses on the comprehension and interpretation of human language, involving tasks such as sentiment analysis and entity recognition."
+    },
+    {
+        "word": "Common Neural Network Architectures",
+        "description": "Common Neural Network Architectures refer to popular and widely used structures or designs of neural networks, such as Feedforward Neural Networks, Recurrent Neural Networks, and Convolutional Neural Networks."
+    },
+    {
+        "word": "Word2Vec",
+        "description": "Word2Vec is a popular algorithm for learning word embeddings from large amounts of text data."
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning combines deep neural networks with reinforcement learning algorithms to enable agents to learn and make decisions in complex environments."
+    },
+    {
+        "word": "Recurrent Neural Networks (Rnn)",
+        "description": "Recurrent Neural Networks (RNN) are a class of neural networks that can process sequential data by using recurrent connections, enabling the network to store and use information from past inputs."
+    },
+    {
+        "word": "Image Recognition",
+        "description": "Image Recognition is a branch of computer vision that involves identifying and categorizing objects or patterns within digital images, often utilizing deep learning models."
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data Preprocessing refers to the transformation and normalization of raw data before feeding it into a machine learning model, involving tasks such as cleaning, scaling, and feature engineering."
+    },
+    {
+        "word": "Data Labeling",
+        "description": "Data Labeling is the process of assigning predefined categorical or numerical values to raw data instances, enabling supervised machine learning models to learn and make predictions."
+    },
+    {
+        "word": "Reinforcement Learning (Rl)",
+        "description": "Reinforcement Learning (RL) is a machine learning paradigm where an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or punishments."
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "Model Evaluation involves assessing the performance and effectiveness of a machine learning model, often using metrics such as accuracy, precision, recall, and F1 score."
+    },
+    {
+        "word": "Data Imbalance",
+        "description": "Data Imbalance refers to a situation where the data used for training a machine learning model is skewed, with some classes or categories having significantly fewer instances than others."
+    },
+    {
+        "word": "Fine-Tuning",
+        "description": "Fine-Tuning is the process of taking a pre-trained machine learning model and adjusting its parameters or architecture to adapt it for a specific task or domain."
+    },
+    {
+        "word": "Learning Rate Scheduler",
+        "description": "A Learning Rate Scheduler is a technique in deep learning that dynamically adjusts the learning rate during training to improve convergence and achieve better performance."
+    },
+    {
+        "word": "Deep Belief Networks (Dbn)",
+        "description": "Deep Belief Networks (DBN) are probabilistic generative models that use unsupervised learning to perform feature extraction and can be stacked to form deep architectures."
+    },
+    {
+        "word": "Normalization",
+        "description": "Normalization is a process in deep learning that scales the input data to have zero mean and unit variance, making it easier for the neural network to learn and converge."
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) are a class of deep learning models that consist of a generator and a discriminator network."
+    },
+    {
+        "word": "Word Embeddings",
+        "description": "Word Embeddings are dense vector representations of words that capture the semantic meaning."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "Artificial Neural Networks (ANNs) are computing systems inspired by the neurons in a biological brain, used for various machine learning tasks."
+    },
+    {
+        "word": "Receptive Field",
+        "description": "A Receptive Field refers to the region in the input space that a particular feature of a neural network is looking at."
+    },
+    {
+        "word": "Dropconnect",
+        "description": "DropConnect is an extension of Dropout where entire connections in the neural network are removed."
+    },
+    {
+        "word": "Activation Map",
+        "description": "An Activation Map is a visual representation of the outputs of the neurons in a specific layer of a neural network."
+    },
+    {
+        "word": "Reconstruction Loss",
+        "description": "Reconstruction Loss measures the difference between the input and output of an autoencoder, used to train the model."
+    },
+    {
+        "word": "Learning Rate Decay",
+        "description": "Learning Rate Decay is a technique used to gradually reduce the learning rate during training to improve convergence."
+    },
+    {
+        "word": "Perceptron",
+        "description": "A Perceptron is the simplest form of an artificial neural network, consisting of a single neuron."
+    },
+    {
+        "word": "Tensorflow",
+        "description": "TensorFlow is an open-source deep learning framework developed by Google."
+    },
+    {
+        "word": "Pytorch",
+        "description": "PyTorch is an open-source deep learning framework developed and maintained by Facebook's AI Research lab."
+    },
+    {
+        "word": "Keras",
+        "description": "Keras is a high-level neural networks API written in Python that can run on top of TensorFlow, Theano, or CNTK."
+    },
+    {
+        "word": "Theano",
+        "description": "Theano is a Python library for numerical computation that can be used to build and train deep learning models."
+    },
+    {
+        "word": "One-Hot Encoding",
+        "description": "One-Hot Encoding is a process of converting categorical variables into a binary vector representation."
+    },
+    {
+        "word": "Feedforward Neural Network",
+        "description": "A Feedforward Neural Network is the simplest form of a neural network, where information flows in one direction, from input to output."
+    },
+    {
+        "word": "Hyperparameters",
+        "description": "Hyperparameters are parameters of a machine learning model that are set before training and cannot be learned from the data."
+    },
+    {
+        "word": "Validation Set",
+        "description": "A Validation Set is a portion of the training data used to evaluate the performance of a model during the training process."
+    },
+    {
+        "word": "Test Set",
+        "description": "A Test Set is a portion of the data that is held out and not used during the training process, but only used to evaluate the final performance of a model."
+    },
+    {
+        "word": "Dropout Rate",
+        "description": "The Dropout Rate is the probability of randomly setting a node's output to zero during training."
+    },
+    {
+        "word": "Memory Network",
+        "description": "A Memory Network is a type of neural network architecture that utilizes an external memory component to store and retrieve information."
+    },
+    {
+        "word": "Word-Level Attention",
+        "description": "Word-Level Attention is a technique used in natural language processing to highlight important words or parts of a sequence."
+    },
+    {
+        "word": "Batch Size",
+        "description": "The Batch Size refers to the number of training examples utilized in one iteration of the gradient descent algorithm."
+    },
+    {
+        "word": "Gradient Explosion",
+        "description": "Gradient Explosion occurs during training when the values of the gradients become very large."
+    },
+    {
+        "word": "Max Pooling",
+        "description": "Max Pooling is a pooling operation used in convolutional neural networks that returns the maximum value from each spatial region of the input."
+    },
+    {
+        "word": "Adam Optimizer",
+        "description": "Adam Optimizer is an optimization algorithm commonly used to update the weights in a neural network during training."
+    }
+]
