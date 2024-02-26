@@ -1,0 +1,410 @@
+[
+    {
+        "word": "Autonomous Vehicle",
+        "description": "An autonomous vehicle, also known as a self-driving car or driverless car, is a vehicle capable of navigating and operating without the need for human intervention."
+    },
+    {
+        "word": "Adas",
+        "description": "Advanced Driver Assistance Systems (ADAS) are technologies designed to assist drivers in the driving process and improve safety."
+    },
+    {
+        "word": "Lidar",
+        "description": "LiDAR (Light Detection and Ranging) is a remote sensing technology that uses laser light to measure distances and create high-resolution maps of its surroundings."
+    },
+    {
+        "word": "V2X",
+        "description": "Vehicle-to-Everything (V2X) communication enables vehicles to communicate with various elements in their environment, including other vehicles, infrastructure, pedestrians, and more."
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "Sensor fusion is the combination and integration of data from multiple sensors to provide a more accurate and complete understanding of the environment."
+    },
+    {
+        "word": "Ecu",
+        "description": "ECU stands for Electronic Control Unit. It is an embedded system that manages and controls various electronic functions in a vehicle."
+    },
+    {
+        "word": "Connected Car",
+        "description": "A connected car refers to a vehicle that is equipped with internet connectivity and wireless networks to allow communication with other devices and services."
+    },
+    {
+        "word": "Ota Updates",
+        "description": "Over-the-air (OTA) updates allow for the wireless delivery and installation of software updates to vehicles and devices without the need for physical connection."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity refers to the practice of protecting computer systems, networks, and data from digital attacks and unauthorized access."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine learning is the field of study that gives computers the ability to learn and improve from experience without being explicitly programmed."
+    },
+    {
+        "word": "Ai",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Semi-Autonomous",
+        "description": "Semi-autonomous refers to a vehicle that can operate on its own in certain situations, but still requires human intervention and supervision."
+    },
+    {
+        "word": "Hmi",
+        "description": "Human-Machine Interface (HMI) is the technology and design principles that allow humans to interact with machines and control their behavior."
+    },
+    {
+        "word": "Telematics",
+        "description": "Telematics is the technology that combines telecommunications and informatics to send, receive, and store information about vehicles."
+    },
+    {
+        "word": "Can Bus",
+        "description": "Controller Area Network (CAN) bus is a communication protocol used in vehicles to allow microcontrollers and devices to communicate with each other."
+    },
+    {
+        "word": "Electric Vehicle",
+        "description": "An electric vehicle (EV) is a vehicle that uses one or more electric motors for propulsion, instead of an internal combustion engine."
+    },
+    {
+        "word": "Autonomous Driving",
+        "description": "Autonomous driving refers to the ability of a vehicle to operate and navigate without human input or intervention."
+    },
+    {
+        "word": "Ad",
+        "description": "Autonomous Driving (AD) refers to the overall concept of a vehicle operating and navigating without human input or intervention."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer vision is a field of study that focuses on enabling computers to gain a high-level understanding from digital images or videos."
+    },
+    {
+        "word": "Hd Mapping",
+        "description": "HD mapping, or high-definition mapping, refers to highly accurate and detailed mapping of roads, including lane markings, traffic signs, and other relevant information."
+    },
+    {
+        "word": "Localization",
+        "description": "Localization in autonomous vehicles refers to the process of determining the vehicle's precise position and orientation within its environment."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big data refers to extremely large and complex data sets that cannot be easily managed, processed, or analyzed using traditional data processing methods."
+    },
+    {
+        "word": "Firmware",
+        "description": "Firmware is a type of software that is permanently stored in non-volatile memory on hardware devices. It provides control, monitoring, and data manipulation functions."
+    },
+    {
+        "word": "Remote Diagnostics",
+        "description": "Remote diagnostics allows for the monitoring and troubleshooting of vehicles and equipment from a remote location."
+    },
+    {
+        "word": "Vehicle-To-Grid",
+        "description": "Vehicle-to-grid (V2G) refers to the bi-directional flow of energy between electric vehicles and the power grid."
+    },
+    {
+        "word": "Iot",
+        "description": "The Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to exchange data."
+    },
+    {
+        "word": "Ros",
+        "description": "ROS stands for Robot Operating System. It is an open-source framework for building robotic systems, providing libraries and tools for various functionalities."
+    },
+    {
+        "word": "Image Recognition",
+        "description": "Image recognition is the process of identifying and detecting objects or patterns in digital images, often using machine learning algorithms."
+    },
+    {
+        "word": "Simulator",
+        "description": "A simulator is a device or software program that replicates the behavior or characteristics of a real-world system, used for training, testing, and research purposes."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge computing refers to the decentralized processing and analysis of data at the edge of a network, closer to the source or the end-user."
+    },
+    {
+        "word": "Gesture Control",
+        "description": "Gesture control refers to the ability to control devices or systems through hand or body movements, typically using sensors and computer vision technology."
+    },
+    {
+        "word": "Li-Ion Battery",
+        "description": "A lithium-ion battery is a rechargeable type of battery widely used in electric vehicles (EVs) and hybrid electric vehicles (HEVs) for energy storage."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented reality (AR) is a technology that overlays digital information, such as images or data, onto the real-world environment."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual reality (VR) is a technology that immerses users in a computer-generated simulated environment, typically using a head-mounted display."
+    },
+    {
+        "word": "Edge Detection",
+        "description": "Edge detection is a process in computer vision that aims to locate and identify the boundaries of objects or changes in textures within an image."
+    },
+    {
+        "word": "Sensor Calibration",
+        "description": "Sensor calibration is the process of adjusting and fine-tuning sensors to ensure accurate and reliable measurements according to specific standards."
+    },
+    {
+        "word": "Gan",
+        "description": "GAN stands for Generative Adversarial Network. It is a type of machine learning model that consists of two neural networks, a generator and a discriminator, that compete against each other."
+    },
+    {
+        "word": "Radar",
+        "description": "Radar (Radio Detection and Ranging) is a detection system that uses radio waves to determine the range, angle, or velocity of objects."
+    },
+    {
+        "word": "Lidar Perception",
+        "description": "LiDAR perception is the process of using LiDAR sensor data to accurately detect and perceive objects in the environment, such as vehicles, pedestrians, or obstacles."
+    },
+    {
+        "word": "Human Factors",
+        "description": "Human factors, also known as ergonomics, is the science of designing systems and products that consider human capabilities and limitations to enhance usability and safety."
+    },
+    {
+        "word": "Canalyzer",
+        "description": "CANalyzer is a software tool used for analysis, simulation, and testing of CAN (Controller Area Network) and other bus systems used in vehicles."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep learning is a subset of machine learning that involves training artificial neural networks on large amounts of labeled data."
+    },
+    {
+        "word": "Range Anxiety",
+        "description": "Range anxiety refers to the fear or concern of electric vehicle drivers about running out of battery power and not being able to reach their destination."
+    },
+    {
+        "word": "Cyber-Physical Systems",
+        "description": "Cyber-physical systems (CPS) are physical systems that are integrated with computational and networking capabilities, enabling them to interact with their environment and other systems."
+    },
+    {
+        "word": "Image Segmentation",
+        "description": "Image segmentation is the process of partitioning a digital image into multiple segments or regions based on similar characteristics or properties."
+    },
+    {
+        "word": "Sensors",
+        "description": "Sensors are devices that detect and respond to physical inputs, such as temperature, pressure, proximity, or motion, and convert them into electrical signals."
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-supervised learning is a type of machine learning that uses a combination of labeled and unlabeled data to train models and make predictions."
+    },
+    {
+        "word": "Canape",
+        "description": "CANape is a software tool used for calibration, measurement, and diagnostics of electronic control units (ECUs) within a vehicle."
+    },
+    {
+        "word": "Camera-Based Perception",
+        "description": "Camera-based perception uses image data captured by cameras to understand and interpret the environment around a vehicle, typically used for object detection and recognition."
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data fusion is the process of integrating and combining data from multiple sources to create a more complete and accurate representation of the environment."
+    },
+    {
+        "word": "Autonomous Parking",
+        "description": "Autonomous parking refers to the ability of a vehicle to park itself without the need for human input."
+    },
+    {
+        "word": "Climate Control",
+        "description": "Climate control refers to the systems and technologies used to maintain and regulate the temperature, humidity, and airflow inside a vehicle."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability is the ability of different systems, devices, or components to exchange and interpret data and perform functions cooperatively."
+    },
+    {
+        "word": "Computer-Aided Design",
+        "description": "Computer-aided design (CAD) is the use of computer software to create, modify, analyze, or optimize designs for various applications, including vehicle design."
+    },
+    {
+        "word": "Fail-Safe",
+        "description": "Fail-safe refers to a design or system that automatically activates a predefined safe mode or behavior in the event of a failure or malfunction."
+    },
+    {
+        "word": "Model-Based Development",
+        "description": "Model-based development is an approach to software development that starts with creating high-level models of systems and automatically generates code from those models."
+    },
+    {
+        "word": "Canoe",
+        "description": "CANoe is a software tool used for testing, simulation, and analysis of communication and networking systems, particularly those using the CAN bus."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural language processing (NLP) is a field of study focused on enabling computers to understand, interpret, and generate human language, both written and spoken."
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "Gesture recognition is the ability of a computer or device to understand and interpret human gestures, such as hand movements, as input commands."
+    },
+    {
+        "word": "Software Architecture",
+        "description": "Software architecture refers to the high-level structure and organization of software systems, including the design principles, patterns, and decisions that shape its implementation."
+    },
+    {
+        "word": "Fusion Algorithm",
+        "description": "A fusion algorithm is a computational method used to combine and integrate data from multiple sources or sensors, aiming to improve accuracy and reliability."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine vision refers to the technology and methods used to enable computers to visually perceive, analyze, and understand images or video."
+    },
+    {
+        "word": "In-Vehicle Infotainment",
+        "description": "In-vehicle infotainment (IVI) system provides a combination of entertainment, navigation, communication, and Internet-based services to the driver and passengers."
+    },
+    {
+        "word": "Gps",
+        "description": "Global Positioning System (GPS) is a satellite-based navigation system that enables location and time information in all weather conditions, anywhere on Earth."
+    },
+    {
+        "word": "Powertrain",
+        "description": "The powertrain refers to the components and systems in a vehicle that generate, store, and transmit power to propel the vehicle."
+    },
+    {
+        "word": "Electric Vehicle (Ev)",
+        "description": "An electric vehicle (EV) is a vehicle that is powered by one or more electric motors using energy stored in rechargeable batteries."
+    },
+    {
+        "word": "Obd",
+        "description": "On-Board Diagnostics (OBD) is an automotive term referring to a vehicle's self-diagnostic and reporting capability."
+    },
+    {
+        "word": "Ev Charging Infrastructure",
+        "description": "EV charging infrastructure refers to the network of charging stations and related technologies that support the charging of electric vehicles."
+    },
+    {
+        "word": "Li-Fi",
+        "description": "Li-Fi (Light Fidelity) is a wireless communication technology that uses light to transmit data."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Ml",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A neural network is a computer system designed to mimic the way the human brain works, allowing machines to learn and make decisions based on input data."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data mining is the process of analyzing large sets of data to discover patterns, relationships, and insights."
+    },
+    {
+        "word": "Smart City",
+        "description": "A smart city is a urban area that uses technology and data to improve the quality of life for its citizens, enhance sustainability, and optimize resource allocation."
+    },
+    {
+        "word": "Collaborative Robotics",
+        "description": "Collaborative robotics, also known as cobots, are robots designed to work safely alongside humans, often performing repetitive or dangerous tasks."
+    },
+    {
+        "word": "Fleet Management",
+        "description": "Fleet management involves the coordination and monitoring of a company's vehicle fleet to improve efficiency, reduce costs, and ensure compliance."
+    },
+    {
+        "word": "Vehicle-To-Grid (V2G)",
+        "description": "Vehicle-to-grid (V2G) technology enables electric vehicles to be used as energy storage devices, allowing them to supply power back to the grid."
+    },
+    {
+        "word": "Payload",
+        "description": "Payload refers to the carrying capacity of a vehicle, typically measured in weight, that includes passengers, cargo, and any additional equipment."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing is the delivery of computing services, such as servers, storage, databases, networking, and software, over the internet."
+    },
+    {
+        "word": "Lidar Sensor Fusion",
+        "description": "LiDAR sensor fusion involves combining data from multiple LiDAR sensors to create a more detailed and accurate representation of the environment."
+    },
+    {
+        "word": "Autonomous Delivery",
+        "description": "Autonomous delivery refers to the use of autonomous vehicles or drones to transport goods or packages without human intervention."
+    },
+    {
+        "word": "Vehicle Dynamics",
+        "description": "Vehicle dynamics refers to the study of how vehicles behave and respond to different inputs, such as steering, braking, and acceleration."
+    },
+    {
+        "word": "Lane Keeping Assist",
+        "description": "Lane keeping assist (LKA) is a feature that helps drivers keep their vehicles within the lane by providing steering input or warnings."
+    },
+    {
+        "word": "Ride Hailing",
+        "description": "Ride-hailing, also known as ride-sharing, refers to the use of mobile apps or platforms to connect passengers with drivers of vehicles for hire."
+    },
+    {
+        "word": "Eco-Driving",
+        "description": "Eco-driving is a driving style and set of techniques aimed at maximizing fuel efficiency and reducing environmental impact."
+    },
+    {
+        "word": "Lidar-Based Slam",
+        "description": "LiDAR-based Simultaneous Localization and Mapping (SLAM) is a technique used in robotics and autonomous systems to build maps and navigate using LiDAR sensors."
+    },
+    {
+        "word": "Traffic Management",
+        "description": "Traffic management involves the control and regulation of the movement of vehicles and pedestrians to ensure safe and efficient flow of traffic."
+    },
+    {
+        "word": "Software-Defined Vehicle",
+        "description": "A software-defined vehicle is a vehicle that relies heavily on software and digital systems to control and operate various functions and features."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User experience (UX) refers to the overall experience and satisfaction that a user has while interacting with a product or system."
+    },
+    {
+        "word": "Vehicle-To-Vehicle (V2V)",
+        "description": "Vehicle-to-vehicle (V2V) communication allows vehicles to exchange information with each other, such as speed, position, and other data, to improve safety and efficiency."
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "Collision avoidance systems use sensors and algorithms to detect and prevent potential collisions with other vehicles, pedestrians, or objects."
+    },
+    {
+        "word": "Vehicle Sharing",
+        "description": "Vehicle sharing, also known as car sharing or carpooling, refers to the practice of multiple individuals sharing a single vehicle for transportation purposes."
+    },
+    {
+        "word": "Inertial Measurement Unit",
+        "description": "An inertial measurement unit (IMU) is an electronic device that measures and reports a vehicle's specific force, angular rate, and orientation using accelerometers and gyroscopes."
+    },
+    {
+        "word": "Real-Time Monitoring",
+        "description": "Real-time monitoring involves continuous, instantaneous monitoring and analysis of data as it is generated or received."
+    },
+    {
+        "word": "Hybrid Vehicle",
+        "description": "A hybrid vehicle is a vehicle that combines two or more distinct power sources, such as an internal combustion engine and an electric motor."
+    },
+    {
+        "word": "Ethical Considerations",
+        "description": "Ethical considerations in the autotech industry involve ensuring the responsible and ethical development, deployment, and use of autonomous and connected vehicles."
+    },
+    {
+        "word": "Driver Monitoring",
+        "description": "Driver monitoring systems use sensors and cameras to monitor the driver's behavior, attention, and fatigue level to enhance safety and provide alerts if necessary."
+    },
+    {
+        "word": "Autonomous Shuttles",
+        "description": "Autonomous shuttles are self-driving vehicles designed for transporting passengers over short distances, often in urban or campus environments."
+    },
+    {
+        "word": "Navigation System",
+        "description": "A navigation system is a device or software that provides guidance and directions for drivers or users in reaching a specific destination."
+    },
+    {
+        "word": "Object Recognition",
+        "description": "Object recognition is the process of identifying and classifying objects or patterns within digital images or video."
+    },
+    {
+        "word": "Fuel Cell Vehicle (Fcv)",
+        "description": "A fuel cell vehicle (FCV) is a type of electric vehicle that uses a fuel cell as its power source, which converts hydrogen into electricity to power an electric motor."
+    },
+    {
+        "word": "Smart Traffic Lights",
+        "description": "Smart traffic lights use sensors, data, and algorithms to dynamically adjust traffic signals based on real-time traffic conditions, improving traffic flow and reducing congestion."
+    }
+]
