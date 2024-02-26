@@ -1,0 +1,542 @@
+[
+    {
+        "word": "Algorithmic Trading",
+        "description": "Algorithmic Trading is the use of computer algorithms to automatically execute trading strategies."
+    },
+    {
+        "word": "Backtesting",
+        "description": "Backtesting is a process that tests a trading strategy against historical market data to evaluate its performance."
+    },
+    {
+        "word": "Alpha",
+        "description": "Alpha is a measure of an investment's performance compared to a benchmark index."
+    },
+    {
+        "word": "Arbitrage",
+        "description": "Arbitrage is the practice of taking advantage of price differences between two or more markets to make a profit."
+    },
+    {
+        "word": "Automated Trading",
+        "description": "Automated Trading is the execution of trades using computer algorithms without direct human intervention."
+    },
+    {
+        "word": "Basis Trading",
+        "description": "Basis Trading is a strategy that involves taking positions in two related securities to exploit price discrepancies."
+    },
+    {
+        "word": "Bid-Ask Spread",
+        "description": "Bid-Ask Spread is the difference between the highest price that a buyer is willing to pay and the lowest price that a seller is willing to accept for a security."
+    },
+    {
+        "word": "Block Trading",
+        "description": "Block Trading is the buying or selling of a large quantity of securities simultaneously, often through a single transaction."
+    },
+    {
+        "word": "Broker-Dealer",
+        "description": "A Broker-Dealer is a firm that engages in the business of buying and selling securities on behalf of its clients and for its own account."
+    },
+    {
+        "word": "Capital Allocation",
+        "description": "Capital Allocation is the process of distributing financial resources across different investments or business activities."
+    },
+    {
+        "word": "Closing Price",
+        "description": "Closing Price is the final price at which a security is traded on a given trading day."
+    },
+    {
+        "word": "Dark Pool",
+        "description": "A Dark Pool is a private trading venue or exchange where trading activity is not visible to the broader market."
+    },
+    {
+        "word": "Day Trading",
+        "description": "Day Trading is the practice of buying and selling financial instruments within the same trading day, with all positions closed before the market closes."
+    },
+    {
+        "word": "Execution Quality",
+        "description": "Execution Quality refers to the speed, accuracy, and cost of executing trades."
+    },
+    {
+        "word": "Fill Rate",
+        "description": "Fill Rate is the percentage of an order that is filled at the requested price."
+    },
+    {
+        "word": "Front Running",
+        "description": "Front Running is the practice of trading on advance knowledge of pending orders by a broker or trader."
+    },
+    {
+        "word": "Futures Contract",
+        "description": "Futures Contract is a standardized agreement to buy or sell a specified asset at a predetermined price on a future date."
+    },
+    {
+        "word": "Hedging",
+        "description": "Hedging is the practice of taking offsetting positions to reduce the risk of adverse price movements in an investment portfolio."
+    },
+    {
+        "word": "High-Frequency Trading",
+        "description": "High-Frequency Trading (HFT) is a type of algorithmic trading that utilizes powerful computers and high-speed data to execute trades with extremely low latency."
+    },
+    {
+        "word": "Index Fund",
+        "description": "Index Fund is a type of mutual fund or ETF that aims to replicate the performance of a specific index."
+    },
+    {
+        "word": "Liquidity",
+        "description": "Liquidity is the ease with which an asset can be bought or sold without causing significant change in its price."
+    },
+    {
+        "word": "Market Maker",
+        "description": "A Market Maker is a participant in the market who is willing to buy and sell a security at quoted prices, providing liquidity to the market."
+    },
+    {
+        "word": "Market Order",
+        "description": "A Market Order is an order to buy or sell a security at the best available price in the market."
+    },
+    {
+        "word": "Mean Reversion",
+        "description": "Mean Reversion is the theory that prices and returns eventually move back towards their mean or average."
+    },
+    {
+        "word": "Model Validation",
+        "description": "Model Validation is the process of assessing the accuracy and reliability of a financial model."
+    },
+    {
+        "word": "Portfolio Optimization",
+        "description": "Portfolio Optimization is the process of selecting the best combination of assets to achieve a desired risk-return profile."
+    },
+    {
+        "word": "Quantitative Trading",
+        "description": "Quantitative Trading is a systematic approach to trading that relies on mathematical models and data analysis."
+    },
+    {
+        "word": "Risk Management",
+        "description": "Risk Management involves identifying, assessing, and minimizing potential risks in trading strategies."
+    },
+    {
+        "word": "Short Selling",
+        "description": "Short Selling is the sale of borrowed securities with the expectation of buying them back at a lower price in the future to make a profit."
+    },
+    {
+        "word": "Slippage",
+        "description": "Slippage is the difference between the expected price of a trade and the price at which the trade is executed."
+    },
+    {
+        "word": "Stop-Loss Order",
+        "description": "A Stop-Loss Order is a type of stop order used to limit losses by automatically selling a security if its price falls below a specified level."
+    },
+    {
+        "word": "Technical Analysis",
+        "description": "Technical Analysis involves analyzing historical market data, such as price and volume, to identify patterns and make trading decisions."
+    },
+    {
+        "word": "Tick Data",
+        "description": "Tick Data is a type of market data that represents individual trade prices and volumes at a given point in time."
+    },
+    {
+        "word": "Trading Strategy",
+        "description": "Trading Strategy is a predefined set of rules for making trading decisions, based on technical or fundamental analysis."
+    },
+    {
+        "word": "Transaction Cost",
+        "description": "Transaction Cost refers to the cost associated with executing a trade, including commissions, fees, and market impact."
+    },
+    {
+        "word": "Value-At-Risk (Var)",
+        "description": "Value-at-Risk (VaR) is a statistical measure used to estimate the potential loss on an investment portfolio over a given time period."
+    },
+    {
+        "word": "Volume Weighted Average Price (Vwap)",
+        "description": "Volume Weighted Average Price (VWAP) is a trading benchmark that measures the average price at which a security is traded throughout the day, weighted by trading volume."
+    },
+    {
+        "word": "Algorithmic Execution",
+        "description": "Algorithmic Execution refers to the automated process of executing large orders in small pieces over time to minimize market impact."
+    },
+    {
+        "word": "Alpha Generation",
+        "description": "Alpha Generation is the process of generating excess returns by identifying and exploiting inefficiencies or mispricings in the market."
+    },
+    {
+        "word": "Best Execution",
+        "description": "Best Execution is the legal obligation of brokers to provide clients with the most favorable terms when executing trades on their behalf."
+    },
+    {
+        "word": "Central Limit Order Book (Clob)",
+        "description": "Central Limit Order Book (CLOB) is a system that matches buy and sell orders for a financial instrument, resulting in a transparent market."
+    },
+    {
+        "word": "Crossing Network",
+        "description": "Crossing Network is a trading system that matches buy and sell orders internally within a given market, bypassing traditional exchange order books."
+    },
+    {
+        "word": "Equity Market",
+        "description": "Equity Market is a market where shares of publicly traded companies are bought and sold."
+    },
+    {
+        "word": "Event-Driven Strategy",
+        "description": "Event-Driven Strategy is a trading strategy that seeks to profit from market opportunities arising from specific events, such as mergers, acquisitions, or earnings announcements."
+    },
+    {
+        "word": "Filter Rule",
+        "description": "Filter Rule is a rule or condition used to filter or select securities for inclusion or exclusion in a trading strategy."
+    },
+    {
+        "word": "Information Ratio",
+        "description": "Information Ratio is a measure of the risk-adjusted return of an investment strategy compared to a benchmark, taking into account the volatility of returns."
+    },
+    {
+        "word": "Liquidity Provider",
+        "description": "Liquidity Provider is a market participant that quotes buy and sell prices for a financial instrument, aiming to facilitate trading and provide liquidity in the market."
+    },
+    {
+        "word": "Market Impact",
+        "description": "Market Impact refers to the effect that a large trade order has on the price of a security or market."
+    },
+    {
+        "word": "Minimum Tick Size",
+        "description": "Minimum Tick Size is the minimum price increment at which a security can be quoted or traded on a particular exchange."
+    },
+    {
+        "word": "Order Management System (Oms)",
+        "description": "Order Management System (OMS) is a software application used by traders to manage and route orders to financial exchanges or brokers."
+    },
+    {
+        "word": "Pairs Trading",
+        "description": "Pairs Trading is a strategy that involves trading two correlated instruments simultaneously to profit from relative price movements."
+    },
+    {
+        "word": "Price Action",
+        "description": "Price Action refers to the movement or behavior of a security's price over time, often analyzed through technical analysis."
+    },
+    {
+        "word": "Program Trading",
+        "description": "Program Trading is the execution of a large number of trades simultaneously, typically using automated trading systems."
+    },
+    {
+        "word": "Risk Arbitrage",
+        "description": "Risk Arbitrage is a trading strategy that seeks to profit from the price discrepancy between a target company's stock and the acquiring company's stock during a merger or acquisition."
+    },
+    {
+        "word": "Securities Lending",
+        "description": "Securities Lending is the practice of lending securities to another party, typically in exchange for collateral, for a specified period of time."
+    },
+    {
+        "word": "Sharpe Ratio",
+        "description": "Sharpe Ratio is a measure of risk-adjusted return, calculated by dividing the excess return of an investment by its standard deviation."
+    },
+    {
+        "word": "Smart Order Routing",
+        "description": "Smart Order Routing is an automated process used by trading systems to select the optimal execution venue based on current market conditions."
+    },
+    {
+        "word": "Technical Indicator",
+        "description": "Technical Indicator is a mathematical calculation or graphical representation used to analyze historical price and volume data."
+    },
+    {
+        "word": "Volatility",
+        "description": "Volatility is a statistical measure of the dispersion of returns for a given trading instrument or market."
+    },
+    {
+        "word": "Wash Trading",
+        "description": "Wash Trading is the illegal practice of buying and selling the same security to create artificial trading activity and inflate volume or prices."
+    },
+    {
+        "word": "Limit Order",
+        "description": "A Limit Order is an order to buy or sell a security at a specified price or better."
+    },
+    {
+        "word": "Stop Order",
+        "description": "A Stop Order is an order to buy or sell a security once its price reaches a specified trigger price."
+    },
+    {
+        "word": "Take-Profit Order",
+        "description": "A Take-Profit Order is an order to sell a security once its price reaches a specified level to lock in profits."
+    },
+    {
+        "word": "Trend-Following Strategy",
+        "description": "A Trend-following Strategy is a trading strategy that aims to buy an asset when its price is rising and sell when its price is falling."
+    },
+    {
+        "word": "Mean Reversion Strategy",
+        "description": "A Mean Reversion Strategy is a trading strategy that assumes the price of an asset will revert back to its mean or average price."
+    },
+    {
+        "word": "Beta",
+        "description": "Beta is a measure of an asset's volatility compared to the overall market."
+    },
+    {
+        "word": "Order Book",
+        "description": "The Order Book is a record of all buy and sell orders for a particular trading instrument on an exchange."
+    },
+    {
+        "word": "Slippage Cost",
+        "description": "Slippage Cost is the cost incurred due to the difference between the expected execution price and the actual execution price of a trade."
+    },
+    {
+        "word": "Position Sizing",
+        "description": "Position Sizing is the process of determining the size or number of shares or contracts to trade based on risk management parameters."
+    },
+    {
+        "word": "Circuit Breaker",
+        "description": "A Circuit Breaker is a mechanism designed to temporarily halt trading on an exchange during a significant market decline."
+    },
+    {
+        "word": "Mean Return",
+        "description": "The Mean Return is the average return of a security or investment over a specified period of time."
+    },
+    {
+        "word": "Risk-Free Rate",
+        "description": "The Risk-Free Rate is the theoretical rate of return of an investment with no risk, typically approximated by government bond yields."
+    },
+    {
+        "word": "Market Efficiency",
+        "description": "Market Efficiency refers to the degree to which prices of securities reflect all available information."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a subset of artificial intelligence that uses algorithms to enable computers to learn and make predictions or decisions without being explicitly programmed."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A Neural Network is a type of machine learning model that is loosely inspired by the structure and function of the human brain."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning is a machine learning technique where an agent learns to make decisions through repeated trial and error and feedback from the environment."
+    },
+    {
+        "word": "Trading Signal",
+        "description": "A Trading Signal is a trigger or indication to execute a specific trade based on a predefined set of rules or conditions."
+    },
+    {
+        "word": "Slippage Model",
+        "description": "A Slippage Model is a mathematical model used to estimate and predict the level of slippage in executing trades."
+    },
+    {
+        "word": "Quantitative Analyst",
+        "description": "A Quantitative Analyst is a professional who applies mathematical and statistical techniques to financial and investment problems."
+    },
+    {
+        "word": "Mean-Variance Optimization",
+        "description": "Mean-Variance Optimization is a method for selecting portfolio weights that maximize the expected return for a given level of risk."
+    },
+    {
+        "word": "Optimal Execution",
+        "description": "Optimal Execution refers to the process of executing trades in a way that minimizes market impact and transaction costs."
+    },
+    {
+        "word": "Order Routing",
+        "description": "Order Routing is the process of selecting the best execution venue or market for executing a trade."
+    },
+    {
+        "word": "Co-Location",
+        "description": "Co-location refers to the practice of locating trading servers in close proximity to exchanges to minimize network latency and gain a speed advantage."
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "Regulatory Compliance refers to the adherence to laws, regulations, and industry guidelines governing financial markets and securities trading."
+    },
+    {
+        "word": "Quantpedia",
+        "description": "Quantpedia is an online resource and database of quantitative trading strategies and research articles."
+    },
+    {
+        "word": "Order Management System",
+        "description": "An Order Management System (OMS) is a software application used by traders to manage the flow of orders, including order routing and execution."
+    },
+    {
+        "word": "Execution Management System",
+        "description": "An Execution Management System (EMS) is a software platform used by traders to streamline and automate the execution of trades across multiple venues or brokers."
+    },
+    {
+        "word": "Alpha Decay",
+        "description": "Alpha Decay refers to the diminishing or reduction of an investment's excess return over time."
+    },
+    {
+        "word": "Stop-Limit Order",
+        "description": "A Stop-Limit Order is a type of order that combines the features of a stop order and a limit order."
+    },
+    {
+        "word": "Time Weighted Average Price",
+        "description": "Time Weighted Average Price (TWAP) is a trading algorithm that executes trades evenly over a specified time period to minimize market impact."
+    },
+    {
+        "word": "Volume Weighted Average Price",
+        "description": "Volume Weighted Average Price (VWAP) is a trading algorithm that executes trades based on the volume-weighted average price to minimize market impact."
+    },
+    {
+        "word": "Pair Trading",
+        "description": "Pair Trading is a strategy that involves taking long and short positions in two highly correlated securities to profit from temporary price divergences."
+    },
+    {
+        "word": "Seasonality",
+        "description": "Seasonality refers to recurring patterns or cycles in a security's price or performance that are associated with certain seasons or time periods."
+    },
+    {
+        "word": "Mean Squared Error",
+        "description": "Mean Squared Error (MSE) is a measure of the average squared difference between the predicted and actual values in a forecasting model."
+    },
+    {
+        "word": "Long Short Equity",
+        "description": "Long Short Equity is an investment strategy that involves taking long positions in stocks expected to rise in value and short positions in stocks expected to decline in value."
+    },
+    {
+        "word": "Backwardation",
+        "description": "Backwardation is a market condition where the price of a futures contract is lower than the expected spot price, indicating a positive market expectation."
+    },
+    {
+        "word": "Contango",
+        "description": "Contango is a market condition where the price of a futures contract is higher than the expected spot price, indicating a negative market expectation."
+    },
+    {
+        "word": "Market Data",
+        "description": "Market Data refers to data and information about trading instruments, such as prices, volumes, and order book data."
+    },
+    {
+        "word": "Execution",
+        "description": "Execution refers to the process of placing and fulfilling a trade order."
+    },
+    {
+        "word": "Take Profit Order",
+        "description": "A Take Profit Order is an order to close a position and realize profits once the price reaches a specified level."
+    },
+    {
+        "word": "Stop Loss Order",
+        "description": "A Stop Loss Order is an order to close a position and limit losses once the price reaches a specified level."
+    },
+    {
+        "word": "Quantitative Analysis",
+        "description": "Quantitative Analysis involves using mathematical and statistical models to analyze market data and make trading decisions."
+    },
+    {
+        "word": "Fundamental Analysis",
+        "description": "Fundamental Analysis involves analyzing financial statements and economic factors to evaluate the value of a security."
+    },
+    {
+        "word": "Trend Following",
+        "description": "Trend Following is a trading strategy that aims to profit from continued price movements in the same direction."
+    },
+    {
+        "word": "Statistical Arbitrage",
+        "description": "Statistical Arbitrage is a strategy that involves identifying and exploiting pricing inefficiencies between related securities."
+    },
+    {
+        "word": "High-Frequency Trading (Hft)",
+        "description": "High-Frequency Trading is a type of algorithmic trading that uses fast computers and low-latency connections to execute trades at high speeds."
+    },
+    {
+        "word": "Market Microstructure",
+        "description": "Market Microstructure is the study of how markets operate and how trading decisions are made at a micro level."
+    },
+    {
+        "word": "Sliding Window",
+        "description": "A Sliding Window is a technique used in time-series analysis to analyze data in a moving time frame."
+    },
+    {
+        "word": "Rebalance",
+        "description": "Rebalance is the process of adjusting the weights of assets in a portfolio to maintain the desired allocation."
+    },
+    {
+        "word": "Portfolio Backtesting",
+        "description": "Portfolio Backtesting is the process of testing a portfolio strategy against historical market data to evaluate its performance."
+    },
+    {
+        "word": "Volatility Trading",
+        "description": "Volatility Trading is a strategy that aims to profit from changes in the volatility of a trading instrument or market."
+    },
+    {
+        "word": "Risk Parity",
+        "description": "Risk Parity is a portfolio allocation strategy that seeks to allocate risk equally across different asset classes."
+    },
+    {
+        "word": "Mean Absolute Deviation (Mad)",
+        "description": "Mean Absolute Deviation is a measure of the average deviation of data points from their mean."
+    },
+    {
+        "word": "Moving Average",
+        "description": "Moving Average is a statistical technique used to analyze data points by creating a series of averages of different subsets of the full data set."
+    },
+    {
+        "word": "Reversion To The Mean",
+        "description": "Reversion to the Mean is the theory that prices and returns will eventually move back towards their historical average."
+    },
+    {
+        "word": "Monte Carlo Simulation",
+        "description": "Monte Carlo Simulation is a technique for estimating the probability of different outcomes in a process by simulating random samples."
+    },
+    {
+        "word": "Mean Absolute Percentage Error (Mape)",
+        "description": "Mean Absolute Percentage Error is a measure of forecast accuracy, calculated as the average difference between observed and forecasted values as a percentage of the observed values."
+    },
+    {
+        "word": "Order Flow",
+        "description": "Order Flow is the direct flow of buy and sell orders for a trading instrument."
+    },
+    {
+        "word": "Quantitative Research",
+        "description": "Quantitative Research involves developing and testing mathematical and statistical models to analyze financial markets."
+    },
+    {
+        "word": "Mean-Variance Analysis",
+        "description": "Mean-Variance Analysis is a method for determining the optimal portfolio allocation that maximizes expected return for a given level of risk."
+    },
+    {
+        "word": "Principal Component Analysis (Pca)",
+        "description": "Principal Component Analysis is a statistical technique used to reduce the dimensionality of a large data set."
+    },
+    {
+        "word": "Black Box Trading",
+        "description": "Black Box Trading is a type of algorithmic trading where the trading strategies or rules are kept secret."
+    },
+    {
+        "word": "Neural Networks",
+        "description": "Neural Networks are a type of machine learning algorithm inspired by the structure and function of biological neural networks."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subfield of machine learning that focuses on neural networks with multiple layers."
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting refers to a model that is trained too well on the training data and performs poorly on new, unseen data."
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting refers to a model that is too simple to capture the underlying patterns or relationships in the data."
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning is a machine learning technique that combines multiple models to improve the overall prediction or decision-making."
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "Recurrent Neural Network is a type of neural network that can process sequential data and has memory of past inputs."
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "Long Short-Term Memory is a type of recurrent neural network architecture that can better capture long-term dependencies in sequential data."
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "Feature Engineering is the process of creating new features or transforming existing ones to improve the performance of machine learning models."
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "Hyperparameters are parameters that are not learned by the model during training and need to be set by the user before training the model."
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "Cross-Validation is a technique for evaluating the performance of a machine learning model on multiple subsets of the data."
+    },
+    {
+        "word": "In-Sample Testing",
+        "description": "In-sample Testing is the evaluation of a model's performance on the same data that was used for training."
+    },
+    {
+        "word": "Out-Of-Sample Testing",
+        "description": "Out-of-sample Testing is the evaluation of a model's performance on data that was not used for training."
+    },
+    {
+        "word": "Grid Search",
+        "description": "Grid Search is a method for finding the best combination of hyperparameters for a machine learning model by exhaustively searching through a specified grid of values."
+    }
+]
