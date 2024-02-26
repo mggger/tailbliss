@@ -1,0 +1,514 @@
+[
+    {
+        "word": "Agile",
+        "description": "Agile is an iterative and flexible approach to project management that prioritizes collaboration, adaptability, and continuous improvement."
+    },
+    {
+        "word": "Backlog",
+        "description": "A backlog is a prioritized list of user stories or features that need to be developed in a project."
+    },
+    {
+        "word": "Burn-Down Chart",
+        "description": "A burn-down chart is a graphical representation of work remaining versus time, often used in agile project management to track progress."
+    },
+    {
+        "word": "Collaboration",
+        "description": "Collaboration refers to the act of working together with others to accomplish shared goals, often facilitated by project management software."
+    },
+    {
+        "word": "Critical Path",
+        "description": "The critical path is the sequence of project tasks that must be completed on time in order to avoid delaying the project."
+    },
+    {
+        "word": "Deliverable",
+        "description": "A deliverable is a tangible or intangible product or result that is produced and delivered as part of a project."
+    },
+    {
+        "word": "Dependencies",
+        "description": "Dependencies are relationships between project tasks that determine the order and timing of their execution."
+    },
+    {
+        "word": "Estimation",
+        "description": "Estimation is the process of predicting the time, effort, or cost required to complete a task or project."
+    },
+    {
+        "word": "Gantt Chart",
+        "description": "A Gantt chart is a visual representation of a project schedule that shows tasks and their durations."
+    },
+    {
+        "word": "Iterative",
+        "description": "Iterative refers to a development or management approach that involves repeating a process or cycle."
+    },
+    {
+        "word": "Milestone",
+        "description": "A milestone represents a significant event or achievement within a project, often used to track progress."
+    },
+    {
+        "word": "Project Management",
+        "description": "Project management is the process of planning, executing, and controlling a project to achieve specific goals and objectives."
+    },
+    {
+        "word": "Risk Management",
+        "description": "Risk management involves identifying, assessing, and mitigating potential risks that may impact project success."
+    },
+    {
+        "word": "Scope",
+        "description": "Scope defines the boundaries and extent of a project, including the work to be done and the deliverables to be produced."
+    },
+    {
+        "word": "Stakeholder",
+        "description": "A stakeholder is an individual or group of individuals who are affected by or have an interest in the outcome of a project."
+    },
+    {
+        "word": "Task",
+        "description": "A task is a specific work activity that needs to be performed in a project."
+    },
+    {
+        "word": "Time Tracking",
+        "description": "Time tracking involves recording and monitoring the time spent on project tasks, helping to track progress and manage resource allocation."
+    },
+    {
+        "word": "User Story",
+        "description": "A user story is a short description of a feature or functionality from a user's point of view, used in Agile development."
+    },
+    {
+        "word": "Scrum",
+        "description": "Scrum is an agile project management framework that emphasizes iterative and incremental development."
+    },
+    {
+        "word": "Kanban",
+        "description": "Kanban is an agile project management method that visualizes project workflow, typically using a board and cards."
+    },
+    {
+        "word": "Product Backlog",
+        "description": "The product backlog is a prioritized list of all the desired functionality or features for a product."
+    },
+    {
+        "word": "Sprint",
+        "description": "In agile project management, a sprint is a time-boxed period during which a specific set of tasks is completed."
+    },
+    {
+        "word": "Velocity",
+        "description": "Velocity is a measure of the amount of work a Scrum team can accomplish during a sprint."
+    },
+    {
+        "word": "Burndown Chart",
+        "description": "A burndown chart is a graphical representation of the work remaining versus time in a sprint."
+    },
+    {
+        "word": "Continuous Integration",
+        "description": "Continuous integration is the practice of merging code changes from multiple developers into a shared repository frequently, enabling faster feedback and bug detection."
+    },
+    {
+        "word": "Continuous Delivery",
+        "description": "Continuous delivery is the practice of automating the deployment of software to production environments, ensuring frequent and reliable releases."
+    },
+    {
+        "word": "Continuous Deployment",
+        "description": "Continuous deployment is the practice of automatically deploying software changes to production environments after passing a series of automated tests."
+    },
+    {
+        "word": "Waterfall",
+        "description": "Waterfall is a linear project management methodology that follows a sequential process with distinct phases, such as requirements, design, development, testing, and deployment."
+    },
+    {
+        "word": "Pert Chart",
+        "description": "A PERT chart (Program Evaluation Review Technique) is a project management tool used to schedule, organize, and coordinate tasks within a project."
+    },
+    {
+        "word": "Resource Allocation",
+        "description": "Resource allocation involves assigning and distributing resources to project tasks based on availability, skills, and requirements."
+    },
+    {
+        "word": "Critical Chain",
+        "description": "Critical chain is a project management method that focuses on managing the resources of a project to ensure timely completion."
+    },
+    {
+        "word": "Earned Value Management",
+        "description": "Earned Value Management is a project management technique that compares actual work completed and costs incurred against planned schedules and budgets."
+    },
+    {
+        "word": "Quality Assurance",
+        "description": "Quality assurance is the process of ensuring that a project or product meets specified requirements and quality standards."
+    },
+    {
+        "word": "Stakeholder Management",
+        "description": "Stakeholder management involves identifying, analyzing, and engaging stakeholders throughout the project lifecycle to ensure their needs and expectations are met."
+    },
+    {
+        "word": "Work Breakdown Structure",
+        "description": "A Work Breakdown Structure (WBS) is a hierarchical decomposition of project deliverables and tasks into smaller, more manageable components."
+    },
+    {
+        "word": "Dependency Management",
+        "description": "Dependency management is the process of identifying, tracking, and managing the relationships between tasks or activities in a project."
+    },
+    {
+        "word": "Portfolio Management",
+        "description": "Portfolio management is the centralized management of a group of projects or programs to achieve strategic objectives."
+    },
+    {
+        "word": "Issue",
+        "description": "An issue is a problem or challenge that arises in a project and needs to be addressed and resolved."
+    },
+    {
+        "word": "Change Management",
+        "description": "Change management is the process of planning, implementing, and controlling changes in a project in order to minimize negative impacts and maximize benefits."
+    },
+    {
+        "word": "Raci Matrix",
+        "description": "A RACI matrix is a project management tool used to define and clarify roles and responsibilities for project tasks and deliverables."
+    },
+    {
+        "word": "Sponsor",
+        "description": "A sponsor is an individual or organization that provides financial or other resources for a project."
+    },
+    {
+        "word": "Project Charter",
+        "description": "A project charter is a document that establishes the project's objectives, scope, stakeholders, and overall plan."
+    },
+    {
+        "word": "Procurement",
+        "description": "Procurement is the process of acquiring goods, services, or works from an external source for a project."
+    },
+    {
+        "word": "Risk Register",
+        "description": "A risk register is a document or tool used to identify, assess, and manage risks in a project."
+    },
+    {
+        "word": "Resource Leveling",
+        "description": "Resource leveling is a technique used in project management to optimize resource allocation and balance resource demands across a project."
+    },
+    {
+        "word": "Sprint Backlog",
+        "description": "A sprint backlog is a list of tasks or user stories that a Scrum team plans to complete during a sprint."
+    },
+    {
+        "word": "Stakeholder Analysis",
+        "description": "Stakeholder analysis is the process of identifying and analyzing the interests, needs, and influence of stakeholders in a project."
+    },
+    {
+        "word": "Project Closure",
+        "description": "Project closure is the final phase of a project, involving the completion and handover of deliverables, evaluation of project performance, and lessons learned."
+    },
+    {
+        "word": "Resource Management",
+        "description": "Resource management involves effectively allocating and optimizing resources, such as people, materials, and equipment, to complete project tasks."
+    },
+    {
+        "word": "Project Portfolio",
+        "description": "A project portfolio is a collection of projects or programs managed together to achieve organizational objectives."
+    },
+    {
+        "word": "Project Risk",
+        "description": "Project risks are uncertain events or conditions that may have a positive or negative impact on project objectives."
+    },
+    {
+        "word": "Project Schedule",
+        "description": "A project schedule is a timeline or plan that outlines the sequence of activities, tasks, and milestones in a project."
+    },
+    {
+        "word": "Scheduling",
+        "description": "Scheduling in project management software refers to the creation and management of project schedules, including task allocation and timeline visualization."
+    },
+    {
+        "word": "Change Control",
+        "description": "Change control is the process of reviewing, approving, and implementing changes to a project's scope, schedule, or deliverables."
+    },
+    {
+        "word": "Project Status Report",
+        "description": "A project status report is a periodic summary that provides an overview of the project's progress, risks, and issues."
+    },
+    {
+        "word": "Resource Histogram",
+        "description": "A Resource Histogram is a graphical representation of resource allocation across project tasks, helping visualize resource availability and workload."
+    },
+    {
+        "word": "Work Package",
+        "description": "A work package is a discreet, manageable component of a project that represents a deliverable or a group of closely related deliverables."
+    },
+    {
+        "word": "Project Management Software",
+        "description": "Project management software is a tool that helps individuals and teams effectively plan, organize, and manage projects."
+    },
+    {
+        "word": "Task Management",
+        "description": "Task management is the process of structuring, organizing, and prioritizing tasks in order to achieve project goals."
+    },
+    {
+        "word": "Agile Methodology",
+        "description": "Agile Methodology is an iterative and flexible approach to project management that focuses on delivering value incrementally and adapting to changes."
+    },
+    {
+        "word": "Pert",
+        "description": "PERT (Program Evaluation and Review Technique) is a project management method that uses probabilistic estimation to determine project durations."
+    },
+    {
+        "word": "Issue Tracking",
+        "description": "Issue tracking involves recording, tracking, and managing project issues or problems that arise during the project lifecycle."
+    },
+    {
+        "word": "Document Management",
+        "description": "Document management in project management software refers to the organization, storage, and retrieval of project-related documents and files."
+    },
+    {
+        "word": "Budget Management",
+        "description": "Budget Management involves planning, tracking, and controlling project costs to ensure they align with the approved budget."
+    },
+    {
+        "word": "Resource Calendar",
+        "description": "A Resource Calendar is a tool that helps schedule and manage the availability and allocation of resources across project tasks."
+    },
+    {
+        "word": "Project Portfolio Management",
+        "description": "Project portfolio management is the centralized management of multiple projects, evaluating and prioritizing them based on strategic alignment and resource allocation."
+    },
+    {
+        "word": "Communication Management",
+        "description": "Communication Management involves planning, executing, and monitoring project communication to ensure stakeholders receive relevant information."
+    },
+    {
+        "word": "Project Scope",
+        "description": "Project scope defines the boundaries of a project, including the deliverables, objectives, and requirements."
+    },
+    {
+        "word": "Project Planning",
+        "description": "Project Planning is the process of defining project objectives, determining project tasks, estimating resources, and creating a project schedule."
+    },
+    {
+        "word": "Project Tracking",
+        "description": "Project Tracking involves monitoring project progress, comparing actual performance against planned targets, and taking corrective actions."
+    },
+    {
+        "word": "Project Reporting",
+        "description": "Project Reporting involves collecting, analyzing, and presenting project information to stakeholders, providing an overview of project performance."
+    },
+    {
+        "word": "Task Dependency",
+        "description": "Task dependency in project management software refers to the relationship between tasks, where the start or completion of one task depends on another."
+    },
+    {
+        "word": "Milestone Tracking",
+        "description": "Milestone tracking in project management software refers to the monitoring and updating of project milestones to track progress and identify deviations."
+    },
+    {
+        "word": "Issue Management",
+        "description": "Issue Management involves the identification, tracking, and resolution of project issues to ensure they are addressed and resolved effectively."
+    },
+    {
+        "word": "Resource Management Software",
+        "description": "Resource Management Software is a type of project management software that specifically focuses on managing and optimizing resource allocation."
+    },
+    {
+        "word": "Task Management Software",
+        "description": "Task Management Software is a type of project management software that provides features for organizing, assigning, and tracking project tasks."
+    },
+    {
+        "word": "Time Tracking Software",
+        "description": "Time Tracking Software is a tool that helps record and monitor the time spent on project tasks, enabling accurate time management and analysis."
+    },
+    {
+        "word": "Communication Software",
+        "description": "Communication Software includes tools and platforms that facilitate communication and collaboration among project team members."
+    },
+    {
+        "word": "Risk Management Software",
+        "description": "Risk Management Software is a type of project management software that provides features for identifying, assessing, and mitigating project risks."
+    },
+    {
+        "word": "Gantt Chart Software",
+        "description": "Gantt Chart Software is a tool that allows users to create, update, and visualize project schedules using Gantt Charts."
+    },
+    {
+        "word": "Collaboration Software",
+        "description": "Collaboration Software enables team members to work together, share information, and collaborate on project tasks and deliverables."
+    },
+    {
+        "word": "Planning Software",
+        "description": "Planning Software is a type of project management software that helps with creating project plans, assigning tasks, and setting project goals."
+    },
+    {
+        "word": "Budgeting Software",
+        "description": "Budgeting Software is a tool that assists in creating, managing, and tracking project budgets, ensuring accurate financial planning and control."
+    },
+    {
+        "word": "Reporting Software",
+        "description": "Reporting Software is a tool that automates the creation and generation of project reports, providing stakeholders with up-to-date project information."
+    },
+    {
+        "word": "Scheduling Software",
+        "description": "Scheduling Software is a tool that helps create and manage project schedules, allowing users to define task dependencies and allocate resources."
+    },
+    {
+        "word": "Agile Software",
+        "description": "Agile Software is a type of project management software that supports Agile methodologies, facilitating iterative and collaborative project execution."
+    },
+    {
+        "word": "Waterfall Software",
+        "description": "Waterfall Software is a project management software that follows the traditional Waterfall methodology, with sequential phases and linear project progression."
+    },
+    {
+        "word": "Kanban Software",
+        "description": "Kanban Software is a tool that enables users to create and manage Kanban boards, visualize work, and track progress."
+    },
+    {
+        "word": "Scrum Software",
+        "description": "Scrum Software is a tool that supports Scrum frameworks, providing features for backlog management, sprint planning, and team collaboration."
+    },
+    {
+        "word": "Project Management Framework",
+        "description": "A Project Management Framework is a set of principles, processes, and guidelines that provides a structured approach to managing projects."
+    },
+    {
+        "word": "Project Management Methodology",
+        "description": "A Project Management Methodology is a collection of best practices, techniques, and tools used to manage projects effectively and efficiently."
+    },
+    {
+        "word": "Project Management Lifecycle",
+        "description": "The Project Management Lifecycle is a series of phases or stages that a project goes through, from initiation to closure, providing a structured approach to project management."
+    },
+    {
+        "word": "Project Management Office (Pmo)",
+        "description": "A Project Management Office (PMO) is a centralized unit within an organization responsible for overseeing and improving project management practices, standards, and processes."
+    },
+    {
+        "word": "Project Management Professional (Pmp)",
+        "description": "Project Management Professional (PMP) is a globally recognized certification for project managers, validating their knowledge and expertise in project management."
+    },
+    {
+        "word": "Agile Project Management",
+        "description": "Agile Project Management is an iterative and flexible approach to managing projects using Agile methodologies, focusing on adaptability and customer collaboration."
+    },
+    {
+        "word": "Waterfall Project Management",
+        "description": "Waterfall Project Management is a traditional linear approach to managing projects, where each phase is completed before moving to the next."
+    },
+    {
+        "word": "Hybrid Project Management",
+        "description": "Hybrid Project Management combines elements of Agile and Waterfall methodologies to tailor project management approaches based on project requirements and complexity."
+    },
+    {
+        "word": "Budgeting",
+        "description": "Budgeting is the process of estimating, allocating, and tracking project costs and expenses."
+    },
+    {
+        "word": "User Stories",
+        "description": "User stories are short descriptions of desired functionality or features from the perspective of an end user, often used in agile project management."
+    },
+    {
+        "word": "Sprint Planning",
+        "description": "Sprint planning is a meeting in agile project management where tasks for the upcoming sprint are defined and estimated."
+    },
+    {
+        "word": "Burndown Rate",
+        "description": "The burndown rate is the rate at which work is completed in a project, often visualized as a line on a burn-down chart."
+    },
+    {
+        "word": "Dependency",
+        "description": "A dependency represents a relationship between tasks or activities in a project, where the completion or start of one task depends on the completion or start of another."
+    },
+    {
+        "word": "Work Breakdown Structure (Wbs)",
+        "description": "A work breakdown structure (WBS) is a hierarchical decomposition of project tasks, breaking them down into smaller, more manageable components."
+    },
+    {
+        "word": "Milestone Chart",
+        "description": "A milestone chart is a visual representation of project milestones, typically displayed along with the project schedule."
+    },
+    {
+        "word": "Project Plan",
+        "description": "A project plan is a comprehensive document that outlines the objectives, timeline, resources, and tasks of a project."
+    },
+    {
+        "word": "Baseline",
+        "description": "A baseline is a reference point or starting point against which the performance or progress of a project is measured."
+    },
+    {
+        "word": "Project Dashboard",
+        "description": "A project dashboard is a visual display of key project metrics, providing a high-level overview of project status and progress."
+    },
+    {
+        "word": "Project Lifecycle",
+        "description": "The project lifecycle represents the stages a project goes through, from initiation and planning to execution, monitoring, and closure."
+    },
+    {
+        "word": "Critical Chain Method",
+        "description": "Critical Chain Method is a project management technique that focuses on resource allocation and task dependencies to optimize project scheduling and reduce the impact of delays."
+    },
+    {
+        "word": "Milestone Schedule",
+        "description": "A milestone schedule is a timeline that shows the planned dates for important milestones in a project."
+    },
+    {
+        "word": "Dependency Mapping",
+        "description": "Dependency mapping is the process of identifying and documenting the relationships and dependencies between project tasks, resources, and deliverables."
+    },
+    {
+        "word": "Quality Management",
+        "description": "Quality management involves ensuring that project deliverables meet the required quality standards and customer expectations."
+    },
+    {
+        "word": "Project Governance",
+        "description": "Project governance refers to the framework and processes that guide and control how projects are managed within an organization."
+    },
+    {
+        "word": "Project Sponsor",
+        "description": "A project sponsor is a person or group who provides financial resources, guidance, and support for a project."
+    },
+    {
+        "word": "Scope Creep",
+        "description": "Scope creep refers to the unauthorized or uncontrolled changes in a project's scope, often leading to project delays and cost overruns."
+    },
+    {
+        "word": "Requirements Management",
+        "description": "Requirements management involves identifying, documenting, and managing the needs and expectations of project stakeholders."
+    },
+    {
+        "word": "Standalone",
+        "description": "A standalone project management software refers to a software that can be installed and run on a local machine without requiring internet connectivity."
+    },
+    {
+        "word": "Cloud-Based",
+        "description": "Cloud-based project management software refers to a software that is hosted on remote servers and accessed through the internet."
+    },
+    {
+        "word": "Integration",
+        "description": "Integration in project management software refers to the ability to connect or combine different software tools and systems."
+    },
+    {
+        "word": "Customization",
+        "description": "Customization in project management software refers to the ability to modify or adapt the software to meet specific project requirements."
+    },
+    {
+        "word": "Reporting",
+        "description": "Reporting in project management software refers to the generation and presentation of project data and information in a structured and meaningful way."
+    },
+    {
+        "word": "Mobile App",
+        "description": "A mobile app in project management refers to a software application that is designed to be used on mobile devices such as smartphones and tablets."
+    },
+    {
+        "word": "Dashboard",
+        "description": "A dashboard in project management software refers to a visual interface that displays key project metrics and information in real-time."
+    },
+    {
+        "word": "Document Sharing",
+        "description": "Document sharing in project management software refers to the ability to store, access, and collaborate on project-related documents and files."
+    },
+    {
+        "word": "Project Budgeting",
+        "description": "Project budgeting in project management software refers to the process of estimating, allocating, and tracking project costs and expenses."
+    },
+    {
+        "word": "Resource Utilization",
+        "description": "Resource utilization in project management software refers to the measurement and optimization of resources' time and effort in project tasks."
+    },
+    {
+        "word": "Activity Log",
+        "description": "An activity log in project management software refers to a record of project activities, including dates, times, and descriptions of completed tasks."
+    },
+    {
+        "word": "Team Collaboration",
+        "description": "Team collaboration in project management software refers to the ability for team members to work together, share information, and communicate effectively for project success."
+    }
+]
