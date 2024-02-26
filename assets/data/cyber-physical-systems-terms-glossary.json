@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Cyber-Physical Systems",
+        "description": "Cyber-Physical Systems (CPS) are engineered systems that integrate physical processes with networked computing and communication."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "The Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to enable the exchange of data."
+    },
+    {
+        "word": "Embedded Systems",
+        "description": "Embedded systems are computer systems designed to perform specific tasks within larger systems, often with dedicated functions and limited resources."
+    },
+    {
+        "word": "Real-Time Systems",
+        "description": "Real-Time Systems are computer systems that must respond to external events within strict time constraints."
+    },
+    {
+        "word": "Sensors",
+        "description": "Sensors are devices that detect and respond to physical input from the environment by converting them into electrical signals."
+    },
+    {
+        "word": "Actuators",
+        "description": "Actuators are devices that convert control signals into physical action or movement, often used to manipulate the physical environment."
+    },
+    {
+        "word": "Modeling And Simulation",
+        "description": "Modeling and Simulation involves creating abstract representations of real-world systems to analyze and predict their behavior."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity is the practice of protecting computer systems and networks from unauthorized access, theft, damage, or disruption."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing is the delivery of on-demand computing services, including servers, storage, databases, networking, software, analytics, and intelligence, over the internet."
+    },
+    {
+        "word": "Wireless Communication",
+        "description": "Wireless communication is the transfer of information or data between two or more points without using any physical connection or wires."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning is a field of AI that enables machines to learn and make predictions from data without being explicitly programmed."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics is the process of examining large and varied data sets to uncover patterns, correlations, insights, and other meaningful information."
+    },
+    {
+        "word": "Control Systems",
+        "description": "Control systems are systems designed to manage, command, direct, or regulate the behavior of other devices or systems."
+    },
+    {
+        "word": "System Integration",
+        "description": "System Integration involves combining different sub-systems into one unified system to achieve specific functionalities."
+    },
+    {
+        "word": "Fault Tolerance",
+        "description": "Fault tolerance is the property that enables a system or component to continue operating properly in the event of the failure of some of its components."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a simulated experience that can be similar to or completely different from the real world."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is an interactive experience that combines real-world environment with computer-generated perceptual information."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A digital twin is a virtual replica of a physical object, system, or process, used to simulate, predict, and optimize performance in the physical world."
+    },
+    {
+        "word": "Distributed Systems",
+        "description": "Distributed systems are systems consisting of multiple autonomous computers that communicate and coordinate their actions through a network."
+    },
+    {
+        "word": "Sensor Networks",
+        "description": "Sensor Networks consist of spatially distributed sensors that monitor and collect data from the environment."
+    },
+    {
+        "word": "Internet Protocol Suite",
+        "description": "The Internet Protocol Suite (TCP/IP) is the set of protocols enabling communication and data exchange on the internet."
+    },
+    {
+        "word": "Human-Machine Interaction",
+        "description": "Human-Machine Interaction (HMI) focuses on the design and interaction between humans and machines."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine vision involves the use of cameras, sensors, and image processing techniques to enable computers or robots to interpret visual information and perceive the environment."
+    },
+    {
+        "word": "Digital Control",
+        "description": "Digital control refers to control systems that use digital computers or processors to execute control algorithms and adjust system behavior based on sensor feedback."
+    },
+    {
+        "word": "Simulation Tools",
+        "description": "Simulation Tools are software programs used to model and analyze the behavior of complex systems."
+    },
+    {
+        "word": "Machine-To-Machine Communication",
+        "description": "Machine-to-Machine (M2M) communication refers to the direct communication and interaction between devices or machines without human intervention."
+    },
+    {
+        "word": "System-On-Chip",
+        "description": "System-on-Chip (SoC) is an integrated circuit that combines all the necessary components of a computer system onto a single chip."
+    },
+    {
+        "word": "Power System Automation",
+        "description": "Power System Automation involves automating the monitoring, control, and optimization of electric power systems."
+    },
+    {
+        "word": "Intelligent Transportation Systems",
+        "description": "Intelligent Transportation Systems (ITS) are advanced applications that aim to provide innovative services relating to different modes of transportation and traffic management."
+    },
+    {
+        "word": "Smart Grid",
+        "description": "A smart grid is an electrical grid that uses digital communication and control technologies to gather and act on real-time data for efficient and sustainable energy distribution."
+    },
+    {
+        "word": "Cyber-Physical Security",
+        "description": "Cyber-Physical Security focuses on protecting the security and integrity of cyber-physical systems from cyber threats."
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "Predictive maintenance is the use of data analytics and machine learning techniques to determine the condition of equipment or systems and predict when maintenance is needed."
+    },
+    {
+        "word": "Networked Control Systems",
+        "description": "Networked Control Systems are control systems where the components are connected via a network for communication and coordination."
+    },
+    {
+        "word": "Industrial Internet Of Things",
+        "description": "The Industrial Internet of Things (IIoT) refers to the extension of IoT technology to industrial and manufacturing environments, connecting machines, devices, and sensors to gather and analyze data for improving operations."
+    },
+    {
+        "word": "Cyber-Physical Production Systems",
+        "description": "Cyber-Physical Production Systems (CPPS) combine physical production processes with cyber capabilities for improved efficiency and flexibility."
+    },
+    {
+        "word": "Robotics",
+        "description": "Robotics is the interdisciplinary field that combines mechanical engineering, electrical engineering, and computer science to design, build, and operate robots."
+    },
+    {
+        "word": "Energy Harvesting",
+        "description": "Energy harvesting is the process of capturing and storing energy from ambient sources, such as solar, mechanical, thermal, or electromagnetic energy, and converting it for powering electronic devices."
+    },
+    {
+        "word": "Wireless Sensor Networks",
+        "description": "Wireless sensor networks are networks of spatially distributed autonomous sensors that communicate wirelessly and collect data from the environment."
+    },
+    {
+        "word": "Fog Computing",
+        "description": "Fog computing is a decentralized computing infrastructure that extends the cloud's capabilities to the edge of the network, closer to the source of data."
+    },
+    {
+        "word": "Ubiquitous Computing",
+        "description": "Ubiquitous computing, also known as pervasive computing, is a concept in which computing technology becomes seamlessly integrated into the environment and everyday objects."
+    },
+    {
+        "word": "Industrial Control Systems",
+        "description": "Industrial Control Systems (ICS) manage and automate industrial processes using control technologies."
+    },
+    {
+        "word": "Supervisory Control And Data Acquisition",
+        "description": "Supervisory Control and Data Acquisition (SCADA) systems monitor and control industrial processes through centralized software."
+    },
+    {
+        "word": "Cyber-Physical Manufacturing Systems",
+        "description": "Cyber-Physical Manufacturing Systems (CPMS) use advanced technologies to improve the efficiency and flexibility of manufacturing processes."
+    },
+    {
+        "word": "Digital Thread",
+        "description": "The Digital Thread is a communication framework that connects and integrates data throughout the product lifecycle, from design to maintenance."
+    },
+    {
+        "word": "Industry 4.0",
+        "description": "Industry 4.0 is a term that describes the fourth industrial revolution, characterized by the integration of digital technologies and manufacturing."
+    },
+    {
+        "word": "Smart Cities",
+        "description": "Smart Cities leverage IoT, AI, and other technologies to improve the quality of life for citizens, enhance sustainability, and optimize the use of resources and infrastructure."
+    },
+    {
+        "word": "Robustness",
+        "description": "Robustness refers to the ability of a system or process to function properly under various conditions, including uncertainties and disturbances."
+    },
+    {
+        "word": "Interoperability",
+        "description": "Interoperability is the ability of different systems or components to exchange and use information in a mutually beneficial and seamless manner."
+    },
+    {
+        "word": "Cyber-Physical System Of Systems",
+        "description": "A Cyber-Physical System of Systems (CPSoS) is a complex system that consists of multiple interconnected cyber-physical systems."
+    },
+    {
+        "word": "Smart Buildings",
+        "description": "Smart Buildings use automation and connectivity to optimize energy efficiency, occupant comfort, and overall building performance."
+    },
+    {
+        "word": "Drone Systems",
+        "description": "Drone Systems are unmanned aerial vehicles that can be remotely controlled or fly autonomously for various applications."
+    },
+    {
+        "word": "Smart Healthcare Systems",
+        "description": "Smart Healthcare Systems leverage digital technologies and data analytics to improve the delivery of healthcare services."
+    },
+    {
+        "word": "Smart Agriculture",
+        "description": "Smart Agriculture utilizes IoT, sensors, and data analytics to optimize and automate farming operations for increased productivity."
+    },
+    {
+        "word": "Digital Health Monitoring",
+        "description": "Digital Health Monitoring involves using wearable sensors and devices to collect and analyze health-related data for monitoring and diagnosis."
+    },
+    {
+        "word": "Cyber-Physical Energy Systems",
+        "description": "Cyber-Physical Energy Systems integrate energy generation, distribution, and consumption with advanced monitoring and control technologies."
+    },
+    {
+        "word": "Automated Vehicles",
+        "description": "Automated Vehicles, also known as self-driving cars or autonomous vehicles, can operate without direct human input or control."
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data fusion is the process of integrating multiple sources of data to derive higher-level knowledge or make more accurate inferences."
+    },
+    {
+        "word": "Security",
+        "description": "Security refers to measures taken to protect computer systems and data from unauthorized access, use, disclosure, disruption, modification, or destruction."
+    },
+    {
+        "word": "Privacy",
+        "description": "Privacy is the right of individuals to control or limit the collection, use, and disclosure of their personal information and data."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed digital ledger technology that records transactions across multiple computers, providing transparency, security, and immutability."
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "Digital transformation is the integration of digital technology into all aspects of an organization, fundamentally changing how it operates and delivers value."
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "description": "Autonomous vehicles, also known as self-driving cars, are vehicles capable of navigating and operating without human intervention, using sensors, machine learning, and connectivity."
+    },
+    {
+        "word": "Simulation",
+        "description": "Simulation is the process of creating a computer model or representation of a real-world system or process to analyze, predict, or understand its behavior."
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "Mixed Reality (MR) is the merging of real and virtual worlds to produce new environments and visualizations, where physical and digital objects coexist and interact in real-time."
+    },
+    {
+        "word": "Human-Computer Interaction",
+        "description": "Human-Computer Interaction (HCI) is the study, design, and interaction between humans and computers, focusing on creating effective and user-friendly computer interfaces."
+    },
+    {
+        "word": "Wearable Technology",
+        "description": "Wearable technology refers to devices and accessories that can be worn on the body, incorporating sensors, connectivity, and computing power to enhance user experiences and provide personalized information."
+    },
+    {
+        "word": "Parallel Computing",
+        "description": "Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big data refers to extremely large and complex data sets that cannot be easily processed or analyzed using traditional data-processing techniques."
+    },
+    {
+        "word": "Cloud Robotics",
+        "description": "Cloud Robotics is a robotics field that incorporates cloud computing resources and capabilities to enhance robot performance, collaboration, and learning."
+    },
+    {
+        "word": "Smart Homes",
+        "description": "Smart homes are residences equipped with IoT devices and systems that automate and control various household functions for increased comfort, convenience, and efficiency."
+    },
+    {
+        "word": "Industrial Automation",
+        "description": "Industrial automation involves the use of control systems, such as robots or computers, to handle and control different processes in industrial settings, increasing productivity and reducing human intervention."
+    },
+    {
+        "word": "Wireless Power Transfer",
+        "description": "Wireless power transfer technology enables the transfer of electrical power without the need for physical connections or wires, using electromagnetic fields or resonant inductive coupling."
+    },
+    {
+        "word": "Model Predictive Control",
+        "description": "Model Predictive Control (MPC) is a control strategy that uses an explicitly defined model of the system to predict and optimize future behavior, considering constraints and objectives."
+    },
+    {
+        "word": "Haptic Technology",
+        "description": "Haptic technology provides tactile feedback and sensations through touch-based interactions, allowing users to perceive and manipulate virtual or remote objects."
+    },
+    {
+        "word": "Self-Healing Systems",
+        "description": "Self-healing systems are systems capable of detecting, diagnosing, and autonomously recovering from failures or faults, ensuring continuous operation and reducing maintenance efforts."
+    },
+    {
+        "word": "Industrial Robotics",
+        "description": "Industrial robotics involves the use of robots in industrial manufacturing processes to automate tasks, increase efficiency, and improve safety."
+    },
+    {
+        "word": "Edge Intelligence",
+        "description": "Edge intelligence refers to the ability of edge devices, such as sensors or robots, to perform data processing, analytics, and decision-making locally, without relying solely on centralized cloud resources."
+    },
+    {
+        "word": "Digital Manufacturing",
+        "description": "Digital manufacturing, also known as smart manufacturing or Industry 4.0, involves the use of digital technologies, IoT, and data analytics to optimize and automate manufacturing processes."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive analytics uses historical data, statistical algorithms, and machine learning techniques to predict future outcomes or behavior, enabling proactive decision-making and optimization."
+    },
+    {
+        "word": "Biometric Systems",
+        "description": "Biometric systems identify and authenticate individuals using their unique physiological or behavioral characteristics, such as fingerprints, facial features, or voice patterns."
+    },
+    {
+        "word": "Wireless Sensor Actuator Networks",
+        "description": "Wireless Sensor-Actuator Networks (WSANs) are networks composed of sensor and actuator nodes that communicate wirelessly, collecting and analyzing data to interact with the physical environment."
+    },
+    {
+        "word": "Constraint Handling",
+        "description": "Constraint handling refers to methods and techniques for dealing with constraints or limitations in system design, operation, or optimization."
+    },
+    {
+        "word": "Simulation-Based Optimization",
+        "description": "Simulation-based optimization uses simulations and mathematical algorithms to find the best or optimal solution for complex problems, taking into account multiple variables and constraints."
+    },
+    {
+        "word": "Digital Security",
+        "description": "Digital security encompasses measures and technologies to protect digital assets, information, and systems from unauthorized access, use, disclosure, disruption, or destruction."
+    },
+    {
+        "word": "Fault Diagnosis",
+        "description": "Fault diagnosis is the process of identifying, isolating, and rectifying faults or failures in a system or device."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy concerns the protection of personal data or information, ensuring that individuals have control over how their data is collected, used, and shared."
+    },
+    {
+        "word": "Real-Time Optimization",
+        "description": "Real-time optimization refers to optimization algorithms and techniques designed to make decisions and adapt to changing conditions in real-time, considering system dynamics and constraints."
+    },
+    {
+        "word": "Privacy-Preserving Data Mining",
+        "description": "Privacy-preserving data mining addresses the challenge of extracting valuable insights and patterns from data while protecting individual privacy by applying anonymization or encryption techniques."
+    },
+    {
+        "word": "Industrial Iot",
+        "description": "Industrial Internet of Things (IIoT) focuses on the application of IoT technologies in industrial settings, connecting machines, devices, and systems to enable data collection, analysis, and optimization."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that involves training and deploying artificial neural networks with multiple hidden layers to learn and understand complex patterns in data."
+    },
+    {
+        "word": "Sensor",
+        "description": "A sensor is a device that detects or measures physical properties and converts them into signals that can be processed or transmitted."
+    },
+    {
+        "word": "Actuator",
+        "description": "An actuator is a device that converts control signals into physical motion or other physical processes."
+    },
+    {
+        "word": "Control System",
+        "description": "A control system is a system that manages, commands, directs, or regulates the behavior of other devices or systems."
+    },
+    {
+        "word": "Firmware",
+        "description": "Firmware is a type of software that is permanently stored in a hardware device and provides low-level control over the device's specific functions."
+    },
+    {
+        "word": "Gis",
+        "description": "GIS (Geographic Information System) is a system designed to capture, store, analyze, manage, and present spatial or geographic data."
+    },
+    {
+        "word": "Hmi",
+        "description": "HMI (Human-Machine Interface) is the interface or control panel that connects humans to a machine, system, or device."
+    },
+    {
+        "word": "Model-Based Design",
+        "description": "Model-Based Design is an approach to system development that uses models to describe system behavior and automatically generates software and hardware implementations."
+    },
+    {
+        "word": "Network Protocol",
+        "description": "A network protocol is a set of rules and standards that determine how data is transmitted and received over a network."
+    },
+    {
+        "word": "Time Synchronization",
+        "description": "Time synchronization is the process of coordinating the clocks of multiple devices or systems to ensure they have the same time reference."
+    },
+    {
+        "word": "Virtualization",
+        "description": "Virtualization is the process of creating a virtual version of a device, operating system, storage, or network resource."
+    },
+    {
+        "word": "Wireless Sensor Network",
+        "description": "A wireless sensor network is a network of spatially distributed autonomous sensors that communicate wirelessly and monitor physical or environmental conditions."
+    },
+    {
+        "word": "Middleware",
+        "description": "Middleware is software that sits between the operating system and applications, providing services and enabling communication between different software components."
+    },
+    {
+        "word": "Reliability",
+        "description": "Reliability is the ability of a system or component to perform its required functions under stated conditions for a specified period of time."
+    },
+    {
+        "word": "Resilience",
+        "description": "Resilience is the ability of a system to withstand and recover from failures, disruptions, or disturbances, and continue to operate effectively."
+    },
+    {
+        "word": "Autonomous System",
+        "description": "An autonomous system is a system that can operate and make decisions without human intervention."
+    },
+    {
+        "word": "Data Security",
+        "description": "Data security refers to the protection of data from unauthorized access, use, disclosure, destruction, or disruption."
+    },
+    {
+        "word": "Embedded System",
+        "description": "An embedded system is a combination of computer hardware and software designed for a specific function within a larger system or device."
+    },
+    {
+        "word": "Model Checking",
+        "description": "Model checking is an automated technique for verifying the correctness of a system model or design by exhaustively exploring all possible states."
+    },
+    {
+        "word": "Quality Of Service",
+        "description": "Quality of Service (QoS) refers to the performance characteristics of a network or service, such as bandwidth, latency, and reliability."
+    },
+    {
+        "word": "Software-Defined Networking",
+        "description": "Software-Defined Networking (SDN) is an approach to networking that separates the control plane from the data plane, allowing for centralized network control and programmability."
+    },
+    {
+        "word": "Time-Critical Systems",
+        "description": "Time-critical systems are systems in which timeliness and predictability of operation are essential."
+    },
+    {
+        "word": "Control Theory",
+        "description": "Control theory is a branch of mathematics and engineering that deals with the behavior of dynamical systems and the design of controllers."
+    },
+    {
+        "word": "Embedded Security",
+        "description": "Embedded security refers to the measures and techniques used to protect the security and integrity of embedded systems and devices."
+    },
+    {
+        "word": "Privacy-Preserving Techniques",
+        "description": "Privacy-preserving techniques are methods or mechanisms designed to protect the confidentiality and privacy of data during processing or transmission."
+    },
+    {
+        "word": "Safety-Critical Systems",
+        "description": "Safety-critical systems are systems in which the consequences of failure can result in harm, injury, or loss of life."
+    },
+    {
+        "word": "Software Engineering",
+        "description": "Software engineering is the application of engineering principles and practices to the development, maintenance, and operation of software systems."
+    },
+    {
+        "word": "Model-Driven Engineering",
+        "description": "Model-Driven Engineering (MDE) is an approach to software and systems development that focuses on creating and manipulating models as the primary artifacts of development."
+    },
+    {
+        "word": "Power Systems",
+        "description": "Power systems refer to the infrastructure, devices, and techniques used for generation, transmission, distribution, and control of electricity."
+    },
+    {
+        "word": "Safety Engineering",
+        "description": "Safety engineering is the application of engineering techniques and principles to ensure the safety and reliability of systems, products, or processes."
+    },
+    {
+        "word": "Software Verification",
+        "description": "Software verification is the process of evaluating a system or component to determine whether it satisfies the specified requirements or conditions."
+    },
+    {
+        "word": "Data Mining",
+        "description": "Data mining is the process of discovering patterns, relationships, or other useful information from large data sets using various analytical techniques."
+    },
+    {
+        "word": "Scheduling",
+        "description": "Scheduling is the process of allocating resources, determining the order and timing of tasks, or planning and coordinating activities to achieve specific goals."
+    }
+]
