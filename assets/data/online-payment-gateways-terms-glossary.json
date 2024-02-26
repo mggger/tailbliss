@@ -1,0 +1,502 @@
+[
+    {
+        "word": "Online Payment Gateway",
+        "description": "An Online Payment Gateway is a service that processes online payments for e-commerce websites and facilitates the transfer of funds between the customer, merchant, and acquiring bank."
+    },
+    {
+        "word": "Merchant Account",
+        "description": "A Merchant Account is a type of bank account that allows businesses to accept and process credit and debit card payments."
+    },
+    {
+        "word": "Payment Processor",
+        "description": "A Payment Processor is a company or service provider that handles the technical aspects of the payment transaction process, including authorization, settlement, and security."
+    },
+    {
+        "word": "Transaction",
+        "description": "A transaction refers to the exchange of funds between a customer and a merchant for a product or service."
+    },
+    {
+        "word": "Payment Card",
+        "description": "A payment card, such as a credit or debit card, is a physical or virtual card that allows a customer to make payments."
+    },
+    {
+        "word": "Authorization",
+        "description": "Authorization is the process of approving a payment transaction, ensuring that the customer has sufficient funds and the transaction is valid."
+    },
+    {
+        "word": "Capture",
+        "description": "Capture is the process of transferring the authorized funds from the customer's account to the merchant's account."
+    },
+    {
+        "word": "Settlement",
+        "description": "Settlement is the process of completing a payment transaction by transferring the funds from the acquiring bank to the merchant's bank account."
+    },
+    {
+        "word": "Refund",
+        "description": "A Refund is the process of returning funds to a customer for a previously processed payment."
+    },
+    {
+        "word": "Chargeback",
+        "description": "A Chargeback is a customer's request to reverse a payment transaction, typically due to a dispute or fraud."
+    },
+    {
+        "word": "Card Association",
+        "description": "A Card Association is a network that governs the use of payment cards, such as Visa, Mastercard, American Express, and Discover."
+    },
+    {
+        "word": "Pci Dss",
+        "description": "The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards that merchants must comply with to protect cardholder data."
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenization is the process of replacing sensitive card data with a unique identifier, known as a token, to enhance security and reduce the risk of data breaches."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is the process of converting information or data into a code to prevent unauthorized access or data theft."
+    },
+    {
+        "word": "Secure Socket Layer (Ssl)",
+        "description": "Secure Socket Layer (SSL) is a protocol used to secure online communication and protect data transmitted between a web server and a browser."
+    },
+    {
+        "word": "Two-Factor Authentication (2Fa)",
+        "description": "Two-Factor Authentication (2FA) is a security measure that requires users to provide two different types of authentication factors, such as a password and a unique code sent to a mobile device, to verify their identity."
+    },
+    {
+        "word": "Recurring Payment",
+        "description": "A recurring payment is an automatic payment that is scheduled to recur at regular intervals, such as a monthly subscription."
+    },
+    {
+        "word": "Virtual Terminal",
+        "description": "A Virtual Terminal is an online platform that enables merchants to process payments manually, entering payment card details on behalf of customers."
+    },
+    {
+        "word": "Hosted Payment Page",
+        "description": "A Hosted Payment Page is a web page provided by a payment gateway that securely collects payment information from customers."
+    },
+    {
+        "word": "Api",
+        "description": "API stands for Application Programming Interface, which is a set of rules and protocols that allows different software applications to communicate and exchange data."
+    },
+    {
+        "word": "Invoicing",
+        "description": "Invoicing is the process of generating and sending bills or invoices to customers for payment."
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "Fraud detection refers to the methods and techniques used to identify and prevent fraudulent transactions or activities."
+    },
+    {
+        "word": "Cvv",
+        "description": "CVV stands for Card Verification Value, and it is the three-digit code on the back of a payment card used for added security during online transactions."
+    },
+    {
+        "word": "3D Secure",
+        "description": "3D Secure is an additional security layer used in online transactions to reduce the risk of fraud, requiring customers to provide an additional authentication step."
+    },
+    {
+        "word": "Batch Processing",
+        "description": "Batch Processing is the method of processing multiple payment transactions simultaneously, typically performed at the end of the business day."
+    },
+    {
+        "word": "Reconciliation",
+        "description": "Reconciliation is the process of comparing and matching transaction data, such as sales records and payment settlements, to ensure accuracy and identify discrepancies."
+    },
+    {
+        "word": "Acquirer",
+        "description": "An acquirer is a financial institution that enters into a contractual agreement with a merchant to process payment card transactions."
+    },
+    {
+        "word": "Issuing Bank",
+        "description": "An issuing bank is a financial institution or credit card company that provides payment cards to customers."
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "A payment gateway is a technology solution that facilitates online transactions by connecting merchants, customers, and financial institutions."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce, short for electronic commerce, is the buying and selling of goods and services over the internet."
+    },
+    {
+        "word": "Payment Method",
+        "description": "A payment method is a way for customers to provide payment for their online purchases, such as credit cards, digital wallets, or bank transfers."
+    },
+    {
+        "word": "Fraud Prevention",
+        "description": "Fraud prevention involves implementing measures and strategies to proactively detect and prevent fraudulent activities during online transactions."
+    },
+    {
+        "word": "Authorization Code",
+        "description": "An authorization code is a unique code generated by the payment gateway to validate and approve a transaction."
+    },
+    {
+        "word": "Merchant Id",
+        "description": "A merchant ID is a unique identifier assigned to a merchant by the payment gateway or acquirer, allowing them to securely process transactions."
+    },
+    {
+        "word": "Payment Notification",
+        "description": "A payment notification is a message sent by the payment gateway to the merchant to notify them of a successful payment."
+    },
+    {
+        "word": "Payment Api",
+        "description": "A payment API is an interface that allows merchants to integrate their systems with the payment gateway to automate payment processes."
+    },
+    {
+        "word": "Currency Conversion",
+        "description": "Currency conversion is the process of converting the price of a product or service from one currency to another for international transactions."
+    },
+    {
+        "word": "Payouts",
+        "description": "Payouts refer to the process of transferring funds from a merchant's account to a recipient's account, such as payment of commissions or refunds."
+    },
+    {
+        "word": "Digital Wallet",
+        "description": "A Digital Wallet is a virtual platform or application that stores payment card information, allowing users to make payments electronically."
+    },
+    {
+        "word": "Subscription",
+        "description": "A subscription is an agreement between a customer and a merchant where the customer pays a regular fee to access a product or service."
+    },
+    {
+        "word": "Fraud Chargeback",
+        "description": "A fraud chargeback occurs when a customer disputes a transaction due to unauthorized activity on their account."
+    },
+    {
+        "word": "Recurring Billing",
+        "description": "Recurring billing is the process of automatically charging customers at regular intervals for ongoing services or subscriptions."
+    },
+    {
+        "word": "Payment Risk Assessment",
+        "description": "Payment risk assessment is the evaluation of the likelihood of fraud or improper payment behavior before approving a transaction."
+    },
+    {
+        "word": "Customer Vault",
+        "description": "A customer vault is a secure storage system provided by a payment gateway to store sensitive customer payment information."
+    },
+    {
+        "word": "Gateway Integration",
+        "description": "Gateway integration refers to the process of connecting a merchant's website or application to a payment gateway for processing payments."
+    },
+    {
+        "word": "Acquiring Bank",
+        "description": "An Acquiring Bank is a financial institution that processes online credit and debit card transactions on behalf of a business."
+    },
+    {
+        "word": "Payment Card Industry Data Security Standard (Pci Dss)",
+        "description": "Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards designed to protect cardholder data during payment card transactions."
+    },
+    {
+        "word": "One-Click Payment",
+        "description": "One-click payment allows customers to make a purchase using stored payment information, without the need to enter their card details every time."
+    },
+    {
+        "word": "Recurring Payments",
+        "description": "Recurring Payments are payments that are scheduled to be automatically processed on a regular basis, such as monthly or annually, without the need for manual authorization."
+    },
+    {
+        "word": "Mobile Wallet",
+        "description": "A Mobile Wallet is a digital version of a physical wallet, allowing users to make payments using their smartphones or other mobile devices."
+    },
+    {
+        "word": "Avs (Address Verification System)",
+        "description": "AVS is a fraud detection feature that verifies the address provided by a customer during an online transaction by comparing it to the address on file with the issuing bank."
+    },
+    {
+        "word": "Cvv (Card Verification Value)",
+        "description": "CVV is a three or four-digit code printed on payment cards that is used as an additional security measure to verify card-not-present transactions."
+    },
+    {
+        "word": "Payment Gateway Integration",
+        "description": "Payment gateway integration is the process of connecting an online payment gateway to an e-commerce website or application, enabling the acceptance of online payments."
+    },
+    {
+        "word": "Ach (Automated Clearing House)",
+        "description": "ACH is an electronic funds transfer system that allows money to be transferred between bank accounts in the United States."
+    },
+    {
+        "word": "Digital Currencies",
+        "description": "Digital currencies, also known as cryptocurrencies, are digital or virtual forms of currency that use cryptography for security."
+    },
+    {
+        "word": "Payment Link",
+        "description": "A payment link is a unique URL that is generated by a payment gateway, allowing customers to make online payments by clicking on the link."
+    },
+    {
+        "word": "Multi-Currency Support",
+        "description": "Multi-currency support enables online payment gateways to accept payments in different currencies, converting them into the merchant's preferred currency."
+    },
+    {
+        "word": "Gateway Fee",
+        "description": "A gateway fee is a fee charged by the payment gateway for processing online transactions on behalf of merchants."
+    },
+    {
+        "word": "Discount Rate",
+        "description": "The discount rate, also known as the merchant discount rate, is a fee charged by the acquiring bank for processing credit or debit card payments."
+    },
+    {
+        "word": "Reserve Account",
+        "description": "A reserve account is a portion of a merchant's funds that is held by the acquiring bank as a security measure against potential chargebacks or other risks."
+    },
+    {
+        "word": "Pci Compliance",
+        "description": "PCI compliance refers to following the guidelines and requirements set by the Payment Card Industry Security Standards Council to ensure the secure handling of cardholder information."
+    },
+    {
+        "word": "Gateway Api",
+        "description": "A gateway API, also known as a payment gateway API, is a set of programming instructions that enables communication between an e-commerce website and a payment gateway."
+    },
+    {
+        "word": "Transaction Id",
+        "description": "A transaction ID, also known as a payment reference, is a unique identifier assigned to each online transaction to facilitate tracking and reconciliation."
+    },
+    {
+        "word": "Secure Sockets Layer (Ssl)",
+        "description": "Secure Sockets Layer (SSL) is a security protocol that encrypts data transmitted between a website or online service and a user's web browser."
+    },
+    {
+        "word": "Ipn (Instant Payment Notification)",
+        "description": "IPN is a feature provided by payment gateways that sends real-time notifications to merchants regarding the status of a transaction, allowing for automated order processing."
+    },
+    {
+        "word": "Moto (Mail Order/Telephone Order)",
+        "description": "MOTO refers to card-not-present transactions that are conducted via mail order or telephone, where the cardholder's information is manually entered."
+    },
+    {
+        "word": "Dynamic Currency Conversion (Dcc)",
+        "description": "Dynamic Currency Conversion (DCC) is a service that allows customers to pay in their own currency when making international transactions, with the conversion rate provided by the payment processor."
+    },
+    {
+        "word": "Invoice Payments",
+        "description": "Invoice payments allow customers to make payments for goods or services based on an invoice or bill received from the merchant."
+    },
+    {
+        "word": "Smart Routing",
+        "description": "Smart routing is a feature of payment gateways that dynamically selects the most cost-effective or reliable payment processor for each transaction, based on various factors."
+    },
+    {
+        "word": "Payment Card Industry (Pci)",
+        "description": "Payment Card Industry (PCI) refers to the organizations, businesses, and systems involved in payment card transactions, including card issuers, payment processors, and merchants."
+    },
+    {
+        "word": "Gateway Plug-In",
+        "description": "A gateway plug-in, also known as a payment module or extension, is a software component that integrates a payment gateway with an e-commerce platform or content management system."
+    },
+    {
+        "word": "Card-On-File",
+        "description": "Card-on-file refers to the practice of storing a customer's payment card details securely for future transactions or recurring payments."
+    },
+    {
+        "word": "Transaction Fee",
+        "description": "A Transaction Fee is a fee charged to the merchant or customer for each payment transaction processed through a payment gateway."
+    },
+    {
+        "word": "Payment Card Industry Professional (Pcip)",
+        "description": "A Payment Card Industry Professional (PCIP) is an individual who has received certification in PCI compliance and is knowledgeable about the payment card industry's security standards."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of a person or entity to ensure that they have the authority to access or perform a certain action."
+    },
+    {
+        "word": "Card Issuing Bank",
+        "description": "A card issuing bank is the financial institution that issues payment cards to cardholders, such as credit cards or debit cards."
+    },
+    {
+        "word": "Fallback",
+        "description": "Fallback is the process of switching from a contactless payment method, such as NFC, to a traditional payment method, such as inserting or swiping a payment card, due to technical issues or limitations."
+    },
+    {
+        "word": "Dynamic Descriptor",
+        "description": "A dynamic descriptor is a customizable payment description or statement that provides additional information to the cardholder about a specific transaction."
+    },
+    {
+        "word": "Surcharge",
+        "description": "A surcharge is an additional fee or percentage added to a transaction amount to cover the cost of processing credit or debit card payments."
+    },
+    {
+        "word": "Merchant Identification Number (Mid)",
+        "description": "A merchant identification number (MID) is a unique number assigned to a merchant by the acquiring bank for identification and tracking purposes."
+    },
+    {
+        "word": "Gateway Dashboard",
+        "description": "A gateway dashboard, also known as a merchant dashboard, is a web-based interface provided by the payment gateway to merchants for accessing transaction data, reports, and managing account settings."
+    },
+    {
+        "word": "Fraud Prevention Tools",
+        "description": "Fraud prevention tools are software features or services provided by payment gateways to help merchants detect and prevent fraudulent transactions."
+    },
+    {
+        "word": "P2Pe (Point-To-Point Encryption)",
+        "description": "P2PE is a security framework that encrypts cardholder data from the point of entry, such as a payment terminal, through to the payment processor, providing enhanced protection against data breaches."
+    },
+    {
+        "word": "Emv (Europay, Mastercard, And Visa)",
+        "description": "EMV is a global standard for payment cards equipped with embedded microchips, providing stronger security and reducing the risk of counterfeit fraud."
+    },
+    {
+        "word": "E-Check",
+        "description": "An electronic check (e-check) is a digital version of a paper check that is processed through the Automated Clearing House (ACH) network."
+    },
+    {
+        "word": "Interchange Fee",
+        "description": "An interchange fee is a fee paid by the acquiring bank to the cardholder's issuing bank for each credit or debit card transaction, covering the cost of the card network's services and fraud prevention."
+    },
+    {
+        "word": "Pci Saq (Self-Assessment Questionnaire)",
+        "description": "A PCI SAQ is a questionnaire provided by the Payment Card Industry Security Standards Council to help merchants assess their compliance with the PCI DSS requirements."
+    },
+    {
+        "word": "Payment Gateway Service Level Agreement (Sla)",
+        "description": "A payment gateway service level agreement (SLA) is a contractual agreement between a payment gateway provider and a merchant, defining the terms of service, performance, and availability guarantees."
+    },
+    {
+        "word": "Card Verification Method (Cvm)",
+        "description": "A card verification method (CVM) is a security feature used during a card-present transaction to verify the cardholder's identity, such as a PIN, signature, or biometric authentication."
+    },
+    {
+        "word": "Expired Card",
+        "description": "An expired card is a payment card that is no longer valid for making transactions due to its expiration date being reached."
+    },
+    {
+        "word": "Chargeback Prevention",
+        "description": "Chargeback prevention refers to the practices and measures taken by merchants to minimize the occurrence of chargebacks and resolve disputes before they escalate."
+    },
+    {
+        "word": "Cardholder Not Present (Cnp)",
+        "description": "Cardholder not present (CNP) refers to transactions where the cardholder is not physically present, such as online or phone transactions."
+    },
+    {
+        "word": "Reconciliation Reports",
+        "description": "Reconciliation reports are detailed summaries provided by payment gateways to merchants, showing all processed transactions, fees, reserves, and chargeback information for a specified period."
+    },
+    {
+        "word": "Card Issuer",
+        "description": "A Card Issuer is a financial institution that issues payment cards, such as credit or debit cards, to customers."
+    },
+    {
+        "word": "Payment Gateway Api",
+        "description": "A Payment Gateway API (Application Programming Interface) is a set of protocols and tools that allow merchants to integrate their websites or applications with a payment gateway."
+    },
+    {
+        "word": "Direct Payment",
+        "description": "Direct Payment is a payment method that allows customers to make a payment directly from their bank account, without the need for a credit or debit card."
+    },
+    {
+        "word": "Fraud Detection And Prevention",
+        "description": "Fraud Detection and Prevention refers to the measures and systems put in place to identify and prevent fraudulent transactions."
+    },
+    {
+        "word": "Payment Reconciliation",
+        "description": "Payment Reconciliation is the process of matching and balancing the records of payment transactions between different parties, such as the payment gateway, merchant, and acquiring bank."
+    },
+    {
+        "word": "Dispute Resolution",
+        "description": "Dispute Resolution is the process of resolving conflicts or disputes between customers and merchants regarding payment transactions."
+    },
+    {
+        "word": "Payment Settlement Period",
+        "description": "Payment Settlement Period refers to the time it takes for funds to be transferred from the acquiring bank to the merchant's bank account."
+    },
+    {
+        "word": "Cross-Border Payments",
+        "description": "Cross-Border Payments are payments made between individuals or businesses located in different countries, involving currency exchange and international regulations."
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "Risk Assessment is the process of evaluating and analyzing the potential risks associated with payment transactions and implementing appropriate security measures."
+    },
+    {
+        "word": "Merchant Dashboard",
+        "description": "A Merchant Dashboard is a web-based interface provided by the payment gateway, allowing merchants to manage and monitor their payment transactions, generate reports, and perform administrative tasks."
+    },
+    {
+        "word": "In-App Payments",
+        "description": "In-App Payments are payments made within a mobile application, allowing users to purchase goods or services without leaving the app."
+    },
+    {
+        "word": "Zero-Day Fraud Protection",
+        "description": "Zero-Day Fraud Protection refers to advanced fraud detection systems and algorithms that can identify and prevent fraudulent transactions in real-time, even on the day they appear."
+    },
+    {
+        "word": "Open Banking",
+        "description": "Open Banking is a system that allows third-party financial service providers to access and utilize customer banking data, with the customer's consent, to provide innovative payment solutions."
+    },
+    {
+        "word": "Mobile Point Of Sale (Mpos)",
+        "description": "Mobile Point of Sale (mPOS) refers to the use of mobile devices, such as smartphones or tablets, as a portable payment terminal, enabling businesses to accept card payments anywhere."
+    },
+    {
+        "word": "Payment Gateway Aggregator",
+        "description": "A Payment Gateway Aggregator is a service provider that consolidates multiple merchants or businesses under a single payment gateway account."
+    },
+    {
+        "word": "E-Commerce Platforms",
+        "description": "E-commerce Platforms are online platforms or software solutions that enable businesses to sell products or services online, often integrated with payment gateways for seamless transactions."
+    },
+    {
+        "word": "Payment Card Processing Fee",
+        "description": "A Payment Card Processing Fee is a fee charged to merchants for processing payment transactions. It may include interchange fees, assessment fees, and payment gateway fees."
+    },
+    {
+        "word": "Merchant Services",
+        "description": "Merchant Services are financial services provided to businesses, including payment processing, online payment gateways, and related services."
+    },
+    {
+        "word": "Reconciliation Statement",
+        "description": "A Reconciliation Statement is a document that summarizes the records of payment transactions and financial activities, ensuring the alignment and accuracy of data between different parties."
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "Biometric Authentication is a security measure that uses unique physical or behavioral traits, such as fingerprints or facial recognition, to verify a person's identity."
+    },
+    {
+        "word": "Guest Checkout",
+        "description": "Guest Checkout is an option provided by online merchants that allows customers to make a purchase without creating an account or providing extensive personal information."
+    },
+    {
+        "word": "Stored Card Vault",
+        "description": "A Stored Card Vault is a secure storage system provided by a payment gateway to store and manage customers' payment card data for recurring or future transactions."
+    },
+    {
+        "word": "Acquirer Reference Number (Arn)",
+        "description": "Acquirer Reference Number (ARN) is a unique identifier assigned to each completed payment transaction, used for tracking and reference purposes."
+    },
+    {
+        "word": "Payment Facilitator",
+        "description": "A Payment Facilitator is a company or platform that enables businesses or individuals to accept payments from customers, often by aggregating multiple merchants under their own account."
+    },
+    {
+        "word": "Automatic Clearing House (Ach)",
+        "description": "Automatic Clearing House (ACH) is an electronic network for financial transactions in the United States that allows for direct deposits and withdrawals between bank accounts."
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "Know Your Customer (KYC) regulations refer to the process of verifying and validating the identity of customers before providing them with financial services."
+    },
+    {
+        "word": "Anti-Money Laundering (Aml)",
+        "description": "Anti-Money Laundering (AML) refers to a set of regulations and procedures implemented to prevent the processing of funds derived from illegal activities through financial systems."
+    },
+    {
+        "word": "Financial Technology (Fintech)",
+        "description": "Financial Technology (Fintech) is an industry that applies technology and innovation to improve financial services and processes, including online payment gateways."
+    },
+    {
+        "word": "Real-Time Payment",
+        "description": "Real-Time Payment is a payment method that provides instant or near-instant transfer of funds, allowing customers and merchants to receive and access funds immediately."
+    },
+    {
+        "word": "Payout",
+        "description": "A Payout is the process of transferring funds from a merchant's account to the merchant's designated bank account."
+    },
+    {
+        "word": "Subscriptions",
+        "description": "Subscriptions are recurring payments made by customers for access to products or services on a regular basis, usually at fixed intervals."
+    },
+    {
+        "word": "Payment Notifications",
+        "description": "Payment Notifications are alerts or messages sent to merchants or customers to confirm the status and details of payment transactions, such as successful payments or declined transactions."
+    }
+]
