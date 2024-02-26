@@ -1,0 +1,422 @@
+[
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity refers to the practice of protecting computer systems, servers, networks, and data from digital attacks."
+    },
+    {
+        "word": "Encryption",
+        "description": "Encryption is a process of converting data into a format that can only be read or understood by authorized parties."
+    },
+    {
+        "word": "Firewall",
+        "description": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on predefined security rules."
+    },
+    {
+        "word": "Malware",
+        "description": "Malware, short for malicious software, is any software intentionally designed to cause damage to a computer, server, or network."
+    },
+    {
+        "word": "Vulnerability",
+        "description": "A vulnerability is a weakness or flaw in a computer system, software, or network that could be exploited by attackers."
+    },
+    {
+        "word": "Phishing",
+        "description": "Phishing is a cyber attack that uses disguised emails, websites, or other communication methods to trick individuals into revealing sensitive information."
+    },
+    {
+        "word": "Denial Of Service (Dos)",
+        "description": "A Denial of Service (DoS) attack is a malicious attempt to disrupt the availability of a computer system or network by overwhelming it with a flood of illegitimate requests or traffic."
+    },
+    {
+        "word": "Two-Factor Authentication (2Fa)",
+        "description": "Two-factor Authentication (2FA) is a security protocol that requires users to provide two different forms of identification, typically a password and a unique code or token, to authenticate and access a system or account."
+    },
+    {
+        "word": "Intrusion Detection System (Ids)",
+        "description": "An Intrusion Detection System (IDS) is a security tool that monitors network traffic or system logs to detect and alert on unauthorized or malicious activities."
+    },
+    {
+        "word": "Penetration Testing",
+        "description": "Penetration testing, also known as ethical hacking, is a simulated cyber attack on a computer system to identify vulnerabilities and assess the potential impact of an exploit."
+    },
+    {
+        "word": "Virtual Private Network (Vpn)",
+        "description": "A Virtual Private Network (VPN) creates a secure, encrypted connection between a user's device and a private network, thus ensuring privacy and data protection."
+    },
+    {
+        "word": "Patch Management",
+        "description": "Patch management is the process of acquiring, testing, and deploying patches or updates to software systems to address security vulnerabilities and keep them up to date."
+    },
+    {
+        "word": "Social Engineering",
+        "description": "Social engineering is a method used by attackers to manipulate individuals into revealing confidential information or performing specific actions."
+    },
+    {
+        "word": "Data Breach",
+        "description": "A data breach occurs when an unauthorized party gains access to sensitive or confidential data, potentially leading to its disclosure or misuse."
+    },
+    {
+        "word": "Antivirus",
+        "description": "Antivirus software is a program designed to detect, prevent, and remove malware infections from computer systems."
+    },
+    {
+        "word": "Intrusion Prevention System (Ips)",
+        "description": "An Intrusion Prevention System (IPS) is a network security tool that monitors network traffic and actively blocks or prevents suspected malicious activities or attacks."
+    },
+    {
+        "word": "Phishing Awareness Training",
+        "description": "Phishing awareness training is an educational program designed to teach individuals how to recognize and avoid phishing attempts."
+    },
+    {
+        "word": "Access Control",
+        "description": "Access control is a security mechanism that restricts or manages authorized access to resources or systems based on user identities and set policies."
+    },
+    {
+        "word": "Incident Response",
+        "description": "Incident response is the process of identifying, responding to, and managing security incidents and breaches to minimize damage and restore normal operations."
+    },
+    {
+        "word": "Multi-Factor Authentication (Mfa)",
+        "description": "Multi-factor Authentication (MFA) is a security mechanism that requires users to provide multiple forms of identification, such as a password, fingerprint, or security token, to authenticate and access a system or account."
+    },
+    {
+        "word": "Network Segmentation",
+        "description": "Network segmentation is the practice of dividing a computer network into smaller subnetworks, known as segments, to limit the spread of attacks and improve overall network security."
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "Risk Assessment is the process of identifying, analyzing, and evaluating potential risks and vulnerabilities to determine the level of threat posed to an organization's assets or information."
+    },
+    {
+        "word": "Spyware",
+        "description": "Spyware is a type of malicious software that covertly gathers information about a computer user or system without their knowledge or consent."
+    },
+    {
+        "word": "Brute Force Attack",
+        "description": "A Brute Force Attack is a trial-and-error-based method used by attackers to guess passwords or encryption keys, systematically trying all possible combinations until the correct one is found."
+    },
+    {
+        "word": "Data Loss Prevention (Dlp)",
+        "description": "Data Loss Prevention (DLP) refers to a set of processes, tools, and techniques deployed to prevent sensitive or confidential data from being lost, stolen, or leaked."
+    },
+    {
+        "word": "Hardening",
+        "description": "Hardening is the process of securing a computer system or network by applying a variety of security measures, configurations, and best practices to minimize vulnerabilities and reduce attack surface."
+    },
+    {
+        "word": "Security Information And Event Management (Siem)",
+        "description": "Security Information and Event Management (SIEM) is a solution that combines security information management (SIM) and security event management (SEM) functionalities to provide comprehensive visibility and analysis of security events and logs."
+    },
+    {
+        "word": "Ransomware",
+        "description": "Ransomware is a type of malware that encrypts files on a victim's device and demands a ransom payment in exchange for restoring access."
+    },
+    {
+        "word": "Zero-Day Vulnerability",
+        "description": "A Zero-day Vulnerability refers to a software vulnerability that is unknown to the software vendor or developers, leaving users at risk as there may be no patches or defenses available to mitigate the vulnerability."
+    },
+    {
+        "word": "Data Classification",
+        "description": "Data classification is the process of categorizing data based on its sensitivity level to ensure appropriate security controls and protection measures are in place."
+    },
+    {
+        "word": "Security Audit",
+        "description": "A security audit is a systematic evaluation of the security of a company's information systems or infrastructure to identify vulnerabilities and ensure compliance with security policies."
+    },
+    {
+        "word": "Hacker",
+        "description": "A hacker is an individual skilled in computer programming and computer security, using their knowledge to find and exploit vulnerabilities in computer systems or networks."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection of personal or sensitive information from unauthorized access, use, disclosure, or destruction."
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "Biometric Authentication involves verifying the identity of an individual based on unique biological or behavioral characteristics, such as fingerprints, retina scans, or voice recognition."
+    },
+    {
+        "word": "Security Awareness Training",
+        "description": "Security awareness training is an educational program designed to educate individuals about potential security threats, best practices, and their role in maintaining good security hygiene."
+    },
+    {
+        "word": "Identity And Access Management (Iam)",
+        "description": "Identity and Access Management (IAM) is a framework of policies, technologies, and processes that manages and governs user access to resources, ensuring appropriate authentication, authorization, and accountability."
+    },
+    {
+        "word": "Social Media Engineering",
+        "description": "Social Media Engineering is a technique used by attackers to manipulate and exploit individuals' trust or relationships on social media platforms, seeking to gather information or perform malicious activities."
+    },
+    {
+        "word": "Network Security",
+        "description": "Network security refers to the policies, protocols, and technologies implemented to protect computer networks from unauthorized access, misuse, or disruption."
+    },
+    {
+        "word": "Insider Threat",
+        "description": "An Insider Threat refers to the risk posed by individuals within an organization who have authorized access to systems or data, but intentionally or unintentionally misuse or compromise them."
+    },
+    {
+        "word": "Secure Coding",
+        "description": "Secure coding is the practice of writing software code in a way that mitigates potential security vulnerabilities and reduces the overall risk of exploitation."
+    },
+    {
+        "word": "Password Policy",
+        "description": "A password policy is a set of rules and requirements established by an organization to ensure that users create and use strong passwords and protect them from unauthorized access."
+    },
+    {
+        "word": "Web Application Firewall (Waf)",
+        "description": "A Web Application Firewall (WAF) is a security tool or service that filters and monitors HTTP/S traffic between web applications and the internet, protecting against various types of web-based attacks."
+    },
+    {
+        "word": "Data Encryption",
+        "description": "Data Encryption is the process of converting plain text or data into ciphertext, using mathematical algorithms and encryption keys, to protect it from unauthorized access or interception."
+    },
+    {
+        "word": "Cyber Threat Intelligence",
+        "description": "Cyber Threat Intelligence (CTI) is information about potential cyber threats, including their capabilities, intentions, and indicators of compromise, used to inform and strengthen defense mechanisms."
+    },
+    {
+        "word": "Endpoint Protection",
+        "description": "Endpoint Protection, also known as Endpoint Security, refers to the security controls and measures implemented to protect individual end-user devices, such as laptops, smartphones, or tablets, from various threats."
+    },
+    {
+        "word": "Security Incident",
+        "description": "A security incident refers to an adverse event or occurrence that violates an organization's security policies, resulting in a breach or unauthorized access to systems or data."
+    },
+    {
+        "word": "Security Operations Center (Soc)",
+        "description": "A Security Operations Center (SOC) is a centralized facility or team responsible for continuous monitoring, analysis, and response to security events or incidents across an organization's systems and networks."
+    },
+    {
+        "word": "Cybersecurity Framework",
+        "description": "A cybersecurity framework provides a structured approach to managing cybersecurity risks by outlining policies, processes, and controls."
+    },
+    {
+        "word": "Mobile Device Management (Mdm)",
+        "description": "Mobile Device Management (MDM) is a set of technologies, processes, and policies used to secure, monitor, manage, and support mobile devices, such as smartphones and tablets, within an organization."
+    },
+    {
+        "word": "Data Backup And Recovery",
+        "description": "Data Backup and Recovery is the process of creating duplicate copies of data, files, or systems and implementing procedures to restore them in the event of data loss or a disaster."
+    },
+    {
+        "word": "Security Architecture",
+        "description": "Security architecture refers to the design and structure of a system or network that incorporates security controls and measures to protect against threats and meet security objectives."
+    },
+    {
+        "word": "Security Incident Response Plan",
+        "description": "A Security Incident Response Plan (SIRP) is a documented and structured approach that outlines the necessary steps and procedures to be followed when responding to and managing security incidents."
+    },
+    {
+        "word": "Cybersecurity Governance",
+        "description": "Cybersecurity governance involves establishing and implementing a framework of policies, procedures, and controls to manage and mitigate cybersecurity risks within an organization."
+    },
+    {
+        "word": "Social Media Security",
+        "description": "Social Media Security focuses on the protection of individuals and organizations from threats or risks associated with the use of social media platforms, such as privacy breaches, account hijacking, or reputational damage."
+    },
+    {
+        "word": "Data Leakage",
+        "description": "Data Leakage, also known as Data Loss or Data Exfiltration, refers to the unauthorized transfer or exposure of sensitive or confidential information, either intentionally or unintentionally."
+    },
+    {
+        "word": "Cloud Security",
+        "description": "Cloud Security refers to the set of policies, controls, technologies, and best practices designed to protect data, applications, and infrastructure within cloud environments, ensuring confidentiality, integrity, and availability."
+    },
+    {
+        "word": "Threat Hunting",
+        "description": "Threat hunting is a proactive cybersecurity activity that involves actively searching for and identifying potential threats or indicators of compromise within a network or system."
+    },
+    {
+        "word": "Data Retention",
+        "description": "Data Retention refers to the policies and practices for determining how long data should be stored and retained based on legal, regulatory, contractual, or business requirements."
+    },
+    {
+        "word": "Red Team/Blue Team",
+        "description": "Red Team/Blue Team is a collaborative approach where one team (Red Team) acts as an attacker, simulating real-world threats, while another team (Blue Team) defends the system and evaluates its security."
+    },
+    {
+        "word": "Security Policy",
+        "description": "A security policy is a set of guidelines, rules, and procedures established by an organization to define and enforce its security objectives and protect its assets."
+    },
+    {
+        "word": "Digital Forensics",
+        "description": "Digital Forensics is the process of collecting, analyzing, and preserving digital evidence from computers, networks, or digital devices to investigate and prevent cybercrime or resolve legal disputes."
+    },
+    {
+        "word": "Software Security",
+        "description": "Software security refers to the practice of implementing security measures and controls throughout the software development lifecycle to identify and mitigate potential vulnerabilities."
+    },
+    {
+        "word": "Zero Trust",
+        "description": "Zero Trust is a security concept and framework that assumes no trust, requiring all users, devices, and transactions to be validated and authenticated before granting access to resources."
+    },
+    {
+        "word": "Blockchain Security",
+        "description": "Blockchain Security focuses on securing the decentralized and distributed ledger technology (DLT) known as blockchain, ensuring the integrity, confidentiality, and availability of data and transactions."
+    },
+    {
+        "word": "Application Security",
+        "description": "Application Security, also known as AppSec, refers to the practices, techniques, and technologies used to secure software applications throughout their lifecycle, from development to deployment and maintenance."
+    },
+    {
+        "word": "Internet Of Things (Iot) Security",
+        "description": "Internet of Things (IoT) Security encompasses the measures and safeguards implemented to protect IoT devices, networks, and data from unauthorized access, exploitation, or tampering."
+    },
+    {
+        "word": "Data Center Security",
+        "description": "Data Center Security focuses on the physical and logical security measures adopted to protect data centers, including access controls, environmental monitoring, fire suppression, and redundancy."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data, allowing them to improve their performance or make predictions without being explicitly programmed."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of machine learning that involves training artificial neural networks with multiple interconnected layers to make more complex and sophisticated predictions or decisions."
+    },
+    {
+        "word": "Internet Security",
+        "description": "Internet Security refers to the practices, measures, and technologies implemented to protect computer systems, networks, and data from threats or attacks occurring over the internet."
+    },
+    {
+        "word": "Bug Bounty Program",
+        "description": "A Bug Bounty Program is a crowdsourced initiative where organizations offer rewards or incentives to ethical hackers or researchers who responsibly disclose vulnerabilities or bugs in their systems."
+    },
+    {
+        "word": "Secure Software Development Lifecycle (Ssdlc)",
+        "description": "Secure Software Development Lifecycle (SSDLC) is a set of practices, policies, and procedures embedded within the software development process to ensure the delivery of secure and resilient software applications."
+    },
+    {
+        "word": "Cyber Insurance",
+        "description": "Cyber Insurance is a form of insurance coverage that protects individuals or organizations against financial losses or liabilities resulting from cyber attacks, data breaches, or other IT-related incidents."
+    },
+    {
+        "word": "Cyber Threat Hunting",
+        "description": "Cyber Threat Hunting is a proactive and iterative process of searching for, identifying, and mitigating advanced threats or malicious activities that may have evaded existing security defenses or measures."
+    },
+    {
+        "word": "Patch",
+        "description": "A patch is a piece of software designed to update or fix a computer program or its supporting data to address vulnerabilities or improve functionality."
+    },
+    {
+        "word": "Ids",
+        "description": "Intrusion Detection System (IDS) is a security device or software application that monitors network or system activities and detects potential malicious behavior."
+    },
+    {
+        "word": "Vpn",
+        "description": "A Virtual Private Network (VPN) extends a private network across a public network, allowing users to send and receive data as if their devices were directly connected to the private network."
+    },
+    {
+        "word": "Two-Factor Authentication",
+        "description": "Two-Factor Authentication (2FA) is a security process that requires users to provide two different authentication factors, such as a password and a unique code sent to their mobile device, to gain access."
+    },
+    {
+        "word": "Zero-Day Exploit",
+        "description": "A zero-day exploit is an undisclosed vulnerability in software, hardware, or firmware that hackers can exploit before the vendor becomes aware and releases a patch."
+    },
+    {
+        "word": "Denial Of Service",
+        "description": "A Denial of Service (DoS) attack is an attempt to make a computer resource unavailable to its intended users by overwhelming it with a flood of illegitimate requests or traffic."
+    },
+    {
+        "word": "Data Loss Prevention",
+        "description": "Data Loss Prevention (DLP) refers to a set of technologies and strategies designed to prevent the accidental or intentional exposure of sensitive data."
+    },
+    {
+        "word": "Intrusion Prevention System",
+        "description": "An Intrusion Prevention System (IPS) is a network security device that monitors network traffic in real-time and actively blocks or prevents unauthorized access or malicious activities."
+    },
+    {
+        "word": "Secure Socket Layer",
+        "description": "Secure Socket Layer (SSL) is a cryptographic protocol that provides secure communications over a computer network and is commonly used for securing website transactions."
+    },
+    {
+        "word": "Multi-Factor Authentication",
+        "description": "Multi-Factor Authentication (MFA) is a security method that requires users to provide multiple authentication factors, typically a combination of passwords, tokens, and biometrics."
+    },
+    {
+        "word": "Security Operations Center",
+        "description": "A Security Operations Center (SOC) is a centralized unit within an organization that monitors, detects, analyzes, and responds to security incidents on an ongoing basis."
+    },
+    {
+        "word": "End-To-End Encryption",
+        "description": "End-to-End Encryption is a secure communication method that encrypts data on the sender's device and decrypts it only on the recipient's device, ensuring confidentiality throughout the transmission."
+    },
+    {
+        "word": "Containerization",
+        "description": "Containerization is a lightweight virtualization technology that allows applications to run in isolated environments called containers, providing improved security, scalability, and portability."
+    },
+    {
+        "word": "Security Information And Event Management",
+        "description": "Security Information and Event Management (SIEM) is a technology that combines log management and security event management to provide real-time analysis of security alerts and events."
+    },
+    {
+        "word": "Url Filtering",
+        "description": "URL filtering is a security measure that blocks or allows access to websites based on defined criteria to prevent users from accessing malicious or inappropriate content."
+    },
+    {
+        "word": "Intrusion Detection",
+        "description": "Intrusion detection is the process of monitoring network or system activities to identify signs of unauthorized access, misuse, or other malicious activities."
+    },
+    {
+        "word": "Security Awareness Program",
+        "description": "A security awareness program is an ongoing initiative aimed at educating and empowering individuals within an organization to recognize and mitigate potential security risks."
+    },
+    {
+        "word": "Security Risk Assessment",
+        "description": "A security risk assessment is a process of identifying and evaluating potential security risks to an organization's assets, including information systems, data, and physical infrastructure."
+    },
+    {
+        "word": "Data Encryption Standard",
+        "description": "Data Encryption Standard (DES) is a symmetric encryption algorithm used to secure sensitive data by converting it into an unreadable format."
+    },
+    {
+        "word": "Backup And Recovery",
+        "description": "Backup and recovery refers to the process of creating copies of data and systems to protect against data loss or system failures and being able to restore them when needed."
+    },
+    {
+        "word": "Intrusion Prevention",
+        "description": "Intrusion prevention is the process of identifying and blocking or mitigating potential security threats or attacks in real-time to prevent them from compromising systems or networks."
+    },
+    {
+        "word": "Security Incident Management",
+        "description": "Security incident management involves the processes and procedures for handling and responding to security incidents, including reporting, analysis, containment, and recovery."
+    },
+    {
+        "word": "Honeypot",
+        "description": "A honeypot is a decoy system or network that is intentionally vulnerable to attacks and used to lure attackers, gather information, and gain insights into their methods and tactics."
+    },
+    {
+        "word": "Authentication",
+        "description": "Authentication is the process of verifying the identity of an individual, device, or entity seeking access to a system or resource."
+    },
+    {
+        "word": "Data Loss",
+        "description": "Data loss refers to the unintentional or accidental loss of data, resulting from human errors, hardware failures, software bugs, or malware infections."
+    },
+    {
+        "word": "Firewall Rule",
+        "description": "A firewall rule is a predefined policy or set of configured instructions that determines what network traffic should be allowed or blocked by a firewall."
+    },
+    {
+        "word": "Cybersecurity Incident Response Plan",
+        "description": "A cybersecurity incident response plan is a document that outlines the steps and procedures to be followed in the event of a security incident to mitigate damage and restore normal operations."
+    },
+    {
+        "word": "Security Assessment",
+        "description": "A security assessment is a systematic evaluation of an organization's security posture, identifying vulnerabilities and assessing the effectiveness of existing security controls."
+    },
+    {
+        "word": "Secure Development Lifecycle",
+        "description": "Secure Development Lifecycle (SDL) is a set of industry best practices and processes designed to integrate security into every phase of the software development life cycle."
+    },
+    {
+        "word": "Web Application Firewall",
+        "description": "A web application firewall (WAF) is a security device or software that filters, monitors, and blocks malicious web traffic to protect web applications from common cyber attacks."
+    }
+]
