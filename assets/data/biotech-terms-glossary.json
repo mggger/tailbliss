@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Biotechnology",
+        "description": "Biotechnology is a field that applies biological systems, living organisms, and their derivatives to develop or create products and technologies for various applications."
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "Genetic engineering is the process of manipulating an organism's genes to introduce desirable traits or remove unwanted traits."
+    },
+    {
+        "word": "Cloning",
+        "description": "Cloning is the process of producing genetically identical copies of an organism or specific genes."
+    },
+    {
+        "word": "Pharmaceuticals",
+        "description": "Pharmaceuticals are drugs or medicinal compounds used for the prevention, treatment, or diagnosis of diseases."
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "Gene therapy is a technique that aims to treat or cure diseases by introducing therapeutic genes into cells to replace or supplement defective genes."
+    },
+    {
+        "word": "Genome Editing",
+        "description": "Genome Editing is the modification of an organism's DNA, typically using techniques such as CRISPR-Cas9."
+    },
+    {
+        "word": "Gene Sequencing",
+        "description": "Gene Sequencing is the process of determining the order of nucleotides in a DNA molecule."
+    },
+    {
+        "word": "Protein Engineering",
+        "description": "Protein engineering is the process of modifying or designing proteins with desired properties or functions for various applications, such as therapeutics or industrial processes."
+    },
+    {
+        "word": "Biomaterials",
+        "description": "Biomaterials are materials that are designed to interact with biological systems for medical or therapeutic purposes, such as implants or tissue scaffolds."
+    },
+    {
+        "word": "Recombinant Dna Technology",
+        "description": "Recombinant DNA Technology is the combination of DNA from different sources to create new genetic combinations."
+    },
+    {
+        "word": "Transgenic Organism",
+        "description": "A transgenic organism is an organism that has had foreign DNA inserted into its genome."
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "Bioinformatics is an interdisciplinary field that combines biology, computer science, and statistics to analyze and interpret biological data."
+    },
+    {
+        "word": "Stem Cells",
+        "description": "Stem cells are undifferentiated cells that can differentiate into various specialized cell types and have the potential to repair and replace damaged tissues."
+    },
+    {
+        "word": "Genome",
+        "description": "A genome is the complete set of genes or genetic material present in an organism."
+    },
+    {
+        "word": "Microarray",
+        "description": "A microarray is a tool used to simultaneously analyze the expression levels of thousands of genes or DNA sequences."
+    },
+    {
+        "word": "Proteomics",
+        "description": "Proteomics is the study of the structure, function, and interactions of proteins in a particular organism or system."
+    },
+    {
+        "word": "Bioremediation",
+        "description": "Bioremediation is a process that uses microorganisms to remove or neutralize pollutants from contaminated environments."
+    },
+    {
+        "word": "Tissue Engineering",
+        "description": "Tissue Engineering is the field of creating functional tissues or organs in the laboratory."
+    },
+    {
+        "word": "Antibiotics",
+        "description": "Antibiotics are substances that kill or inhibit the growth of bacteria."
+    },
+    {
+        "word": "Vaccine",
+        "description": "A vaccine is a biological preparation that provides active acquired immunity to a particular disease by injecting a weakened or killed form of the pathogen."
+    },
+    {
+        "word": "Nanotechnology",
+        "description": "Nanotechnology is the manipulation and control of matter at the nanoscale, often used in various biological and medical applications."
+    },
+    {
+        "word": "Bioethics",
+        "description": "Bioethics is the study of ethical issues and dilemmas arising in the fields of biology, medicine, and biotechnology."
+    },
+    {
+        "word": "Metabolomics",
+        "description": "Metabolomics is the study of the small molecules, or metabolites, involved in cellular processes and how their levels change in response to physiological or environmental conditions."
+    },
+    {
+        "word": "Pcr (Polymerase Chain Reaction)",
+        "description": "PCR is a laboratory technique used to amplify a specific segment of DNA through repeated cycles of heating and cooling."
+    },
+    {
+        "word": "Gene Expression",
+        "description": "Gene expression refers to the process by which information from a gene is used to synthesize functional gene products, such as proteins."
+    },
+    {
+        "word": "Gmo (Genetically Modified Organism)",
+        "description": "A GMO is an organism whose genetic material has been altered using genetic engineering techniques."
+    },
+    {
+        "word": "Oligonucleotide",
+        "description": "An Oligonucleotide is a short DNA or RNA molecule, typically used in genetic research or therapeutic applications."
+    },
+    {
+        "word": "Biosecurity",
+        "description": "Biosecurity refers to the measures and practices taken to prevent the entry, spread, or release of harmful biological agents, such as pathogens or genetically modified organisms."
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9 is a genome editing tool that allows scientists to modify DNA sequences and alter gene functions."
+    },
+    {
+        "word": "Bioprocessing",
+        "description": "Bioprocessing refers to the use of biological materials or systems to produce valuable products, such as biofuels or pharmaceuticals."
+    },
+    {
+        "word": "Microbiome",
+        "description": "The Microbiome refers to the collection of microorganisms, including bacteria, fungi, and viruses, that inhabit a particular environment."
+    },
+    {
+        "word": "Bioassay",
+        "description": "A Bioassay is a laboratory test used to measure the biological activity or potency of a substance."
+    },
+    {
+        "word": "Biofuel",
+        "description": "Biofuel refers to fuel that is derived from biomass, such as plants or plant-derived materials, and can be used as an alternative to traditional fossil fuels."
+    },
+    {
+        "word": "Genetic Screening",
+        "description": "Genetic Screening involves testing individuals for the presence of gene mutations associated with certain genetic disorders."
+    },
+    {
+        "word": "Gel Electrophoresis",
+        "description": "Gel electrophoresis is a technique used to separate and analyze DNA, RNA, or proteins based on their size and charge."
+    },
+    {
+        "word": "Epigenetics",
+        "description": "Epigenetics is the study of changes in gene expression or cellular phenotype caused by mechanisms other than alterations in the underlying DNA sequence."
+    },
+    {
+        "word": "Fermentation",
+        "description": "Fermentation is a metabolic process that converts sugar into acids, gases, or alcohol using microorganisms like yeast or bacteria."
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "Precision medicine is an approach to healthcare that takes into account individual variability in genes, environment, and lifestyle to tailor medical treatments and interventions."
+    },
+    {
+        "word": "Biosensor",
+        "description": "A biosensor is a device that combines a biological element, such as an enzyme or antibody, with a physical or chemical detector to measure the presence or concentration of specific substances."
+    },
+    {
+        "word": "Biopreservation",
+        "description": "Biopreservation involves the preservation of biological materials, such as cells or tissues, for extended periods of time."
+    },
+    {
+        "word": "Biopesticide",
+        "description": "A Biopesticide is a type of pesticide derived from natural materials or microorganisms."
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "Pharmacogenomics is the study of how an individual's genetic makeup influences their response to drugs, aiming to optimize drug therapies based on genetic information."
+    },
+    {
+        "word": "Immunotherapy",
+        "description": "Immunotherapy is a type of treatment that harnesses the body's immune system to fight diseases, such as cancer."
+    },
+    {
+        "word": "Cell Culture",
+        "description": "Cell culture is the process of growing and maintaining cells in vitro outside of their natural environment, often used in studying cellular behavior or producing biological products."
+    },
+    {
+        "word": "Biofertilizer",
+        "description": "Biofertilizer is a type of fertilizer that consists of living microorganisms, such as bacteria or fungi, that enhance soil fertility and plant growth."
+    },
+    {
+        "word": "Transfection",
+        "description": "Transfection is the process of introducing foreign DNA or RNA into eukaryotic cells."
+    },
+    {
+        "word": "Nanomedicine",
+        "description": "Nanomedicine involves the use of nanotechnology for diagnosing, treating, and preventing diseases."
+    },
+    {
+        "word": "Biomarker",
+        "description": "A biomarker is a measurable indicator of a biological state or condition, often used in diagnostics or monitoring the progress of diseases."
+    },
+    {
+        "word": "Bioavailability",
+        "description": "Bioavailability is the proportion of a drug or substance that enters circulation and is available to produce an effect after administration."
+    },
+    {
+        "word": "Biocompatibility",
+        "description": "Biocompatibility refers to the ability of a material or substance to perform with an appropriate biological response in a specific application or environment."
+    },
+    {
+        "word": "Biohazard",
+        "description": "A biohazard is any biological substance that poses a threat to the health of living organisms, especially humans."
+    },
+    {
+        "word": "Biodesign",
+        "description": "Biodesign is an interdisciplinary approach that combines biology, engineering, and design principles to create innovative solutions."
+    },
+    {
+        "word": "Bioluminescence",
+        "description": "Bioluminescence is the emission of light produced by living organisms, typically through a chemical reaction involving luciferase."
+    },
+    {
+        "word": "Biofabrication",
+        "description": "Biofabrication is the process of creating complex, functional biological structures, such as tissues or organs, using 3D printing or other additive manufacturing techniques."
+    },
+    {
+        "word": "Immunology",
+        "description": "Immunology is the study of the immune system and its response to foreign substances or pathogens."
+    },
+    {
+        "word": "Metagenomics",
+        "description": "Metagenomics is the study of genetic material recovered directly from environmental samples, allowing for the analysis of microbial communities and their functions."
+    },
+    {
+        "word": "Recombinant Dna",
+        "description": "Recombinant DNA refers to DNA molecules that are formed by combining DNA fragments from different sources, often used in genetic engineering and biotechnology."
+    },
+    {
+        "word": "Genome Sequencing",
+        "description": "Genome sequencing is the process of determining the complete DNA sequence of an organism's genome."
+    },
+    {
+        "word": "Drug Discovery",
+        "description": "Drug discovery is the process of identifying and developing new medications to treat or cure diseases."
+    },
+    {
+        "word": "Vaccines",
+        "description": "Vaccines are biological substances that provide immunity to specific diseases by stimulating the body's immune response."
+    },
+    {
+        "word": "Genomic Medicine",
+        "description": "Genomic medicine is a branch of medicine that uses genomic information to guide diagnosis, treatment, and prevention of diseases."
+    },
+    {
+        "word": "Biopharmaceuticals",
+        "description": "Biopharmaceuticals are drugs that are produced using biotechnology and are derived from living organisms."
+    },
+    {
+        "word": "Genetically Modified Organism (Gmo)",
+        "description": "A genetically modified organism (GMO) is an organism whose genetic material has been altered through genetic engineering techniques."
+    },
+    {
+        "word": "Monoclonal Antibodies",
+        "description": "Monoclonal antibodies are identical antibodies that are produced by identical immune cells and are used to treat various diseases."
+    },
+    {
+        "word": "Enzyme",
+        "description": "An enzyme is a protein that acts as a catalyst, facilitating specific chemical reactions in biological systems."
+    },
+    {
+        "word": "Industrial Biotechnology",
+        "description": "Industrial biotechnology is the application of biotechnology to develop and manufacture products for industrial processes, such as biofuels, enzymes, or chemicals."
+    },
+    {
+        "word": "Bioengineering",
+        "description": "Bioengineering is the application of engineering principles and techniques to the field of biology and biotechnology."
+    },
+    {
+        "word": "Food Biotechnology",
+        "description": "Food biotechnology refers to the use of biotechnology to improve the production, quality, and safety of food."
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA sequencing is the process of determining the precise order of nucleotides in a DNA molecule."
+    },
+    {
+        "word": "Pharmacokinetics",
+        "description": "Pharmacokinetics is the study of how drugs are absorbed, distributed, metabolized, and eliminated by the body."
+    },
+    {
+        "word": "Biocatalysis",
+        "description": "Biocatalysis is the use of natural catalysts, such as enzymes, to accelerate chemical reactions in industrial processes."
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-generation sequencing (NGS) is a high-throughput DNA sequencing technology that allows for the rapid sequencing of large amounts of DNA."
+    },
+    {
+        "word": "Reverse Transcriptase",
+        "description": "Reverse transcriptase is an enzyme that catalyzes the synthesis of DNA from an RNA template."
+    },
+    {
+        "word": "Bioreactor",
+        "description": "A bioreactor is a device or system that supports and controls a biological reaction or process, often used in biotechnology for large-scale production of biological products."
+    },
+    {
+        "word": "Nucleic Acid",
+        "description": "A nucleic acid is a macromolecule that carries genetic information or is involved in the synthesis of proteins."
+    },
+    {
+        "word": "Biomarkers",
+        "description": "Biomarkers are measurable indicators of biological processes or conditions, such as the presence of a disease."
+    },
+    {
+        "word": "Cryopreservation",
+        "description": "Cryopreservation is the process of preserving cells, tissues, or organs at extremely low temperatures to maintain their viability."
+    },
+    {
+        "word": "Dna Replication",
+        "description": "DNA replication is the process by which a DNA molecule is copied to produce two identical DNA molecules."
+    },
+    {
+        "word": "Gene Silencing",
+        "description": "Gene silencing refers to the process of inhibiting the expression of a specific gene or set of genes, often achieved through the use of small interfering RNA (siRNA) or other molecular tools."
+    },
+    {
+        "word": "Embryonic Stem Cells",
+        "description": "Embryonic stem cells are stem cells that are derived from embryos and have the potential to develop into any type of cell in the body."
+    },
+    {
+        "word": "Gene Regulation",
+        "description": "Gene regulation refers to the mechanisms that control the expression of genes, allowing cells to respond to internal or external signals and ensure proper development and function."
+    },
+    {
+        "word": "Biofilms",
+        "description": "Biofilms are communities of microorganisms that adhere to surfaces and are encased in a self-produced matrix."
+    },
+    {
+        "word": "Molecular Diagnostics",
+        "description": "Molecular diagnostics is a technique used to detect and diagnose diseases by analyzing DNA, RNA, and other molecules."
+    },
+    {
+        "word": "Metabolic Engineering",
+        "description": "Metabolic engineering is the practice of optimizing cellular metabolic pathways or introducing new pathways to improve the production of desired compounds or products by microorganisms."
+    },
+    {
+        "word": "Biological Diversity",
+        "description": "Biological diversity, or biodiversity, refers to the variety and variability of living organisms in a given area or ecosystem."
+    },
+    {
+        "word": "Polymerase Chain Reaction (Pcr)",
+        "description": "Polymerase Chain Reaction (PCR) is a technique used to amplify a specific segment of DNA, allowing for its detection and analysis in various applications."
+    },
+    {
+        "word": "Agrobacterium",
+        "description": "Agrobacterium is a genus of bacteria that is widely used in biotechnology for its ability to transfer genes into plant cells."
+    },
+    {
+        "word": "Regenerative Medicine",
+        "description": "Regenerative medicine is a branch of medicine that aims to replace or regenerate damaged or diseased tissues or organs, often using stem cells or tissue engineering approaches."
+    },
+    {
+        "word": "Biopesticides",
+        "description": "Biopesticides are naturally occurring substances or microorganisms that are used to control pests, such as insects or weeds, in agriculture."
+    },
+    {
+        "word": "Genotyping",
+        "description": "Genotyping is the process of determining genetic variations, such as single nucleotide polymorphisms (SNPs), in an individual's genome."
+    },
+    {
+        "word": "Transgenic",
+        "description": "Transgenic organisms are organisms that have had foreign genes introduced into their genome, resulting in the expression of new traits."
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "Genetic testing is a process that analyzes an individual's DNA to identify genetic variants associated with increased susceptibility to certain diseases or to assess the risk of passing on genetic disorders to offspring."
+    },
+    {
+        "word": "Probiotics",
+        "description": "Probiotics are live bacteria or yeasts that are beneficial for human health, especially for digestive and immune functions."
+    },
+    {
+        "word": "Antibiotic",
+        "description": "An antibiotic is a type of antimicrobial substance that is used to treat or prevent bacterial infections."
+    },
+    {
+        "word": "Bioprocess",
+        "description": "A bioprocess is a series of biological or biochemical steps used to produce a desired product, such as pharmaceuticals or biofuels, using living cells or their components."
+    },
+    {
+        "word": "Xenotransplantation",
+        "description": "Xenotransplantation is the transplantation of organs, tissues, or cells from one species to another, often involving animal-to-human transplantation."
+    },
+    {
+        "word": "Biodiversity",
+        "description": "Biodiversity refers to the variety of life forms, including genes, species, and ecosystems, present in a particular region or on Earth."
+    },
+    {
+        "word": "Biomimicry",
+        "description": "Biomimicry is the practice of imitating or taking inspiration from nature's designs and processes to solve human problems and create sustainable technologies."
+    },
+    {
+        "word": "Gene Editing",
+        "description": "Gene editing is the process of making precisely targeted changes to specific DNA sequences in the genome using various molecular tools, such as CRISPR-Cas9."
+    },
+    {
+        "word": "Biomimetic Materials",
+        "description": "Biomimetic materials are synthetic materials that mimic the properties or functions of natural materials found in biological systems."
+    },
+    {
+        "word": "Biosafety",
+        "description": "Biosafety refers to the containment, handling, and disposal practices that ensure safe handling of biological materials or agents to prevent harm to humans, animals, or the environment."
+    },
+    {
+        "word": "Immunogenetics",
+        "description": "Immunogenetics is the study of the genetic basis of the immune response and how variations in genes can affect the susceptibility to diseases or response to treatments."
+    },
+    {
+        "word": "Biomimetic Robotics",
+        "description": "Biomimetic robotics is a field that seeks to replicate or mimic the movements, structures, or functions of living organisms in the design and development of robots or robotic systems."
+    },
+    {
+        "word": "Protein Purification",
+        "description": "Protein purification is the process of isolating and purifying a specific protein from a complex mixture of proteins, often used in research or biomanufacturing."
+    },
+    {
+        "word": "Biosynthesis",
+        "description": "Biosynthesis is the process by which living organisms produce or synthesize complex molecules, such as proteins, nucleic acids, or secondary metabolites, using enzymes and metabolic pathways."
+    },
+    {
+        "word": "Bioelectricity",
+        "description": "Bioelectricity refers to the electrical potentials and currents generated by living organisms, often used in biomedical applications or as a source of renewable energy."
+    },
+    {
+        "word": "Phenotype",
+        "description": "Phenotype refers to the observable characteristics or traits of an organism, which are influenced by its genotype and environmental factors."
+    },
+    {
+        "word": "Biological Control",
+        "description": "Biological control is a method of pest management that uses natural predators, parasites, or pathogens to control populations of pests or invasive species."
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "Genetic variation refers to the differences in DNA sequences or gene frequencies among individuals within a population, leading to phenotypic diversity and adaptation."
+    }
+]
