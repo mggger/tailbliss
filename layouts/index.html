@@ -38,13 +38,17 @@
                     <div class="flex-none w-1/2">
                         <div class="m-4 flex h-56 flex-col items-center justify-center overflow-hidden rounded-lg bg-gray-50 dark:bg-gray-900/10 shadow-md hover:border-blue-600 border border-neutral-200 dark:border-neutral-800">
                             {{ $sponsor := resources.Get .image }}
+                            {{ if $sponsor }}
+                            {{ $optimizedImage := $sponsor.Resize "400x480 webp q90" }}
                             <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
-                                <img src="{{ $sponsor.RelPermalink }}" class="max-h-32 w-auto object-cover transition duration-300 ease-in-out group-hover:scale-105" loading="lazy" alt="{{ .alt }}"/>
+                                <img src="{{ $optimizedImage.RelPermalink }}" class="max-h-32 w-auto object-cover transition duration-300 ease-in-out group-hover:scale-105" loading="lazy" alt="{{ .alt }}"/>
                             </a>
+                            {{ end }}
                             <div class="w-full p-4">
                                 <p class="text-center text-sm text-gray-600 dark:text-gray-300">{{ .desc }}</p>
                             </div>
                         </div>
+
                     </div>
                     {{ end }}
                 </div>
