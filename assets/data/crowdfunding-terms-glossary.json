@@ -1,0 +1,402 @@
+[
+    {
+        "word": "Crowdfunding",
+        "description": "Crowdfunding is the practice of funding a project or venture by raising small amounts of money from a large number of people."
+    },
+    {
+        "word": "Backer",
+        "description": "A backer is an individual or organization that provides financial support to a crowdfunding campaign in exchange for a reward or equity."
+    },
+    {
+        "word": "Campaign",
+        "description": "A crowdfunding campaign is a project or venture that is seeking funding through a crowdfunding platform."
+    },
+    {
+        "word": "Rewards-Based Crowdfunding",
+        "description": "Rewards-based crowdfunding is a type of crowdfunding where backers receive non-financial rewards in return for their financial support."
+    },
+    {
+        "word": "Equity Crowdfunding",
+        "description": "Equity crowdfunding is a type of crowdfunding where backers receive shares or ownership in a company in exchange for their financial contribution."
+    },
+    {
+        "word": "Donation-Based Crowdfunding",
+        "description": "Donation-based crowdfunding is a type of crowdfunding where backers contribute money to a project without expecting any financial return."
+    },
+    {
+        "word": "Peer-To-Peer Lending",
+        "description": "Peer-to-peer lending is a type of crowdfunding where individuals lend money to other individuals or businesses in exchange for interest payments."
+    },
+    {
+        "word": "Platform",
+        "description": "A platform is an online service or website that facilitates the raising of funds and connects project creators with potential backers."
+    },
+    {
+        "word": "All-Or-Nothing",
+        "description": "All-or-Nothing is a crowdfunding model where a project must reach its funding goal within a specified timeframe in order to receive any funds. If the goal is not reached, all funds are returned to the backers."
+    },
+    {
+        "word": "Keep-It-All",
+        "description": "Keep-It-All is a crowdfunding model where a project receives all funds that are pledged, regardless of whether the funding goal is reached or not."
+    },
+    {
+        "word": "Stretch Goal",
+        "description": "A stretch goal is an additional funding target set by a project creator beyond their initial funding goal, often with additional rewards or features."
+    },
+    {
+        "word": "Early Bird",
+        "description": "An early bird is a backer who supports a campaign during the early stages and receives additional benefits or rewards."
+    },
+    {
+        "word": "Social Media",
+        "description": "Social media refers to online platforms and websites that enable users to create and share content, interact with others, and participate in online communities."
+    },
+    {
+        "word": "Marketing",
+        "description": "Marketing refers to the activities and strategies used to promote a product, service, or campaign and attract potential backers or customers."
+    },
+    {
+        "word": "Viral Marketing",
+        "description": "Viral marketing refers to the strategy of creating and spreading content or campaigns that quickly gain widespread attention and are shared extensively through social media and online platforms."
+    },
+    {
+        "word": "Pre-Launch Marketing",
+        "description": "Pre-launch marketing involves promoting a crowdfunding campaign before it officially launches to generate anticipation and build a supporter base."
+    },
+    {
+        "word": "Post-Campaign Marketing",
+        "description": "Post-campaign marketing refers to the strategies and activities carried out after a crowdfunding campaign to maintain engagement and attract new backers or customers."
+    },
+    {
+        "word": "Conversion Rate",
+        "description": "Conversion rate is the percentage of website visitors or campaign viewers who become backers and contribute to a crowdfunding campaign."
+    },
+    {
+        "word": "Target Audience",
+        "description": "Target audience refers to the specific group of individuals or potential backers who are the intended recipients of a crowdfunding campaign's message, product, or service."
+    },
+    {
+        "word": "Prototype",
+        "description": "A prototype is an early version or model of a product or project that is used to demonstrate its functionality and features to potential backers."
+    },
+    {
+        "word": "Milestone",
+        "description": "A milestone is a significant achievement or progress point in a crowdfunding campaign or project."
+    },
+    {
+        "word": "Video Pitch",
+        "description": "A video pitch is a short video presentation in which the project creator explains and promotes their crowdfunding campaign."
+    },
+    {
+        "word": "Crowdfunding Platform Fee",
+        "description": "A crowdfunding platform fee is the percentage or fixed amount charged by a platform for hosting and facilitating a crowdfunding campaign."
+    },
+    {
+        "word": "Community",
+        "description": "Community refers to the group of backers, supporters, and stakeholders who are involved and interested in a crowdfunding campaign or project."
+    },
+    {
+        "word": "Risk",
+        "description": "Risk refers to the chance or possibility of potential loss or failure associated with a crowdfunding project or investment."
+    },
+    {
+        "word": "Due Diligence",
+        "description": "Due diligence is the process of conducting thorough research, analysis, and investigation of a project, company, or campaign before making a financial commitment as a backer."
+    },
+    {
+        "word": "Success Rate",
+        "description": "Success rate is the percentage of crowdfunding campaigns that achieve their funding goals and are considered successful in raising the required funds."
+    },
+    {
+        "word": "Failure Rate",
+        "description": "Failure rate is the percentage of crowdfunding campaigns that do not reach their funding goals."
+    },
+    {
+        "word": "Investment Crowdfunding",
+        "description": "Investment crowdfunding is a type of crowdfunding where backers receive a financial return on their investment, typically in the form of equity or interest."
+    },
+    {
+        "word": "Convertible Note",
+        "description": "A convertible note is a form of investment in which the investor loans money to a project and has the option to convert that loan into equity at a later date."
+    },
+    {
+        "word": "Securities-Based Crowdfunding",
+        "description": "Securities-based crowdfunding is a type of crowdfunding where backers receive securities, such as stocks or bonds, in exchange for their financial support."
+    },
+    {
+        "word": "Regulation Crowdfunding",
+        "description": "Regulation crowdfunding, also known as Title III crowdfunding, refers to the specific rules and regulations governing crowdfunding campaigns under the U.S. Securities and Exchange Commission (SEC)."
+    },
+    {
+        "word": "Accredited Investor",
+        "description": "An accredited investor is an individual or entity that meets certain financial requirements and is allowed to invest in securities-based crowdfunding campaigns."
+    },
+    {
+        "word": "Diversification",
+        "description": "Diversification refers to spreading investments across different projects or ventures to reduce risk."
+    },
+    {
+        "word": "Exit Strategy",
+        "description": "An exit strategy is a plan or method by which an investor can exit or realize their investment in a crowdfunding project."
+    },
+    {
+        "word": "Secondary Market",
+        "description": "A secondary market is a platform or marketplace where investors can buy and sell crowdfunding securities or investment positions."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed digital ledger technology that securely records and verifies transactions across multiple computers or networks, providing transparency, security, and immutability to crowdfunding campaigns."
+    },
+    {
+        "word": "Smart Contract",
+        "description": "A smart contract is a self-executing contract with the terms of the agreement directly written into code, stored and executed on a blockchain."
+    },
+    {
+        "word": "Initial Coin Offering (Ico)",
+        "description": "An initial coin offering (ICO) is a crowdfunding method used primarily by cryptocurrency startups, where investors receive tokens or coins in exchange for their investment."
+    },
+    {
+        "word": "Token",
+        "description": "A token is a digital asset or unit of value issued or created by a project or organization through a blockchain-based crowdfunding campaign."
+    },
+    {
+        "word": "Whitepaper",
+        "description": "A whitepaper is a detailed document that outlines a project's goals, technology, and implementation plan, often used in cryptocurrency and blockchain-based crowdfunding campaigns."
+    },
+    {
+        "word": "Early Stage",
+        "description": "Early stage refers to the initial phase or early development of a project, often associated with startups and entrepreneurial ventures."
+    },
+    {
+        "word": "Seed Funding",
+        "description": "Seed funding is the initial round of funding or investment that helps launch a startup or project during its early stages."
+    },
+    {
+        "word": "Venture Capital",
+        "description": "Venture capital is a type of financing provided to early-stage or high-growth startups and projects in exchange for equity or ownership."
+    },
+    {
+        "word": "Angel Investor",
+        "description": "An angel investor is an individual who provides financial backing to startups or projects, often in their early stages, in exchange for equity or convertible debt."
+    },
+    {
+        "word": "Incubator",
+        "description": "An incubator is an organization or program that helps startups and entrepreneurs in their early stages by providing mentoring, resources, and support."
+    },
+    {
+        "word": "Accelerator",
+        "description": "An accelerator is a program or organization that provides startups with a short-term, intensive mentoring and educational experience to help them grow and scale quickly."
+    },
+    {
+        "word": "Reward-Based Crowdfunding",
+        "description": "Reward-based crowdfunding is a type of crowdfunding where backers contribute money to a project in exchange for a non-financial reward, such as a product or service."
+    },
+    {
+        "word": "Debt Crowdfunding",
+        "description": "Debt crowdfunding is a type of crowdfunding where backers provide a loan to a project creator, who is then obligated to repay the loan with interest."
+    },
+    {
+        "word": "Securities Crowdfunding",
+        "description": "Securities crowdfunding is a type of crowdfunding where backers receive investments, such as stocks or bonds, in exchange for their financial contribution."
+    },
+    {
+        "word": "Pledge",
+        "description": "A pledge is a commitment made by a backer to contribute a certain amount of money to a crowdfunding campaign."
+    },
+    {
+        "word": "Project Creator",
+        "description": "A project creator is an individual or organization that initiates a crowdfunding campaign and is responsible for executing the project or venture."
+    },
+    {
+        "word": "Early Bird Reward",
+        "description": "An early bird reward is a special reward offered to backers who pledge early in a crowdfunding campaign, usually with limited quantities."
+    },
+    {
+        "word": "Campaign Video",
+        "description": "A campaign video is a video created by a project creator to showcase their project, explain its purpose, and encourage backers to support it."
+    },
+    {
+        "word": "Reliable",
+        "description": "Reliable refers to the trustworthiness and dependability of a project creator or crowdfunding platform in fulfilling promises and delivering rewards to backers."
+    },
+    {
+        "word": "Transparent",
+        "description": "Transparent refers to the openness and clarity of a project creator or crowdfunding platform in sharing information, progress updates, and financial details with backers."
+    },
+    {
+        "word": "Promotion",
+        "description": "Promotion refers to the activities and efforts made to increase the visibility and awareness of a crowdfunding campaign, often through advertising, public relations, and online promotion."
+    },
+    {
+        "word": "Business Plan",
+        "description": "A business plan is a document that outlines the goals, strategies, and financial projections of a project or venture, often required for equity crowdfunding campaigns."
+    },
+    {
+        "word": "Market Research",
+        "description": "Market research is the process of gathering and analyzing information about potential customers, competitors, and market trends to make informed decisions and improve the chances of a successful crowdfunding campaign."
+    },
+    {
+        "word": "Funding Goal",
+        "description": "Funding goal is the specific amount of money that a project creator sets as their target to be raised through a crowdfunding campaign."
+    },
+    {
+        "word": "Funding Period",
+        "description": "Funding period is the duration of time during which a crowdfunding campaign is active and accepting contributions from backers."
+    },
+    {
+        "word": "Campaign Update",
+        "description": "A campaign update is a communication or announcement made by a project creator to inform backers about the progress, challenges, or new developments of a crowdfunding campaign."
+    },
+    {
+        "word": "Incentive",
+        "description": "An incentive is a motivating factor or reward offered to backers to encourage them to contribute to a crowdfunding campaign."
+    },
+    {
+        "word": "Landing Page",
+        "description": "A landing page is a web page specifically designed to capture the attention and interest of visitors and entice them to take a desired action, such as becoming a backer."
+    },
+    {
+        "word": "Conversion Funnel",
+        "description": "A conversion funnel is a visual representation of the steps or stages that a visitor goes through before becoming a backer in a crowdfunding campaign."
+    },
+    {
+        "word": "Referral Program",
+        "description": "A referral program is a strategy or incentive system implemented by a project creator to encourage existing backers to refer new backers to their crowdfunding campaign."
+    },
+    {
+        "word": "Securities And Exchange Commission (Sec)",
+        "description": "The Securities and Exchange Commission (SEC) is a regulatory body responsible for enforcing securities laws and protecting investors in the United States."
+    },
+    {
+        "word": "International Crowdfunding",
+        "description": "International crowdfunding refers to crowdfunding campaigns and platforms that operate across different countries and cater to a global audience of backers."
+    },
+    {
+        "word": "Conversion Optimization",
+        "description": "Conversion optimization is the process of improving the effectiveness and success rate of a crowdfunding campaign in converting visitors or viewers into backers."
+    },
+    {
+        "word": "Refund Policy",
+        "description": "A refund policy is a set of rules and guidelines established by a project creator or crowdfunding platform to outline the circumstances under which backers are eligible for refunds."
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "Influencer marketing is a promotional strategy that involves partnering with influential individuals or personalities on social media to promote a crowdfunding campaign and reach a wider audience of potential backers."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics is the process of collecting, analyzing, and interpreting large amounts of data to uncover insights, trends, and patterns that can inform decision-making and improve the performance of a crowdfunding campaign."
+    },
+    {
+        "word": "Upsell",
+        "description": "Upsell is a sales technique that involves offering additional or upgraded products, services, or rewards to backers who have already made a contribution to a crowdfunding campaign."
+    },
+    {
+        "word": "Marketplace Crowdfunding",
+        "description": "Marketplace crowdfunding is a type of crowdfunding where backers contribute money to projects or ventures listed on a centralized platform that acts as a marketplace for funding and investment opportunities."
+    },
+    {
+        "word": "Crowdfunding Consultant",
+        "description": "A crowdfunding consultant is an individual or firm that provides expert advice, guidance, and support to project creators in planning, launching, and managing successful crowdfunding campaigns."
+    },
+    {
+        "word": "Regulation Crowdfunding (Reg Cf)",
+        "description": "Regulation Crowdfunding (Reg CF) is a set of rules and regulations established by the SEC in the United States that governs equity crowdfunding campaigns and protects investors."
+    },
+    {
+        "word": "Pre-Launch",
+        "description": "Pre-launch refers to the period of time before a crowdfunding campaign is officially launched, during which project creators may engage in activities to build awareness, attract potential backers, and gather initial support."
+    },
+    {
+        "word": "Post-Campaign",
+        "description": "Post-campaign refers to the period of time after a crowdfunding campaign has successfully reached its funding goal or concluded, during which project creators fulfill their promises, deliver rewards, and execute the project or venture."
+    },
+    {
+        "word": "Conversion Rate Optimization (Cro)",
+        "description": "Conversion rate optimization (CRO) is the process of systematically improving the elements of a crowdfunding campaign, such as the campaign page, reward structure, or promotional materials, in order to maximize the percentage of visitors who become backers."
+    },
+    {
+        "word": "Email Marketing",
+        "description": "Email marketing is the practice of sending targeted and personalized emails to a list of subscribers or potential backers to promote a crowdfunding campaign, provide updates, and engage with the audience."
+    },
+    {
+        "word": "Marketplace Model",
+        "description": "Marketplace model refers to the business model of a crowdfunding platform that acts as an intermediary connecting project creators with potential backers and facilitating the exchange of funds for rewards or equity."
+    },
+    {
+        "word": "Mobile Crowdfunding",
+        "description": "Mobile crowdfunding refers to the practice of conducting and participating in crowdfunding campaigns through mobile devices, such as smartphones and tablets, using mobile apps or optimized websites."
+    },
+    {
+        "word": "Nonprofit Crowdfunding",
+        "description": "Nonprofit crowdfunding is a type of crowdfunding where backers contribute money to support charitable or nonprofit organizations and initiatives, often in exchange for non-financial rewards or recognition."
+    },
+    {
+        "word": "International Rewards",
+        "description": "International rewards refer to the non-financial rewards or perks offered to backers outside of the project creator's country of origin in international crowdfunding campaigns."
+    },
+    {
+        "word": "Roi",
+        "description": "ROI stands for Return on Investment and refers to the measure of the profitability and financial return on an investment made by a backer in a crowdfunding campaign."
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamification is the practice of incorporating game elements, such as challenges, levels, and rewards, into a crowdfunding campaign to increase engagement and motivate backers to contribute."
+    },
+    {
+        "word": "Community Building",
+        "description": "Community building is the process of nurturing and growing a community of backers, supporters, and stakeholders around a crowdfunding campaign or project, often through active engagement, communication, and relationship-building activities."
+    },
+    {
+        "word": "Referral Link",
+        "description": "A referral link is a unique URL or code provided to existing backers in a crowdfunding campaign, which they can share with others to track and attribute new backers referred by them."
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "Diversity and inclusion refers to the principles and practices of creating an inclusive and diverse crowdfunding community that values and respects individuals from different backgrounds, cultures, and perspectives."
+    },
+    {
+        "word": "Data Security",
+        "description": "Data security refers to the measures, protocols, and technologies implemented by a crowdfunding platform or project creator to protect the personal and financial information of backers and ensure the confidentiality and integrity of data."
+    },
+    {
+        "word": "Geographical Expansion",
+        "description": "Geographical expansion is the process of expanding the reach and operations of a crowdfunding platform or project creator to new countries or regions, often to tap into new markets and attract a broader range of backers."
+    },
+    {
+        "word": "Early Access",
+        "description": "Early access is a special privilege or reward offered to backers in a crowdfunding campaign, granting them access to the project, product, or service before it is publicly available."
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "Smart contracts are self-executing contracts with the terms of the agreement written in code, typically powered by blockchain technology, which automatically facilitate, verify, and enforce the transfer of funds or assets in a crowdfunding campaign."
+    },
+    {
+        "word": "Decentralized Finance (Defi)",
+        "description": "Decentralized finance (DeFi) refers to the use of blockchain and cryptocurrency technologies to enable financial services, such as lending, borrowing, and investing, without intermediaries or central authorities, potentially revolutionizing the way crowdfunding campaigns are conducted and financed."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to perform tasks, make decisions, and learn from data."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data and improve their performance or decision-making without being explicitly programmed."
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "Natural Language Processing (NLP) is a branch of AI that focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex sets of data that cannot be easily processed or analyzed using traditional techniques, often requiring advanced tools and technologies to uncover patterns, trends, and insights."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection and control of personal information and data collected from individuals, ensuring that it is handled securely, used appropriately, and not misused or disclosed without consent."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity is the practice of protecting computers, servers, networks, and data from digital attacks, unauthorized access, and other online threats to maintain the confidentiality, integrity, and availability of information."
+    }
+]
