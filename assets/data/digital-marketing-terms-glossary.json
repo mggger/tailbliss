@@ -1,0 +1,442 @@
+[
+    {
+        "word": "Seo",
+        "description": "Search Engine Optimization (SEO) is the practice of optimizing a website to improve its visibility and rankings on search engine results pages."
+    },
+    {
+        "word": "Ppc",
+        "description": "Pay-Per-Click (PPC) is an online advertising model in which advertisers pay each time a user clicks on their advertisement."
+    },
+    {
+        "word": "Ctr",
+        "description": "Click-Through Rate (CTR) is a metric that measures the ratio of users who click on a specific link to the number of total users who view the link."
+    },
+    {
+        "word": "Cpc",
+        "description": "Cost-Per-Click (CPC) is the amount advertisers pay for each click on their advertisements in a PPC campaign."
+    },
+    {
+        "word": "Cpm",
+        "description": "Cost Per Mille (CPM) is a pricing model where advertisers pay for every 1,000 impressions of their advertisement."
+    },
+    {
+        "word": "Roas",
+        "description": "Return on Advertising Spend (ROAS) is a metric that measures the revenue generated for every dollar spent on advertising."
+    },
+    {
+        "word": "Crm",
+        "description": "Customer Relationship Management (CRM) refers to the practices, strategies, and technologies used by companies to manage and analyze customer interactions."
+    },
+    {
+        "word": "Cta",
+        "description": "Call to Action (CTA) is a marketing term for an element in a piece of content that encourages the audience to take a specific action."
+    },
+    {
+        "word": "Ltv",
+        "description": "LTV stands for Customer Lifetime Value and is the predicted net profit attributed to the entire future relationship with a customer."
+    },
+    {
+        "word": "Kpi",
+        "description": "Key Performance Indicator (KPI) is a measurable value that demonstrates how effectively a company is achieving key objectives and goals."
+    },
+    {
+        "word": "Roi",
+        "description": "Return on Investment (ROI) is a measure used to evaluate the efficiency or profitability of an investment."
+    },
+    {
+        "word": "Sem",
+        "description": "Search Engine Marketing (SEM) is a digital marketing strategy that involves promoting a website through paid advertising on search engines."
+    },
+    {
+        "word": "Serp",
+        "description": "SERP stands for Search Engine Results Page and refers to the page displayed by a search engine that lists the results for a specific search query."
+    },
+    {
+        "word": "B2B",
+        "description": "Business-to-Business (B2B) refers to commerce transactions between businesses, such as a manufacturer and a wholesaler."
+    },
+    {
+        "word": "B2C",
+        "description": "Business-to-Consumer (B2C) refers to commerce transactions between businesses and individual consumers, such as a retailer and a customer."
+    },
+    {
+        "word": "A/B Testing",
+        "description": "A/B Testing is a method of comparing two versions of a webpage or app against each other to determine which one performs better."
+    },
+    {
+        "word": "Conversion Rate",
+        "description": "Conversion Rate is the percentage of users who complete a desired action, such as making a purchase or filling out a form, out of the total number of visitors."
+    },
+    {
+        "word": "Funnel",
+        "description": "A Funnel is a visual representation of the customer journey, depicting the stages a customer goes through before making a purchase."
+    },
+    {
+        "word": "Lead Generation",
+        "description": "Lead Generation is the process of attracting and converting prospects into interested leads for a business."
+    },
+    {
+        "word": "Content Marketing",
+        "description": "Content Marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a defined audience."
+    },
+    {
+        "word": "Inbound Marketing",
+        "description": "Inbound Marketing is a marketing strategy that involves attracting customers by creating valuable content and experiences tailored to them."
+    },
+    {
+        "word": "Outbound Marketing",
+        "description": "Outbound Marketing is a traditional marketing method that involves reaching out to a large number of potential customers through mass advertising and promotions."
+    },
+    {
+        "word": "Social Media Marketing",
+        "description": "Social Media Marketing is the process of leveraging social media platforms to promote a product or service and engage with the target audience."
+    },
+    {
+        "word": "Content Calendar",
+        "description": "A Content Calendar is a schedule that outlines the topics, mediums, and distribution channels for planned content creation and publication."
+    },
+    {
+        "word": "Keyword Research",
+        "description": "Keyword Research is the process of identifying popular words and phrases that people use in search engines to optimize content and improve search engine rankings."
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "Influencer Marketing is a form of marketing that focuses on engaging key individuals who have influence over potential customers."
+    },
+    {
+        "word": "User-Generated Content",
+        "description": "User-generated Content refers to any form of content, such as reviews, testimonials, and social media posts, that is created by users or customers of a brand."
+    },
+    {
+        "word": "Landing Page",
+        "description": "A Landing Page is a standalone web page that is created specifically for a marketing or advertising campaign."
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive Design is an approach to web design that ensures a website provides an optimal viewing experience across a wide range of devices and screen sizes."
+    },
+    {
+        "word": "Conversion Funnel",
+        "description": "A Conversion Funnel is a visualization of the stages a user goes through when completing a desired action on a website or app."
+    },
+    {
+        "word": "Chatbot",
+        "description": "A Chatbot is a computer program or software that conducts a conversation with users through text or voice interactions."
+    },
+    {
+        "word": "Remarketing",
+        "description": "Remarketing is a digital advertising strategy that involves targeting ads to people who have previously visited or shown interest in a website or product."
+    },
+    {
+        "word": "Affiliate Marketing",
+        "description": "Affiliate Marketing is a marketing model where individuals or businesses earn a commission for promoting other people's or companies' products or services."
+    },
+    {
+        "word": "Email Marketing",
+        "description": "Email Marketing is a digital marketing strategy that involves sending targeted emails to a group of individuals in order to promote products or services."
+    },
+    {
+        "word": "Segmentation",
+        "description": "Segmentation refers to the process of dividing a target market into smaller, more manageable groups based on shared characteristics or behaviors."
+    },
+    {
+        "word": "Lead Nurturing",
+        "description": "Lead Nurturing is the process of building relationships with potential customers throughout their buying journey until they are ready to make a purchase."
+    },
+    {
+        "word": "Marketing Automation",
+        "description": "Marketing Automation refers to the use of software platforms and technologies to automate marketing tasks and workflows."
+    },
+    {
+        "word": "Mobile Optimization",
+        "description": "Mobile Optimization refers to the process of ensuring that a website is designed and formatted to be easily accessible and functional on mobile devices."
+    },
+    {
+        "word": "Heatmap",
+        "description": "A Heatmap is a visual representation of data where values are represented by different colors, often used to analyze user behavior on a website."
+    },
+    {
+        "word": "Conversion Tracking",
+        "description": "Conversion Tracking is the process of monitoring and measuring the actions taken by website visitors to determine the success of a marketing campaign or strategy."
+    },
+    {
+        "word": "White Hat Seo",
+        "description": "White Hat SEO refers to SEO practices that are in line with search engine guidelines and focus on providing value to human users."
+    },
+    {
+        "word": "Black Hat Seo",
+        "description": "Black Hat SEO refers to SEO practices that violate search engine guidelines and attempt to manipulate search engine rankings."
+    },
+    {
+        "word": "Local Seo",
+        "description": "Local SEO is the practice of optimizing a website or online presence to increase its visibility for location-based searches."
+    },
+    {
+        "word": "Domain Authority",
+        "description": "Domain Authority is a metric developed by Moz that predicts how well a website will rank on search engine results pages."
+    },
+    {
+        "word": "Backlink",
+        "description": "A Backlink is a hyperlink from one web page to another, typically used as a measure of the importance or popularity of a website."
+    },
+    {
+        "word": "Social Listening",
+        "description": "Social Listening, also known as social media monitoring, is the process of tracking online conversations about a brand, product, or industry."
+    },
+    {
+        "word": "Responsive Email Design",
+        "description": "Responsive Email Design is the creation of email templates that automatically adjust their layout and formatting to provide an optimal viewing experience across devices."
+    },
+    {
+        "word": "Chatbot Marketing",
+        "description": "Chatbot Marketing is the use of chatbots in marketing campaigns to engage with users, answer questions, and provide personalized recommendations."
+    },
+    {
+        "word": "Lead Scoring",
+        "description": "Lead Scoring is the process of ranking leads based on their perceived value or likelihood to become a customer, enabling sales and marketing teams to prioritize their efforts."
+    },
+    {
+        "word": "Social Proof",
+        "description": "Social Proof is a psychological phenomenon where people assume the actions and choices of others in an attempt to reflect correct behavior in a given situation."
+    },
+    {
+        "word": "Click Fraud",
+        "description": "Click Fraud refers to the fraudulent practice of clicking on pay-per-click ads with the intent to generate illegitimate revenue or harm competitors."
+    },
+    {
+        "word": "Algorithm",
+        "description": "An Algorithm is a set of rules or instructions designed to solve a specific problem or accomplish a specific task."
+    },
+    {
+        "word": "Chat Support",
+        "description": "Chat Support is a customer service feature that allows customers to communicate with support representatives in real-time through a chat interface."
+    },
+    {
+        "word": "Impressions",
+        "description": "Impressions refer to the number of times an ad or piece of content is displayed, regardless of whether it is clicked or not."
+    },
+    {
+        "word": "Segment",
+        "description": "A Segment is a subgroup of users or customers within a broader audience that share specific characteristics or behaviors."
+    },
+    {
+        "word": "Tagging",
+        "description": "Tagging is the process of adding labels or metadata to digital assets, such as web pages, images, or articles, to facilitate organization and searchability."
+    },
+    {
+        "word": "Long-Tail Keywords",
+        "description": "Long-tail Keywords are highly specific and less commonly searched keywords or key phrases, often associated with lower search volume but higher conversion rates."
+    },
+    {
+        "word": "Marketing Funnel",
+        "description": "A Marketing Funnel is a visual representation of the customer journey, illustrating the steps a prospect takes from awareness to becoming a customer."
+    },
+    {
+        "word": "Pay Per Impression",
+        "description": "Pay Per Impression (PPI) is an advertising model in which advertisers pay a fee for every 1,000 times their ad is displayed, regardless of clicks."
+    },
+    {
+        "word": "Serp Ranking",
+        "description": "SERP Ranking refers to the position at which a webpage appears on a search engine results page for a specific keyword or query."
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "Digital Marketing refers to the practice of using digital channels, such as websites, social media, search engines, and email, to promote products or services."
+    },
+    {
+        "word": "Cro",
+        "description": "Conversion Rate Optimization (CRO) is the process of increasing the percentage of website visitors who complete a desired action."
+    },
+    {
+        "word": "Ugc",
+        "description": "User-Generated Content (UGC) refers to any form of content, such as text, images, or videos, that is created by users of a product or service."
+    },
+    {
+        "word": "Smm",
+        "description": "Social Media Marketing (SMM) is the process of leveraging social media platforms to promote a product or service and engage with the target audience."
+    },
+    {
+        "word": "Ctv",
+        "description": "Connected TV (CTV) refers to television sets, streaming devices, or gaming consoles that are connected to the internet and can access online streaming content."
+    },
+    {
+        "word": "Qr Code",
+        "description": "A Quick Response (QR) code is a two-dimensional barcode that can be scanned using a smartphone or QR code reader to quickly access information or websites."
+    },
+    {
+        "word": "Crm Integration",
+        "description": "CRM Integration refers to the process of connecting a Customer Relationship Management (CRM) system with other systems or platforms to streamline data and improve efficiency."
+    },
+    {
+        "word": "Bounce Rate",
+        "description": "Bounce Rate is a web analytics metric that measures the percentage of visitors who leave a website after viewing only one page."
+    },
+    {
+        "word": "Dmp",
+        "description": "Data Management Platform (DMP) is a centralized platform used to collect, analyze, and manage large sets of data for marketing purposes."
+    },
+    {
+        "word": "Mql",
+        "description": "Marketing Qualified Lead (MQL) refers to a lead that has been deemed more likely to become a customer based on certain criteria or behaviors."
+    },
+    {
+        "word": "Gdn",
+        "description": "Google Display Network (GDN) is a network of websites where advertisers can display their ads to reach potential customers."
+    },
+    {
+        "word": "Ctt",
+        "description": "Click-to-Tweet (CTT) is a feature that allows users to easily share pre-populated tweets by clicking on a link or button."
+    },
+    {
+        "word": "Churn Rate",
+        "description": "Churn Rate, also known as customer attrition rate, is the rate at which customers cease their relationship with a company over a specific period."
+    },
+    {
+        "word": "Geo-Targeting",
+        "description": "Geo-targeting is the practice of delivering content or advertising to a specific audience based on their geographic location."
+    },
+    {
+        "word": "Drip Campaign",
+        "description": "A Drip Campaign is a series of automated marketing messages or emails sent to leads or customers over a specific period of time."
+    },
+    {
+        "word": "Customer Persona",
+        "description": "A Customer Persona is a fictional representation of a typical customer that helps in understanding and targeting specific audience segments."
+    },
+    {
+        "word": "Omnichannel Marketing",
+        "description": "Omnichannel Marketing is an approach that provides a seamless and integrated customer experience across multiple channels and devices."
+    },
+    {
+        "word": "Customer Retention",
+        "description": "Customer Retention refers to the strategies and actions taken to retain existing customers and encourage repeat business."
+    },
+    {
+        "word": "Social Media Analytics",
+        "description": "Social Media Analytics refers to the practice of collecting and analyzing data from social media platforms to make informed marketing decisions."
+    },
+    {
+        "word": "Programmatic Advertising",
+        "description": "Programmatic Advertising is the automated buying and selling of online advertising using algorithms and real-time bidding."
+    },
+    {
+        "word": "Website Analytics",
+        "description": "Website Analytics is the measurement, collection, analysis, and reporting of website data to understand and optimize its usage."
+    },
+    {
+        "word": "Competitor Analysis",
+        "description": "Competitor Analysis is the process of evaluating and monitoring the strategies, strengths, weaknesses, and marketing activities of competitors in the same industry."
+    },
+    {
+        "word": "Ai In Marketing",
+        "description": "AI in Marketing refers to the use of Artificial Intelligence techniques, such as machine learning, to improve marketing strategies, personalization, and automation."
+    },
+    {
+        "word": "Cms",
+        "description": "CMS stands for Content Management System and is a software solution that allows users to create, manage, and publish digital content."
+    },
+    {
+        "word": "Ui",
+        "description": "UI stands for User Interface and refers to the visual elements, design, and layout of a website, application, or digital product that users interact with."
+    },
+    {
+        "word": "Ux",
+        "description": "UX stands for User Experience and refers to the overall experience a user has when interacting with a website, application, or digital product."
+    },
+    {
+        "word": "Br",
+        "description": "BR stands for Bounce Rate and is a metric that measures the percentage of visitors who leave a website without navigating to any other pages."
+    },
+    {
+        "word": "Cpa",
+        "description": "CPA stands for Cost Per Acquisition and is the amount an advertiser pays for each desired action, such as a sale or a lead, resulting from their digital marketing campaign."
+    },
+    {
+        "word": "Conversion",
+        "description": "Conversion refers to the completion of a desired action by a user, such as making a purchase or filling out a form."
+    },
+    {
+        "word": "Keyword",
+        "description": "A Keyword is a word or phrase that is used in search engine optimization to optimize webpages for specific search queries."
+    },
+    {
+        "word": "Mobile Marketing",
+        "description": "Mobile Marketing is a marketing strategy focused on engaging with a target audience through mobile devices, such as smartphones and tablets."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) refers to the overall experience a user has when interacting with a website, application, or product."
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) refers to the visual elements, design, and layout of a website, application, or product that users interact with."
+    },
+    {
+        "word": "Google Ads",
+        "description": "Google Ads is an online advertising platform developed by Google, where advertisers can display their ads on various Google properties and partner websites."
+    },
+    {
+        "word": "Facebook Ads",
+        "description": "Facebook Ads is an online advertising platform developed by Facebook, where advertisers can create and manage ad campaigns on the Facebook platform."
+    },
+    {
+        "word": "Instagram Ads",
+        "description": "Instagram Ads is an online advertising platform developed by Instagram, where advertisers can create and run ads on the Instagram platform."
+    },
+    {
+        "word": "Linkedin Ads",
+        "description": "LinkedIn Ads is an online advertising platform developed by LinkedIn, where advertisers can create and manage ad campaigns on the LinkedIn platform."
+    },
+    {
+        "word": "Snapchat Ads",
+        "description": "Snapchat Ads is an online advertising platform developed by Snapchat, where advertisers can create and run ads on the Snapchat platform."
+    },
+    {
+        "word": "Web Analytics",
+        "description": "Web Analytics is the measurement, collection, analysis, and reporting of website data to understand and optimize its usage."
+    },
+    {
+        "word": "Customer Lifetime Value (Cltv)",
+        "description": "Customer Lifetime Value (CLTV) is the predicted net profit generated during the entire relationship with a customer."
+    },
+    {
+        "word": "Brand Awareness",
+        "description": "Brand Awareness is the level of consumer recognition and knowledge of a particular brand in the market."
+    },
+    {
+        "word": "Customer Engagement",
+        "description": "Customer Engagement refers to the interactions, experiences, and relationships a customer has with a brand."
+    },
+    {
+        "word": "Geotargeting",
+        "description": "Geotargeting is the practice of delivering targeted content or advertisements to users based on their geographic location."
+    },
+    {
+        "word": "Inbound Link",
+        "description": "An Inbound Link, also known as a backlink, is a hyperlink on a website that directs users to another website."
+    },
+    {
+        "word": "Influencer",
+        "description": "An Influencer is an individual who has the power to affect purchase decisions of others due to their authority, knowledge, position, or relationship with their audience."
+    },
+    {
+        "word": "Abm",
+        "description": "Account-Based Marketing (ABM) is a strategic approach that focuses on targeting and engaging high-value accounts, rather than individual leads."
+    },
+    {
+        "word": "Retargeting",
+        "description": "Retargeting is a digital advertising strategy that involves targeting ads to people who have previously shown interest or interacted with a brand."
+    },
+    {
+        "word": "Google Analytics",
+        "description": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic and user behavior."
+    },
+    {
+        "word": "Remarketing Lists For Search Ads (Rlsa)",
+        "description": "Remarketing Lists for Search Ads (RLSA) is a feature in Google Ads that allows advertisers to target previous website visitors with search ads."
+    },
+    {
+        "word": "Power Bi",
+        "description": "Power BI is a business analytics service provided by Microsoft that allows users to visualize and analyze data with interactive dashboards and reports."
+    }
+]
