@@ -1,0 +1,530 @@
+[
+    {
+        "word": "Autonomous Vehicle",
+        "description": "An autonomous vehicle is a vehicle capable of navigating and operating without human intervention."
+    },
+    {
+        "word": "Lidar",
+        "description": "LiDAR stands for Light Detection and Ranging, a remote sensing technology that uses laser light to measure distances and generate 3D maps."
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "Sensor Fusion is the process of combining data from multiple sensors to obtain a more accurate and robust perception of the environment."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field of AI that focuses on enabling computers to gain high-level understanding from digital images or videos."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subset of ML that focuses on using neural networks with multiple layers to model and understand complex patterns and relationships in data."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Neural Network",
+        "description": "A neural network is a computational model inspired by the structure and functioning of the human brain, composed of interconnected nodes or artificial neurons."
+    },
+    {
+        "word": "Real-Time Localization",
+        "description": "Real-time localization is the ability of an autonomous vehicle to accurately determine its own position and orientation in real-time, often using techniques such as GPS, inertial sensors, and odometry."
+    },
+    {
+        "word": "Perception",
+        "description": "Perception refers to the process of understanding and interpreting the environment through sensors, such as cameras, LiDAR, and RADAR."
+    },
+    {
+        "word": "Path Planning",
+        "description": "Path Planning is the process of finding a feasible path from a starting point to a desired goal while avoiding obstacles and considering various constraints."
+    },
+    {
+        "word": "Control Systems",
+        "description": "Control Systems in autonomous vehicles refer to the algorithms and mechanisms that regulate and adjust the vehicle's behavior and motion."
+    },
+    {
+        "word": "Simultaneous Localization And Mapping (Slam)",
+        "description": "Simultaneous Localization and Mapping (SLAM) is a technique used by autonomous vehicles to build a map of an unknown environment while simultaneously localizing themselves within the map."
+    },
+    {
+        "word": "High-Definition Mapping",
+        "description": "High-definition mapping involves creating detailed digital maps of the environment that include road geometry, lane markings, traffic signs, and other relevant information, which is crucial for autonomous vehicle navigation."
+    },
+    {
+        "word": "V2X Communication",
+        "description": "V2X Communication, short for Vehicle-to-Everything Communication, is a wireless communication technology that enables vehicles to exchange information with other vehicles, infrastructure, pedestrians, and the cloud."
+    },
+    {
+        "word": "Electrical Architecture",
+        "description": "The electrical architecture of an autonomous vehicle refers to the arrangement and organization of electrical and electronic components, such as sensors, actuators, and control units, that enable the vehicle's autonomous functionality."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine Vision involves the use of computer vision and image processing techniques to enable machines to interpret, analyze, and understand visual information, replicating human-like vision."
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computing is a distributed computing paradigm that brings computation and data storage closer to the location where it is needed, reducing latency and network traffic."
+    },
+    {
+        "word": "Data Annotation",
+        "description": "Data Annotation is the process of labeling or annotating data, such as images or sensor readings, with specific attributes or information, enabling machine learning algorithms to learn from labeled examples."
+    },
+    {
+        "word": "Object Detection",
+        "description": "Object Detection is the process of identifying and localizing specific objects or instances of objects in an image or video."
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "Collision Avoidance refers to the systems and technologies designed to detect and prevent potential collisions with other vehicles, pedestrians, or objects."
+    },
+    {
+        "word": "Semantic Segmentation",
+        "description": "Semantic Segmentation is the task of partitioning an image into multiple segments, where each segment represents a meaningful object or region."
+    },
+    {
+        "word": "Cognitive Computing",
+        "description": "Cognitive Computing refers to the development of computer systems that mimic human cognitive functions, such as perception, learning, and problem-solving."
+    },
+    {
+        "word": "Inertial Navigation System",
+        "description": "An inertial navigation system (INS) is a navigation aid that uses a combination of accelerometers and gyroscopes to calculate an object's position, orientation, and velocity."
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote Monitoring enables the real-time monitoring and remote viewing of vehicle operations and performance, facilitating proactive maintenance, troubleshooting, and support."
+    },
+    {
+        "word": "Machine-To-Machine Communication",
+        "description": "Machine-to-machine (M2M) communication enables direct communication and interaction between autonomous vehicles or other machines without human intervention, facilitating coordination and cooperative behaviors."
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencing is a technology that uses GPS or RFID to create virtual geographic boundaries, allowing autonomous vehicles to be controlled or restricted within specific areas or zones."
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "Predictive maintenance involves continuously monitoring and analyzing vehicle data to predict and prevent potential failures or breakdowns, improving reliability and reducing maintenance costs."
+    },
+    {
+        "word": "Vehicle Platooning",
+        "description": "Vehicle Platooning refers to a group of vehicles traveling closely together in a convoy, connected and coordinated through wireless communication, with the potential to improve traffic flow and fuel efficiency."
+    },
+    {
+        "word": "Human-Machine Interface",
+        "description": "The human-machine interface (HMI) provides the means for interaction and communication between humans and autonomous vehicles, often through visual, auditory, or haptic interfaces."
+    },
+    {
+        "word": "Sensor Calibration",
+        "description": "Sensor Calibration is the process of aligning and adjusting the sensor measurements to account for any systematic errors or biases."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity refers to the practice of protecting computer systems, networks, and data from digital attacks and unauthorized access."
+    },
+    {
+        "word": "Environmental Perception",
+        "description": "Environmental perception in autonomous vehicles refers to the ability to understand and interpret the surroundings, encompassing aspects such as road conditions, weather, and the behavior of other road users."
+    },
+    {
+        "word": "Fusion Control",
+        "description": "Fusion control in autonomous vehicles refers to the process of integrating and coordinating the inputs from various control systems to achieve the desired vehicle behavior and performance."
+    },
+    {
+        "word": "Model Predictive Control",
+        "description": "Model Predictive Control (MPC) is a control strategy used in autonomous vehicles that predicts the future evolution of the vehicle and optimizes control actions over a finite time horizon to achieve desired objectives."
+    },
+    {
+        "word": "Road User Communication",
+        "description": "Road user communication involves the exchange of information and signals between autonomous vehicles and human drivers, pedestrians, or other road users to ensure safe and efficient interactions."
+    },
+    {
+        "word": "Environment Perception Sensors",
+        "description": "Environment perception sensors in autonomous vehicles include cameras, radar, lidar, and other sensors that provide information about the surrounding environment, enabling perception and decision-making algorithms."
+    },
+    {
+        "word": "Cruise Control",
+        "description": "Cruise control is a feature in autonomous vehicles that automatically maintains a set speed without the need for constant driver input, improving comfort and reducing driver fatigue."
+    },
+    {
+        "word": "Data Logging",
+        "description": "Data logging involves the capturing and storage of data from various sensors, systems, and components of autonomous vehicles for analysis, diagnostics, and research purposes."
+    },
+    {
+        "word": "Road Network Analysis",
+        "description": "Road network analysis involves studying and analyzing the characteristics, topology, traffic flow, and capacity of road networks to optimize autonomous vehicle routes and navigation."
+    },
+    {
+        "word": "Human-Like Decision Making",
+        "description": "Human-like decision making in autonomous vehicles aims to emulate human decision-making processes, combining sensor data, perception algorithms, and models to make intelligent decisions in complex and uncertain situations."
+    },
+    {
+        "word": "Traffic Sign Recognition",
+        "description": "Traffic Sign Recognition involves the detection and recognition of traffic signs or road markings, enabling autonomous vehicles to interpret and comply with traffic rules and regulations."
+    },
+    {
+        "word": "Advanced Driver Assistance Systems",
+        "description": "Advanced Driver Assistance Systems (ADAS) are safety features in autonomous vehicles that assist and enhance the driving experience, such as adaptive cruise control, lane keeping assist, and automatic emergency braking."
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture that is particularly effective for processing and analyzing sequential data, often used in time-dependent tasks."
+    },
+    {
+        "word": "Localization",
+        "description": "Localization is the process of estimating a vehicle's position and orientation within a given environment or map."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "An Artificial Neural Network (ANN) is a computational model inspired by the biological neural networks in the human brain, used for tasks such as pattern recognition and classification."
+    },
+    {
+        "word": "Comfort Control",
+        "description": "Comfort control in autonomous vehicles involves adjusting and optimizing various parameters, such as temperature, airflow, seat position, and lighting, to provide a comfortable and personalized experience for occupants."
+    },
+    {
+        "word": "Road Infrastructure Analysis",
+        "description": "Road infrastructure analysis involves assessing the condition, capacity, and suitability of road infrastructure, such as roads, traffic signals, and intersections, to ensure compatibility and safety for autonomous vehicles."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics involves using historical data, statistical algorithms, and machine learning techniques to make predictions or determinations about future events or outcomes."
+    },
+    {
+        "word": "Road Lane Detection",
+        "description": "Road lane detection is a computer vision technique that involves identifying and delineating road lanes using image processing algorithms, which is crucial for tasks such as lane keeping and autonomous navigation."
+    },
+    {
+        "word": "Object Tracking",
+        "description": "Object Tracking is the process of monitoring and predicting the movement of objects in the environment over time."
+    },
+    {
+        "word": "Operating System",
+        "description": "The operating system of an autonomous vehicle is the software that manages and controls the hardware resources, scheduling tasks, and facilitating communication and coordination between different subsystems."
+    },
+    {
+        "word": "Traffic Simulation",
+        "description": "Traffic simulation involves creating virtual models of traffic systems and analyzing their behavior under various scenarios, providing insights for optimizing traffic flow and testing autonomous vehicle algorithms."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data Privacy involves protecting the privacy and confidentiality of personal or sensitive data, ensuring appropriate consent, storage, and usage practices to comply with privacy regulations."
+    },
+    {
+        "word": "Dynamic Path Planning",
+        "description": "Dynamic path planning in autonomous vehicles involves continuously adapting and optimizing the planned path or trajectory based on real-time sensor information, traffic conditions, and other dynamic factors."
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "Gesture Recognition involves the identification and interpretation of human gestures, such as hand movements or facial expressions, enabling natural and intuitive human-computer interaction."
+    },
+    {
+        "word": "Road Condition Monitoring",
+        "description": "Road condition monitoring involves assessing the quality and safety of road surfaces, identifying hazards, and detecting changes or abnormalities that may affect the performance or safety of autonomous vehicles."
+    },
+    {
+        "word": "Ethical Considerations",
+        "description": "Ethical considerations in autonomous vehicles involve addressing questions and dilemmas related to safety, liability, privacy, decision-making algorithms, and the impact of autonomous vehicles on society and the environment."
+    },
+    {
+        "word": "Context Awareness",
+        "description": "Context awareness refers to the ability of an autonomous vehicle to understand and interpret the surrounding context, including factors such as traffic conditions, weather, road infrastructure, and the behavior of other road users."
+    },
+    {
+        "word": "Adas",
+        "description": "ADAS stands for Advanced Driver Assistance Systems, which are systems designed to enhance vehicle safety and improve driving comfort by providing assistance and warnings to the driver."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence."
+    },
+    {
+        "word": "Slam",
+        "description": "SLAM stands for Simultaneous Localization and Mapping, a technique used in robotics and autonomous systems for mapping an unknown environment while simultaneously keeping track of the system's location within the map."
+    },
+    {
+        "word": "V2X",
+        "description": "Vehicle-to-Everything (V2X) communication enables vehicles to communicate with other vehicles (V2V), infrastructure (V2I), pedestrians (V2P), and networks (V2N), enhancing road safety and efficiency."
+    },
+    {
+        "word": "Remote Vehicle Diagnostics",
+        "description": "Remote Vehicle Diagnostics enables monitoring and analyzing a vehicle's performance, health, and usage remotely, allowing for predictive maintenance and optimization of operational efficiency."
+    },
+    {
+        "word": "Hd Mapping",
+        "description": "High-Definition (HD) Mapping involves creating detailed and accurate maps of roads, traffic signs, and other relevant features, providing contextual information essential for autonomous vehicles."
+    },
+    {
+        "word": "Obstacle Detection",
+        "description": "Obstacle Detection is the process of identifying and classifying objects in the environment that may pose a potential obstacle or hazard to the autonomous vehicle."
+    },
+    {
+        "word": "Functional Safety",
+        "description": "Functional Safety involves designing and implementing safety mechanisms and practices to ensure that an autonomous vehicle operates safely and reliably."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on enabling machines to learn from data and make decisions or predictions without explicit programming."
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "Natural Language Processing (NLP) involves the interaction between computers and human language, enabling machines to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning is a type of machine learning that involves an agent learning from interactions with an environment by receiving feedback or rewards, aiming to maximize long-term cumulative reward."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as virtual objects or data, onto the real-world environment, enhancing perception and interaction."
+    },
+    {
+        "word": "Simulation",
+        "description": "Simulation involves creating a virtual environment or model that imitates real-world scenarios, allowing for testing and evaluation of autonomous vehicle systems and algorithms."
+    },
+    {
+        "word": "Object Recognition",
+        "description": "Object Recognition involves the detection and identification of specific objects or entities in images or video data, enabling autonomous vehicles to perceive and interact with the surrounding environment."
+    },
+    {
+        "word": "Open Source",
+        "description": "Open Source refers to software or hardware that is released with a license allowing anyone to study, modify, or distribute it, often resulting in collaborative development and community support."
+    },
+    {
+        "word": "Real-Time Processing",
+        "description": "Real-time Processing refers to the ability of a system or application to process and respond to data immediately as it is received, often crucial for time-sensitive tasks in autonomous vehicles."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing involves the delivery of computing services, including processing power, storage, and software, over the internet, providing scalable and on-demand resources."
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data Fusion is the process of combining and integrating data from different sources and sensors to obtain a more comprehensive and accurate representation of the environment."
+    },
+    {
+        "word": "Human-Machine Interface (Hmi)",
+        "description": "Human-Machine Interface (HMI) refers to the interface or interactions between humans and machines, such as touchscreens, voice commands, or gesture recognition, enabling effective communication and control."
+    },
+    {
+        "word": "Emissions Monitoring",
+        "description": "Emissions Monitoring involves measuring and monitoring the emissions produced by a vehicle, allowing for compliance with environmental regulations and the optimization of fuel efficiency."
+    },
+    {
+        "word": "Range Anxiety",
+        "description": "Range Anxiety refers to the fear or concern of an electric vehicle (EV) driver about running out of battery charge before reaching their destination or a charging station."
+    },
+    {
+        "word": "Fleet Management",
+        "description": "Fleet Management involves managing and coordinating a fleet of vehicles, including autonomous vehicles, to optimize operations, maintenance, routing, and resource allocation."
+    },
+    {
+        "word": "Vehicle-To-Vehicle (V2V)",
+        "description": "Vehicle-to-Vehicle (V2V) communication enables wireless exchange of information between vehicles, fostering cooperative driving, collision avoidance, and traffic efficiency."
+    },
+    {
+        "word": "Charging Infrastructure",
+        "description": "Charging Infrastructure refers to the network of charging stations and associated infrastructure necessary to support the charging needs of electric vehicles (EVs)."
+    },
+    {
+        "word": "Vehicle Dynamics",
+        "description": "Vehicle Dynamics is the study of how vehicles move and behave in response to various forces and inputs, such as acceleration, braking, and steering."
+    },
+    {
+        "word": "Sensor Array",
+        "description": "Sensor Array refers to a group or arrangement of multiple sensors, such as cameras, LiDAR, and radar, working together to provide a more comprehensive perception of the environment."
+    },
+    {
+        "word": "Velocity Estimation",
+        "description": "Velocity Estimation involves determining the speed and direction of an object, often utilizing sensor measurements and/or visual information to estimate its motion in real-time."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning is a type of machine learning where the algorithm learns patterns or structures within input data without being directly guided or labeled by a supervisor or external source."
+    },
+    {
+        "word": "Validation And Verification",
+        "description": "Validation and Verification (V&V) involves the testing, inspection, and analysis of an autonomous vehicle system to ensure that it meets the required specifications and performance standards."
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "Robotic Process Automation (RPA) involves automating routine and repetitive tasks in business processes using software robots, improving efficiency and reducing human intervention."
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "Cloud Storage refers to the storage of data in a remote server or infrastructure accessible over the internet, offering scalability, accessibility, and data redundancy advantages."
+    },
+    {
+        "word": "Remote Control",
+        "description": "Remote Control enables the control and operation of a vehicle or system from a remote location, often utilizing wireless communication and human-machine interfaces."
+    },
+    {
+        "word": "Vehicle Routing",
+        "description": "Vehicle Routing involves determining the optimal routes and sequences for a fleet of vehicles to complete a set of delivery or transportation tasks, considering various constraints and objectives."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization involves the representation of data or information in visual formats, such as charts, graphs, or maps, facilitating the understanding, analysis, and communication of complex data."
+    },
+    {
+        "word": "Telematics",
+        "description": "Telematics involves the integrated use of telecommunications and informatics to monitor and transmit data related to remote objects, such as vehicles, enabling tracking, diagnostics, and analysis."
+    },
+    {
+        "word": "Cost Optimization",
+        "description": "Cost Optimization involves the analysis and minimization of costs associated with autonomous vehicle operations, including energy consumption, maintenance, infrastructure, and manufacturing."
+    },
+    {
+        "word": "Pedestrian Detection",
+        "description": "Pedestrian Detection refers to the capability of autonomous vehicles to identify and detect pedestrian presence or potential collisions with pedestrians, ensuring safety and pedestrians' right-of-way."
+    },
+    {
+        "word": "Human Detection",
+        "description": "Human Detection involves the identification and recognition of human presence or activities, often utilizing computer vision techniques for applications such as surveillance or safety systems."
+    },
+    {
+        "word": "Autonomous Valet Parking",
+        "description": "Autonomous Valet Parking enables vehicles to autonomously park themselves in designated parking areas, enhancing convenience and efficient use of parking spaces."
+    },
+    {
+        "word": "Occupancy Grid Mapping",
+        "description": "Occupancy Grid Mapping is a technique used in simultaneous localization and mapping (SLAM) to represent the probability of occupancy or obstacles in the environment, creating grid-based maps."
+    },
+    {
+        "word": "Radar",
+        "description": "RADAR stands for Radio Detection and Ranging, a remote sensing technology that uses radio waves to detect and locate objects."
+    },
+    {
+        "word": "Gps",
+        "description": "GPS stands for Global Positioning System, a global navigation satellite system that provides location and time information in all weather conditions."
+    },
+    {
+        "word": "Inertial Measurement Unit",
+        "description": "An Inertial Measurement Unit (IMU) is an electronic device that measures and reports a vehicle's specific force, angular rate, and sometimes magnetic field."
+    },
+    {
+        "word": "Simulator",
+        "description": "A simulator is a software or hardware system that emulates the behavior of a real-world environment, allowing for testing and validation of autonomous vehicle systems."
+    },
+    {
+        "word": "Teleoperation",
+        "description": "Teleoperation is the control of a vehicle from a remote location through a communication link, often used as a backup solution for autonomous vehicles."
+    },
+    {
+        "word": "Route Planning",
+        "description": "Route Planning is the process of determining the optimal route from a starting location to a desired destination, taking into account various factors such as traffic, weather, and road conditions."
+    },
+    {
+        "word": "Hd Maps",
+        "description": "HD Maps, short for High-Definition Maps, are detailed maps that provide accurate and up-to-date information about an environment, including road geometry, lane markings, and traffic signs."
+    },
+    {
+        "word": "Decision-Making",
+        "description": "Decision-making in autonomous vehicles involves selecting the most appropriate action or behavior based on the perception of the environment and the vehicle's objectives."
+    },
+    {
+        "word": "Vehicle-To-Vehicle Communication",
+        "description": "Vehicle-to-Vehicle (V2V) Communication enables vehicles to exchange information with other nearby vehicles, enabling safer and more efficient driving."
+    },
+    {
+        "word": "Vehicle-To-Infrastructure Communication",
+        "description": "Vehicle-to-Infrastructure (V2I) Communication enables vehicles to communicate with roadside infrastructure, such as traffic signals and road signs, to improve traffic flow and safety."
+    },
+    {
+        "word": "Ego Vehicle",
+        "description": "The Ego Vehicle refers to the autonomous vehicle itself, from which the perception, planning, and control systems operate."
+    },
+    {
+        "word": "Dead Reckoning",
+        "description": "Dead Reckoning is a navigation technique that estimates a vehicle's position based on its previous known position, velocity, and orientation."
+    },
+    {
+        "word": "Path Following",
+        "description": "Path Following is the process of controlling a vehicle to follow a predefined path, adjusting its trajectory based on feedback from sensors and control algorithms."
+    },
+    {
+        "word": "Predictive Modeling",
+        "description": "Predictive Modeling involves using historical data and statistical algorithms to make predictions and forecasts about future events or behaviors."
+    },
+    {
+        "word": "System Integration",
+        "description": "System Integration involves combining different subsystems and components of an autonomous vehicle into a cohesive and functional whole."
+    },
+    {
+        "word": "Image Recognition",
+        "description": "Image Recognition is the process of identifying and classifying objects or patterns in digital images."
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "Natural Language Processing (NLP) is a field of AI that focuses on enabling computers to understand, interpret, and generate human language."
+    },
+    {
+        "word": "Road User Interaction",
+        "description": "Road User Interaction involves the interaction between autonomous vehicles and other road users, such as pedestrians, bicyclists, and human-driven vehicles."
+    },
+    {
+        "word": "Sensor Selection",
+        "description": "Sensor Selection is the process of choosing the most appropriate sensors for a specific autonomous vehicle application, taking into account factors such as cost, performance, and reliability."
+    },
+    {
+        "word": "Firmware",
+        "description": "Firmware refers to the software or code that is embedded in hardware devices to control their operation and enable communication with other hardware components."
+    },
+    {
+        "word": "Dynamic Environment",
+        "description": "Dynamic Environment refers to an environment that is constantly changing and evolving, with moving objects, varying lighting conditions, and unpredictable events."
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning is a subfield of ML that combines deep learning with reinforcement learning to enable agents to learn optimal policies through trial and error interactions with an environment."
+    },
+    {
+        "word": "Traffic Prediction",
+        "description": "Traffic Prediction involves using historical and real-time data to forecast future traffic conditions, helping autonomous vehicles make informed decisions and plan efficient routes."
+    },
+    {
+        "word": "Fault Tolerance",
+        "description": "Fault Tolerance refers to the ability of a system to continue operating properly in the presence of faults or errors."
+    },
+    {
+        "word": "Road Infrastructure Perception",
+        "description": "Road Infrastructure Perception involves the detection and recognition of road signs, traffic lights, and other infrastructure elements that provide critical information for autonomous vehicles."
+    },
+    {
+        "word": "Situational Awareness",
+        "description": "Situational Awareness refers to the perception and understanding of the current state of the environment, including the location and movement of objects, to support decision-making and planning."
+    },
+    {
+        "word": "Autonomous Vehicle Testing",
+        "description": "Autonomous Vehicle Testing involves conducting tests and experiments to evaluate the performance and safety of autonomous vehicle systems in various scenarios and conditions."
+    },
+    {
+        "word": "Scenario-Based Testing",
+        "description": "Scenario-based Testing involves designing and executing tests that simulate specific real-world scenarios or critical situations that an autonomous vehicle may encounter."
+    },
+    {
+        "word": "Long-Range Perception",
+        "description": "Long-range Perception refers to the capability of an autonomous vehicle to detect and recognize objects and obstacles at a distance, enabling early detection and proactive decision-making."
+    },
+    {
+        "word": "Energy Optimization",
+        "description": "Energy Optimization involves maximizing the energy efficiency and range of an autonomous vehicle by optimizing the use of power-consuming components and systems."
+    },
+    {
+        "word": "Fault Detection And Diagnosis",
+        "description": "Fault Detection and Diagnosis involves the identification and diagnosis of faults or anomalies in an autonomous vehicle system, ensuring safe and reliable operation."
+    },
+    {
+        "word": "Road Database",
+        "description": "Road Database refers to a digital database that contains detailed information about roads, including alignment, geometry, and road attributes, used for navigation and path planning."
+    },
+    {
+        "word": "Driving Policy",
+        "description": "Driving Policy refers to the rules, guidelines, and algorithms that govern the behavior and actions of an autonomous vehicle, taking into account traffic regulations, safety rules, and user preferences."
+    }
+]
