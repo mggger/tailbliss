@@ -3,7 +3,7 @@ title: "GPTS Survey: An Early Look at the Labor Market Through the Lens of Green
 date: 2024-02-27
 description: "Exploring the implications of the Green et al. Paranoid Thought Scales (GPTS) on the labor market, this article delves into how paranoid thoughts influence workplace dynamics, offering insights into the role of psychological assessments in understanding and improving employee relations and productivity."
 categories:
-- AI
+  - AI
 tags:
   - GPTs
 featured_image: ../assets/images/featured/gpts-survey.webp 
