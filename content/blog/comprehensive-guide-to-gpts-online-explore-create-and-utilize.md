@@ -3,10 +3,9 @@ title: "Comprehensive Guide to GPTs Online: Explore, Create, and Utilize"
 date: 2024-02-24
 description: "A detailed guide for enthusiasts, developers, and businesses on exploring, creating, and utilizing Generative Pre-trained Transformers (GPTs) for various applications, from chatbots to custom AI solutions."
 categories:
-  - AI and Machine Learning
-  - Technology Guides
+  - AI
 tags:
-  - GPT
+  - GPTs
   - OpenAI
   - Artificial Intelligence
   - Chatbots

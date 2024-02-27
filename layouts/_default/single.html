@@ -8,8 +8,8 @@
       </h1>
     </span>
 
-    <div class="mt-4 px-6">
-      {{ if strings.HasPrefix .RelPermalink "/blog/" }}
+    {{ if strings.HasPrefix .RelPermalink "/blog/" }}
+    <div class="mt-4 px-6 text-white text-center">
       {{ with .Params.author | default .Site.Params.author }}
       <p class="inline-flex items-center gap-2 justify-center">
         {{ $.Render "by" }}
