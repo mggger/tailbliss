@@ -4724,3 +4724,11 @@ EmojiSymbols;
   margin: 0 auto 1rem; /* 居中显示，与上下内容的间距 */
 }
 
+.custom-list ul {
+  list-style-type: disc; /* 使用圆点作为列表项的标记 */
+  margin-left: 20px; /* 添加一些左边距，确保列表项的点不会和文本对齐 */
+}
+
+.custom-list li {
+  margin-bottom: 0.5rem; /* 列表项之间的间距 */
+}

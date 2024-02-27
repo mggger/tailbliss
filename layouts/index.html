@@ -203,7 +203,8 @@
                 <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
                     <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
                         {{ $pages := where .Site.RegularPages "File.Dir" "in" (slice "blog/") }}
-                        {{ range $pages }}
+                        {{ $limitedPages := first 3 $pages }}
+                        {{ range $limitedPages }}
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
                             <a href="{{.Permalink}}">
                                 {{ $featuredImage := .Params.featured_image | default .Site.Params.featured_image }}

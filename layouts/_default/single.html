@@ -82,8 +82,9 @@
   <aside class="mx-auto max-w-4xl px-6 mt-8 my-4">
     <div class="bg-white p-4 rounded-lg shadow-md">
       <p class="font-semibold text-xl text-gray-800 mb-4">Recommend Readings</p>
-      <ul class="list-none p-0">
-        {{ range . }}
+      <div class="custom-list">
+      <ul class="list-disc list-inside p-2">
+      {{ range . }}
         <li class="mb-2">
           <a href="{{ .RelPermalink }}" class="text-primary-600 hover:text-primary-700 transition-colors duration-300">
             {{ .Title }}
@@ -91,6 +92,7 @@
         </li>
         {{ end }}
       </ul>
+      </div>
     </div>
   </aside>
   {{ end }}
