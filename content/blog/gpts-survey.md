@@ -6,6 +6,7 @@ categories:
 - AI
 tags:
   - GPTs
+featured_image: ../assets/images/featured/gpts-survey.webp 
 toc: true
 faq:
   - question: "What are the primary scales of the GPTS?"
