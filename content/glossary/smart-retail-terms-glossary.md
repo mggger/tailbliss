@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Smart Retail Terms Glossary: Smart Retail Terms in 2024 | Smart Retail Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/smart-retail-terms-glossary.json" >}}

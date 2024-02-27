@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Speech Recognition Terms Glossary: Speech Recognition Terms in 2024 | Speech Recognition Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/speech-recognition-terms-glossary.json" >}}

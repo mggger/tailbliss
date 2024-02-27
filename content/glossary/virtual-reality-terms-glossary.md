@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Virtual Reality Terms Glossary: Virtual Reality Terms in 2024 | Virtual Reality Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/virtual-reality-terms-glossary.json" >}}

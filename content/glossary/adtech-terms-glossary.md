@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Adtech Terms Glossary: Adtech Terms in 2024 | Adtech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/adtech-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Blockchain Terms Glossary: Blockchain Terms in 2024 | Blockchain Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/blockchain-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Sportstech Terms Glossary: Sportstech Terms in 2024 | Sportstech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/sportstech-terms-glossary.json" >}}

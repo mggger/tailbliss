@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Autonomous Vehicles Terms Glossary: Autonomous Vehicles Terms in 2024 | Autonomous Vehicles Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/autonomous-vehicles-terms-glossary.json" >}}

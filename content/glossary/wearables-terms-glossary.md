@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Wearables Terms Glossary: Wearables Terms in 2024 | Wearables Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/wearables-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Digital Health Terms Glossary: Digital Health Terms in 2024 | Digital Health Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/digital-health-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Digital Twins Terms Glossary: Digital Twins Terms in 2024 | Digital Twins Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/digital-twins-terms-glossary.json" >}}

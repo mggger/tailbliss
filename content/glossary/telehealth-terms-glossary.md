@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Telehealth Terms Glossary: Telehealth Terms in 2024 | Telehealth Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/telehealth-terms-glossary.json" >}}

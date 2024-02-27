@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Smart Manufacturing Terms Glossary: Smart Manufacturing Terms in 2024 | Smart Manufacturing Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/smart-manufacturing-terms-glossary.json" >}}

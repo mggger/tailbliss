@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Supply Chain Terms Glossary: Supply Chain Terms in 2024 | Supply Chain Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/supply-chain-terms-glossary.json" >}}

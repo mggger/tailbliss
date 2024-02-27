@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Cybersecurity Terms Glossary: Cybersecurity Terms in 2024 | Cybersecurity Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/cybersecurity-terms-glossary.json" >}}

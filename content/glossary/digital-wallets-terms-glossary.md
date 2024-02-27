@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Digital Wallets Terms Glossary: Digital Wallets Terms in 2024 | Digital Wallets Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/digital-wallets-terms-glossary.json" >}}

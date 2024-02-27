@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Augmented Reality Terms Glossary: Augmented Reality Terms in 2024 | Augmented Reality Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/augmented-reality-terms-glossary.json" >}}

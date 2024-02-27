@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Cyber-Physical Systems Terms Glossary: Cyber-Physical Systems Terms in 2024 | Cyber-Physical Systems Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/cyber-physical-systems-terms-glossary.json" >}}

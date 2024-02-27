@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Algorithmic Trading Terms Glossary: Algorithmic Trading Terms in 2024 | Algorithmic Trading Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/algorithmic-trading-terms-glossary.json" >}}

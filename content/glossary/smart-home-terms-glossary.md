@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Smart Home Terms Glossary: Smart Home Terms in 2024 | Smart Home Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/smart-home-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Big Data Terms Glossary: Big Data Terms in 2024 | Big Data Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/big-data-terms-glossary.json" >}}

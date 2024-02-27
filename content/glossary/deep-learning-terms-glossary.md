@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Deep Learning Terms Glossary: Deep Learning Terms in 2024 | Deep Learning Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/deep-learning-terms-glossary.json" >}}
