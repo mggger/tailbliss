@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Fintech Terms Glossary: Fintech Terms in 2024 | Fintech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/fintech-terms-glossary.json" >}}

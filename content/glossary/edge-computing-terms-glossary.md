@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Edge Computing Terms Glossary: Edge Computing Terms in 2024 | Edge Computing Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/edge-computing-terms-glossary.json" >}}

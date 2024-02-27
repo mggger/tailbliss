@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Edtech Terms Glossary: Edtech Terms in 2024 | Edtech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/edtech-terms-glossary.json" >}}

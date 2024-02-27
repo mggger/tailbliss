@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Industrial Automation Terms Glossary: Industrial Automation Terms in 2024 | Industrial Automation Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/industrial-automation-terms-glossary.json" >}}

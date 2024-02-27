@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Healthtech Terms Glossary: Healthtech Terms in 2024 | Healthtech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/healthtech-terms-glossary.json" >}}

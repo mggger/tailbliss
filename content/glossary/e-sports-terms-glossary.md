@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "E-Sports Terms Glossary: E-Sports Terms in 2024 | E-Sports Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/e-sports-terms-glossary.json" >}}

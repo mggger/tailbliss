@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "E-Government Terms Glossary: E-Government Terms in 2024 | E-Government Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/e-government-terms-glossary.json" >}}

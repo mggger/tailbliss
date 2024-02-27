@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Knowledge Management Terms Glossary: Knowledge Management Terms in 2024 | Knowledge Management Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/knowledge-management-terms-glossary.json" >}}

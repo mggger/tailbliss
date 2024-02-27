@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Iot Terms Glossary: Iot Terms in 2024 | Iot Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/iot-terms-glossary.json" >}}

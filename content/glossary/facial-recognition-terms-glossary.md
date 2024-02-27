@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Facial Recognition Terms Glossary: Facial Recognition Terms in 2024 | Facial Recognition Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/facial-recognition-terms-glossary.json" >}}

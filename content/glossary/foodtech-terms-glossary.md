@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Foodtech Terms Glossary: Foodtech Terms in 2024 | Foodtech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/foodtech-terms-glossary.json" >}}

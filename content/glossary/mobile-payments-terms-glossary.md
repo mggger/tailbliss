@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Mobile Payments Terms Glossary: Mobile Payments Terms in 2024 | Mobile Payments Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/mobile-payments-terms-glossary.json" >}}

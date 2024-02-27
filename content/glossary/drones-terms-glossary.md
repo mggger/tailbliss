@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Drones Terms Glossary: Drones Terms in 2024 | Drones Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/drones-terms-glossary.json" >}}

@@ -5,6 +5,7 @@ draft: false
 language: en
 description: "Insurtech Terms Glossary: Insurtech Terms in 2024 | Insurtech Terms Glossary"
 categories: glossary
+tags: ["glossary"]
 ---
 
 {{< terms "/assets/data/insurtech-terms-glossary.json" >}}
