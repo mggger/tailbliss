@@ -2,7 +2,7 @@
 title: "Introduce Embed: Train Your Knowledge"
 date: 2024-03-04
 draft: false
-description: ""
+description: "For OpenAI GPTs, accessing its knowledge base can be challenging, limited to built-in python capabilities for reading files. Thus, the Embed service supports training on various types of data sources, such as URLs and text. It also allows viewing training results. If the provided data descriptions are inaccurate, you can enrich and refine them for retraining."
 categories: ["embed"]
 tags: ["embed"]
 toc: true
