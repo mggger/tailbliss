@@ -1,5 +1,5 @@
 baseURL: https://gptdevelopment.online
-title: GPTs Development
+title: "GPTs Development Solutions"
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -51,22 +51,24 @@ params:
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   moto: "Build Best GPTs"
-  description: "Hire Best GPTs developer, we offer cutting-edge GPTs development services tailored to OpenAI's custom GPTs store."
+  description: "Empower your AI journey with our specialized SaaS platform, designed for seamless training of various data types including text, URLs, PDFs, and more, ensuring custom GPTs integration. Our solution is built for adaptability, scalability, and versatility to meet your specific needs. For uniquely tailored projects, our bespoke development services provide expert customization and guidance."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
-    heading: "Our mission"
-    image: "images/pages/our-mission.png"
+    heading: "Embed: SASS service for training knowledge"
+    image: "images/pages/dashboard.png"
     content:
-      - text: "🚀Innovation Unleashed. Diving into the coolest projects, we're pioneering AI's future, setting trends, and redefining possibilities."
-      - text: "🤝Collaborative Growth. In partnership with our clients, we embark on a journey of mutual advancement, transforming visions into shared successes."
-      - text: "😊Sustainable Excellence. With a steadfast commitment to quality, our long-term vision guides us toward creating enduring, meaningful impacts in the AI landscape."
+      - text: "🚀 Easy Knowledge Training. Train on various types of data sources online and access your knowledge base through an API."
+      - text: "✨ Continuous Improvement. We store training records, user questions, and corresponding knowledge matches to continuously refine your knowledge base"
+      - text: "🤖 Seamless Integration. Easily integrate with OpenAI Custom GPTs for an enhanced experience."
   p2:
-    heading: "Our ability"
-    image: "images/pages/cor.webp"
+    heading: "Fast Integrate OpenAI Custom GPTs"
+    image: "images/pages/integrate.png"
     content:
-      - text: "Our ability to seamlessly integrate with existing website APIs and develop bespoke actions sets us apart in the realm of AI services. We specialize in crafting customized actions tailored to specific scenarios, ensuring a personalized and efficient solution for every client. Beyond development, our expertise extends to training documentation and fine-tuning models according to unique project requirements. This holistic approach enables us to adapt and enhance AI functionalities, providing unparalleled support in navigating the complexities of artificial intelligence integration."
+      - text: "🔒 Secure API Key Integration. Connect with OpenAI Custom GPTs securely using API keys to ensure safe and reliable integration."
+      - text: "📊 Continuous Optimization. Collect questions and interactions during chat sessions for ongoing improvements, enhancing the model's accuracy and relevance over time."
+      - text: "🔧 Online Privacy Control. Edit privacy settings directly online to ensure compliance and safeguard user data, aligning with the latest regulations."
   p3:
     heading: "Successful Use Cases"
     content:
@@ -110,6 +112,10 @@ params:
 
 menu:
   main:
+    - embed: embed
+      name: Embed
+      url: "https://embed.gptdevelopment.online/login"
+      weight: 10
     - identifier: about
       name: About
       url: /about/
@@ -148,6 +154,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: privacy
+      name: Privacy
+      url: /privacy/
+      weight: 60
 
 markup:
   goldmark:
