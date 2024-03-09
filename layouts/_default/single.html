@@ -115,25 +115,33 @@
     let activeSection = sections.length ? sections[0].id : "";
 
     function adjustTocPosition() {
-      const footerOffset = document.querySelector('footer').offsetTop; // 获取footer的位置
-      const scrollPastLastSection = window.pageYOffset + 10 >= lastSection.offsetTop;
+      const footerOffset = document.querySelector('footer').offsetTop;
+      const tocHeight = tocContainer.offsetHeight;
+      const windowHeight = window.innerHeight;
+      const scrollPosition = window.pageYOffset;
+      const scrollPastLastSection = scrollPosition + windowHeight >= lastSection.offsetTop + 20; // 修正了判断逻辑
 
-
-      if (window.innerWidth >= 1025) { // Only apply on large screens
-        if (window.pageYOffset > initialOffsetTop && !scrollPastLastSection) {
+      if (window.innerWidth >= 1025) {
+        if (scrollPosition > initialOffsetTop && !scrollPastLastSection) {
           tocContainer.classList.add('toc-fixed');
+          // Ensure TOC doesn't extend beyond the viewport, potentially with some bottom margin
+          tocContainer.style.maxHeight = `${windowHeight - 20}px`; // Assuming 20px as a bottom margin
+          tocContainer.style.overflowY = 'auto';
         } else {
           tocContainer.classList.remove('toc-fixed');
         }
 
-        // 当滚动超过最后一个section加上20px，隐藏TOC
-        if (window.pageYOffset + window.innerHeight > footerOffset || scrollPastLastSection) {
+        // Adjust TOC visibility near footer, considering dynamic adjustment based on the actual position
+        const tocBottomEdgePosition = scrollPosition + windowHeight - tocHeight;
+        if (tocBottomEdgePosition > footerOffset || scrollPastLastSection) {
           tocContainer.style.display = 'none';
         } else {
           tocContainer.style.display = 'block';
         }
       }
     }
+
+
 
     function highlightTocLink() {
       let currentSectionId = activeSection;
