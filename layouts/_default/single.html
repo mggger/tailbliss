@@ -57,11 +57,13 @@
     </div>
   </div>
 
+
+
   <!-- 目录部分 -->
   {{ if .Params.toc }}
-  <aside class="mt-6 mx-auto max-w-4xl px-6">
-    <div class="bg-white p-4 rounded-lg shadow">
-      <p class="text-xl font-semibold mb-3 text-orange-600 text-center">Table of Contents</p>
+  <aside id="toc" class="mx-auto max-w-4xl px-6 dark:prose-invert">
+    <div class="toc-container rounded-lg shadow">
+    <p class="text-xl font-semibold mb-3 text-orange-600 text-center">Table of Contents</p>
       <hr class="border-b-2 border-orange-600 w-10 mx-auto mb-4" />
       <nav class="toc space-y-2">
         {{ .TableOfContents | safeHTML }}
@@ -79,8 +81,8 @@
   <!-- 相关文章部分 -->
   {{ $related := .Site.RegularPages.Related . | first 15 }}
   {{ with $related }}
-  <aside class="mx-auto max-w-4xl px-6 mt-8 my-4">
-    <div class="bg-white p-4 rounded-lg shadow-md">
+  <aside class="mx-auto max-w-4xl px-6 mt-8 my-4 ">
+    <div class="bg-white p-4 rounded-lg shadow-md ">
       <p class="font-semibold text-xl text-gray-800 mb-4">Recommend Readings</p>
       <div class="custom-list">
       <ul class="list-disc list-inside p-2">
@@ -99,4 +101,78 @@
 
 
 </article>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const tocContainer = document.querySelector('.toc-container');
+    const tocLinks = document.querySelectorAll('#toc nav a');
+    const sections = Array.from(document.querySelectorAll('article h1, article h2, article h3, article h4, article h5, article h6'));
+
+    // 获取最后一个section的引用
+    const lastSection = sections[sections.length - 1];
+
+    let initialOffsetTop = tocContainer.offsetTop;
+    let activeSection = sections.length ? sections[0].id : "";
+
+    function adjustTocPosition() {
+      const footerOffset = document.querySelector('footer').offsetTop; // 获取footer的位置
+      const scrollPastLastSection = window.pageYOffset + 10 >= lastSection.offsetTop;
+
+
+      if (window.innerWidth >= 1025) { // Only apply on large screens
+        if (window.pageYOffset > initialOffsetTop && !scrollPastLastSection) {
+          tocContainer.classList.add('toc-fixed');
+        } else {
+          tocContainer.classList.remove('toc-fixed');
+        }
+
+        // 当滚动超过最后一个section加上20px，隐藏TOC
+        if (window.pageYOffset + window.innerHeight > footerOffset || scrollPastLastSection) {
+          tocContainer.style.display = 'none';
+        } else {
+          tocContainer.style.display = 'block';
+        }
+      }
+    }
+
+    function highlightTocLink() {
+      let currentSectionId = activeSection;
+      for (let i = 0; i < sections.length; i++) {
+        const section = sections[i];
+        if (section.offsetTop - 100 < window.pageYOffset) {
+          currentSectionId = section.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId !== activeSection) {
+        activeSection = currentSectionId;
+        tocLinks.forEach(link => {
+          if (link.getAttribute('href').endsWith('#' + activeSection)) {
+            link.classList.add('highlight');
+          } else {
+            link.classList.remove('highlight');
+          }
+        });
+      }
+    }
+
+    window.addEventListener('scroll', () => {
+      adjustTocPosition();
+      highlightTocLink();
+    });
+
+    window.addEventListener('resize', () => {
+      initialOffsetTop = tocContainer.getBoundingClientRect().top + window.pageYOffset;
+      adjustTocPosition(); // 重新计算位置
+    });
+
+    adjustTocPosition();
+    highlightTocLink();
+  });
+
+</script>
+
+
 {{end}}

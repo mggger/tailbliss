@@ -4732,3 +4732,31 @@ EmojiSymbols;
 .custom-list li {
   margin-bottom: 0.5rem; /* 列表项之间的间距 */
 }
+
+
+.toc-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  transition: all 0.3s ease;
+  padding-bottom: 1rem; /* 根据需要调整 */
+  overflow-y: auto; /* 如果内容超出屏幕高度，显示滚动条 */
+  padding-top: 96px;
+}
+
+
+@media (min-width: 1150px) { /* Adjust the min-width as needed */
+  .toc-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100vh;
+    width: 250px; /* Or your preferred width */
+    max-width: 100%;
+    z-index: 10;
+  }
+}
+
+/* 活跃 TOC 链接的高亮样式 */
+.highlight {
+  font-weight: bold; /* 加粗显示 */
+}
