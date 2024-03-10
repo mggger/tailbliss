@@ -51,7 +51,7 @@ params:
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   moto: "Build your knowledge base, seamlessly integrate with any chatbots."
-  description: "Empower your AI journey with our specialized SaaS platform, designed for seamless training of various data types including text, URLs, PDFs, and more, ensuring custom GPTs integration. Our solution is built for adaptability, scalability, and versatility to meet your specific needs. For uniquely tailored projects, our bespoke development services provide expert customization and guidance."
+  description: "Elevate your AI journey with Embed: a streamlined SaaS platform for building and integrating custom knowledge bases with chatbots. "
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -118,7 +118,7 @@ menu:
       weight: 10
     - identifier: about
       name: About
-      url: /about/
+      url: /embed/quickstart/
       weight: 20
     - identifier: categories
       pre: dropdown
@@ -135,7 +135,7 @@ menu:
   categories:
     - identifier: about
       name: About
-      url: /about/
+      url: /embed/quickstart/
       weight: 20
     - identifier: glossary
       name: Glossary
