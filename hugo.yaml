@@ -51,7 +51,7 @@ params:
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   moto: "Build your knowledge base, seamlessly integrate with any chatbots."
-  description: "Elevate your AI journey with Embed: a streamlined SaaS platform for building and integrating custom knowledge bases with chatbots. "
+  description: "Elevate your AI journey with Embed: a SaaS platform for building and integrating custom knowledge bases with chatbots. "
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
