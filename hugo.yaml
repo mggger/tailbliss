@@ -154,6 +154,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: Build-RAG-chatbot
+      name: Build RAG ChatBot
+      url: /blog/build-rag-chatbot-easily/
+      weight: 50
     - identifier: privacy
       name: Privacy
       url: /privacy/
