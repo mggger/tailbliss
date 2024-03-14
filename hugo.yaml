@@ -51,7 +51,7 @@ params:
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   moto: "Build your knowledge base and easily integrate it with any chatbots."
-  description: "Train your PDFs, URLs, and plain text to integrate with any chat bots via an API."
+  description: "Train your PDFs, URLs, and plain text online and integrate them with any chatbots using an API."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
