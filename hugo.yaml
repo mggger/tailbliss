@@ -50,8 +50,8 @@ params:
   author_image: images/featured/default.webp
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
-  moto: "Build your knowledge base and easily integrate it with any chatbots."
-  description: "Train your PDFs, URLs, and plain text online and integrate them with any chat bots using an API."
+  moto: "Build your knowledge base and easily integrate it with RAG chatbot."
+  description: "Train your PDFs, URLs, and plain text online and integrate them with RAG chatbot using an API."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
