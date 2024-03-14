@@ -3,11 +3,11 @@ title: "How to Build a RAG Chatbot Using Embed: A Step-by-Step Guide"
 date: 2024-03-14
 description: "A comprehensive guide on creating a Retrieval-Augmented Generation (RAG) chatbot with Embed, including steps for training on diverse data sources and querying knowledge via API."
 categories:
-  - AI Development
+  - embed
   - Chatbots
 tags:
   - RAG
-  - Embed
+  - embed
   - RAG Chatbot
   - AI
 toc: true
