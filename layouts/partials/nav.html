@@ -2,13 +2,13 @@
     <div x-data="{ open: false }"
          class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="flex flex-row items-center justify-between p-4">
-            <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
+            <a href="/" class="flex text-gray-100 transition duration-1000 ease-in-out group" title='{{ i18n "title" }}'>>
                 <img src="/images/author.svg"
                      class="bg-white transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70"
                      alt="{{ .Site.Title }} Logo" />
                 <div
                      class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
-                    {{ .Site.Title }}</div>
+                    {{ i18n "title" }}</div>
             </a>
             <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
                 <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -109,7 +109,7 @@
                     <div class="px-2 py-2 text-primary-900 bg-white rounded-md shadow">
                         {{ range (index site.Menus .Identifier) }}
                         <a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline"
-                           href="{{ .URL | absLangURL }}">{{- .Name -}}</a>
+                           href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">{{- .Name -}}</a>
                         {{ end }}
                     </div>
                 </div>

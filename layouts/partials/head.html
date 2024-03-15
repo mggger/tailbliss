@@ -30,6 +30,11 @@
 
     gtag('config', 'G-HPBT01ZSYJ');
 </script>
+<script>
+    if (navigator.language.startsWith('ja') && !window.location.pathname.startsWith('/ja/')) {
+        window.location.href = '/ja/';
+    }
+</script>
 {{ $styles := resources.Get "/css/style.css" | postCSS }}
 {{ if .Site.IsServer }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />

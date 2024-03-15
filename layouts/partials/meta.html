@@ -1,16 +1,18 @@
-<title itemprop="name">{{if .IsHome}} {{ $.Site.Params.description }} | {{ .Title }}
-    {{else}} {{ .Title }} | {{ .Site.Title }} {{end}}
-</title>
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta property="og:description"
-      content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
-<meta property="og:site_name" content="{{ .Site.Title }}" />
+<title itemprop="name">{{ if .IsHome }}{{ i18n "description" }} | {{ i18n "title" }}{{ else }}{{ .Title }} | {{ i18n "title" }}{{ end }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ i18n "description" }}{{ end }}" />
+<meta property="og:title" content="{{ if .IsHome }}{{ i18n "description" }} | {{ i18n "title" }}{{ else }}{{ .Title }} | {{ i18n "title" }}{{ end }}" />
+<meta name="twitter:title" content="{{ if .IsHome }}{{ i18n "description" }} | {{ i18n "title" }}{{ else }}{{ .Title }} | {{ i18n "title" }}{{ end }}" />
+<meta itemprop="name" content="{{ if .IsHome }}{{ i18n "description" }} | {{ i18n "title" }}{{ else }}{{ .Title }} | {{ i18n "title" }}{{ end }}" />
+<meta name="application-name" content="{{ .Title }} | {{ i18n "title" }}" />
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ i18n "description" }}{{ end }}" />
+<meta property="og:site_name" content="{{ i18n "title" }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="{{ .Site.Language.LanguageCode }}">
 <meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ .Site.Params.og_image | absURL }}{{ end }}" />
 <meta property="og:image:secure_url" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ .Site.Params.og_image | absURL }}{{ end }}" />
-<meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@yourTwitterHandle">
+<meta name="twitter:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ .Site.Params.og_image | absURL }}{{ end }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ i18n "description" }}{{ end }}" />

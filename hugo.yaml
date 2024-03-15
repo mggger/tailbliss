@@ -1,5 +1,4 @@
 baseURL: https://gptdevelopment.online
-title: "GPTs Development Solutions"
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -10,6 +9,122 @@ paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    languageCode: en-US
+    menu:
+      main:
+        - identifier: "embed"
+          name: "Embed"
+          url: "https://embed.gptdevelopment.online/login"
+          weight: 10
+        - identifier: "about"
+          name: "About"
+          url: "/embed/quickstart/"
+          weight: 20
+        - identifier: "categories"
+          pre: "dropdown"
+          name: "Categories"
+          weight: 30
+        - identifier: "blog"
+          name: "Blog"
+          url: "/blog/"
+          weight: 40
+        - identifier: "contact"
+          name: "Contact"
+          url: "/contact/"
+          weight: 50
+      categories:
+        - identifier: about
+          name: About
+          url: /embed/quickstart/
+          weight: 20
+        - identifier: glossary
+          name: Glossary
+          url: /categories/glossary/
+          weight: 30
+      footer:
+        - identifier: "about"
+          name: "About"
+          url: "/embed/quickstart/"
+          weight: 10
+        - identifier: "blog"
+          name: "Blog"
+          url: "/blog/"
+          weight: 20
+        - identifier: "contact"
+          name: "Contact"
+          url: "/contact/"
+          weight: 50
+        - identifier: "build-rag-chatbot"
+          name: "Build RAG ChatBot"
+          url: "/blog/build-rag-chatbot-easily/"
+          weight: 50
+        - identifier: "privacy"
+          name: "Privacy"
+          url: "/privacy/"
+          weight: 60
+  ja:
+    languageName: "日本語"
+    weight: 2
+    languageCode: ja-JP
+    menu:
+      main:
+        - identifier: "embed"
+          name: "エンベッド"
+          url: "https://embed.gptdevelopment.online/login"
+          weight: 10
+        - identifier: "about"
+          name: "約"
+          url: "/ja/embed/quickstart/"
+          weight: 20
+        - identifier: "categories"
+          pre: "dropdown"
+          name: "カテゴリー"
+          weight: 30
+        - identifier: "blog"
+          name: "ブログ"
+          url: "/ja/blog/"
+          weight: 40
+        - identifier: "contact"
+          name: "連絡先"
+          url: "/ja/contact/"
+          weight: 50
+      categories:
+        - identifier: about
+          name: 紹介
+          url: /ja/embed/quickstart/
+          weight: 20
+        - identifier: glossary
+          name: 用語集
+          url: /ja/categories/glossary/
+          weight: 30
+      footer:
+        - identifier: "about"
+          name: "約"
+          url: "/ja/embed/quickstart/"
+          weight: 10
+        - identifier: "blog"
+          name: "ブログ"
+          url: "/ja/blog/"
+          weight: 20
+        - identifier: "contact"
+          name: "連絡先"
+          url: "/ja/contact/"
+          weight: 50
+        - identifier: "build-rag-chatbot"
+          name: "RAGチャットボットを構築する"
+          url: "/ja/blog/build-rag-chatbot-easily/"
+          weight: 50
+        - identifier: "privacy"
+          name: "プライバシー"
+          url: "/ja/privacy/"
+          weight: 60
+
 
 markup:
   goldmark:
@@ -50,8 +165,6 @@ params:
   author_image: images/featured/default.webp
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
-  moto: "Build your knowledge base and easily integrate it with RAG chatbot."
-  description: "Train your PDFs, URLs, and plain text online and integrate them with RAG chatbot using an API."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -108,60 +221,7 @@ params:
     twitter:
       enabled: true
       url: '@wangjm10'
-    
 
-menu:
-  main:
-    - embed: embed
-      name: Embed
-      url: "https://embed.gptdevelopment.online/login"
-      weight: 10
-    - identifier: about
-      name: About
-      url: /embed/quickstart/
-      weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
-      weight: 30
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
-  categories:
-    - identifier: about
-      name: About
-      url: /embed/quickstart/
-      weight: 20
-    - identifier: glossary
-      name: Glossary
-      url: /categories/glossary/
-      weight: 30
-  footer:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
-    - identifier: Build-RAG-chatbot
-      name: Build RAG ChatBot
-      url: /blog/build-rag-chatbot-easily/
-      weight: 50
-    - identifier: privacy
-      name: Privacy
-      url: /privacy/
-      weight: 60
 
 markup:
   goldmark:

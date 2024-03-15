@@ -1,2 +1,77 @@
-[wordCount]
-other = "{{ .WordCount }} words"
+[title]
+other = "GPTs Development Solutions"
+
+[moto]
+other = "Build your knowledge base and easily integrate it with RAG chatbot."
+
+[description]
+other = "Train your PDFs, URLs, and plain text online and integrate them with RAG chatbot using an API."
+
+[p1_heading]
+other = "Embed: SASS service for training knowledge"
+
+[p1_content_1]
+other = "🚀 Easy Knowledge Training. Train on various types of data sources online and access your knowledge base through an API."
+
+[p1_content_2]
+other = "✨ Continuous Improvement. We store training records, user questions, and corresponding knowledge matches to continuously refine your knowledge base."
+
+[p1_content_3]
+other = "🤖 Seamless Integration. Easily integrate with OpenAI Custom GPTs for an enhanced experience."
+
+[p2_heading]
+other = "Fast Integrate OpenAI Custom GPTs"
+
+[p2_content_1]
+other = "🔒 Secure API Key Integration. Connect with OpenAI Custom GPTs securely using API keys to ensure safe and reliable integration."
+
+[p2_content_2]
+other = "📊 Continuous Optimization. Collect questions and interactions during chat sessions for ongoing improvements, enhancing the model's accuracy and relevance over time."
+
+[p2_content_3]
+other = "🔧 Online Privacy Control. Edit privacy settings directly online to ensure compliance and safeguard user data, aligning with the latest regulations."
+
+[p3_heading]
+other = "Successful Use Cases"
+
+[p3_content_1]
+other = "📚 Integrate Eurostat database with OpenAI Custom GPTs"
+
+[p3_content_2]
+other = "⚖️ Integrate New Zealand legislation with OpenAI Custom GPTs"
+
+[p3_link_text]
+other = "Order custom GPTs development"
+
+[p4_heading]
+other = "From the blog"
+
+[p4_content]
+other = "Get the latest information about OpenAI Custom GPTs."
+
+[p5_heading]
+other = "Stay Up to Date"
+
+[p5_content]
+other = "Subscribe now to receive the latest updates on breakthrough technologies, insider insights"
+
+[p5_action]
+other = "subscribe"
+
+[p5_label]
+other = "Email address"
+
+[p5_placeholder]
+other = "Enter your email"
+
+[p5_button]
+other = "Notify me"
+
+[quick_start]
+other = "Quick Start"
+
+[create_rag_chatbot]
+other = "👀 Create RAG ChatBot in 5 minutes."
+
+[all_rights_reserved]
+other = "All rights reserved."
