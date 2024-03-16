@@ -47,6 +47,14 @@ languages:
           name: Glossary
           url: /categories/glossary/
           weight: 30
+        - identifier: sentence-counter
+          name: Sentence Counter
+          url: /tools/sentence-counter/
+          weight: 40
+        - identifier: random-vin
+          name: Vin Number Generator
+          url: /tools/random-vin/
+          weight: 50
       footer:
         - identifier: "about"
           name: "About"
