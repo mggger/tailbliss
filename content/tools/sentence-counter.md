@@ -1,6 +1,6 @@
 ---
 title: "Free Sentence Counter online Tool"
-date: 2024-02-23
+date: 2024-03-15
 draft: false
 language: en
 description: "Use our sentence counter tool to quickly count the sentences in your text. Perfect for writers, editors, and anyone needing to analyze text."

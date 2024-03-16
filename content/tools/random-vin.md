@@ -1,6 +1,6 @@
 ---
 title: "Free VIN Number Generator Online Tool"
-date: 2024-02-23
+date: 2024-03-15
 draft: false
 language: en
 description: "Use our VIN number generator tool to quickly generate a random VIN. Perfect for developers, testers, and car enthusiasts needing to test systems."
