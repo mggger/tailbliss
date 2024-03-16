@@ -1,0 +1,482 @@
+[
+    {
+        "word": "Telehealth",
+        "description": "テレヘルスとは、テレヘルスサービスを遠隔で提供するためのテクノロジーの使用であり、患者が仮想手段を通じて医療従事者と相談できるようにすることを意味します。"
+    },
+    {
+        "word": "Telemedicine",
+        "description": "遠隔医療は、電気通信技術を通じて提供されるコンサルティングや診断などの遠隔臨床サービスを具体的に指すサブセットです。"
+    },
+    {
+        "word": "Virtual Visits",
+        "description": "仮想訪問は、リモートで行われ、患者や医療従事者にビデオ通話やその他のデジタルメディアを通じて健康情報を相互作用させ、交換することを可能にするテレヘルスカウンセリングまたは予約です。"
+    },
+    {
+        "word": "Remote Patient Monitoring",
+        "description": "リモート患者モニタリングは、従来の医療環境の外で患者データを収集するための技術の使用を含みます。"
+    },
+    {
+        "word": "Teleconsultation",
+        "description": "テレコンサルティングは、電気通信ツールを使用して遠隔で医療相談を提供し、患者が物理的な診療所を訪問することなく医療相談を受けることを可能にします。"
+    },
+    {
+        "word": "Teletriage",
+        "description": "テレトレイジは、患者の緊急性と適切なレベルを遠隔で、通常は電話またはデジタルコミュニケーションを通じて、症状や病歴に基づいて決定するプロセスです。"
+    },
+    {
+        "word": "Synchronous Communication",
+        "description": "同期コミュニケーションとは、ビデオ会議やライブチャットなどのすべての参加者が同時に積極的に関与しているリアルタイムのコミュニケーションを指します。"
+    },
+    {
+        "word": "Asynchronous Communication",
+        "description": "アシンクロン通信とは、リアルタイムで起こらないコミュニケーションを意味し、参加者が同時に相互作用を必要とせずに、自分自身の快適さでコミュニケーションできるようにします。"
+    },
+    {
+        "word": "Store-And-Forward",
+        "description": "Store-and-forwardは、医療画像や検査結果などの患者のデータをキャプチャし、後にレビューと分析のために医療従事者に送信するテレヘルス・ヘルス・メソッドです。"
+    },
+    {
+        "word": "Remote Prescription",
+        "description": "遠隔処方薬とは、患者に個人相談なしに、通信手段を通じて処方薬を発行するプロセスです。"
+    },
+    {
+        "word": "E-Health",
+        "description": "電子ヘルスとは、医療サービスと情報の提供を支援するための電子手段の使用です。"
+    },
+    {
+        "word": "Telepharmacy",
+        "description": "電話薬局は、薬局サービスを遠隔で提供し、患者が薬剤師と通信手段を介して相談することを可能にし、医薬品のアドバイスや処方箋の配布を含む。"
+    },
+    {
+        "word": "Digital Health",
+        "description": "デジタルヘルスとは、デジタルテクノロジーとデバイスの使用を指し、健康と医療を管理し改善することを指します。"
+    },
+    {
+        "word": "Telemonitoring",
+        "description": "遠隔モニタリングは、着用可能なセンサーや家庭モニタリングシステムなどの医療機器の使用を通じて、患者の健康状態を継続的に遠隔モニタリングし、潜在的な問題の早期識別を可能にします。"
+    },
+    {
+        "word": "Telestroke",
+        "description": "Telestrokeは、異なる場所の患者と神経学者を接続し、応答時間を短縮し、結果を改善することにより、脳卒中患者の遠隔評価と治療を可能にする遠隔医療サービスです。"
+    },
+    {
+        "word": "Telepsychiatry",
+        "description": "Telepsychiatry は、ビデオ会議技術を使用して遠隔で精神科の評価と治療の提供です。"
+    },
+    {
+        "word": "Mhealth",
+        "description": "mHealth、またはモバイルヘルスは、スマートフォンやタブレットなどのモバイルデバイスの使用を指し、健康教育、遠隔モニタリング、薬の思い出を含む医療サービスをサポートします。"
+    },
+    {
+        "word": "Health Information Exchange (Hie)",
+        "description": "健康情報交換(HIE)とは、医療機関間で患者様の医療情報を電子的に共有することです。"
+    },
+    {
+        "word": "Telephonic Outreach",
+        "description": "電話通話は、医療関連の目的で患者に電話で接触する実践です。"
+    },
+    {
+        "word": "Tele-Emergency",
+        "description": "Tele-Emergencyは、緊急医療従事者と遠隔地の患者を直接介護するテレヘルスサービスです。"
+    },
+    {
+        "word": "Telehealth Platform",
+        "description": "テレヘルスプラットフォームは、テレヘルスサービスの提供をサポートするデジタルソフトウェアまたはシステムであり、ビデオ会議、患者記録管理、リモート患者監視などの機能を提供します。"
+    },
+    {
+        "word": "Patient Portal",
+        "description": "患者ポータルは、患者が医療記録にアクセスし、医療提供者とコミュニケーションすることを可能にする安全なオンラインプラットフォームです。"
+    },
+    {
+        "word": "Telephonic Triage",
+        "description": "電話による診断は、電話相談を通じて患者様の医療ニーズをリモートで評価し、分類することを意味します。"
+    },
+    {
+        "word": "Virtual Care",
+        "description": "仮想ケアとは、デジタルプラットフォームや電気通信技術を通じて医療サービスを提供することを指します。"
+    },
+    {
+        "word": "Telehealth Network",
+        "description": "テレヘルスネットワークは、テレヘルスサービスを提供するために協力する医療機関や施設の相互接続されたシステムです。"
+    },
+    {
+        "word": "Teletrauma",
+        "description": "Teletraumaは、外傷の遠隔評価と治療を可能にする遠隔医療サービスです。"
+    },
+    {
+        "word": "E-Prescribing",
+        "description": "電子処方箋とは、医療機関から薬局への処方箋の電子送信です。"
+    },
+    {
+        "word": "Telepathology",
+        "description": "テレパトロジーは、病理画像の伝達を通じて疾患の遠隔診断です。"
+    },
+    {
+        "word": "Teleaudiology",
+        "description": "テレアウディオロジーは、遠隔でオーディオロジーケアとサービスを提供する実践です。"
+    },
+    {
+        "word": "Telehealth Workflow",
+        "description": "テレヘルスワークフローは、テレヘルスサービスの提供に関与するタスク、プロセス、および相互作用の順序であり、スケジュールと登録から仮想相談、リファレーション、フォローアップに至ります。"
+    },
+    {
+        "word": "Remote Consultation",
+        "description": "遠隔相談は、遠隔で医療従事者からのアドバイスと治療を求めるプロセスです。"
+    },
+    {
+        "word": "Teleophthalmology",
+        "description": "Teleophthalmologyは、遠隔診断と眼疾患の治療のための電気通信技術の使用です。"
+    },
+    {
+        "word": "Telephlebology",
+        "description": "Telephlebologyは、電気通信技術を使用して静脈関連の状態の遠隔診断と治療です。"
+    },
+    {
+        "word": "Teleoncology",
+        "description": "テレオンコロジーは、遠隔で癌のケアと治療を提供するための電気通信技術の使用です。"
+    },
+    {
+        "word": "Telecardiology",
+        "description": "テレカーディオロジーは、電気通信技術を使用して心臓病のサービスとケアの遠隔配信です。"
+    },
+    {
+        "word": "Informed Consent",
+        "description": "知的同意は、リスクと利点について彼らに知らせた後、医学的介入のための患者の同意を得るプロセスです。"
+    },
+    {
+        "word": "Teleburn",
+        "description": "Teleburnは、火傷の評価と管理を遠隔で支援する遠隔医療サービスです。"
+    },
+    {
+        "word": "Teleconciliation",
+        "description": "遠隔調和は、電気通信技術を使用して医薬品関連の問題の遠隔診断と管理です。"
+    },
+    {
+        "word": "Tele-Audiometry",
+        "description": "テレオーディオメトリーは、遠隔聴覚テストとオーディオサービスを可能にする遠隔医療サービスです。"
+    },
+    {
+        "word": "Evidence-Based Medicine",
+        "description": "証拠に基づく医学は、研究の証拠と臨床専門知識に基づく医学的実践を指します。"
+    },
+    {
+        "word": "Teleintensivist",
+        "description": "Teleintensivistは、重症患者に遠隔で重要なケアを提供する遠隔医療サービスです。"
+    },
+    {
+        "word": "Secure Messaging",
+        "description": "セキュアなメッセージングは、医療関連のメッセージのプライバシーとセキュリティを確保するコミュニケーション方法です。"
+    },
+    {
+        "word": "Telepresence",
+        "description": "テレプレゼンスとは、テクノロジーを使用して、遠隔の相互作用中に存在感と関与感を生み出すことを指します。"
+    },
+    {
+        "word": "Telepediatrics",
+        "description": "テレパディアトリックは、電気通信技術を使用して遠隔で小児保健サービスの提供です。"
+    },
+    {
+        "word": "Telemedicine Cart",
+        "description": "テレメディカルカートは、仮想医療相談のための必要な設備を含むモバイルユニットです。"
+    },
+    {
+        "word": "Remote Surgery",
+        "description": "遠隔外科手術とも呼ばれる遠隔外科手術は、ロボットやリモートコントロールシステムを使用して外科医が行う手術の一種です。"
+    },
+    {
+        "word": "Continuum Of Care",
+        "description": "介護継続とは、介護のさまざまなレベルの患者に提供される包括的な医療サービスの範囲を指します。"
+    },
+    {
+        "word": "Telewound",
+        "description": "Telewoundは、遠隔傷のケアと管理を提供する遠隔医療サービスです。"
+    },
+    {
+        "word": "Teleoccupational Therapy",
+        "description": "テレアカウントセラピーは、電気通信技術を使用して遠隔で職業療法サービスを提供することを意味します。"
+    },
+    {
+        "word": "Telemedicine Grant",
+        "description": "遠隔医療補助金は、遠隔医療サービスの実施と拡大を支援するための資金調達機会です。"
+    },
+    {
+        "word": "Teledermatology",
+        "description": "Teledermatologyは、電気通信技術を使用して皮膚疾患の遠隔診断と治療です。"
+    },
+    {
+        "word": "Teleicu",
+        "description": "TeleICUは、集中治療のカバーと遠隔支援を提供する遠隔医療サービスです。"
+    },
+    {
+        "word": "Telehematology",
+        "description": "テレヘマトロジーは、血液関連の疾患の遠隔診断と治療のための電気通信技術の使用です。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "リモートモニタリングは、遠隔からの患者のデータ、例えば重要な兆候を収集し、分析および意思決定のために医療従事者に送信するための技術の使用です。"
+    },
+    {
+        "word": "Video Conferencing",
+        "description": "ビデオ会議は、個人やグループがビデオやオーディオ技術を使用して仮想ミーティングや相談を行うことを可能にするコミュニケーションの方法です。"
+    },
+    {
+        "word": "Ehr/Emr",
+        "description": "EHR(Electronic Health Record)またはEMR(Electronic Medical Record)は、患者の健康情報、医療史、診断、薬、治療計画を含む保存および管理するデジタルシステムを指します。"
+    },
+    {
+        "word": "Hipaa",
+        "description": "HIPAA(Health Insurance Portability and Accountability Act)は、個人の健康情報のプライバシーとセキュリティを規制し、その機密性を確保し、遠隔医療における適切な取り扱いを保証する米国の法律です。"
+    },
+    {
+        "word": "Telehealth Ethics",
+        "description": "テレヘルス倫理は、患者プライバシー、知的同意、データセキュリティ、および適切なテクノロジーの使用を含むテレヘルスケアの実践を支配する倫理的考慮事項とガイドラインを指します。"
+    },
+    {
+        "word": "Telehealth Regulations",
+        "description": "テレヘルス規制は、政府や保健機関がテレヘルスの使用と実践を管理し、安全性、品質、およびコンプライアンスを確保するために制定した法律と政策です。"
+    },
+    {
+        "word": "Digital Divide",
+        "description": "デジタルギャップとは、デジタルテクノロジーにアクセスして恩恵を受ける個人やコミュニティと、そうでない人との間のギャップを指し、テレヘルスサービスに参加する能力を妨げます。"
+    },
+    {
+        "word": "Telehealth Training",
+        "description": "テレヘルストレーニングは、医療従事者とスタッフが、テレヘルス技術とワークフローを実践で効果的かつ安全に使用するための教育と準備です。"
+    },
+    {
+        "word": "Telehealth Adoption",
+        "description": "テレヘルス採用は、医療従事者や患者による受け入れと利用を含む、テレヘルスサービスとテレヘルス技術を医療システムや実践に統合するプロセスである。"
+    },
+    {
+        "word": "Telehealth Outcomes",
+        "description": "テレヘルス結果は、患者アクセス、満足度、臨床結果、コスト効率、人口の健康の改善を含むテレヘルス介入の結果と効果を指します。"
+    },
+    {
+        "word": "Telehealth Equipment",
+        "description": "テレヘルス機器は、テレヘルスで使用されるデバイス、ツール、および周辺装置、例えばビデオカメラ、デジタルステトスコープ、患者モニタリング装置、および電子健康記録システムを指します。"
+    },
+    {
+        "word": "Home Telehealth",
+        "description": "ホームテレヘルスとは、自宅で患者に医療サービスと遠隔監視を提供し、電気通信技術を使用して、個人的な訪問の必要性を減らすことです。"
+    },
+    {
+        "word": "Telehealth Consent",
+        "description": "テレヘルス同意は、制限、利点、リスクの認識を含む、テレヘルスサービスに参加するための患者の同意と理解を得るプロセスです。"
+    },
+    {
+        "word": "E-Consultation",
+        "description": "Eカウンセリングは、医療従事者が安全なメッセージや電子メールを介して電子的に患者に相談やアドバイスを提供することを可能にし、個人的な訪問の必要性を減らすテレヘルスサービスです。"
+    },
+    {
+        "word": "Telehealth Counselling",
+        "description": "テレヘルスカウンセリングは、電気通信技術を通じて精神保健カウンセリングとセラピーを提供し、遠隔セッションを可能にし、需要のある個人をサポートします。"
+    },
+    {
+        "word": "Telehealth Chronic Disease Management",
+        "description": "テレヘルス慢性疾患管理は、糖尿病、心臓病、喘息などの慢性疾患を持つ人々を遠隔で監視し、サポートするためのテレヘルスソリューションの使用を含みます。"
+    },
+    {
+        "word": "Telehealth Follow-Up Care",
+        "description": "テレヘルスフォローアップケアとは、治療後または手術後のチェックと評価を遠隔で提供し、医療従事者が回復を監視し、あらゆる懸念に対処することを可能にします。"
+    },
+    {
+        "word": "Telehealth Rehabilitation",
+        "description": "テレヘルスリハビリテーションは、身体療法や職業療法などのリハビリテーションサービスの提供、電気通信技術を通じて、個人が自宅で介護を受けることを可能にします。"
+    },
+    {
+        "word": "Telehealth Billing",
+        "description": "テレヘルス請求は、保険会社からの払い戻しと患者からの支払いを含む、提供されたテレヘルスサービスの医療請求および請求の生成および提出のプロセスを指します。"
+    },
+    {
+        "word": "Telehealth Security",
+        "description": "テレヘルスセキュリティとは、患者の情報を保護し、テレヘルスシステムと通信のプライバシーと整合性を確保するための措置とプロトコルを指します。"
+    },
+    {
+        "word": "Telehealth Accessibility",
+        "description": "テレヘルスアクセシビリティとは、障害者に利用可能で利用可能なテレヘルスサービスの設計と実装を指し、平等なアクセスと宿泊を確保する。"
+    },
+    {
+        "word": "Telehealth Analytics",
+        "description": "テレヘルス分析は、テレヘルスサービスから生成されたデータの分析と解釈を含み、患者の結果、使用パターン、およびシステムパフォーマンスへの洞察を提供します。"
+    },
+    {
+        "word": "Telehealth Data Privacy",
+        "description": "テレヘルスデータのプライバシーは、同意、データ保存、共有、プライバシー法の遵守を含む、テレヘルスにおける患者の個人健康情報の保護と制御を指します。"
+    },
+    {
+        "word": "Telehealth Quality Assessment",
+        "description": "テレヘルス品質評価とは、テレヘルスサービスの評価とモニタリングで、これらが既定の品質、安全性、有効性、患者満足度の基準を満たしていることを保証することを意味します。"
+    },
+    {
+        "word": "Telehealth Integration",
+        "description": "テレヘルス・インテグレーションとは、テレヘルス・サービスとテレヘルス・テクノロジーを既存の医療システムに組み込むプロセスであり、電子健康記録システムやその他の医療ソフトウェアとの統合を含む。"
+    },
+    {
+        "word": "Telehealth Consultation Hours",
+        "description": "テレヘルスカウンセリング時間とは、医療従事者がテレヘルスカウンセリングやサービスを提供するために利用できる特定の時間です。"
+    },
+    {
+        "word": "Telehealth Support Services",
+        "description": "テレヘルスサポートサービスには、テレヘルス技術やプラットフォームを使用する医療従事者や患者に対する技術的サポート、トラブルシューティング、および援助が含まれます。"
+    },
+    {
+        "word": "Telehealth Marketing",
+        "description": "テレヘルスマーケティングは、テレヘルスサービスを促進し、広告し、潜在的な患者に到達し、テレヘルスの利点と利用可能性についての意識を高めることを意味します。"
+    },
+    {
+        "word": "Telehealth Privacy Policies",
+        "description": "テレヘルスプライバシーポリシーは、データセキュリティ対策を含む、患者のプライバシーを保護し、テレヘルスにおける機密性を維持するためのガイドラインと実践を述べています。"
+    },
+    {
+        "word": "Telehealth Certification",
+        "description": "テレヘルス認定は、専門機関やテレヘルス当局によって頻繁に発行される、テレヘルス実践における熟練とコンプライアンスのための正式な認識または資格取得のプロセスです。"
+    },
+    {
+        "word": "Telehealth Continuity Of Care",
+        "description": "テレヘルスケアの継続性は、患者情報のシームレスな転送、継続的な治療計画、および介護プロバイダ間の連携を保証します。"
+    },
+    {
+        "word": "Telehealth Health Literacy",
+        "description": "テレヘルス・ヘルス・アフィリエイトとは、テレヘルス・サービスや情報を効果的に理解し、モニタリングし、明確な意思決定を行い、遠隔で健康を管理する能力を指します。"
+    },
+    {
+        "word": "Telehealth Informed Consent",
+        "description": "テレヘルス情報の同意は、患者がテレヘルスサービスに参加するための自発的な同意を得ることを意味し、その目的、方法、リスク、利点を理解することを保証します。"
+    },
+    {
+        "word": "Telehealth Medical History",
+        "description": "テレヘルス医療史とは、過去の病気、手術、薬物、アレルギー、および家族の医療史を含む患者の医学的背景の収集と文書化を指します。"
+    },
+    {
+        "word": "Telehealth Symptom Monitoring",
+        "description": "テレヘルス症候群モニタリングは、患者の症状の遠隔追跡と評価を含み、医療従事者が治療計画を調整したり、迅速な介入を提供できるようにします。"
+    },
+    {
+        "word": "Telehealth Physician Shortage",
+        "description": "テレヘルス医師の不足は、特にサービス不足の地域で利用可能な医療専門家の不足と、テレヘルスケアの利用がギャップを埋め、介護へのアクセスを提供することを指します。"
+    },
+    {
+        "word": "Telehealth Appointment Scheduling",
+        "description": "テレヘルス会議のスケジュールは、仮想相談や訪問の予約と手配のプロセスであり、患者が利用可能なスロットを選択し、テレヘルス会議の確認を受けることができます。"
+    },
+    {
+        "word": "Telehealth Data Analytics",
+        "description": "テレヘルスデータ分析は、テレヘルスサービスから収集されたデータを調べ、解釈し、トレンド、パターン、および介護の質と結果を改善する機会を特定します。"
+    },
+    {
+        "word": "Telehealth Medication Management",
+        "description": "テレヘルス薬の管理には、薬の処方、副作用、および遵守を含む患者の薬のリモートモニタリング、評価、調整が含まれます。"
+    },
+    {
+        "word": "Telehealth Consent Form",
+        "description": "テレヘルス同意書は、潜在的な制限とリスクの認識を含む、テレヘルスを通じて医療サービスを受けることに対する患者の同意、理解、同意を概要し、記録する文書です。"
+    },
+    {
+        "word": "Telehealth Second Opinion",
+        "description": "テレヘルス第二の意見は、異なる場所に位置する専門家や医療従事者から遠隔で専門医のアドバイスや評価を求めるプロセスであり、診断を確認したり、代替治療の選択肢を探索したりします。"
+    },
+    {
+        "word": "Telehealth Patient Education",
+        "description": "テレヘルス患者教育は、患者に情報、リソース、およびサポートを提供し、テレコミュニケーションメディアを通じて健康状態、治療オプション、自己ケア慣行、予防措置の理解を向上させることを意味します。"
+    },
+    {
+        "word": "Telehealth Interoperability",
+        "description": "テレヘルス相互運用性とは、異なるテレヘルスシステム、デバイス、およびソフトウェアが患者データをシームレスに交換し解釈する能力を指し、プラットフォームおよび医療設定の間で効果的なコミュニケーションと情報共有を確保する。"
+    },
+    {
+        "word": "Telehealth Workflow Optimization",
+        "description": "テレヘルスワークフローの最適化には、テレヘルスサービスの提供に関わるプロセスとステップを分析し、改良し、医療従事者と患者の両方にとって効率性、可用性、ユーザー体験を向上させます。"
+    },
+    {
+        "word": "Telehealth Data Management",
+        "description": "テレヘルスデータ管理は、テレヘルスサービスを通じて生成された患者データの収集、組織、保存、セキュリティ、および分析に使用される慣行と技術をカバーし、正確性、完全性、およびコンプライアンスを確保します。"
+    },
+    {
+        "word": "Telehealth Diagnostic Imaging",
+        "description": "テレヘルス診断イメージングは、電気通信技術を使用して放射線学者によって、X線、CTスキャン、またはMRIなどの医療画像の遠隔解釈と分析を含み、迅速かつ正確な診断を可能にします。"
+    },
+    {
+        "word": "Telehealth Clinical Decision Support",
+        "description": "テレヘルス臨床意思決定支援は、デジタルツールとテクノロジーの使用を含み、テレヘルス相談や評価中に医療従事者に証拠に基づいたガイドライン、勧告、警告を提供し、臨床意思決定を支援する。"
+    },
+    {
+        "word": "Telehealth Specialist Referral",
+        "description": "テレヘルス・スペシャリストの勧告は、患者を外科医、心臓科医、精神科医などの専門の医療専門家と遠隔で推薦し、さらなる評価や治療のために接続するプロセスです。"
+    },
+    {
+        "word": "Telehealth E-Prescribing",
+        "description": "テレヘルス電子処方薬は、医療従事者から薬局に処方箋を電子的に送信し、患者が物理処方箋を必要とせずに医薬品を受け取ることができます。"
+    },
+    {
+        "word": "Telehealth Speech Therapy",
+        "description": "テレヘルス・スピーチセラピーは、遠隔でスピーチと言語療法のサービスを提供し、コミュニケーション障害を持つ人々が電気通信技術を通じて評価、治療、サポートを受けることを可能にします。"
+    },
+    {
+        "word": "Telehealth Triage Nurse",
+        "description": "テレヘルス診断看護師は、患者にリモート評価、評価、勧告を提供し、患者の状態の緊急性を決定し、緊急ケアを求めることや予約などの適切な次のステップを助ける登録看護師です。"
+    },
+    {
+        "word": "Telehealth Virtual Care",
+        "description": "テレヘルス仮想ケアは、コンサルティング、診断、治療、モニタリング、サポートを含む遠隔医療サービスの幅広い範囲をカバーし、電気通信技術やプラットフォームを通じて提供します。"
+    },
+    {
+        "word": "Telehealth Urgent Care",
+        "description": "テレヘルス緊急介護とは、緊急ですが命を脅かすことのない状態の緊急医療と治療の遠隔提供を意味し、患者が緊急室を物理的に訪問することなく、適時評価とケアを受けることを可能にします。"
+    },
+    {
+        "word": "Telehealth Care Coordination",
+        "description": "テレヘルスケアの連携は、電気通信技術を通じて、さまざまな医療プロバイダー、環境、専門分野で患者ケアの組織と管理を含み、シームレスな移行と介護の継続性を確保します。"
+    },
+    {
+        "word": "Telehealth Preoperative Evaluation",
+        "description": "テレヘルス前手術評価は、外科手術に予定されている患者の遠隔評価と準備で、医療従事者が手術の準備を決定し、潜在的なリスクを特定し、必要な指示とガイドラインを提供することができます。"
+    },
+    {
+        "word": "Telehealth Maternal Care",
+        "description": "テレヘルス・マザーケアは、コンサルティング、モニタリング、健康教育、サポートを含む出生前、出生前および出生後のケアの遠隔提供を含み、電気通信技術を通じて妊娠中の母親に提供します。"
+    },
+    {
+        "word": "Telehealth Mental Health Services",
+        "description": "テレヘルス精神保健サービスは、カウンセリング、セラピー、薬物管理、危機介入、および通信技術を通じて提供される遠隔の精神保健支援および介入の幅広い範囲を含みます。"
+    },
+    {
+        "word": "Telehealth Patient Follow-Up",
+        "description": "テレヘルス患者のフォローアップには、治療またはサービスを受けた後に患者を遠隔チェック、評価、監視し、その進行を確保し、懸念を解決し、必要に応じて治療計画を調整します。"
+    },
+    {
+        "word": "Telehealth Post-Discharge Care",
+        "description": "Telehealth post-discharge careとは、病院や医療施設から解雇された個人に対する遠隔医療サービス、サポート、監視の提供であり、リハビリや合併症のリスクを減らすことである。"
+    },
+    {
+        "word": "Telehealth Occupational Therapy",
+        "description": "テレヘルス職業療法は、身体的、認知的、または発達上の課題を持つ個人に治療活動と介入の遠隔配信を含み、彼らが電気通信技術を通じて独立性と機能的スキルを開発することができます。"
+    },
+    {
+        "word": "Telehealth Pediatrics",
+        "description": "テレヘルス・ペディアトリクスは、コンサルティング、評価、モニタリング、および健康教育を含む子どものための遠隔医療サービスの提供を含み、小児科医や他の専門の医療専門家が電気通信技術を通じて提供します。"
+    },
+    {
+        "word": "Telehealth Dermatology",
+        "description": "テレヘルス皮膚科は、電気通信技術を通じて皮膚疾患と病気の遠隔評価、診断、治療を含み、個人が身体訪問を必要とせずに皮膚科のケアとアドバイスを受けることを可能にします。"
+    },
+    {
+        "word": "Telehealth Infectious Disease Management",
+        "description": "テレヘルス感染症管理は、COVID-19などの感染症を持つ人々の遠隔監視、評価、治療を含み、感染拡散を最小限に抑え、電気通信技術を通じて適時なケアとサポートを提供します。"
+    },
+    {
+        "word": "Telehealth Pharmacy Services",
+        "description": "テレヘルス薬局サービスには、遠隔薬のカウンセリング、処方処方、薬物療法管理、および薬剤師が電気通信技術を通じて提供するフォローアップサポートが含まれ、薬物の安全かつ効果的な使用を保証します。"
+    },
+    {
+        "word": "Telehealth Home Health Services",
+        "description": "テレヘルス・ホーム・ヘルス・サービスは、電気通信技術を通じて提供される自宅で医療を受けている個人のための専門的な看護、リハビリテーション、傷口ケア、モニタリング、サポートサービスの遠隔提供を含みます。"
+    },
+    {
+        "word": "Telehealth Chronic Pain Management",
+        "description": "テレヘルス慢性疼痛管理は、物理療法、カウンセリング、薬物管理、および行動療法などの専門的な痛み管理サービスの遠隔配信を含む。"
+    },
+    {
+        "word": "Telehealth Genetic Counseling",
+        "description": "テレヘルス遺伝カウンセリングは、遺伝障害や遺伝的状態のリスクにさらされる可能性のある個人や家族への遠隔カウンセリングとサポートを含み、影響を理解し、明確な決定を下し、電気通信技術を通じて適切なケアを求めるのを助ける。"
+    }
+]

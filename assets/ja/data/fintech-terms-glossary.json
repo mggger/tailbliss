@@ -1,0 +1,434 @@
+[
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録する分散型デジタルリーガです。"
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "暗号通貨は、セキュリティのために暗号化を使用し、中央銀行から独立して動作するデジタルまたは仮想通貨です。"
+    },
+    {
+        "word": "Smart Contract",
+        "description": "スマート契約は、契約の条項が直接コードで書かれている自発的に履行される契約です。"
+    },
+    {
+        "word": "Decentralization",
+        "description": "分散化とは、統制と意思決定の分配を中央機関から遠ざけることを意味する。"
+    },
+    {
+        "word": "Fintech",
+        "description": "Fintechは、金融サービスを効率的に提供するためにテクノロジーの使用を含む金融技術の略です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的な方法で簡単に管理、処理、分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Robo-Advisor",
+        "description": "ロボコンサルタントは、アルゴリズムを使用して自動化されたアルゴリズム駆動の金融計画と投資サービスを提供するデジタルプラットフォームです。"
+    },
+    {
+        "word": "Regtech",
+        "description": "Regtech、または規制技術は、金融業界における規制遵守を促進するための技術の使用を指します。"
+    },
+    {
+        "word": "Insurtech",
+        "description": "Insurtechは、保険と技術を組み合わせ、伝統的な保険プロセスを改善し、革新的な保険製品を提供し、顧客体験を向上させます。"
+    },
+    {
+        "word": "Crowdfunding",
+        "description": "クラウドファンドは、通常オンラインプラットフォームを通じて多数の人から資金を集め、プロジェクト、起業、または慈善事業を資金調達する方法です。"
+    },
+    {
+        "word": "Peer-To-Peer Lending",
+        "description": "Peer-to-peer融資は、P2P融資とも呼ばれ、融資者と融資者を一致させるオンラインプラットフォームを通じて個人や企業に融資する実践です。"
+    },
+    {
+        "word": "Open Banking",
+        "description": "Open Bankingは、第三者金融サービスプロバイダーがアプリケーションプログラミングインターフェイス(API)を通じて消費者銀行データにアクセスできるシステムです。"
+    },
+    {
+        "word": "Mobile Payments",
+        "description": "モバイル決済とは、モバイルデバイスを使用して金融取引を行うこと、通常はモバイルウォレットやアプリを使用することを指します。"
+    },
+    {
+        "word": "Neobank",
+        "description": "ノーバンクは、単にオンラインまたはモバイルアプリを通じて、しばしば物理的な支店なしで運営するデジタル専用銀行です。"
+    },
+    {
+        "word": "Digital Wallet",
+        "description": "デジタル財布は、オンラインおよびモバイル取引のための支払い情報を安全に保存するソフトウェアベースのシステムです。"
+    },
+    {
+        "word": "Regulatory Sandbox",
+        "description": "規制サンドボックスは、金融技術企業が規制当局の監督下で革新的な製品、サービス、ビジネスモデルをテストできる制御された環境です。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データ分析は、パターン、トレンド、および洞察を発見するために大規模なデータセットを調査するプロセスを指します。"
+    },
+    {
+        "word": "Api",
+        "description": "API(Application Programming Interface)とは、さまざまなソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Biometrics",
+        "description": "バイオメトリックは、指紋、虹膜のパターン、声などの人の独自の身体的および行動的特徴を指します。"
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "規制コンプライアンスとは、特定の業界またはセクターに関連する法律、規制、ガイドライン、および仕様の遵守を指します。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータ、サーバー、モバイルデバイス、電子システム、ネットワーク、およびデータをデジタル攻撃、盗難、損傷、または不正アクセスから保護する実践です。"
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットを使用して繰り返しやルールベースのタスクを自動化することを意味します。"
+    },
+    {
+        "word": "Kyc",
+        "description": "KYC(Know Your Customer)とは、企業が顧客のアイデンティティを確認し、潜在的なリスクを評価するためのプロセスです。"
+    },
+    {
+        "word": "Aml",
+        "description": "AMLは、反マネーロンダリングの略で、その真の起源を隠すことによって違法な収入の生成を防止するための規制と手続きのセットを指します。"
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "支払いゲートウェイは、商人と顧客間の支払い取引を安全に承認し処理する技術です。"
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "バイオメトリック認証は、指紋や顔認識などのユニークな物理的または行動的な特徴を使用して、個人のアイデンティティを検証します。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、通常、メッセージプラットフォームや音声アシスタントを通じて、人間のユーザーとの会話をシミュレートするために人工知能を使用するコンピュータプログラムです。"
+    },
+    {
+        "word": "Digital Identity",
+        "description": "デジタルアイデンティティとは、個人のアイデンティティと個人情報をオンラインで表すことを指します。"
+    },
+    {
+        "word": "Regulatory Reporting",
+        "description": "規制報告は、規制当局に報告要件の遵守を確保するために、適切かつ正確な財務および非財務情報を提供するプロセスである。"
+    },
+    {
+        "word": "Cryptocurrency Exchange",
+        "description": "仮想通貨取引所は、仮想通貨を購入、販売、または他のデジタルまたは伝統的な通貨と交換できるデジタル市場です。"
+    },
+    {
+        "word": "Payment Service Provider",
+        "description": "支払いサービスプロバイダーは、商人や企業にさまざまな支払い処理ソリューションやサービスを提供する会社です。"
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "詐欺の検出は、パターン、行動、または異常の分析を通じて詐欺活動の識別と予防を指します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人の個人情報を保護し、そのデータがどのように収集され、使用され、共有されるかを制御する権利を指します。"
+    },
+    {
+        "word": "Regulatory Technology",
+        "description": "規制技術、またはRegtechは、金融業界における規制遵守を促進するための技術の使用を指します。"
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "人工ニューラルネットワークは、人間の脳を構成する生物学的ニューラルネットワークにインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Risk Management",
+        "description": "リスク管理は、組織の目標やプロジェクトに影響を与える可能性のある潜在的なリスクや不確実性を特定、評価し、軽減するプロセスです。"
+    },
+    {
+        "word": "Financial Inclusion",
+        "description": "金融包摂とは、個人や企業、とりわけ不十分かつ排他的な集団から来た人々のための金融サービスの可用性とアクセシビリティを指します。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、ネットワーク接続に組み込まれた相互接続されたデバイスのネットワークであり、データを収集し交換することを可能にします。"
+    },
+    {
+        "word": "Crowdsourcing",
+        "description": "クラウドソーシングは、アイデア、サービス、またはコンテンツを求めることによって、一般的にインターネットを通じて、大規模なグループの人々からの貢献を求める実践です。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革とは、組織内のデジタルテクノロジー、システム、およびプロセスの統合と採用を指し、そのビジネス操作と顧客体験を根本的に変化させ、向上させます。"
+    },
+    {
+        "word": "Regulatory Compliance Software",
+        "description": "規制コンプライアンスソフトウェアは、組織が適用される規制の遵守を確保し、コンプライアンスプロセスを自動化し、簡素化するのに役立ちます。"
+    },
+    {
+        "word": "Financial Technology Sandbox",
+        "description": "金融テクノロジーのサンドボックスは、FinTechスタートアップが安全かつ支援的な枠組みの中で革新的な製品、サービス、またはビジネスモデルをテストできる制御された環境です。"
+    },
+    {
+        "word": "Cryptography",
+        "description": "暗号化は、暗号化技術を使用して情報を読み取れない形式に変換することによって安全なコミュニケーションの実践です。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、デジタルデータを不正アクセス、使用、開示、干渉、変更、または破壊から保護することです。"
+    },
+    {
+        "word": "Alternative Lending",
+        "description": "代替融資とは、オンラインプラットフォームやピアツーピア融資などの非伝統的な金融チャネルを通じて個人や企業に融資や融資を提供する実践を指します。"
+    },
+    {
+        "word": "Regulatory Compliance Management",
+        "description": "規制コンプライアンス管理には、適用される規制の遵守を確保するプロセスの開発、実施、監視が含まれます。"
+    },
+    {
+        "word": "Financial Technology Innovation",
+        "description": "金融技術イノベーションとは、効率性、アクセシビリティ、顧客体験を向上させるために、金融サービス業界における新しい技術、システム、ソリューションの開発と実装を指します。"
+    },
+    {
+        "word": "Financial Data Analytics",
+        "description": "財務データ分析は、洞察を得るために財務情報を分析し、意思決定をサポートし、トレンドやパターンを特定することを意味します。"
+    },
+    {
+        "word": "Darknet",
+        "description": "ダークネットとは、インターネットの一部である暗号化されたネットワークを指しますが、従来の検索エンジンを介してインデックスまたはアクセスできません。"
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "量子コンピューティングは、複合化や混乱などの量子現象を利用して、従来のコンピュータよりもより効率的に計算を実行する新興分野です。"
+    },
+    {
+        "word": "Regulatory Technology Solutions",
+        "description": "規制技術ソリューションは、金融機関が規制遵守を達成するのを支援するように設計されたソフトウェアツールとプラットフォームです。"
+    },
+    {
+        "word": "Robo-Underwriting",
+        "description": "Robo-underwritingは、自動アルゴリズムとデータ分析を使用して、人間の介入なしに保険ポリシーを評価し、署名します。"
+    },
+    {
+        "word": "Financial Technology Ecosystem",
+        "description": "金融技術エコシステムとは、スタートアップ、現行企業、投資家、規制当局、およびフィンテック業界の他の利害関係者の相互接続されたネットワークを指します。"
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "顧客セグメントは、特定の特徴や行動に基づいて顧客ベースを別々のグループに分割するプロセスです。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Api Economy",
+        "description": "API経済とは、さまざまなシステム、アプリケーション、サービス間のシームレスな統合と相互接続を可能にするためにAPIを活用する企業や業界の傾向を指します。"
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "スマート契約とは、契約の条項が直接コードで書かれている自発的に履行される契約です。"
+    },
+    {
+        "word": "Payments Processing",
+        "description": "支払い処理とは、支払い認可、決済、和解を含む金融取引の処理と便利化を指します。"
+    },
+    {
+        "word": "Regulatory Technology (Regtech)",
+        "description": "規制技術(RegTech)は、企業が規制をより効率的かつ効率的に遵守するのを助けるための技術の使用を指します。"
+    },
+    {
+        "word": "Mobile Banking",
+        "description": "モバイル銀行は、顧客がスマートフォンやタブレットなどのモバイルデバイスを通じてさまざまな銀行活動を行うことを可能にする金融機関が提供するサービスです。"
+    },
+    {
+        "word": "Regulatory Framework",
+        "description": "規制枠組みとは、規制当局が特定の産業またはセクターを制御し、規制するための規則、規制、およびガイドラインの構造とセットを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ローカルサーバーやパーソナルコンピュータを使用するのではなく、インターネット上でホストされているリモートサーバーのネットワークを使用してデータをストレージ、管理、および処理する実践です。"
+    },
+    {
+        "word": "Financial Analytics",
+        "description": "金融分析とは、高度な分析方法とツールを使用して、財務およびビジネスデータを分析し、洞察を得、意思決定をサポートし、パターンや傾向を特定するための実践です。"
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットを使用して、通常、バックオフィス操作において、繰り返しのルールベースのタスクやプロセスを自動化することを意味します。"
+    },
+    {
+        "word": "Regulatory Compliance Technology (Regtech)",
+        "description": "規制コンプライアンステクノロジー(RegTech)とは、規制コンプライアンスプロセスを自動化し、簡素化するためのソフトウェアソリューションとプラットフォームを指します。"
+    },
+    {
+        "word": "Microfinance",
+        "description": "マイクロファイナンスとは、通常、伝統的な銀行サービスにアクセスできない低所得の個人や中小企業に金融製品やサービスを提供することを指します。"
+    },
+    {
+        "word": "Digital Assets",
+        "description": "デジタル資産は、暗号通貨、デジタル証券、物理資産のデジタル表示を含む、貨幣価値を持つデジタルまたは仮想資産のあらゆる形態を指します。"
+    },
+    {
+        "word": "Financial Technology (Fintech) Ecosystem",
+        "description": "Fintechエコシステムとは、金融技術ソリューションとイノベーションの開発を共同でサポートし、推進する組織、機関、技術の相互接続されたネットワークを指します。"
+    },
+    {
+        "word": "Algorithmic Trading",
+        "description": "アルゴリズムトレーディングとも呼ばれるアルゴリズムトレーディングは、事前に定義されたルールや戦略に基づいて自動的に大規模な取引を実行するためのコンピュータアルゴリズムの使用です。"
+    },
+    {
+        "word": "Financial Regulation",
+        "description": "金融規制とは、政府機関や非政府機関が金融サービス業界を監督し規制するために実施する法律、規則、規制を指します。"
+    },
+    {
+        "word": "Artificial Intelligence In Fintech",
+        "description": "フィンテックにおける人工知能は、金融サービス業界のさまざまなプロセスと側面を改善し、最適化するためのAI技術と技術の適用を指します。"
+    },
+    {
+        "word": "Credit Scoring",
+        "description": "クレジットスコアリングは、クレジット履歴、収入、金融行動などのさまざまな要因に基づいて、個人または企業のクレジットスコアを統計的に分析し、融資のリスクを評価します。"
+    },
+    {
+        "word": "Financial Literacy",
+        "description": "財務識字は、財務概念や慣行の知識、スキル、理解を指し、個人が知的意思決定を下し、個人的財務を効果的に管理できるようにします。"
+    },
+    {
+        "word": "Dark Data",
+        "description": "ダークデータとは、組織が収集する非構造化および未使用のデータの膨大な量を指しますが、意思決定やビジネス洞察のために分析または使用しません。"
+    },
+    {
+        "word": "Regulatory Technology Innovation",
+        "description": "規制技術革新とは、規制コンプライアンスプロセスの簡素化と改善を目的とした新しい技術とソリューションの開発と適用を指します。"
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "リスク評価は、潜在的なリスクと脆弱性を特定し、分析し、評価し、組織やプロジェクトへの可能性と潜在的な影響を決定するプロセスです。"
+    },
+    {
+        "word": "Financial Crime",
+        "description": "金融犯罪は、金融取引、詐欺、マネーロンダリング、賄、インサイダー取引などの違法な活動または不正行為を指します。"
+    },
+    {
+        "word": "Chatbot In Banking",
+        "description": "銀行におけるチャットボットは、自動的な顧客サポートを提供し、質問に答え、バランスの調査や銀行業界における資金転送などのタスクを実行するAI駆動の仮想アシスタントです。"
+    },
+    {
+        "word": "Api Integration",
+        "description": "API統合は、APIを通じてさまざまなソフトウェアシステムやアプリケーションを接続し、シームレスで統合された方法でデータを共有し交換することができます。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、歴史的データや統計モデリング技術を使用して、将来の出来事や結果を一定の信頼度で予測するという実践です。"
+    },
+    {
+        "word": "Credit Risk",
+        "description": "クレジットリスクとは、個人、企業、またはその他の団体にクレジットを拡大したり、お金を貸したりすることに関連する潜在的な不履行または損失のリスクを指します。"
+    },
+    {
+        "word": "Internet Of Things (Iot) In Finance",
+        "description": "金融における物のインターネット(IoT)は、金融アプリケーションやサービスのためのデータの収集と交換のための相互接続されたデバイスとセンサーの使用を指します。"
+    },
+    {
+        "word": "Api Economy In Banking",
+        "description": "銀行におけるAPI経済は、開放的な銀行活動を可能にし、第三者サービスとの統合を容易にし、より良い顧客体験を提供するためにAPIを活用する銀行や金融機関の成長傾向を指します。"
+    },
+    {
+        "word": "Smart Cities And Fintech",
+        "description": "スマートシティとフィンテックの交差点は、都市地域の生活の質、効率性、持続可能性を向上させるための技術、デジタルインフラ、金融ソリューションの使用を指します。"
+    },
+    {
+        "word": "Regulatory Sandboxes In Fintech",
+        "description": "フィンテックにおける規制サンドボックスとは、フィンテックスタートアップやイノベーターがリラックスした規制条件下で製品やサービスをテストし、検証することを可能にする制御された環境またはプログラムです。"
+    },
+    {
+        "word": "Blockchain Technology In Finance",
+        "description": "金融におけるブロックチェーン技術は、支払い決済やサプライチェーンファイナンスなどの安全で透明で効率的な金融取引およびプロセスを可能にするための分散型帳簿技術の使用を指します。"
+    },
+    {
+        "word": "Financial Inclusion Initiatives",
+        "description": "金融包摂のイニシアチブは、現在、伝統的な銀行システムによって不足している個人やコミュニティのための金融サービス、製品、教育へのアクセスを拡大することを目的とした取り組みやプログラムです。"
+    },
+    {
+        "word": "Bitcoin",
+        "description": "ビットコインは、2009年にサトシ・ナカモト(Satoshi Nakamoto)という名前の匿名の個人またはグループによって作成された最初の最も有名な暗号通貨です。"
+    },
+    {
+        "word": "E-Wallet",
+        "description": "電子財布は、従来の財布のデジタルバージョンで、ユーザーが電子的にお金を保存し、送信し、受け取ることができます。"
+    },
+    {
+        "word": "Contactless Payments",
+        "description": "接触のない支払いは、ユーザーが支払い端末の近くで、クレジットカードやスマートフォンなどの支払いデバイスをワイプしたりタップしたりすることによって取引を行うことを可能にします。"
+    },
+    {
+        "word": "Challenger Banks",
+        "description": "チャレンジャー銀行は非伝統的で革新的な銀行であり、しばしばオンラインまたはモバイルアプリを通じて独占的に運営されています。"
+    },
+    {
+        "word": "Digital Banking",
+        "description": "デジタル銀行は、モバイルアプリケーションやオンラインプラットフォームなどのデジタルチャネルを通じて金融サービスや製品を提供することを指します。"
+    },
+    {
+        "word": "Neobanks",
+        "description": "ニューバンクは、デジタルチャネルを通じて独占的に銀行サービスを提供するデジタル銀行であり、しばしば物理的な支店がない。"
+    },
+    {
+        "word": "Regulatory Compliance Technology",
+        "description": "規制コンプライアンステクノロジーは、規制要件を満たす企業を確保するために、コンプライアンス関連のプロセスを簡素化し、自動化するための技術の使用を指します。"
+    },
+    {
+        "word": "Platform-As-A-Service (Paas)",
+        "description": "Platform-as-a-Service(PaaS)は、開発者がアプリケーションを構築、展開、管理するためのプラットフォームと環境を提供するクラウドコンピューティングモデルです。"
+    },
+    {
+        "word": "Business-To-Business (B2B)",
+        "description": "Business-to-Business(B2B)とは、企業間の取引や相互作用、例えば、製品、サービス、または情報を他の企業に販売することを指します。"
+    },
+    {
+        "word": "Business-To-Consumer (B2C)",
+        "description": "Business-to-Consumer(B2C)とは、企業と個人消費者の間の取引や相互作用を指し、製品、サービス、または情報の販売を含む。"
+    },
+    {
+        "word": "Application Programming Interface (Api)",
+        "description": "アプリケーションプログラミングインターフェイス(API)は、ソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "Know Your Customer (KYC) は、企業が顧客のアイデンティティを確認し、潜在的なリスクを評価するためのプロセスです。"
+    },
+    {
+        "word": "Anti-Money Laundering (Aml)",
+        "description": "アンチマネーロンダリング(AML)は、その真の起源を隠すことによって、不法な収入の生成を防止するための規制と手続きのセットを指します。"
+    },
+    {
+        "word": "Open Api",
+        "description": "Open API は、第三者開発者が特定のプラットフォームまたは組織が提供するサービスと相互作用するアプリケーションを構築することを可能にするインターフェイスです。"
+    },
+    {
+        "word": "Financial Technology (Fintech)",
+        "description": "金融技術(FinTech)とは、金融サービスをより効率的かつ効率的に提供するための技術の利用を指します。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当て、コンピュータが人間の言語を理解し、解釈し、生成することを可能にするAIのサブフィールドです。"
+    },
+    {
+        "word": "Initial Coin Offering (Ico)",
+        "description": "初期コインオファー(ICO)は、他の暗号通貨またはフィアット通貨と引き換えに暗号トークンを販売することによって新しい暗号通貨プロジェクトをクラウドファンドする手段です。"
+    },
+    {
+        "word": "Decentralized Finance (Defi)",
+        "description": "Decentralized Finance (DeFi) は、ブロックチェーンと暗号通貨技術を使用して、集中的な仲介者なしに伝統的な金融システムを再構築することを指します。"
+    }
+]

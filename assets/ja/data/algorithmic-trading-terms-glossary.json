@@ -1,0 +1,542 @@
+[
+    {
+        "word": "Algorithmic Trading",
+        "description": "アルゴリズム取引は、コンピュータアルゴリズムを使用して自動的に取引戦略を実行します。"
+    },
+    {
+        "word": "Backtesting",
+        "description": "バックテストは、そのパフォーマンスを評価するために歴史的な市場データに対して取引戦略をテストするプロセスです。"
+    },
+    {
+        "word": "Alpha",
+        "description": "Alpha は、ベンチマーク指数に比べて投資のパフォーマンスを測定するものです。"
+    },
+    {
+        "word": "Arbitrage",
+        "description": "仲裁は、2つ以上の市場間の価格差を活用して利益を得るための実践です。"
+    },
+    {
+        "word": "Automated Trading",
+        "description": "自動取引とは、直接の人間の介入なしにコンピュータアルゴリズムを使用して取引を実行することです。"
+    },
+    {
+        "word": "Basis Trading",
+        "description": "基盤取引は、2つの関連する証券のポジションを取ることを含む戦略で、価格の差異を悪用します。"
+    },
+    {
+        "word": "Bid-Ask Spread",
+        "description": "Bid-Ask Spread は、買い手が支払う覚悟のある最高価格と、売り手がセキュリティのために受け入れる覚悟のある最低価格の違いです。"
+    },
+    {
+        "word": "Block Trading",
+        "description": "ブロック取引は、多くの場合、単一の取引を通じて、同時に多数の証券を購入または販売することです。"
+    },
+    {
+        "word": "Broker-Dealer",
+        "description": "ブローカーディーラーは、顧客の名義と自身の利益のために証券を購入および販売する事業に従事する企業です。"
+    },
+    {
+        "word": "Capital Allocation",
+        "description": "資本配分は、さまざまな投資や事業活動に金融資源を配分するプロセスです。"
+    },
+    {
+        "word": "Closing Price",
+        "description": "閉鎖価格は、特定の取引日に証券が取引される最終価格です。"
+    },
+    {
+        "word": "Dark Pool",
+        "description": "ダークプールは、取引活動がより広範な市場に目に見えないプライベートな取引場または取引所です。"
+    },
+    {
+        "word": "Day Trading",
+        "description": "デイ・トレーディングは、同じ取引日中に金融商品を購入し、売却する慣行であり、市場が閉鎖する前にすべてのポジションを閉鎖します。"
+    },
+    {
+        "word": "Execution Quality",
+        "description": "実行品質は、取引の実行の速度、正確性、およびコストを指します。"
+    },
+    {
+        "word": "Fill Rate",
+        "description": "Fill Rate は、要求された価格で満たされた注文の割合です。"
+    },
+    {
+        "word": "Front Running",
+        "description": "フロントランニングは、ブローカーまたはトレーダーによる待機オーダーの事前知識に基づく取引の実践です。"
+    },
+    {
+        "word": "Futures Contract",
+        "description": "期末契約は、将来の日付で事前に定められた価格で特定の資産を購入または売却するための標準化された合意です。"
+    },
+    {
+        "word": "Hedging",
+        "description": "ヘッジングは、投資ポートフォリオにおける不利な価格動きのリスクを減らすために抵消ポジションを取る実践です。"
+    },
+    {
+        "word": "High-Frequency Trading",
+        "description": "高周波取引(HFT)は、強力なコンピュータと高速データを使用して極めて低い遅延で取引を実行するアルゴリズム取引の一種です。"
+    },
+    {
+        "word": "Index Fund",
+        "description": "インデックスファンドは、特定のインデックスのパフォーマンスを複製することを目的とする共同ファンドまたはETFの種類です。"
+    },
+    {
+        "word": "Liquidity",
+        "description": "流動性とは、資産がその価格に重大な変化を引き起こさずに購入または売却できる容易さである。"
+    },
+    {
+        "word": "Market Maker",
+        "description": "マーケットメーカーは、市場に流動性を提供するために、引用された価格で証券を購入して販売する意欲のある市場参加者です。"
+    },
+    {
+        "word": "Market Order",
+        "description": "市場オーダーは、市場で利用可能な最高の価格で証券を購入または販売するためのオーダーです。"
+    },
+    {
+        "word": "Mean Reversion",
+        "description": "Mean Reversionは、価格と収益が最終的に平均または平均に戻るという理論です。"
+    },
+    {
+        "word": "Model Validation",
+        "description": "モデル認証は、金融モデルの正確性と信頼性を評価するプロセスです。"
+    },
+    {
+        "word": "Portfolio Optimization",
+        "description": "ポートフォリオ最適化は、望ましいリスク収益プロフィールを達成するために最適な資産の組み合わせを選択するプロセスです。"
+    },
+    {
+        "word": "Quantitative Trading",
+        "description": "定量取引は、数学モデルとデータ分析に依存する取引の体系的なアプローチです。"
+    },
+    {
+        "word": "Risk Management",
+        "description": "リスク管理は、取引戦略における潜在的なリスクの特定、評価、および最小化を含む。"
+    },
+    {
+        "word": "Short Selling",
+        "description": "ショートセールスとは、将来、利益を得るために低価格で買うことを期待して借りた証券を売却することです。"
+    },
+    {
+        "word": "Slippage",
+        "description": "Slippage は、取引の予想価格と取引が実行される価格の違いです。"
+    },
+    {
+        "word": "Stop-Loss Order",
+        "description": "ストップ・ロス・オーダーは、価格が特定のレベル以下に落ちる場合に証券を自動的に売却することによって損失を制限するために使用されるストップ・オーダーの一種です。"
+    },
+    {
+        "word": "Technical Analysis",
+        "description": "テクニカル分析は、価格や量などの歴史的な市場データを分析し、パターンを特定し、取引決定を下します。"
+    },
+    {
+        "word": "Tick Data",
+        "description": "Tick Data は、特定のタイミングで個々の取引価格とボリュームを表す市場データの種類です。"
+    },
+    {
+        "word": "Trading Strategy",
+        "description": "取引戦略は、技術的または根本的な分析に基づいて取引決定を行うための事前定義されたルールのセットです。"
+    },
+    {
+        "word": "Transaction Cost",
+        "description": "取引コストは、手数料、手数料、市場影響を含む取引の実行に関連するコストを指します。"
+    },
+    {
+        "word": "Value-At-Risk (Var)",
+        "description": "Value-at-Risk (VaR) は、特定の期間の投資ポートフォリオにおける潜在的な損失を推定するための統計的測定方法です。"
+    },
+    {
+        "word": "Volume Weighted Average Price (Vwap)",
+        "description": "Volume Weighted Average Price (VWAP) は、取引量で重ねられた一日を通して証券が取引されている平均価格を測る取引基準です。"
+    },
+    {
+        "word": "Algorithmic Execution",
+        "description": "アルゴリズム実行は、市場への影響を最小限に抑えるために、時間の経過とともに小規模な注文を実行する自動化プロセスを指します。"
+    },
+    {
+        "word": "Alpha Generation",
+        "description": "Alpha Generation は、市場における効率の低下や価格誤差を特定し、利用することによって過剰な収益を生み出すプロセスです。"
+    },
+    {
+        "word": "Best Execution",
+        "description": "Best Execution は、ブローカーが顧客に最も有利な条件を提供する法的義務です。"
+    },
+    {
+        "word": "Central Limit Order Book (Clob)",
+        "description": "Central Limit Order Book(CLOB)は、金融ツールの購入と販売のオーダーを一致させ、透明な市場を生み出すシステムです。"
+    },
+    {
+        "word": "Crossing Network",
+        "description": "Crossing Networkは、特定の市場内の内部で購入と販売の注文を一致させ、従来の交換注文書を回避する取引システムです。"
+    },
+    {
+        "word": "Equity Market",
+        "description": "株式市場は、公的に取引されている企業の株式を購入し、売却する市場です。"
+    },
+    {
+        "word": "Event-Driven Strategy",
+        "description": "イベント駆動戦略は、合併、買収、または収益発表などの特定のイベントから生じる市場機会から利益を得ようとする取引戦略です。"
+    },
+    {
+        "word": "Filter Rule",
+        "description": "フィルタールールは、取引戦略に含まれるか排除するために証券をフィルターまたは選択するために使用されるルールまたは条件です。"
+    },
+    {
+        "word": "Information Ratio",
+        "description": "Information Ratio は、リスク調整された投資戦略の回収率を基準値に比べて測定し、回収の変動性を考慮に入れる。"
+    },
+    {
+        "word": "Liquidity Provider",
+        "description": "Liquidity Providerは、市場における取引を容易にし、市場における流動性を提供することを目的として、金融手段の購入および販売価格を引用する市場参加者です。"
+    },
+    {
+        "word": "Market Impact",
+        "description": "市場影響は、大規模な取引オーダーが証券または市場の価格に及ぼす影響を指します。"
+    },
+    {
+        "word": "Minimum Tick Size",
+        "description": "Minimum Tick Size は、証券が特定の取引所で引用または取引できる最小価格の増加です。"
+    },
+    {
+        "word": "Order Management System (Oms)",
+        "description": "オーダー管理システム(OMS)は、トレーダーが金融取引所やブローカーにオーダーを管理し、ルーティングするために使用するソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Pairs Trading",
+        "description": "ペア取引は、相対的な価格の動きから利益を得るために2つの相関するツールを同時に取引する戦略です。"
+    },
+    {
+        "word": "Price Action",
+        "description": "価格行動とは、時を経て証券の価格の動きや行動を指し、しばしば技術分析を通じて分析される。"
+    },
+    {
+        "word": "Program Trading",
+        "description": "プログラム取引は、通常、自動取引システムを使用して、同時に多数の取引を実行することです。"
+    },
+    {
+        "word": "Risk Arbitrage",
+        "description": "リスク仲裁は、合併または買収中にターゲット会社の株と買収会社の株の間の価格差から利益を得ようとする取引戦略です。"
+    },
+    {
+        "word": "Securities Lending",
+        "description": "証券貸し出しは、特定の期間にわたって、通常、担保の見返りとして、他の当事者に証券を貸し出します。"
+    },
+    {
+        "word": "Sharpe Ratio",
+        "description": "Sharpe Ratio は、投資の過剰回収を標準偏差で割り当てることによって計算されるリスク調整された回収の尺度です。"
+    },
+    {
+        "word": "Smart Order Routing",
+        "description": "スマートオーダールーティングは、取引システムが現在の市場状況に基づいて最適な執行場所を選択するために使用する自動化プロセスです。"
+    },
+    {
+        "word": "Technical Indicator",
+        "description": "Technical Indicator は、歴史的な価格および量のデータを分析するために使用される数学的計算またはグラフィック表示です。"
+    },
+    {
+        "word": "Volatility",
+        "description": "Volatility は、特定の取引ツールまたは市場の収益の分散の統計的測定です。"
+    },
+    {
+        "word": "Wash Trading",
+        "description": "洗浄取引は、人工的な取引活動を生み出し、量や価格を膨らませるために同じ証券を購入し、販売する違法な慣行です。"
+    },
+    {
+        "word": "Limit Order",
+        "description": "制限オーダーは、特定の価格またはより良い価格で証券を購入または販売するためのオーダーです。"
+    },
+    {
+        "word": "Stop Order",
+        "description": "ストップオーダーは、その価格が特定のトリガー価格に達したときに証券を購入または売却するためのオーダーです。"
+    },
+    {
+        "word": "Take-Profit Order",
+        "description": "Take-Profit オーダーは、その価格が利益を閉じるために指定されたレベルに達したときに証券を売却するオーダーです。"
+    },
+    {
+        "word": "Trend-Following Strategy",
+        "description": "トレンドフォローする戦略は、価格が上昇したときに資産を購入し、価格が下がったときに売ることを目指す取引戦略です。"
+    },
+    {
+        "word": "Mean Reversion Strategy",
+        "description": "Mean Reversion Strategyは、資産の価格がその平均または平均価格に戻ると仮定する取引戦略です。"
+    },
+    {
+        "word": "Beta",
+        "description": "ベータは、市場全体に比べて資産の波動性を測定するものです。"
+    },
+    {
+        "word": "Order Book",
+        "description": "オーダーブックは、取引所上の特定の取引ツールのすべての購入と販売オーダーの記録です。"
+    },
+    {
+        "word": "Slippage Cost",
+        "description": "スリッピングコストは、期待される実行価格と取引の実際の実行価格の違いによるコストです。"
+    },
+    {
+        "word": "Position Sizing",
+        "description": "ポジションサイズは、リスク管理パラメータに基づいて取引される株や契約のサイズや数を決定するプロセスです。"
+    },
+    {
+        "word": "Circuit Breaker",
+        "description": "サーキットブレイカーは、市場の大幅な下落時に取引を一時的に停止するためのメカニズムです。"
+    },
+    {
+        "word": "Mean Return",
+        "description": "Mean Return は、指定された期間にわたる証券または投資の平均回収です。"
+    },
+    {
+        "word": "Risk-Free Rate",
+        "description": "Risk-Free Rate は、リスクのない投資の理論的な回収率であり、通常は政府債券の回収率によって推定されます。"
+    },
+    {
+        "word": "Market Efficiency",
+        "description": "市場効率は、証券価格が利用可能なすべての情報を反映する程度を指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、アルゴリズムを使用してコンピュータが明示的にプログラミングされずに学び、予測や決定を下すことを可能にする人工知能のサブセットです。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、人間の脳の構造と機能に自由にインスピレーションを与えられた機械学習モデルの一種です。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "強化学習は、エージェントが繰り返しの試行とエラーと環境からのフィードバックを通じて意思決定を下すことを学ぶ機械学習技術です。"
+    },
+    {
+        "word": "Trading Signal",
+        "description": "取引信号は、事前定義されたルールまたは条件のセットに基づいて特定の取引を実行するためのトリガーまたは指標です。"
+    },
+    {
+        "word": "Slippage Model",
+        "description": "Slippageモデルは、トレーダーの実行におけるスライプレベルを推定し、予測するために使用される数学モデルです。"
+    },
+    {
+        "word": "Quantitative Analyst",
+        "description": "定量アナリストは、金融や投資の問題に数学的、統計的技術を適用する専門家です。"
+    },
+    {
+        "word": "Mean-Variance Optimization",
+        "description": "Mean-Variance Optimization は、特定のリスクレベルで期待される収益を最大化するポートフォリオ重量を選択するための方法です。"
+    },
+    {
+        "word": "Optimal Execution",
+        "description": "最適な実行は、市場の影響と取引コストを最小限に抑える方法で取引を実行するプロセスを指します。"
+    },
+    {
+        "word": "Order Routing",
+        "description": "オーダールーティングは、取引を実行するための最高の実行場所または市場を選択するプロセスです。"
+    },
+    {
+        "word": "Co-Location",
+        "description": "Co-locationは、ネットワークの遅延を最小限に抑え、スピードの利点を得るために取引サーバーを取引所の近くに位置づけることを指します。"
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "規制コンプライアンスとは、金融市場や証券取引を規制する法律、規制、業界ガイドラインの遵守を指します。"
+    },
+    {
+        "word": "Quantpedia",
+        "description": "Quantpediaは、定量的な取引戦略と研究記事のオンラインリソースとデータベースです。"
+    },
+    {
+        "word": "Order Management System",
+        "description": "オーダー管理システム(OMS)は、オーダーのルーティングと執行を含むオーダーの流れを管理するためにトレーダーが使用するソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Execution Management System",
+        "description": "Execution Management System (EMS) は、トレーダーが複数の場所またはブローカーを介して取引の実行を簡素化し、自動化するために使用するソフトウェアプラットフォームです。"
+    },
+    {
+        "word": "Alpha Decay",
+        "description": "Alpha Decay は、投資の過剰な収益が時間とともに減少または減少することを指します。"
+    },
+    {
+        "word": "Stop-Limit Order",
+        "description": "ストップ・リミット・オーダーは、ストップ・オーダーとリミット・オーダーの特徴を組み合わせたオーダーの種類です。"
+    },
+    {
+        "word": "Time Weighted Average Price",
+        "description": "Time Weighted Average Price (TWAP) は、市場の影響を最小限に抑えるために指定された期間にわたって取引を均等に実行する取引アルゴリズムです。"
+    },
+    {
+        "word": "Volume Weighted Average Price",
+        "description": "Volume Weighted Average Price (VWAP) は、市場の影響を最小限に抑えるために、量重量平均価格に基づいて取引を実行する取引アルゴリズムです。"
+    },
+    {
+        "word": "Pair Trading",
+        "description": "ペア取引は、2つの高度に関連する証券で長期と短期のポジションを取ることを含む戦略で、一時的な価格の差異から利益を得る。"
+    },
+    {
+        "word": "Seasonality",
+        "description": "季節性とは、特定の季節や時間帯に関連する証券の価格またはパフォーマンスの繰り返しのパターンまたはサイクルを指します。"
+    },
+    {
+        "word": "Mean Squared Error",
+        "description": "Mean Square Error (MSE) は、予測モデルの予測値と実際値の平均平方値の違いの測定です。"
+    },
+    {
+        "word": "Long Short Equity",
+        "description": "Long Short Equityは、価値が上昇すると予想される株式の長いポジションと、価値が低下すると予想される株式の短いポジションを取る投資戦略です。"
+    },
+    {
+        "word": "Backwardation",
+        "description": "バックバックバックとは、期末契約の価格が予想されるスポット価格より低い市場条件であり、市場の前向きな期待を示す。"
+    },
+    {
+        "word": "Contango",
+        "description": "Contango は、期末契約の価格が予想されるスポット価格よりも高く、市場の期待を否定する市場条件です。"
+    },
+    {
+        "word": "Market Data",
+        "description": "市場データとは、価格、ボリューム、オーダーブックデータなどの取引ツールに関するデータと情報を指します。"
+    },
+    {
+        "word": "Execution",
+        "description": "執行は、取引命令の提出と履行のプロセスを指します。"
+    },
+    {
+        "word": "Take Profit Order",
+        "description": "Take Profit Order は、ポジションを閉じ、価格が特定のレベルに達したときに利益を実現するための注文です。"
+    },
+    {
+        "word": "Stop Loss Order",
+        "description": "停止損失命令は、価格が特定のレベルに達したときにポジションを閉じ、損失を制限する命令です。"
+    },
+    {
+        "word": "Quantitative Analysis",
+        "description": "定量分析は、数学的および統計的モデルを使用して市場データを分析し、取引決定を下します。"
+    },
+    {
+        "word": "Fundamental Analysis",
+        "description": "基礎分析は、財務報告書と経済的要因を分析し、証券の価値を評価します。"
+    },
+    {
+        "word": "Trend Following",
+        "description": "トレンドフォローは、同じ方向の継続的な価格動きから利益を得ることを目指す取引戦略です。"
+    },
+    {
+        "word": "Statistical Arbitrage",
+        "description": "統計仲裁は、関連する証券間の価格の不効率を特定し、利用することを含む戦略です。"
+    },
+    {
+        "word": "High-Frequency Trading (Hft)",
+        "description": "高周波取引は、高速コンピュータと低遅延接続を使用して高速で取引を実行するアルゴリズム取引の一種です。"
+    },
+    {
+        "word": "Market Microstructure",
+        "description": "マーケットマイクロ構造とは、市場がどのように機能し、取引決定がどのようにマイクロレベルで行われるかについての研究です。"
+    },
+    {
+        "word": "Sliding Window",
+        "description": "スライディングウィンドウは、移動するタイムフレーム内のデータを分析するためにタイムシリーズ分析に使用されるテクニックです。"
+    },
+    {
+        "word": "Rebalance",
+        "description": "再バランスをとることは、ポルトガルの資産の重量を調整して、望ましい配分を維持するプロセスです。"
+    },
+    {
+        "word": "Portfolio Backtesting",
+        "description": "ポートフォリオバックテストは、そのパフォーマンスを評価するために、過去の市場データに基づいてポートフォリオ戦略をテストするプロセスです。"
+    },
+    {
+        "word": "Volatility Trading",
+        "description": "Volatility Tradingは、取引ツールまたは市場の波動性の変化から利益を得ることを目的とする戦略です。"
+    },
+    {
+        "word": "Risk Parity",
+        "description": "Risk Parityは、リスクを異なる資産クラスに均等に割り当てようとするポートフォリオ割り当て戦略です。"
+    },
+    {
+        "word": "Mean Absolute Deviation (Mad)",
+        "description": "Mean Absolute Deviation is a measure of the average deviation of data points from their average. データポイントの平均平均偏差を測定する。"
+    },
+    {
+        "word": "Moving Average",
+        "description": "Moving Average is a statistical technique used to analyze data points by creating a series of averages of different subsets of the full data set. 移動平均は、完全なデータセットの異なるサブセットの平均のシリーズを作成することによってデータポイントを分析するための統計技術です。"
+    },
+    {
+        "word": "Reversion To The Mean",
+        "description": "平均値への逆転は、価格と収益が最終的に歴史的平均値に戻るという理論です。"
+    },
+    {
+        "word": "Monte Carlo Simulation",
+        "description": "モンテ・カルロ・シミュレーションは、ランダムなサンプルをシミュレートすることでプロセスの異なる結果の確率を推定するためのテクニックです。"
+    },
+    {
+        "word": "Mean Absolute Percentage Error (Mape)",
+        "description": "Mean Absolute Percentage Error は、予測の正確さの測定であり、観測された値と予測された値の平均差として計算される。"
+    },
+    {
+        "word": "Order Flow",
+        "description": "オーダーフローは、取引ツールの購入と販売オーダーの直接の流れです。"
+    },
+    {
+        "word": "Quantitative Research",
+        "description": "定量研究は、金融市場を分析するための数学的および統計的モデルを開発し、テストすることを意味します。"
+    },
+    {
+        "word": "Mean-Variance Analysis",
+        "description": "Mean-Variance Analysis は、特定のリスクレベルで期待される収益を最大化する最適なポートフォリオ配分を決定するための方法です。"
+    },
+    {
+        "word": "Principal Component Analysis (Pca)",
+        "description": "メインコンポーネント分析は、大規模なデータセットの次元性を減らすために使用される統計技術です。"
+    },
+    {
+        "word": "Black Box Trading",
+        "description": "ブラックボックス取引は、取引戦略やルールが秘密に保管されているアルゴリズム取引の種類です。"
+    },
+    {
+        "word": "Neural Networks",
+        "description": "ニューラルネットワークは、生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた機械学習アルゴリズムの一種です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つニューラルネットワークに焦点を当てている機械学習のサブフィールドです。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting とは、トレーニングデータについてあまりにもよく訓練され、新しい、目に見えないデータでうまく機能しないモデルを指します。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting は、データ内のベースのパターンや関係をキャプチャするにはあまりにも単純なモデルを指します。"
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning は、総合的な予測や意思決定を改善するために複数のモデルを組み合わせる機械学習技術です。"
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "Recurrent Neural Networkは、連続データを処理し、過去の入力の記憶を持っている神経ネットワークの一種です。"
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "Long Short-Term Memory は、連続データにおける長期依存をよりよくキャプチャできる、繰り返しのニューラルネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "機能エンジニアリングは、機械学習モデルのパフォーマンスを向上させるために、新しい機能を作成したり、既存の機能を変革したりするプロセスです。"
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "ハイパーパラメータとは、トレーニング中にモデルが学ばないパラメータであり、モデルをトレーニングする前にユーザーが設定する必要があります。"
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "クロス認証は、データの複数のサブセットで機械学習モデルのパフォーマンスを評価するためのテクニックです。"
+    },
+    {
+        "word": "In-Sample Testing",
+        "description": "サンプルテストは、トレーニングに使用された同じデータでモデルのパフォーマンスを評価するものです。"
+    },
+    {
+        "word": "Out-Of-Sample Testing",
+        "description": "Out-of-sample テストは、トレーニングに使用されていないデータでモデルのパフォーマンスを評価するものです。"
+    },
+    {
+        "word": "Grid Search",
+        "description": "Grid Search は、特定のグリッドの値を徹底的に検索することで、機械学習モデルのためのハイパーパラメータの最適な組み合わせを見つけるための方法です。"
+    }
+]

@@ -1,0 +1,430 @@
+[
+    {
+        "word": "Blended Learning",
+        "description": "Blended Learningは、オンライン学習活動と伝統的な対面指導を組み合わせたアプローチです。"
+    },
+    {
+        "word": "Synchronous Learning",
+        "description": "同期学習は、生徒と教員が同時に相互作用するリアルタイムで起こるオンライン学習活動を指します。"
+    },
+    {
+        "word": "Asynchronous Learning",
+        "description": "Asynchronous Learningは、リアルタイムの相互作用を必要とせずに、異なる時間に完了できるオンライン学習活動を指します。"
+    },
+    {
+        "word": "Learning Management System (Lms)",
+        "description": "学習管理システムは、オンラインコースや教育コンテンツを管理、配信、追跡するためのソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamificationは、教育環境におけるゲーム要素とゲーム設計技術の使用で、参加と動機づけを高めます。"
+    },
+    {
+        "word": "Virtual Classroom",
+        "description": "仮想教室は、学生やインストラクターがビデオ会議やコラボレーションツールを通じてリアルタイムで相互作用できるオンライン空間です。"
+    },
+    {
+        "word": "Massive Open Online Course (Mooc)",
+        "description": "大規模オープンオンラインコースは、無制限の参加者に開かれたオンラインコースであり、インターネットアクセスを有する誰でもアクセスできます。"
+    },
+    {
+        "word": "Microlearning",
+        "description": "Microlearningは、通常、マルチメディア形式を通じて、短いビットサイズのモジュールで教育コンテンツを提供することを意味します。"
+    },
+    {
+        "word": "Flipped Classroom",
+        "description": "Flipped Classroom は、生徒がクラス前に学習材料や活動に取り組んで、クラス時間を議論やアプリケーションに使う教育モデルです。"
+    },
+    {
+        "word": "Adaptive Learning",
+        "description": "Adaptive Learningは、個々の学習者のニーズと進歩に適応する個別化された学習体験を提供するための技術を使用しています。"
+    },
+    {
+        "word": "Mobile Learning (M-Learning)",
+        "description": "モバイル学習(m-learning)とも呼ばれるモバイル学習は、モバイル機器を使用して教育資源にアクセスし、学習活動に参加することを指します。"
+    },
+    {
+        "word": "Learner Analytics",
+        "description": "学習者アナリティクスは、オンライン教育の有効性を向上させるために、学習者の行動とパフォーマンスに関するデータの収集と分析を含む。"
+    },
+    {
+        "word": "Personal Learning Network (Pln)",
+        "description": "個人学習ネットワーク(PLN)は、学習者が学習と職業開発を支援するために使用する個人、リソース、接続のネットワークです。"
+    },
+    {
+        "word": "Online Discussion Forum",
+        "description": "オンライン討論フォーラムは、学習者がコース関連のトピックに関する非同期的な討論に参加できるプラットフォームです。"
+    },
+    {
+        "word": "Video Lecture",
+        "description": "ビデオ講義は、オンラインでアクセスできるレコーディングまたはプレゼンテーションです。"
+    },
+    {
+        "word": "Peer Assessment",
+        "description": "Peer Assessmentは、学習者が同僚の仕事とパフォーマンスについて評価し、フィードバックを提供し、協力的な学習環境を育成することを含みます。"
+    },
+    {
+        "word": "Online Assessment",
+        "description": "オンライン評価は、デジタルツールやプラットフォームを使用して学習者の知識、スキル、能力を評価するプロセスです。"
+    },
+    {
+        "word": "E-Learning",
+        "description": "電子学習は、電子機器やデジタルプラットフォームを使用して教育コンテンツやコースを提供することを指します。"
+    },
+    {
+        "word": "Open Educational Resources (Oer)",
+        "description": "オープン教育リソースは、教えや学習をサポートするために使用し、共有し、変更することができる自由にアクセス可能な学習材料です。"
+    },
+    {
+        "word": "Self-Paced Learning",
+        "description": "自己ペースの学習は、学習者が自分の快適さでコースの材料を通じて自分の学習速度と進歩を設定することができます。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実は、コンピュータによって生成された環境をシミュレートし、ユーザーにインタラクティブでインタラクティブな体験を提供する技術です。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Realityは、デジタル情報や仮想オブジェクトを現実世界に表し、ユーザーの感覚と相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Remote Proctoring",
+        "description": "Remote Proctoringは、詐欺を防止するためにオンライン試験を監視する方法で、ビデオ監視と分析を使用して試験の完全性を確保します。"
+    },
+    {
+        "word": "Online Collaboration",
+        "description": "オンラインコラボレーションは、デジタルツールやプラットフォームを使用して、プロジェクト、任務、または活動で他の人と一緒に働くことを意味します。"
+    },
+    {
+        "word": "Discussion Board",
+        "description": "ディスカッションボードは、学習者がメッセージを投稿し、応答することができ、非同期的なコミュニケーションとコラボレーションを促進するオンライン空間です。"
+    },
+    {
+        "word": "Online Tutoring",
+        "description": "オンラインチュートリアリングは、通常、ビデオ会議や仮想ホワイトボードツールを通じて、遠隔で学習者に学術的サポートと指導を提供することです。"
+    },
+    {
+        "word": "Courseware",
+        "description": "コースソフトウェアは、オンラインコースで使用される教育コンテンツと材料、教科書、プレゼンテーション、ビデオ、インタラクティブな活動を含む。"
+    },
+    {
+        "word": "Interactive Multimedia",
+        "description": "インタラクティブマルチメディアとは、ビデオ、アニメーション、シミュレーションなどのデジタルメディア要素を指し、学習者がコンテンツと積極的に関わり、相互作用することを可能にします。"
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "仮想アシスタントは、学習者に自動的なサポートとサポートを提供するAI駆動ツールまたはチャットボットです。"
+    },
+    {
+        "word": "Learning Analytics",
+        "description": "Learning Analytics は、学習プロセス中に生成されたデータの収集、分析、解釈を含み、学習者の行動を理解し、教育成果を向上させる。"
+    },
+    {
+        "word": "Online Collaboration Tools",
+        "description": "オンラインコラボレーションツールは、学習者とインストラクター間のコミュニケーション、ファイル共有、プロジェクト管理を容易にします。"
+    },
+    {
+        "word": "Course Design",
+        "description": "コースデザインは、オンラインコースのコンテンツ、活動、評価を計画し、組織するプロセスです。"
+    },
+    {
+        "word": "Continuous Assessment",
+        "description": "継続的な評価は、オンラインコースを通じて学習者の進歩とパフォーマンスを継続的に評価することを意味します。"
+    },
+    {
+        "word": "Instructional Design",
+        "description": "インストラクションデザインは、効果的な学習を促進するための教材と経験の設計と開発の体系的なプロセスです。"
+    },
+    {
+        "word": "Online Learning Community",
+        "description": "オンライン学習コミュニティは、学習者とインストラクターが接続し、協力し、互いにサポートできる仮想空間です。"
+    },
+    {
+        "word": "Learning Objectives",
+        "description": "学習目標は、学習活動またはコースを完了した後、学習者が知り、行うか、または理解することができることを記述する特定の声明です。"
+    },
+    {
+        "word": "Accessible Design",
+        "description": "アクセス可能なデザインは、すべての学習者に利用可能でアクセス可能なオンラインコースやコンテンツを作成する実践を指します。"
+    },
+    {
+        "word": "Open Source Software (Oss)",
+        "description": "オープンソースソフトウェアは、ソースコードを含むソフトウェアであり、自由に利用でき、ユーザーによって変更および配布することができる。"
+    },
+    {
+        "word": "Virtual Laboratory",
+        "description": "仮想ラボは、学習者が実験を行い、観測を行い、データを分析できるシミュレート環境です。"
+    },
+    {
+        "word": "Online Portfolio",
+        "description": "オンラインポートフォリオは、学習者の仕事、プロジェクト、および業績のデジタルコレクションであり、しばしばスキルや経験を展示するために使用されます。"
+    },
+    {
+        "word": "Social Learning",
+        "description": "社会学習は、オンラインとオフラインの両方で、観察、模、他者との相互作用を通じて学習を強調するアプローチです。"
+    },
+    {
+        "word": "Online Learning Platform",
+        "description": "オンライン学習プラットフォームは、オンラインコースや教育材料をホストし、提供するウェブベースのシステムまたはソフトウェアです。"
+    },
+    {
+        "word": "Badges",
+        "description": "バッジは、オンラインコースで学習者が得た業績、スキル、または知識を表すデジタル資格です。"
+    },
+    {
+        "word": "E-Portfolio",
+        "description": "E-Portfolioは、学習者の仕事、成果、思考のデジタルコレクションであり、彼らのスキル、知識、成長を展示しています。"
+    },
+    {
+        "word": "Responsive Design",
+        "description": "応答デザインは、さまざまなデバイスや画面サイズで適切に適応し表示するオンラインコースやプラットフォームの設計を指します。"
+    },
+    {
+        "word": "Course Completion Rate",
+        "description": "コース完了率は、オンラインコースを成功裏に完了した登録された学習者の割合を測るメトリックです。"
+    },
+    {
+        "word": "Discussion Moderator",
+        "description": "ディスカッションモダレーターは、学習コミュニティ内のオンラインディスカッションの管理と促進を担当する人です。"
+    },
+    {
+        "word": "Learner Engagement",
+        "description": "学習者の関与は、オンラインコースや活動における学習者の関心、動機、および積極的な参加のレベルを指します。"
+    },
+    {
+        "word": "Instructional Videos",
+        "description": "インストラクションビデオは、オンラインコースで頻繁に使用される特定の概念やスキルの段階的な指導やデモを提供するビデオです。"
+    },
+    {
+        "word": "Personalized Learning",
+        "description": "パーソナライズされた学習は、個々の学習者のニーズ、好み、ペースを満たすための教育経験のカスタマイズを指します。"
+    },
+    {
+        "word": "Virtual Field Trip",
+        "description": "仮想フィールドツアーは、学習者が immersive テクノロジーを通じて場所や環境を探索することを可能にするシミュレート旅行です。"
+    },
+    {
+        "word": "Online Office Hours",
+        "description": "オンラインオフィス時間は、インストラクターが質問に答え、学習者にサポートを提供するためにオンラインで利用できる予定の時間です。"
+    },
+    {
+        "word": "Intelligent Tutoring System (Its)",
+        "description": "インテリジェントチュートリアリングシステムは、学習者に個人的な指導とフィードバックを提供するコンピュータベースのツールです。"
+    },
+    {
+        "word": "Retention Rate",
+        "description": "Retention Rate は、最初の登録後、オンラインコースに続くまたは戻る学習者の割合を測定するメトリックです。"
+    },
+    {
+        "word": "Peer-To-Peer Learning",
+        "description": "Peer-to-peer Learningは、学習者が相互に協力し、知識と経験を共有し、学習するための指導的なアプローチです。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーは、学習者の個人情報を保護し、安全かつ倫理的な方法で収集、保存、使用することを保証することです。"
+    },
+    {
+        "word": "Course Accreditation",
+        "description": "コース認定は、オンラインコースまたはプログラムの公式承認と承認を得るプロセスです。"
+    },
+    {
+        "word": "Microcredentials",
+        "description": "Microcredentialsは、特定のスキルや知識分野のために獲得し、認識することができる小さな、焦点を当てた学習単位です。"
+    },
+    {
+        "word": "Learning Pathway",
+        "description": "学習経路は、学習者の進歩を導き、特定の学習目標を達成することを可能にするコースとリソースの構造化された順序です。"
+    },
+    {
+        "word": "Online Education",
+        "description": "オンライン教育とは、インターネットを通じて教育コンテンツやコースを提供するプロセスを指します。"
+    },
+    {
+        "word": "Lms",
+        "description": "Learning Management System(LMS)は、オンラインコースの管理、配信、追跡をサポートするソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Mooc",
+        "description": "大規模オープンオンラインコース(MOOC)は、世界中の多くの参加者に開かれているオンラインコースの一種です。"
+    },
+    {
+        "word": "Webinar",
+        "description": "ウェビナーは、インターネットを通じて行われたウェブベースのセミナーまたはプレゼンテーションで、参加者は遠隔で参加し、プレゼンターと対話することができます。"
+    },
+    {
+        "word": "Digital Citizenship",
+        "description": "デジタル市民は、オンラインコミュニケーション、プライバシー、知的財産の尊重を含むデジタル技術の責任ある倫理的な使用を指します。"
+    },
+    {
+        "word": "Chunking",
+        "description": "Chunkingは、学習と保存を向上させるために、より小さく、より管理可能な部分に大量の情報を分解する実践です。"
+    },
+    {
+        "word": "Discussion Forum",
+        "description": "ディスカッションフォーラムは、学習者がアイデアを交換し、質問をし、インストラクターや同僚との議論に参加できるオンラインプラットフォームです。"
+    },
+    {
+        "word": "Social Presence",
+        "description": "社会的存在は、学習者がオンライン学習環境における接続、コミュニティ、および相互作用の感覚を認識し経験する程度を指します。"
+    },
+    {
+        "word": "Accessibility",
+        "description": "オンライン教育におけるアクセシビリティとは、ユーザーフレンドリーで障害のある学習者がアクセスできるコースや材料を設計し、提供することを指します。"
+    },
+    {
+        "word": "Course Content",
+        "description": "コースコンテンツとは、オンラインコースの一環として学習者に提供される教育材料、リソース、活動を指します。"
+    },
+    {
+        "word": "Engagement",
+        "description": "オンライン教育への関与は、学習プロセスにおける学習者の参加、相互作用、関心のレベルを指します。"
+    },
+    {
+        "word": "Retention",
+        "description": "オンライン教育における保持は、学習者が時間とともに学んだことを覚え、適用する能力を指します。"
+    },
+    {
+        "word": "Online Degree",
+        "description": "オンライン学位は、学習者が遠隔でコースや要件を完了するオンライン教育を通じて得られる学位です。"
+    },
+    {
+        "word": "Instructor-Led",
+        "description": "Instructor-Ledは、インストラクターによって促進、指導、または教えられるオンラインコースや学習体験を指します。"
+    },
+    {
+        "word": "Microcredential",
+        "description": "Microcredentialは、通常オンラインで完了し、特定のスキルや知識を習得するための認識を提供する短い集中的な学習プログラムです。"
+    },
+    {
+        "word": "Digital Literacy",
+        "description": "デジタル文盲とは、デジタル技術を効率的かつ責任ある方法で利用して情報を見つける、評価し、作成し、コミュニケーションする能力です。"
+    },
+    {
+        "word": "Mobile Learning",
+        "description": "モバイル学習(m-learning)は、スマートフォンやタブレットなどのポータブルデバイスで行われているオンライン教育の一種です。"
+    },
+    {
+        "word": "Hybrid Learning",
+        "description": "ハイブリッド学習は、オンラインと対面的な指導の両方を組み合わせ、伝統的な教室の教えとデジタル学習活動を組み合わせています。"
+    },
+    {
+        "word": "Course Management",
+        "description": "コース管理は、オンラインコースの管理と組織、登録、アクセス制御、および物流手続きを含むことを指します。"
+    },
+    {
+        "word": "Cooperative Learning",
+        "description": "協力学習は、学習者が共通の学習目標を達成するためにグループで一緒に働くことを含む指導的アプローチです。"
+    },
+    {
+        "word": "Rubric",
+        "description": "Rubric は、学習者の課題、プロジェクト、または評価のパフォーマンスを評価し評価するために使用されるスコアリングガイドまたは基準のセットです。"
+    },
+    {
+        "word": "Screencasting",
+        "description": "Screencasting は、デジタルビデオまたはコンピュータ画面のデモを録画し共有するプロセスであり、しばしばチュートリアルまたは教育目的で使用されます。"
+    },
+    {
+        "word": "Course Evaluation",
+        "description": "コース評価は、学習者の学習経験、インストラクターの有効性、コースの品質に関するフィードバックと意見を収集するプロセスです。"
+    },
+    {
+        "word": "Video Conferencing",
+        "description": "ビデオ会議は、異なる場所に位置する複数の参加者間のリアルタイムのオーディオおよびビデオ相互作用を可能にする通信技術です。"
+    },
+    {
+        "word": "Instructional Video",
+        "description": "インストラクションビデオは、特定のトピックやスキルについて示し、または指示を提供するビデオであり、しばしば教育や学習の目的で使用されます。"
+    },
+    {
+        "word": "Feedback",
+        "description": "オンライン教育におけるフィードバックとは、学習者に彼らの仕事、パフォーマンス、または進歩に関する情報、コメント、または提案を提供することです。"
+    },
+    {
+        "word": "Scaffolding",
+        "description": "Scaffolding は、学習者が既存の知識とスキルに基づいてより高いレベルの理解を達成するのを助けるサポートシステムまたはフレームワークです。"
+    },
+    {
+        "word": "Distance Learning",
+        "description": "遠隔学習は、学生とインストラクターが地理的な距離によって分離され、教育が遠隔で提供される教育の種類です。"
+    },
+    {
+        "word": "Video Lectures",
+        "description": "ビデオ講義は、オンラインでアクセス可能なレコーディングまたは教育ビデオを録音し、柔軟で視覚的な学習体験を提供します。"
+    },
+    {
+        "word": "Discussion Forums",
+        "description": "討論フォーラムは、学習者が議論に参加し、質問をし、同僚やインストラクターとアイデアや経験を共有できるオンラインプラットフォームです。"
+    },
+    {
+        "word": "Online Assessments",
+        "description": "オンライン評価は、デジタルクイズ、テスト、課題を通じて学習者の知識とスキルの評価を指します。"
+    },
+    {
+        "word": "Learning Community",
+        "description": "学習コミュニティは、学び、知識を共有し、互いの教育目標をサポートするために集まる個人のグループであり、しばしばオンラインプラットフォームを通じて促進されます。"
+    },
+    {
+        "word": "Copyright",
+        "description": "著作権とは、オリジナル作品の作成者に与えられた法的権利を指し、その使用と配布に対する独占的コントロールを保証する。"
+    },
+    {
+        "word": "Plagiarism",
+        "description": "プラジアリズムとは、他人の作品、アイデア、または言葉を適切な割り当てなしに使用し、それらを自分のものとして提示する行為です。"
+    },
+    {
+        "word": "Online Course Design",
+        "description": "オンラインコースデザインは、効果的な学習体験を促進するためにオンラインコースのコンテンツと活動を計画、組織、構造化することです。"
+    },
+    {
+        "word": "Quality Assurance",
+        "description": "オンライン教育における品質保証とは、教育プログラムの提供と評価が事前に定められた基準を満たすことを確保するためのプロセスと手順を指します。"
+    },
+    {
+        "word": "Technical Support",
+        "description": "テクニカルサポートは、オンラインコースへのアクセスやデジタルツールを使用する際に生徒が直面する技術的な問題に対するサポートとトラブルシューティングを提供します。"
+    },
+    {
+        "word": "Learning Outcomes",
+        "description": "学習結果は、学習者がコースまたは教育プログラムを完了した後、何ができるかまたは知ることができるかを記述する特定の声明です。"
+    },
+    {
+        "word": "Collaborative Learning",
+        "description": "コラボレーション学習は、学生が問題を解決し、アイデアを共有し、知識を構築するためにグループやチームで一緒に働くことを奨励する指導的なアプローチです。"
+    },
+    {
+        "word": "Accessibility Tools",
+        "description": "アクセシビリティツールとは、障害のある学習者がオンライン教育コンテンツにアクセスし、相互作用するのを助けるように設計されたソフトウェアまたは機能です。"
+    },
+    {
+        "word": "Online Certification",
+        "description": "オンライン認定は、特定のオンラインコースまたはプログラムを完了するための証明書または資格を得るプロセスです。"
+    },
+    {
+        "word": "Professional Development",
+        "description": "プロフェッショナル開発は、オンライン教育の分野で働く専門家の継続的な学習とスキル開発を指します。"
+    },
+    {
+        "word": "Open Courseware",
+        "description": "Open Courseware は、講義、ノート、課題を含む自由にアクセス可能な教育コンテンツを指し、それらは自己研究のために使用したり、コースに組み込むことができます。"
+    },
+    {
+        "word": "Pedagogy",
+        "description": "教育学は、教えと教育の理論と実践を指し、教育方法、戦略、アプローチを含む。"
+    },
+    {
+        "word": "Andragogy",
+        "description": "Andragogy は、成人学習者を教える理論と実践であり、自己指向と経験学習を強調しています。"
+    },
+    {
+        "word": "Curriculum",
+        "description": "カリキュラムは、特定の学習目標を達成するために設計された計画的で構造化された教育内容と活動を指します。"
+    },
+    {
+        "word": "Retention Strategies",
+        "description": "保留戦略は、学習者の関与を高め、オンラインコースでの中退率を減らすために実施される積極的な措置と介入です。"
+    },
+    {
+        "word": "Student Success",
+        "description": "オンライン教育における学生の成功は、ポジティブな教育成果の達成と学習者の全体的な満足と進歩を指します。"
+    }
+]

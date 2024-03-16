@@ -1,0 +1,466 @@
+[
+    {
+        "word": "Talent Acquisition",
+        "description": "Talent Acquisitionは、組織の雇用ニーズを満たすために才能のある個人を見つける、魅了し、雇用するプロセスです。"
+    },
+    {
+        "word": "Employer Branding",
+        "description": "雇用者ブランドは、雇用市場における雇用主としての組織のイメージ、評判、および認識を指します。"
+    },
+    {
+        "word": "Job Description",
+        "description": "職務説明は、特定の仕事の責任、課題、要件を記述する書面上の声明です。"
+    },
+    {
+        "word": "Candidate Experience",
+        "description": "候補者の経験とは、候補者が採用および採用プロセス中に持つ総合的な経験を指します。"
+    },
+    {
+        "word": "Sourcing",
+        "description": "ソーシングは、雇用ボード、ソーシャルメディア、リファレンスなどのさまざまなチャンネルを通じて潜在的な候補者を積極的に特定し、魅了するプロセスです。"
+    },
+    {
+        "word": "Screening",
+        "description": "スクリーニングは、 резюме、アプリケーション、およびその他の候補者情報をレビューし、評価するプロセスで、仕事の適合性を決定します。"
+    },
+    {
+        "word": "Interviewing",
+        "description": "面接は、候補者との相互作用を行い、特定の職務の適合性と適合性を評価するプロセスです。"
+    },
+    {
+        "word": "Assessment",
+        "description": "評価は、さまざまな方法を通じて候補者のスキル、能力、または性格の特徴を評価するプロセスです。"
+    },
+    {
+        "word": "Background Check",
+        "description": "背景チェックは、候補者の個人的な、教育的、および職業的履歴を検証し、彼らの資格と仕事の適合性を確認するプロセスです。"
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboarding は、新しい従業員を組織に統合し、訓練と同化を含むプロセスです。"
+    },
+    {
+        "word": "Employee Referral",
+        "description": "従業員のリファレンスは、組織の既存の従業員によって推薦またはリファレンスされる候補です。"
+    },
+    {
+        "word": "Recruitment Marketing",
+        "description": "採用マーケティングは、潜在的な候補者を引き付けるためにマーケティング戦略と戦術の適用です。"
+    },
+    {
+        "word": "Candidate Relationship Management (Crm)",
+        "description": "候補者関係管理(CRM)は、潜在的な候補者との関係を構築し維持するために使用される慣行、戦略、技術を指します。"
+    },
+    {
+        "word": "Talent Pipeline",
+        "description": "才能パイプラインは、組織のために働くことに興味を示し、将来の雇用の潜在的なソースを形成した資格のある候補者のプールです。"
+    },
+    {
+        "word": "Passive Candidate",
+        "description": "被動的候補者は、積極的に雇用を求めていないが、提示された場合に新たな機会に開かれている可能性がある人です。"
+    },
+    {
+        "word": "Active Candidate",
+        "description": "アクティブな候補者は、積極的に雇用機会を検索し、申請している個人です。"
+    },
+    {
+        "word": "Boolean Search",
+        "description": "Boolean 検索は、キーワードと検索オペレーターを組み合わせ、より高度かつ具体的な検索を実行するためのテクニックです。"
+    },
+    {
+        "word": "Recruitment Process Outsourcing (Rpo)",
+        "description": "採用プロセスアウトソーシング(RPO)は、組織が一部またはすべての採用プロセスを外部プロバイダーにアウトソーシングするビジネスモデルです。"
+    },
+    {
+        "word": "Applicant Tracking System (Ats)",
+        "description": "応募者追跡システム(ATS)は、組織が採用および採用プロセスを管理し、簡素化するために使用するソフトウェアシステムです。"
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "多様性と包摂は、多様な労働力を創造し、包摂的な労働環境を促進するための組織のコミットメントを指します。"
+    },
+    {
+        "word": "Employment Brand",
+        "description": "雇用ブランドとは、雇用主としての組織と関連する認識、評判、価値観を指します。"
+    },
+    {
+        "word": "Human Resources (Hr)",
+        "description": "人事部門(HR)は、従業員関係、採用、福祉、およびその他のHR機能を管理する組織内の部門です。"
+    },
+    {
+        "word": "Recruiter",
+        "description": "募集者は、組織内の就職オープニングのための候補者を見つける、誘致し、評価する責任を持つ個人です。"
+    },
+    {
+        "word": "Job Board",
+        "description": "就職ボードは、雇用主が就職オープニングを広告し、求職者が検索し、これらのポジションに適用できるウェブサイトまたはオンラインプラットフォームです。"
+    },
+    {
+        "word": "Passive Talent Pool",
+        "description": "被動的才能プールとは、現在就職機会を求めておらず、将来の就職機会に興味がある可能性のある潜在的な候補者のネットワークまたはデータベースを指します。"
+    },
+    {
+        "word": "Employment Screening",
+        "description": "雇用検査は、背景検査、参照検査、およびその他の評価を実施するプロセスで、候補者の仕事の適合性を検証します。"
+    },
+    {
+        "word": "Employment Value Proposition (Evp)",
+        "description": "Employment Value Proposition(EVP)は、組織が従業員に提供する利点、報酬、価値のユニークな組み合わせを指します。"
+    },
+    {
+        "word": "Pre-Employment Testing",
+        "description": "雇用前テストとは、候補者のスキル、知識、または適性を測定するために採用プロセス中に行われた評価または評価を指します。"
+    },
+    {
+        "word": "Job Requisition",
+        "description": "就職要請は、組織内の新たな就職のための採用プロセスを承認し、開始する正式な要請または文書です。"
+    },
+    {
+        "word": "Candidate Pool",
+        "description": "候補者プールは、組織が現在または将来の雇用オープンに利用できる潜在的な候補者のグループまたはデータベースを指します。"
+    },
+    {
+        "word": "Talent Management",
+        "description": "才能管理は、組織の現在および将来の労働力ニーズを満たすために才能のある個人を魅了し、開発し、保持するプロセスです。"
+    },
+    {
+        "word": "Employment Eligibility Verification (E-Verify)",
+        "description": "雇用資格検証(E-Verify)は、雇用主が新しく雇用された従業員の雇用資格を検証するために使用するインターネットベースのシステムです。"
+    },
+    {
+        "word": "Recruitment Metrics",
+        "description": "Recruitment Metrics は、募集プロセスの有効性と効率性を評価するために使用される測定可能な測定値、例えば、記入時間、雇用当たりのコスト、応募者対賃貸比率です。"
+    },
+    {
+        "word": "Job Offer",
+        "description": "雇用申し出は、雇用主が候補者に延長し、報酬、補償、開始日などの雇用条件を概説する公式の提案です。"
+    },
+    {
+        "word": "Succession Planning",
+        "description": "継続計画は、将来の重要なポジションを満たす可能性のある内部従業員の識別と開発のプロセスです。"
+    },
+    {
+        "word": "Candidate Assessment",
+        "description": "候補者評価は、特定の職務のための候補者の知識、スキル、能力、適合性を評価し、測定するプロセスです。"
+    },
+    {
+        "word": "Behavioral Interview",
+        "description": "行動インタビューは、将来のパフォーマンスを評価するために、過去の行動や経験について候補者に尋ねることに焦点を当てたインタビュー技術です。"
+    },
+    {
+        "word": "Remote Hiring",
+        "description": "遠隔雇用は、物理的なオフィスや場所ではなく、主に遠隔で働く従業員を雇用し、オンボードするプロセスを指します。"
+    },
+    {
+        "word": "Recruitment Funnel",
+        "description": "Talent Funnel または Hiring Funnel とも呼ばれる Recruitment Funnel は、候補者の調達から就職の申し出に至るまで、採用プロセスの段階を視覚的に表しています。"
+    },
+    {
+        "word": "Job Posting",
+        "description": "仕事のポストは、特定の仕事の詳細と要件を概要する公開発表または広告です。"
+    },
+    {
+        "word": "Employment Law",
+        "description": "雇用法は、雇用主と従業員の関係を規制する法的権利、義務、規制を指します。"
+    },
+    {
+        "word": "Talent Analytics",
+        "description": "Talent Analyticsは、データ分析と統計の応用で、才能の獲得と管理プロセスのさまざまな側面を理解し、改善します。"
+    },
+    {
+        "word": "Candidate Persona",
+        "description": "A Candidate Persona は、特定の仕事のための理想的な候補者、そのスキル、特性、および好みを含む、採用と調達の取り組みを指導するために使用される仮想的な表現です。"
+    },
+    {
+        "word": "Job Satisfaction",
+        "description": "仕事満足度は、仕事と全体的な仕事経験における個人の満足度と満足度のレベルを指します。"
+    },
+    {
+        "word": "Recruitment Strategy",
+        "description": "採用戦略は、組織の目標と労働力のニーズに沿って、トップの人材を引き付ける、関与させ、雇用するためのアプローチを概説する長期的な計画です。"
+    },
+    {
+        "word": "Employment Agreement",
+        "description": "雇用契約は、雇用者と従業員の間で法的に拘束力のある契約であり、雇用条件を定める。"
+    },
+    {
+        "word": "Competency-Based Interview",
+        "description": "能力ベースのインタビューは、特定の行動指標と仕事関連の能力に基づいて候補者のスキル、知識、能力を評価するインタビュー方法です。"
+    },
+    {
+        "word": "High-Potential Employees",
+        "description": "高い潜在能力の従業員は、将来のリーダーシップと成功のための能力と可能性を持っている組織内の個人を指します。"
+    },
+    {
+        "word": "Outplacement Services",
+        "description": "外部配置サービスとは、組織を離れる従業員に提供されるサポートと援助、通常は縮小または再編の結果である。"
+    },
+    {
+        "word": "Employment Engagement",
+        "description": "雇用関与とは、従業員が彼らの仕事と組織に対して持っている感情的接続、コミットメント、満足度のレベルを指します。"
+    },
+    {
+        "word": "Career Development",
+        "description": "キャリア開発は、個人がキャリアを管理し、新しいスキルを習得し、職業の中で進歩するのを助けるプロセスや活動を指します。"
+    },
+    {
+        "word": "Employment Contract",
+        "description": "雇用契約は、雇用者と従業員の間で法的に拘束力のある合意であり、雇用条件を概説する。"
+    },
+    {
+        "word": "Talent Pool Management",
+        "description": "Talent pool managementとは、将来の就職のための潜在的な候補者を識別し、関与させ、育成する体系的なプロセスを指します。"
+    },
+    {
+        "word": "Workforce Planning",
+        "description": "労働力計画は、組織の現在および将来の才能ニーズを分析し、それらのニーズを満たすための戦略を開発するプロセスです。"
+    },
+    {
+        "word": "Exit Interview",
+        "description": "外出面接は、組織を去ってフィードバックや洞察を収集するために従業員と行われる会議または会話です。"
+    },
+    {
+        "word": "Retention Rate",
+        "description": "保持率は、特定の期間、通常は1年間、組織に滞在する従業員の割合を測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "Employment Brand Ambassador",
+        "description": "雇用ブランド大使は、組織の雇用ブランドを代表し、促進する個人、しばしば従業員です。"
+    },
+    {
+        "word": "Job Rotation",
+        "description": "転職は、従業員が組織内のさまざまな役割や責任に割り当てられ、そのスキルや知識を向上させるための実践です。"
+    },
+    {
+        "word": "Talent Marketplace",
+        "description": "才能市場は、従業員が組織内で就職機会を探索し申請できるプラットフォームまたはシステムです。"
+    },
+    {
+        "word": "Competency Framework",
+        "description": "能力枠組みとは、特定の仕事の役割において効果的に行うために必要な定義された能力(知識、スキル、能力)の構造化されたセットです。"
+    },
+    {
+        "word": "Workforce Diversity",
+        "description": "労働力の多様性は、性別、年齢、民族、国籍、宗教、障害の状態などの要因を含む労働力の違いの範囲を指します。"
+    },
+    {
+        "word": "Applicant Tracking System",
+        "description": "応募者追跡システム(ATS)は、雇用者や雇用マネージャーが、就職ポスト、シリアルスクリーニング、応募者コミュニケーションを含む採用プロセスを管理し、簡素化するために使用するソフトウェアです。"
+    },
+    {
+        "word": "Resume Screening",
+        "description": "Resume Screening is the process of reviewing and evaluating resumes and applications to identify candidates who meet the required qualifications for a job. Resume Screening is the process of reviewing and evaluating resumes and applications to identify candidates who meet the required qualifications for a job. Resume Screening is the process of reviewing and evaluating resumes and applications to identify candidates who meet the required qualifications for a job."
+    },
+    {
+        "word": "Interview",
+        "description": "面接は、候補者の資格を評価し、就職に適していることを目的として、候補者と雇用主間の正式な会議または会話です。"
+    },
+    {
+        "word": "Employment Equity",
+        "description": "雇用平等は、すべての人々の公平性と雇用機会の平等を促進する原則である。"
+    },
+    {
+        "word": "Employee Referral Program",
+        "description": "Employee Referral Program is a formalized process that incentivizes and encourages employees to refer potential candidates for job openings within their organization. 従業員参照プログラムは、従業員が組織内の就職オープンに潜在的な候補者を参照することを奨励し、奨励する公式プロセスです。"
+    },
+    {
+        "word": "Employer Value Proposition",
+        "description": "Employer Value Proposition(EVP)とは、組織が従業員に提供するユニークな価値と利点を指し、他の雇用主と区別し、トップの才能を惹きつけます。"
+    },
+    {
+        "word": "Talent Pool",
+        "description": "才能プールは、組織のために働くことに興味を示した、または関連するスキルや資格を持っている潜在的な候補者のグループを指します。"
+    },
+    {
+        "word": "Employer Of Choice",
+        "description": "雇用主の選択は、そのポジティブな評判と従業員の利益のために、求職者によって高く評価され、好まれる組織です。"
+    },
+    {
+        "word": "Employer Interview",
+        "description": "雇用者インタビューは、組織が候補者と開催し、最終的な採用決定を下す前に彼らの資格、適応、期待を評価する会議です。"
+    },
+    {
+        "word": "Remote Work",
+        "description": "遠隔作業または遠隔作業とも呼ばれるリモートワークは、従業員がオフィス以外の場所、通常は自宅から職務を遂行する仕事の取り組みを指します。"
+    },
+    {
+        "word": "Employee Value Proposition",
+        "description": "Employee Value Proposition(EVP)とは、組織が従業員にそのスキル、才能、そしてコミットメントと引き換えに提供する利点、報酬、機会のユニークなセットです。"
+    },
+    {
+        "word": "Recruitment Process Outsourcing",
+        "description": "採用プロセスアウトソーシング(RPO)は、組織が外部プロバイダーとパートナーシップして、一部またはすべての採用活動を処理するビジネスソリューションです。"
+    },
+    {
+        "word": "Employee Engagement",
+        "description": "従業員の関与は、従業員が彼らの仕事と組織に対して持っている熱意、コミットメント、および動機づけのレベルを指します。"
+    },
+    {
+        "word": "Job Market",
+        "description": "雇用市場は、雇用機会と求職者の供給と需要の条件と傾向を指します。"
+    },
+    {
+        "word": "Employer Brand Perception",
+        "description": "Employer Brand Perceptionとは、潜在的な候補者や顧客などの外部の利害関係者が組織を雇用者として認識し評価する方法です。"
+    },
+    {
+        "word": "Retention Strategy",
+        "description": "保持戦略とは、長期的に従業員を関与し、満足し、組織にコミットすることを目的とした政策、実践、およびイニシアチブのセットです。"
+    },
+    {
+        "word": "Employee Benefits",
+        "description": "従業員の給与は、従業員の通常の給与に加えて、健康保険、退職計画、有給休暇などの給与以外の給与です。"
+    },
+    {
+        "word": "Employer Reputation",
+        "description": "Employer Brand Reputation また、Employer Brand Reputation とも呼ばれる雇用主の評判は、潜在的な候補者や現在の従業員の目に従業員としての組織の全体的な認識と評判です。"
+    },
+    {
+        "word": "Employee Turnover",
+        "description": "Employee Turnover または Staff Turnover または Employee Attrition とも呼ばれ、従業員が組織を去って置き換える必要がある割合です。"
+    },
+    {
+        "word": "Recruitment Automation",
+        "description": "Recruitment Automation は、募集プロセスのさまざまな側面を自動化し、簡素化するためのテクノロジーとツールの使用を指します、例えば、シリアルスクリーニング、面接のスケジュール、および候補者コミュニケーション。"
+    },
+    {
+        "word": "Talent Acquisition Strategy",
+        "description": "Talent Acquisition Strategyは、組織の目標と従業員のニーズに沿って、トップの才能を魅了し、関与させ、雇用する方法を概説する長期的な計画です。"
+    },
+    {
+        "word": "Employer Advocacy",
+        "description": "Employer Advocacyは、従業員の勧告や証言を通じて、雇用主として組織を積極的に支援し、促進する実践を指します。"
+    },
+    {
+        "word": "Outplacement",
+        "description": "Outplacementは、組織を離れる従業員を支援し、新しい雇用機会への移行を支援するために組織が提供するサービスであり、典型的にはキャリアコーチングや就職支援を通じて提供されます。"
+    },
+    {
+        "word": "Employer Brand Communication",
+        "description": "雇用者ブランドコミュニケーションは、組織が外部の観客に雇用者のブランドイメージ、価値観、雇用機会を伝えるために使用するさまざまな方法とチャネルを含みます。"
+    },
+    {
+        "word": "Job Analysis",
+        "description": "仕事分析は、特定の仕事の課題、義務、要件に関する情報を収集し、分析するプロセスです。"
+    },
+    {
+        "word": "Redeployment",
+        "description": "再配置は、組織内のさまざまな役割や部門に従業員を割り当てるプロセスであり、しばしば労働力の変化の時期に解雇または解雇の代替として使用されます。"
+    },
+    {
+        "word": "Human Resources Information System",
+        "description": "HRIS(Human Resources Information System)は、才能の獲得、従業員管理、およびHR分析を含むさまざまなHR機能を統合するソフトウェアソリューションです。"
+    },
+    {
+        "word": "Job Market Analysis",
+        "description": "雇用市場分析は、経済と労働市場のデータを研究し、分析し、特定の役割や産業における雇用需要、賃金の傾向、そして才能の利用可能性を評価します。"
+    },
+    {
+        "word": "Candidate Relationship Management",
+        "description": "Candidate Relationship Management(CRM)は、仕事を申請する前に、潜在的な候補者との関係を構築し、育てることに焦点を当てているアプローチとシステムです。"
+    },
+    {
+        "word": "Employer Brand Identity",
+        "description": "雇用者ブランドアイデンティティ(Employer Brand Identity)とは、組織が関与者にプロジェクトするユニークな個性、価値観、文化で、自分自身を区別し、最高の才能を引き付けることを目的としています。"
+    },
+    {
+        "word": "Employer Of Record",
+        "description": "Employer of Record (EOR) は、組織が従業員の給与、給与管理、およびその他のHR関連のタスクを処理するために、第三者雇用主とパートナーシップするアウトソーシングソリューションです。"
+    },
+    {
+        "word": "Resume",
+        "description": "レポートは、個人の教育、職業経験、スキル、資格の概要を提供する文書です。"
+    },
+    {
+        "word": "Candidate",
+        "description": "候補者は、仕事または職務のために検討されている個人を指します。"
+    },
+    {
+        "word": "Offer Letter",
+        "description": "申し込み手紙は、選択された候補者に提供される雇用条件を概要する正式な文書です。"
+    },
+    {
+        "word": "Recruitment Process",
+        "description": "採用プロセスは、雇用オープニングのための候補者を見つける、魅了し、選択に関わる一連のステップと活動です。"
+    },
+    {
+        "word": "Metrics",
+        "description": "メトリックは、才能の獲得戦略とプロセスの効果と効率性を評価し、追跡するために使用される測定可能なデータまたは指標です。"
+    },
+    {
+        "word": "Time To Hire",
+        "description": "Time to Hire は、組織が最初の投稿からオファーを受け入れる候補者まで、オファーを開くのにかかる時間です。"
+    },
+    {
+        "word": "Cost Per Hire",
+        "description": "雇用当たりのコストは、新しい従業員を雇用するために組織が発生する合計コストを測定するメトリックです。"
+    },
+    {
+        "word": "Employment Agency",
+        "description": "雇用代理店は、雇用主に採用および人事サービスを提供する会社または組織です。"
+    },
+    {
+        "word": "Virtual Interview",
+        "description": "仮想面接は、ビデオ会議やその他のオンラインコミュニケーションツールを使用して遠隔で行われた面接です。"
+    },
+    {
+        "word": "Job Fair",
+        "description": "雇用フェアは、雇用主と求職者が相互作用し、ネットワークを構築し、雇用機会を探索するイベントです。"
+    },
+    {
+        "word": "Employment Gap",
+        "description": "雇用格差とは、個人が雇用または仕事に従事していない期間を指します。"
+    },
+    {
+        "word": "Retention",
+        "description": "保持とは、組織が従業員を関与し、満足し、組織にコミットする能力を指します。"
+    },
+    {
+        "word": "Employment Visa",
+        "description": "雇用ビザは、外国人がその国で合法的に働くことを許可する国の移民当局によって発行された書類です。"
+    },
+    {
+        "word": "Employer Engagement",
+        "description": "雇用主の関与は、雇用主と教育機関または訓練プロバイダ間の相互作用と協力のレベルを指します。"
+    },
+    {
+        "word": "Workforce Analytics",
+        "description": "Workforce Analyticsは、データベースの意思決定を下し、従業員のパフォーマンスを向上させるために、HRおよび才能データを分析および解釈する実践です。"
+    },
+    {
+        "word": "Employment Termination",
+        "description": "雇用終了とは、雇用主と従業員の間の雇用関係の終了をいう。"
+    },
+    {
+        "word": "Flexible Work Arrangements",
+        "description": "柔軟なワークアウトは、従業員が労働時間や労働条件をよりよく制御できる代替的なワークスケジュールまたはアウトアウトを指します。"
+    },
+    {
+        "word": "Candidate Selection",
+        "description": "候補者選定は、応募者のプールから就職に最も有資格で適切な候補者を選択するプロセスを指します。"
+    },
+    {
+        "word": "Employment Benefits",
+        "description": "雇用補助金は、雇用主が従業員に提供する非賃金補助金、例えば健康保険、年金計画、有給休暇などです。"
+    },
+    {
+        "word": "Performance Management",
+        "description": "パフォーマンス管理は、目標を設定し、フィードバックを提供し、従業員のパフォーマンスと発展を評価するプロセスです。"
+    },
+    {
+        "word": "Candidate Pipeline",
+        "description": "候補者のパイプラインは、組織が将来の雇用開放のために利用できる潜在的な候補者のプールまたはデータベースを指します。"
+    },
+    {
+        "word": "Employment Standards",
+        "description": "雇用基準とは、政府が従業員の権利と利益を保護するために制定した法律、規制、要求事項を指します。"
+    },
+    {
+        "word": "On-Demand Staffing",
+        "description": "On-demand staffingは、短期または即時的なビジネスニーズを満たすために臨時労働者または条件労働者を雇用する実践を指します。"
+    },
+    {
+        "word": "Employee Handbook",
+        "description": "従業員マニュアルは、組織のポリシー、手順、および期待に関する情報を従業員に提供する文書です。"
+    }
+]

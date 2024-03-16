@@ -1,0 +1,426 @@
+[
+    {
+        "word": "Speech Recognition",
+        "description": "スピーチ認識は、機械やプログラムが話した言語を識別し、理解し、それを書かれたテキストに変換したり、その意味を解釈する能力です。"
+    },
+    {
+        "word": "Automatic Speech Recognition (Asr)",
+        "description": "ASR(Automatic Speech Recognition)は、スピーチ認識技術を使用して話した言語を書かれたテキストに変換するプロセスです。"
+    },
+    {
+        "word": "Acoustic Model",
+        "description": "Acoustic Model Acoustic Model Acoustic Model is a statistical representation of the relationship between the acoustic features of speech, such as phonemes or spectrums, and the corresponding linguistic units. 音声モデルは、音声やスペクトルなどの言語の音声特性とその関連する言語単位との関係を統計的に表します。"
+    },
+    {
+        "word": "Language Model",
+        "description": "言語モデルは、単語の連続の発生の確率を予測する統計モデルであり、言語の解釈と理解に役立つ。"
+    },
+    {
+        "word": "Hidden Markov Model (Hmm)",
+        "description": "Hidden Markov Model (HMM) は、観測可能なイベントの連続の確率分布を表すために使用される統計モデルで、これらのイベントを生成する潜在的状態は直接観測できない。"
+    },
+    {
+        "word": "Phoneme",
+        "description": "Phoneme は、特定の言語で一つの単語を別の単語から区別する音の最小単位です。"
+    },
+    {
+        "word": "Grapheme",
+        "description": "グラフームは、言語における書かれたシンボルの最も小さな有意義な単位です。"
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "機能抽出は、音声信号から関連性と差別性の特性を選択するプロセスです。"
+    },
+    {
+        "word": "Mel-Frequency Cepstral Coefficients (Mfccs)",
+        "description": "Mel-Frequency Cepstral Coefficients(MFCCs)は、スピーチ信号のパワースペクトルを表す、音声認識のための広く使用される機能です。"
+    },
+    {
+        "word": "Hidden Unit",
+        "description": "隠されたユニットは、入力を受信し、その出力を計算するために非線形変換を適用する人工ニューラルネットワークのノードです。"
+    },
+    {
+        "word": "Connectionist Temporal Classification (Ctc)",
+        "description": "Connectionist Temporal Classification (CTC) は、スピーチ認識モデルなどのセクション対セクションモデルのトレーニングに使用されるテクニックです。"
+    },
+    {
+        "word": "Deep Neural Networks (Dnns)",
+        "description": "Deep Neural Networks(DNNs)は、入力層と出力層の間の複数の層を持つ人工ニューラルネットワークのクラスです。"
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "Recurrent Neural Network (RNN) は、過去の入力に関する情報を保持することによって連続データを処理するために設計された人工神経ネットワークの一種です。"
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "LSTM(Long Short-Term Memory)は、消滅傾向の問題を解決するRNNアーキテクチャの一種です。"
+    },
+    {
+        "word": "Convolutional Neural Networks (Cnns)",
+        "description": "Convolutional Neural Networks (CNNs) は、画像および音声認識タスクに一般的に使用される深層学習モデルです。"
+    },
+    {
+        "word": "Speaker Verification",
+        "description": "スピーカー検証は、スピーカーの音声特性を保存された音声印と比較することによって、スピーカーの主張されたアイデンティティを認証または検証する作業です。"
+    },
+    {
+        "word": "Keyword Spotting",
+        "description": "Keyword Spottingは、オーディオレコーディング内の特定のキーワードやフレーズを識別し認識することに焦点を当てた音声認識技術です。"
+    },
+    {
+        "word": "Language Identification",
+        "description": "言語識別は、特定の言語またはテキストの言語を決定する作業です。"
+    },
+    {
+        "word": "Word Error Rate (Wer)",
+        "description": "Word Error Rate (WER) は、認識された出力における単語エラーの数を参照トランスクリプションと比較することで、音声認識システムの精度を測定するためのメトリックです。"
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A Confusion Matrix is a table used to evaluate the performance of a classification model, showing the number of true positive, true negative, false positive, and false negative predictions. 混乱マトリックスは、分類モデルのパフォーマンスを評価するために使用されるテーブルであり、真の肯定的な、真の陰性、偽の肯定的な、そして偽の陰性の予測の数を示します。"
+    },
+    {
+        "word": "Segmentation",
+        "description": "セグメントは、継続的な音声信号をより小さなセグメントに分割し、さらなる処理を容易にするプロセスです。"
+    },
+    {
+        "word": "Voice Activity Detection (Vad)",
+        "description": "音声活動検出(VAD)とは、音声信号に存在する、あるいは存在しない人間の言葉を検出する作業です。"
+    },
+    {
+        "word": "Noise Reduction",
+        "description": "騒音削減は、音声信号から望ましくない騒音を除去し、その品質を向上させるプロセスです。"
+    },
+    {
+        "word": "Keyword Extraction",
+        "description": "キーワード抽出は、スピーチやテキストから重要な単語やフレーズを識別し抽出するプロセスです。"
+    },
+    {
+        "word": "Phonetic Segmentation",
+        "description": "フォネティックセグメントは、音声信号をフォネティックユニット、例えばフォネムまたはシラブに分割するプロセスです。"
+    },
+    {
+        "word": "Spectrogram",
+        "description": "スペクトログラムは、時間の経過に伴うオーディオ信号の周波数コンテンツの視覚的表現です。"
+    },
+    {
+        "word": "Word Spotting",
+        "description": "Word Spotting は、大量の発音の集合内の特定の単語の発生を検索することを含むスピーチ認識のタスクです。"
+    },
+    {
+        "word": "Pitch Detection",
+        "description": "Pitch Detection は、感知されたピッチに対応するスピーチ信号の基本的な周波数を推定するプロセスです。"
+    },
+    {
+        "word": "Language Modeling",
+        "description": "言語モデリングは、特定の言語における単語の順序の確率を推定するプロセスです。"
+    },
+    {
+        "word": "Beam Search",
+        "description": "Beam Search は、音声認識で使用される検索アルゴリズムで、音声特性の順序に基づく最も確率の高い単語の順序を見つけるために使用されます。"
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch Normalizationは、各層の入力を正常化することによって深い神経ネットワークのトレーニングを改善するために使用される技術です。"
+    },
+    {
+        "word": "End-To-End Speech Recognition",
+        "description": "End-to-End Speech Recognition は、明示的な中間段階なしに、スピーチの音声特性を直接適切なテキスト出力にマッピングするアプローチです。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting は、機械学習モデルがトレーニングデータに対して過剰に最適化され、目に見えないデータや新しいデータに対して悪いパフォーマンスを有する場合に発生します。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting は、機械学習モデルがあまりにも単純で、または十分に訓練されていない場合に発生し、訓練と目に見えないデータの両方で不良なパフォーマンスを引き起こします。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "転送学習は、あるタスクから得た知識を別の関連タスクに適用する機械学習技術で、しばしばパフォーマンスを向上させ、トレーニングデータ要件を減らす。"
+    },
+    {
+        "word": "Word Boundary Detection",
+        "description": "Word Boundary Detection は、音声信号の単語間の境界を特定する作業です。"
+    },
+    {
+        "word": "Noise Robustness",
+        "description": "騒音の強度は、バックグラウンドの騒音や不利な音声条件の存在でさえ、音認識システムが正確にパフォーマンスする能力を指します。"
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation は、既存のデータに変換や修正を適用することによって、トレーニングセットのサイズを人工的に増やすためのテクニックです。"
+    },
+    {
+        "word": "Perplexity",
+        "description": "Perplexity は、言語モデルのパフォーマンスを評価するために使用されるメトリックで、単語の順序をどれだけよく予測するかを測定します。"
+    },
+    {
+        "word": "Neural Network Architecture",
+        "description": "ニューラルネットワークアーキテクチャは、層とノードの数と配置を含むニューラルネットワークの設計と構造を指します。"
+    },
+    {
+        "word": "Zero Padding",
+        "description": "Zero Padding は、セクションの開始または終了時にゼロを加えることで、連続データの長さを増やすためのテクニックです。"
+    },
+    {
+        "word": "Attention Mechanism",
+        "description": "注意メカニズムは、モデルが処理中に入力シーケンスの異なる部分に焦点を当てることを可能にするニューラルネットワークアーキテクチャのコンポーネントです。"
+    },
+    {
+        "word": "Speaker Diarization",
+        "description": "Speaker Diarization は、オーディオ録音中の個々のスピーカーを分割し、識別するプロセスです。"
+    },
+    {
+        "word": "Mel Scale",
+        "description": "Mel Scale は、異なる周波数に対する人間の耳の反応を比較するピッチの感覚スケールです。"
+    },
+    {
+        "word": "Fbank Features",
+        "description": "ログフィルターバンクエネルギーとも呼ばれるFbank Featuresは、音声信号の周波数コンテンツをキャプチャする音声認識のための一般的に使用される機能です。"
+    },
+    {
+        "word": "Subword Units",
+        "description": "サブワードユニットは、サブワードや文字Nグラムなどの単語よりも小さい言語単位です。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "Unsupervised Learning は、モデルが明示的な入力出力カップルなしに、ラベルされていないデータのパターンや構造を学習する機械学習アプローチです。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning は、モデルがラベル化されたデータから学び、入力出力カップルに基づいて予測や分類を行う機械学習アプローチです。"
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "Data Preprocessing は、機械学習モデルを訓練するために使用される前にデータをクリーニング、変換、標準化するプロセスです。"
+    },
+    {
+        "word": "Voice Command Recognition",
+        "description": "音声コマンド認識は、通常、音声コントロールシステムで使用される音声コマンドまたは指示を認識する作業です。"
+    },
+    {
+        "word": "Speaker Adaptation",
+        "description": "スピーカー適応は、個々のスピーカーの音声特性とスピーカーパターンを認識するためのスピーカー認識システムをカスタマイズするプロセスです。"
+    },
+    {
+        "word": "Gaussian Mixture Model (Gmm)",
+        "description": "Gaussian Mixture Model(GMM)は、音声認識における音声特性の分布を表すための統計モデルです。"
+    },
+    {
+        "word": "Neural Language Model",
+        "description": "ニューラル言語モデルは、ニューラルネットワークアーキテクチャに基づく言語モデルの一種です。"
+    },
+    {
+        "word": "Neural Turing Machine (Ntm)",
+        "description": "ニューラル・チューリング・マシン(NTM)は、より複雑な計算を可能にするために外部メモリとコントローラを組み合わせたニューラル・ネットワークアーキテクチャです。"
+    },
+    {
+        "word": "Deep Belief Networks (Dbns)",
+        "description": "Deep Belief Networks (DBNs) は、制限されたボルツマンの機械の階層構成に基づく深層学習モデルのクラスです。"
+    },
+    {
+        "word": "Contextual Bandits",
+        "description": "Contextual Bandits は、エージェントが過去の経験や報酬に基づいて、各文脈で行う最善の行動を学ぶことを試みる強化学習の種類です。"
+    },
+    {
+        "word": "Encoder-Decoder Architecture",
+        "description": "Encoder-Decoder Architecture は、エンコーダーが入力を処理し、デコーダーが出力を生成する神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Streaming Speech Recognition",
+        "description": "Streaming Speech Recognition は、ストリーミングオーディオデータ上でリアルタイムの音声認識を実行する作業です。"
+    },
+    {
+        "word": "Multilingual Speech Recognition",
+        "description": "多言語会話認識は、複数の言語での会話を認識し、書き換えるための会話認識システムの能力です。"
+    },
+    {
+        "word": "Distant Speech Recognition",
+        "description": "Distant Speech Recognition は、騒々しい環境や遠隔ミクロフォンなど、遠隔でキャプチャされたスピーチを認識する作業です。"
+    },
+    {
+        "word": "Multimodal Speech Recognition",
+        "description": "Multimodal Speech Recognitionは、音声データや視覚データなどの複数の形態からの情報を組み合わせ、音声認識のパフォーマンスを向上させます。"
+    },
+    {
+        "word": "Zero-Crossing Rate",
+        "description": "Zero-Crossing Rate は、音声およびオーディオ処理で、信号がそのシグナルを変更する速度を推定するために使用される機能です。"
+    },
+    {
+        "word": "Artificial Neural Networks (Anns)",
+        "description": "人工ニューラルネットワーク(ANNs)は、複雑な問題を解決するために使用される生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Language Transfer",
+        "description": "言語移転とは、一言語が他の言語の取得または使用に及ぼす影響であり、しばしば類似性や移転ミスにつながる。"
+    },
+    {
+        "word": "Robustness",
+        "description": "音声認識の強度は、騒音、アクセント、または背景干渉などのさまざまな困難な条件下で高精度を維持するシステムの能力を指します。"
+    },
+    {
+        "word": "Adversarial Examples",
+        "description": "Adversarial Examples は、AI システムを誤導または欺くように意図的に設計されたインプットであり、しばしば入力データに慎重に設計された干渉を追加することによってです。"
+    },
+    {
+        "word": "Phone Recognition",
+        "description": "電話認識は、特定のスピーチ信号の音声または音声を認識するタスクです。"
+    },
+    {
+        "word": "Word Embeddings",
+        "description": "Word Embeddings は、通常、Word2Vec または GloVe などのテキスト データの大量から学ぶ単語の密集したベクトル表示です。"
+    },
+    {
+        "word": "Knowledge Distillation",
+        "description": "知識蒸留は、より小さい、より軽いモデル(学生)を訓練するために使用される技術で、より大きな、より正確なモデル(教師)をガイドとして使用します。"
+    },
+    {
+        "word": "Meta-Learning",
+        "description": "学習することを学ぶとも呼ばれるメタ学習は、自動的な機械学習アルゴリズムの設計のアルゴリズムと技術に焦点を当てている機械学習の分野です。"
+    },
+    {
+        "word": "Language Resources",
+        "description": "言語リソースは、テキストやオーディオ・コーポラなどの言語データのコレクションであり、言語技術の訓練と評価に使用されます。"
+    },
+    {
+        "word": "Audio Signal Processing",
+        "description": "オーディオ信号処理は、有意義な情報を抽出したり、オーディオ品質を向上させるために、オーディオ信号の操作、分析、解釈です。"
+    },
+    {
+        "word": "Mel Frequency Cepstral Coefficients (Mfcc)",
+        "description": "Mel Frequency Cepstral Coefficients(MFCC)は、スピーチのスペクトル特性を表すために広く使用される機能抽出技術です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つ人工ニューラルネットワークを使用して、複雑なパターンやデータ表現をモデル化し、理解するAIのサブフィールドです。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、人間の脳の構造と機能にインスピレーションを与えた計算モデルであり、相互接続された人工ニューロンで構成されています。"
+    },
+    {
+        "word": "Epoch",
+        "description": "機械学習では、Epoch はトレーニングデータセットの完全なイテレーションを指します。"
+    },
+    {
+        "word": "Noise Cancellation",
+        "description": "ノイズキャンセルは、音声信号の不要なバックグラウンドノイズを削減または排除するプロセスで、スピーチの理解性を向上させます。"
+    },
+    {
+        "word": "Beamforming",
+        "description": "Beamformingは、特定の音源に焦点を当てたマイクロフォンの方向感度を高めるために使用される信号処理技術です。"
+    },
+    {
+        "word": "Pitch",
+        "description": "ピッチとは、音の感知された周波数またはトーンを指し、音が高いか低いかを決定する。"
+    },
+    {
+        "word": "Formants",
+        "description": "Formantsは、人間のスピーチの音質とテンブラに貢献する声道の共鳴周波数です。"
+    },
+    {
+        "word": "F0 (Fundamental Frequency)",
+        "description": "F0 or Fundamental Frequency is the lowest frequency in the harmonic series of a periodic sound waveform, corresponding to the perceived pitch of a voice. F0 or Fundamental Frequency is the lowest frequency in the harmonic series of a periodic sound waveform, corresponding to the perceived pitch of a voice. F0 or Fundamental Frequency is the lowest frequency in the harmonic series of a periodic sound waveform, corresponding to the perceived pitch of a voice."
+    },
+    {
+        "word": "Decoding",
+        "description": "デコーディングは、発音の音声特性を言語単位または単語にマッピングするプロセスで、発音認識システムを使用します。"
+    },
+    {
+        "word": "Triphone",
+        "description": "トリフォンは、周囲のフォネティック・コンテキストの影響を考慮し、3つのフォネムで構成される文脈依存型スピーチユニットです。"
+    },
+    {
+        "word": "Deep Neural Network (Dnn)",
+        "description": "深層ニューラルネットワーク(DNN)は、複数の隠された層を持つ人工ニューラルネットワークで、さまざまな音声認識タスクに使用されます。"
+    },
+    {
+        "word": "Lstm (Long Short-Term Memory)",
+        "description": "LSTM(Long Short-Term Memory)は、セクションデータを処理し、モデル化するために特別に設計された再現性ニューラルネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Gmm (Gaussian Mixture Models)",
+        "description": "GMM(Gaussian Mixture Models)は、しばしば音声モデリングのための音声認識に使用される観測のセットの確率分布を表すために使用される統計モデルです。"
+    },
+    {
+        "word": "Asr System",
+        "description": "ASRシステムは、音声モデリング、言語モデリング、デコードなどのコンポーネントを含む完全な音声認識システムです。"
+    },
+    {
+        "word": "Dictation System",
+        "description": "Dictation System は、口頭言語を書かれたテキストに変換するために特別に設計された音声認識システムです。"
+    },
+    {
+        "word": "Wake Word",
+        "description": "Wake Word は、音声コントロールされたシステムまたは仮想アシスタント、例えば「Hey Siri」または「Alexa」を有効にする特定のトリガー単語またはフレーズです。"
+    },
+    {
+        "word": "Grammar-Based Recognition",
+        "description": "Grammar-Based Recognition は、言語認識のプロセスを制限するために事前定義されたルールや文法構造を使用する言語認識のアプローチです。"
+    },
+    {
+        "word": "Statistical Language Model (Slm)",
+        "description": "統計言語モデル(SLM)は、テキストの統計特性に基づく言語モデルで、単語の順序の確率を推定するために使用される。"
+    },
+    {
+        "word": "Mel Spectrogram",
+        "description": "A Mel Spectrogram is a spectrogram representation of an audio signal in which the frequency scale is transformed to better correspond with human perception of sound. Mel Spectrogram is a spectrogram representation of an audio signal in which the frequency scale is transformed to better correspond with human perception of sound. Mel Spectrogram is a spectrogram representation of an audio signal in which the frequency scale is transformed to better correspond with human perception of sound."
+    },
+    {
+        "word": "Artificial Neural Network (Ann)",
+        "description": "人工ニューラルネットワーク(ANN)は、生物学的ニューラルネットワークの構造と機能を自由にシミュレートする計算モデルです。"
+    },
+    {
+        "word": "Keyword Detection",
+        "description": "キーワード検出は、音声データの特定のキーワードまたはフレーズを識別するタスクであり、音声制御デバイスなどのアプリケーションで頻繁に使用されます。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、コンピュータに明示的にプログラミングされずに経験から学び、改善する能力を与える研究分野です。"
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learningは、ラベル化されたデータとラベル化されていないデータを組み合わせた機械学習アプローチで、両方のタイプのデータの利点を活用してモデルを訓練します。"
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagationは、予測された出力とターゲット出力の間のエラーに基づいて重量と偏見を調整する人工神経ネットワークの訓練に使用されるアルゴリズムです。"
+    },
+    {
+        "word": "Continuous Speech Recognition",
+        "description": "Continuous Speech Recognition(Continuous Speech Recognition)は、リアルタイムのトランスクリプションや独裁システムで頻繁に使用される継続的なストリームで言語を認識する能力です。"
+    },
+    {
+        "word": "Denoising Autoencoder",
+        "description": "Denoising Autoencoder は、監督されていない学習に使用される人工ニューラルネットワークの一種で、入力データから騒音を除去することを学習します。"
+    },
+    {
+        "word": "Noise Adaptation",
+        "description": "ノイズ適応は、特定の種類のノイズや音声条件の存在でうまく機能するように、スピーチ認識システムを適応させるプロセスです。"
+    },
+    {
+        "word": "Context-Dependent Modeling",
+        "description": "Context-Dependent Modeling in speech recognition refers to modeling the relationship between phonemes and their acoustic realization, taking into account the surrounding phonetic context. 会話認識における文脈依存モデリングは、音声とその音声的実現の間の関係をモデリングし、周囲の音声的文脈を考慮に入れることを指します。"
+    },
+    {
+        "word": "Sphinx",
+        "description": "Sphinx は Carnegie Mellon University によって作成された人気のあるオープンソースの音声認識ツールキットで、音声認識システムを開発するためのツールとライブラリを提供しています。"
+    },
+    {
+        "word": "End-Point Detection (Epd)",
+        "description": "エンドポイント検出(EPD)は、音声信号内のスピーチセグメントの出発点と終了点を検出する作業であり、さまざまな音声認識アプリケーションで有用です。"
+    },
+    {
+        "word": "Word-Level Alignment",
+        "description": "Word-Level Alignment is the task of aligning words in a recognized transcription with their corresponding words in the reference transcription, often used in evaluating the performance of a speech recognition system. Word-level alignment is the task of aligning words in a recognized transcription with their corresponding words in the reference transcription, often used in evaluating the performance of a speech recognition system. Word-level alignment is the task of aligning words in a recognized transcription with their corresponding words in the reference transcription."
+    },
+    {
+        "word": "Noise Suppression",
+        "description": "騒音抑制は、音声信号の背景騒音を減らすプロセスで、音声の理解性と品質を向上させます。"
+    },
+    {
+        "word": "Context-Independent Modeling",
+        "description": "Context-Independent Modeling in speech recognition refers to modeling phonemes or speech units without considering their surrounding phonetic context. 言語認識における文脈独立モデリングは、それらの周囲の音声文的文脈を考慮せずに音声または言語単位をモデリングすることを指します。"
+    }
+]

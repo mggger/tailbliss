@@ -1,0 +1,490 @@
+[
+    {
+        "word": "Ota",
+        "description": "OTA stands for Online Travel Agency. It is a website or online platform that allows customers to book various travel-related services, such as flights, hotels, car rentals, and tours, all in one place."
+    },
+    {
+        "word": "Gds",
+        "description": "GDS stands for Global Distribution System. It is a network/platform used by travel agents and online travel agencies to access real-time inventory and availability of flights, hotels, car rentals, and other travel-related services. GDSs facilitate the booking and reservation process."
+    },
+    {
+        "word": "Metasearch",
+        "description": "Metasearch is a type of search engine that aggregates travel information from various sources, allowing users to compare prices and make bookings."
+    },
+    {
+        "word": "Api",
+        "description": "An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate and interact with each other."
+    },
+    {
+        "word": "Iata",
+        "description": "IATA stands for International Air Transport Association. It is a global trade association representing airlines and the air transport industry. IATA develops industry standards, provides support services, and promotes safe and efficient air travel."
+    },
+    {
+        "word": "Orbitz",
+        "description": "Orbitz is an online travel agency that provides a platform for users to book flights, hotels, car rentals, and vacation packages."
+    },
+    {
+        "word": "Pms",
+        "description": "PMS stands for Property Management System. It is a software application used by hotels and accommodation providers to manage operations, reservations, guest information, and other aspects of property management. PMSs enable efficient management and automation of hotel processes."
+    },
+    {
+        "word": "Crs",
+        "description": "Central Reservation System (CRS) is a computerized system used by hotels and other properties to manage and distribute room inventory to various channels, such as OTAs and GDSs."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed ledger technology that allows parties to securely and transparently record and verify transactions."
+    },
+    {
+        "word": "B2B",
+        "description": "Business-to-Business (B2B) refers to transactions and interactions between businesses, such as a hotel selling rooms to a travel agency."
+    },
+    {
+        "word": "B2C",
+        "description": "Business-to-Consumer (B2C) refers to transactions and interactions between a business and individual consumers, such as a hotel selling rooms directly to travelers."
+    },
+    {
+        "word": "Saas",
+        "description": "Software-as-a-Service (SaaS) is a software delivery model where applications are hosted by a provider and accessed by users over the internet."
+    },
+    {
+        "word": "Crm",
+        "description": "Customer Relationship Management (CRM) is a strategy and technology used by businesses to manage interactions and relationships with customers."
+    },
+    {
+        "word": "Upsell",
+        "description": "Upselling is a sales technique where a business encourages customers to purchase a higher-priced product or upgrade to a more premium offering."
+    },
+    {
+        "word": "Geolocation",
+        "description": "Geolocation is the identification or estimation of the real-world geographic location of an object, such as a mobile device or internet-connected computer terminal."
+    },
+    {
+        "word": "Ux",
+        "description": "User Experience (UX) refers to how users perceive and interact with a product, system, or service, including its usability, accessibility, and overall satisfaction."
+    },
+    {
+        "word": "Mobile App",
+        "description": "A mobile app is a software application designed to run on mobile devices such as smartphones or tablets."
+    },
+    {
+        "word": "Ai",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Ml",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Ar",
+        "description": "AR stands for Augmented Reality. It is a technology that overlays digital information, such as images, videos, or 3D models, onto the real world, enhancing the user's perception and interaction with the physical environment. In traveltech, AR can be used for virtual tours, navigation, and enhancing the travel experience."
+    },
+    {
+        "word": "Vr",
+        "description": "VR stands for Virtual Reality. It is a technology that immerses users in a computer-generated environment, simulating their physical presence and allowing them to interact with the virtual world. In traveltech, VR can be used for virtual tours, destination previews, and marketing experiences."
+    },
+    {
+        "word": "Chatbot",
+        "description": "A chatbot is a computer program designed to simulate conversation with human users, typically through text or voice interactions."
+    },
+    {
+        "word": "Nlp",
+        "description": "Natural Language Processing (NLP) is a branch of AI that focuses on the interaction between computers and humans using natural language."
+    },
+    {
+        "word": "Rpa",
+        "description": "Robotic Process Automation (RPA) is the use of software robots or artificial intelligence workers to automate repetitive tasks and processes."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big Data refers to extremely large and complex data sets that cannot be easily managed, processed, or analyzed using traditional data processing techniques."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud Computing refers to the delivery of computing services, including storage, servers, and software, over the internet."
+    },
+    {
+        "word": "Iot",
+        "description": "IoT stands for Internet of Things. It involves connecting physical objects or devices to the internet and enabling them to collect and exchange data. In traveltech, IoT can be used for smart hotel rooms, luggage tracking, and real-time monitoring of travel infrastructure."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity refers to the practice of protecting computer systems, networks, and data from digital attacks and unauthorized access."
+    },
+    {
+        "word": "Revenue Management",
+        "description": "Revenue management in traveltech refers to the strategic pricing and inventory optimization techniques used by hotels, airlines, and other travel providers to maximize revenue and profitability. It involves analyzing market demand, competitor pricing, and customer behavior to make data-driven pricing decisions."
+    },
+    {
+        "word": "Personalization",
+        "description": "Personalization involves tailoring products, services, or experiences to meet the specific needs and preferences of individual users."
+    },
+    {
+        "word": "Online Check-In",
+        "description": "Online Check-in is a service offered by airlines and hotels that allows customers to check-in for flights or hotel stays via the internet."
+    },
+    {
+        "word": "Dynamic Pricing",
+        "description": "Dynamic Pricing is a pricing strategy that involves adjusting prices in real-time based on factors such as demand, competition, and inventory levels."
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamification is the application of game design elements and principles in non-game contexts to engage and motivate users."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics involves using historical and current data to make predictions or forecasts about future events or outcomes."
+    },
+    {
+        "word": "Robotics",
+        "description": "Robotics is the branch of technology that deals with the design, construction, operation, and use of robots to perform tasks and automate processes."
+    },
+    {
+        "word": "Reservations System",
+        "description": "A Reservations System is a software application used by hotels, airlines, and other businesses to manage and track reservations and bookings."
+    },
+    {
+        "word": "Reviews And Ratings",
+        "description": "Reviews and Ratings are feedback and scores given by customers to hotels, restaurants, and other businesses based on their experience."
+    },
+    {
+        "word": "Social Media Marketing",
+        "description": "Social Media Marketing refers to the use of social media platforms to promote products, services, or brands and engage with customers."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "An Artificial Neural Network (ANN) is a computational model inspired by the structure and function of biological neural networks, used for pattern recognition and machine learning."
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "Cloud Storage refers to the storage of data on remote servers accessed via the internet, offering scalability, accessibility, and backup capabilities."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data Privacy involves the protection of personal information and ensuring that individuals have control over how their data is collected, used, and shared."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet."
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "Digital Marketing encompasses various online marketing strategies and tactics to promote products, services, or brands and reach target audiences."
+    },
+    {
+        "word": "Api Integration",
+        "description": "API integration refers to the process of connecting and combining multiple systems, platforms, or applications through APIs to enable data exchange, functionality sharing, and seamless workflows. In traveltech, API integration allows for efficient and scalable connectivity between travel providers and intermediaries."
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencing is a location-based service that uses GPS or RFID technology to define virtual boundaries or perimeters, allowing for automated actions or notifications when a device enters or exits the specified area."
+    },
+    {
+        "word": "Open Source",
+        "description": "Open Source refers to software that is freely available for use, modification, and distribution, with its source code accessible to the public."
+    },
+    {
+        "word": "Digital Wallet",
+        "description": "A Digital Wallet is a software application that allows users to store and manage digital currency, such as cryptocurrencies, and make electronic transactions."
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "Smart Contracts are self-executing contracts with the terms of the agreement directly written into code, automatically enforcing the terms and facilitating transactions."
+    },
+    {
+        "word": "Business Intelligence",
+        "description": "Business Intelligence (BI) refers to the technologies, applications, and practices used to collect, integrate, analyze, and present business information and insights. In traveltech, BI is used to improve decision-making, performance monitoring, and operational efficiency."
+    },
+    {
+        "word": "Location-Based Services",
+        "description": "Location-Based Services (LBS) are services that utilize the location of a device or user to provide relevant information, recommendations, or functionality."
+    },
+    {
+        "word": "Crowdsourcing",
+        "description": "Crowdsourcing is the practice of obtaining ideas, services, or content by soliciting contributions from a large group of people, typically via the internet."
+    },
+    {
+        "word": "Internet Connectivity",
+        "description": "Internet Connectivity refers to the ability to access and connect to the internet using various devices, methods, and technologies."
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "Digital Transformation refers to the integration of digital technologies into various aspects of business processes to fundamentally change how they operate and deliver value to customers."
+    },
+    {
+        "word": "Fintech",
+        "description": "Fintech, or financial technology, is an industry that encompasses the use of technology to deliver financial services and improve financial processes."
+    },
+    {
+        "word": "Api Marketplace",
+        "description": "An API Marketplace is a platform that enables the discovery, distribution, and management of APIs, allowing developers to find and use APIs for their applications."
+    },
+    {
+        "word": "Sustainability",
+        "description": "Sustainability is the practice of using resources in a way that meets present needs without compromising the ability of future generations to meet their own needs."
+    },
+    {
+        "word": "Traveltech",
+        "description": "Traveltech refers to the use of technology in the travel industry to enhance and improve various aspects of travel experiences."
+    },
+    {
+        "word": "Metasearch Engine",
+        "description": "A Metasearch Engine is a search tool that retrieves information from multiple online sources and presents the results in a single consolidated list."
+    },
+    {
+        "word": "Dynamic Packaging",
+        "description": "Dynamic packaging is a travel technology that enables customers to create personalized travel packages by combining different elements such as flights, accommodation, and activities. It allows for flexibility and customization in travel arrangements."
+    },
+    {
+        "word": "Ndc",
+        "description": "NDC stands for New Distribution Capability. It is a travel industry-supported program that aims to modernize airline distribution by enabling airlines to deliver rich and personalized content directly to travel agencies and intermediaries through APIs."
+    },
+    {
+        "word": "Biometrics",
+        "description": "Biometrics is the measurement and analysis of unique physical or behavioral characteristics, such as fingerprints, facial recognition, and iris scans, for identification and authentication purposes. In traveltech, biometrics can be used for streamlined airport security, seamless check-ins, and fast-track immigration processes."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that involves the development of algorithms that can learn and make predictions or decisions without being explicitly programmed."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics is the process of examining large and complex data sets to uncover patterns, trends, and insights that can be used to make informed business decisions. In traveltech, data analytics is used for customer segmentation, marketing optimization, and operational efficiency improvement."
+    },
+    {
+        "word": "Smart Tourism Destination",
+        "description": "A smart tourism destination is a location that leverages technology and data to enhance the overall experience for tourists. It involves the integration of various technologies, such as IoT, data analytics, and mobile apps, to provide smart services, attractions, and infrastructure."
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "A virtual assistant is a software program or AI-powered system that provides assistance and performs tasks on behalf of users. In traveltech, virtual assistants can help travelers with itinerary planning, booking management, real-time information, and personalized recommendations."
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "Robotic Process Automation (RPA) is the use of software robots or automation tools to automate repetitive and rule-based tasks. In traveltech, RPA can be used for automating back-office operations, data entry, and invoice processing."
+    },
+    {
+        "word": "Smart Luggage",
+        "description": "Smart Luggage refers to suitcases or bags equipped with technology, such as GPS tracking, built-in scales, or USB charging ports, to enhance convenience and security."
+    },
+    {
+        "word": "Wi-Fi",
+        "description": "Wi-Fi is a wireless communication technology that allows electronic devices to connect to the internet or communicate with each other without the need for physical wired connections. In traveltech, Wi-Fi is provided in hotels, airports, and public spaces to enable internet access for travelers."
+    },
+    {
+        "word": "Api Economy",
+        "description": "API economy refers to the framework and ecosystem created by the widespread adoption and use of APIs in various industries. In traveltech, the API economy enables seamless integration, data sharing, and collaboration between travel providers, intermediaries, and technology platforms."
+    },
+    {
+        "word": "Digital Identity",
+        "description": "Digital identity refers to the online representation of an individual's unique identity and personal information. In traveltech, digital identity technologies, such as biometrics and blockchain, can be used to enhance security, streamline authentication processes, and protect personal data."
+    },
+    {
+        "word": "Smart Card",
+        "description": "A smart card is a plastic card embedded with a microchip or integrated circuit that can store and process data. In traveltech, smart cards, such as contactless payment cards or travel passes, can be used for secure and convenient transactions, access control, and ticketing."
+    },
+    {
+        "word": "Api Management",
+        "description": "API management refers to the processes, policies, and tools used to create, secure, monitor, and govern APIs throughout their lifecycle. In traveltech, API management ensures the smooth and secure operation of APIs, enabling efficient data exchange and interaction between systems."
+    },
+    {
+        "word": "E-Ticketing",
+        "description": "E-ticketing is the electronic ticketing system used for booking and issuing tickets for flights, trains, and other forms of transportation. It eliminates the need for physical tickets and provides travelers with electronic confirmation and boarding passes."
+    },
+    {
+        "word": "Booking Engine",
+        "description": "A booking engine is a software application or platform that allows customers to search, select, and book travel-related services, such as flights, hotels, rental cars, and activities. It provides a user-friendly interface and facilitates the secure processing of bookings and payments."
+    },
+    {
+        "word": "Revenue Per Available Room (Revpar)",
+        "description": "Revenue Per Available Room (RevPAR) is a key performance metric used in the hotel industry to measure the average revenue generated per available room during a specific period. It is calculated by dividing the total room revenue by the number of available rooms."
+    },
+    {
+        "word": "Direct Booking",
+        "description": "Direct booking refers to the process of customers making reservations or purchases directly from a hotel or travel provider, bypassing third-party intermediaries, such as online travel agencies. It allows businesses to have a direct relationship with their customers and retain a higher share of revenue."
+    },
+    {
+        "word": "Fare Aggregator",
+        "description": "A fare aggregator is a website or platform that collects and displays fares and prices from various airlines, online travel agencies, and other sources. It allows users to compare and find the best available fares for flights, helping them save time and money."
+    },
+    {
+        "word": "Net Promoter Score (Nps)",
+        "description": "Net Promoter Score (NPS) is a customer loyalty and satisfaction metric that measures the likelihood of customers recommending a company or brand to others. It is based on a scale of 0 to 10 and provides insights into customer sentiment and advocacy."
+    },
+    {
+        "word": "Upselling",
+        "description": "Upselling is a sales technique where customers are offered additional or upgraded products, services, or features to increase their spending or enhance their overall experience. In traveltech, upselling can be used by hotels, airlines, and car rental companies to generate additional revenue."
+    },
+    {
+        "word": "Loyalty Program",
+        "description": "A loyalty program is a marketing strategy used by travel providers to reward and incentivize customers for their repeat business and loyalty. It typically involves offering benefits, discounts, rewards, and exclusive privileges to program members."
+    },
+    {
+        "word": "Travel Management Platform",
+        "description": "A travel management platform is a software application or system used by businesses or travel managers to streamline and manage corporate travel processes, including bookings, policies, expense management, and reporting. It enables organizations to control and optimize their travel spend."
+    },
+    {
+        "word": "Travel Risk Management",
+        "description": "Travel risk management refers to the proactive measures and strategies implemented by organizations to identify, assess, mitigate, and manage risks associated with business travel. It includes traveler safety, security, and emergency response protocols."
+    },
+    {
+        "word": "Ota Commissions",
+        "description": "OTA commissions refer to the fees or commissions paid by hotels and other travel providers to online travel agencies for the bookings made through their platforms. OTA commissions are typically based on a percentage of the booking value."
+    },
+    {
+        "word": "Destination Management System (Dms)",
+        "description": "A destination management system (DMS) is a software platform used by tourism organizations or destination marketing organizations to manage and promote a specific destination. It includes features for content management, bookings, marketing, and visitor information."
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "A payment gateway is a secure online service that authorizes and processes payments for e-commerce transactions. In traveltech, payment gateways enable secure and convenient processing of customer payments for travel-related services."
+    },
+    {
+        "word": "Multi-Channel Distribution",
+        "description": "Multi-channel distribution refers to the practice of distributing and selling travel products through multiple channels, such as online travel agencies, direct booking websites, call centers, and offline travel agents. It allows travel providers to reach a wider audience and maximize sales opportunities."
+    },
+    {
+        "word": "Content Management System (Cms)",
+        "description": "A content management system (CMS) is a software application used to create, manage, and update digital content, such as website pages, blog posts, images, and videos. In traveltech, CMSs are used to publish and manage travel-related content and information."
+    },
+    {
+        "word": "Mobile Check-In",
+        "description": "Mobile Check-in is the process of checking in for a flight, hotel, or other travel-related service using a mobile device."
+    },
+    {
+        "word": "Eco-Tourism",
+        "description": "Eco-tourism refers to responsible travel that conserves the environment, supports local communities, and promotes sustainable practices. In traveltech, eco-tourism initiatives can be supported and promoted through digital platforms, education, and awareness."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) refers to the overall experience and satisfaction that users have when interacting with a website, app, or digital product. In traveltech, UX design focuses on creating intuitive, user-friendly, and visually appealing interfaces to enhance the travel experience."
+    },
+    {
+        "word": "Sustainable Tourism",
+        "description": "Sustainable tourism refers to environmentally and socially responsible travel practices that minimize negative impacts on the environment and local communities while maximizing socio-cultural and economic benefits. In traveltech, sustainable tourism initiatives can be supported and promoted through technology-enabled solutions and education."
+    },
+    {
+        "word": "Mobile Wallet",
+        "description": "A mobile wallet is a digital wallet application that allows users to store, manage, and make payments using their mobile devices. In traveltech, mobile wallets provide a secure and convenient way for travelers to make transactions and access travel services."
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the representation of data in a visual or graphical format to aid understanding and derive insights."
+    },
+    {
+        "word": "Analytics",
+        "description": "Analytics refers to the systematic exploration and interpretation of data to uncover insights and support data-driven decision-making."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "Internet of Things (IoT) refers to the network of interconnected physical devices embedded with sensors, software, and other technologies to enable them to exchange data."
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) is a simulated experience that can be similar to or completely different from the real world, created using computer technology."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) is an enhanced version of reality created by overlaying computer-generated information onto the real-world environment."
+    },
+    {
+        "word": "User Experience",
+        "description": "User Experience (UX) refers to the overall experience a person has when interacting with a product or system, including ease of use, satisfaction, and emotions."
+    },
+    {
+        "word": "User Interface",
+        "description": "User Interface (UI) refers to the graphical layout and visual design through which users interact with a product or system."
+    },
+    {
+        "word": "Internet Booking Engine",
+        "description": "An Internet Booking Engine (IBE) is a software application or platform that allows individuals or businesses to book travel-related products or services online."
+    },
+    {
+        "word": "Global Distribution System",
+        "description": "A Global Distribution System (GDS) is a network-based reservation system that enables travel agents to access and book travel-related services, such as flights, hotels, and car rentals."
+    },
+    {
+        "word": "Travel Management Company",
+        "description": "A Travel Management Company (TMC) is a company that provides corporate travel services, including managing travel bookings, expenses, and policy compliance."
+    },
+    {
+        "word": "Mobile Payment",
+        "description": "Mobile Payment refers to the use of a mobile device, such as a smartphone or tablet, to make payments for goods and services."
+    },
+    {
+        "word": "Review Platform",
+        "description": "A Review Platform is an online platform or website where users can post reviews and ratings for products, services, or businesses."
+    },
+    {
+        "word": "Digital Nomad",
+        "description": "A Digital Nomad is a person who uses technology to work remotely and live a location-independent lifestyle, often traveling and working from different places."
+    },
+    {
+        "word": "Multi-Language Support",
+        "description": "Multi-language Support refers to the ability of a software application, website, or service to handle content and interactions in multiple languages."
+    },
+    {
+        "word": "Ride-Hailing",
+        "description": "Ride-hailing refers to the use of online platforms or apps to book and pay for rides provided by drivers using their own personal vehicles."
+    },
+    {
+        "word": "Trip Planning",
+        "description": "Trip Planning involves the process of researching, organizing, and creating an itinerary for a journey, including booking accommodations, transportation, and activities."
+    },
+    {
+        "word": "Travel Review Site",
+        "description": "A Travel Review Site is a website or platform where users can review and share their travel experiences, opinions, and recommendations."
+    },
+    {
+        "word": "Sustainable Travel",
+        "description": "Sustainable Travel, also known as responsible or eco-friendly travel, involves making environmentally and socially conscious choices while traveling."
+    },
+    {
+        "word": "Destination Management System",
+        "description": "A Destination Management System (DMS) is a software platform used by destination management organizations to manage and promote tourism in a particular destination."
+    },
+    {
+        "word": "Mobile Responsive",
+        "description": "Mobile Responsive refers to the design and development of websites or applications that can adapt and provide optimal user experience across different devices and screen sizes."
+    },
+    {
+        "word": "Airline Revenue Management",
+        "description": "Airline Revenue Management involves optimizing passenger revenue by controlling ticket prices, seat inventory, and flight schedules based on demand and market conditions."
+    },
+    {
+        "word": "Digital Ticketing",
+        "description": "Digital Ticketing is the use of electronic or mobile tickets, typically displayed on a smartphone or other smart devices, for accessing and validating travel services."
+    },
+    {
+        "word": "Travel Insurance",
+        "description": "Travel Insurance is a type of insurance coverage that provides financial protection against travel-related losses, such as trip cancellations, medical emergencies, or lost luggage."
+    },
+    {
+        "word": "Wayfinding",
+        "description": "Wayfinding refers to the process of navigating and finding one's way from one location to another, often with the assistance of signage, maps, or digital tools."
+    },
+    {
+        "word": "Electronic Visa",
+        "description": "An Electronic Visa (e-Visa) is an electronically issued travel authorization that allows foreign nationals to enter a specific country or territory for a certain period."
+    },
+    {
+        "word": "Travel Blogging",
+        "description": "Travel Blogging involves creating and maintaining a blog or online platform to document and share personal travel experiences, tips, advice, and recommendations."
+    },
+    {
+        "word": "Travel Aggregator",
+        "description": "A Travel Aggregator is a website or platform that consolidates and compares travel-related information, prices, and availability from various sources to assist users in finding and booking travel services."
+    },
+    {
+        "word": "Internet Of Things (Iot) In Travel",
+        "description": "The use of Internet of Things (IoT) technology in the travel industry to enhance various aspects of travel experiences, such as smart hotel rooms, connected luggage, or personalized recommendations based on real-time data."
+    },
+    {
+        "word": "Customer Relationship Management",
+        "description": "Customer Relationship Management (CRM) refers to the strategies, technologies, and practices used by businesses to manage and analyze customer interactions and data throughout the customer lifecycle."
+    }
+]

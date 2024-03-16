@@ -1,0 +1,470 @@
+[
+    {
+        "word": "Robotics",
+        "description": "Robotics is the field of study that involves the design, development, and operation of robots."
+    },
+    {
+        "word": "Automation",
+        "description": "Automation is the use of technology and programming to control and operate systems, processes, or machinery without human intervention."
+    },
+    {
+        "word": "Manipulator",
+        "description": "A manipulator is a robotic arm that is used to manipulate objects or perform tasks."
+    },
+    {
+        "word": "Sensors",
+        "description": "Sensors are devices that detect and measure physical quantities to provide information to a robot."
+    },
+    {
+        "word": "Actuators",
+        "description": "Actuators are devices or motors that enable a robot to physically interact with the environment."
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) is the simulation of human intelligence in machines."
+    },
+    {
+        "word": "Computer Vision",
+        "description": "Computer Vision is a field of study that focuses on enabling computers to interpret and understand visual information."
+    },
+    {
+        "word": "Machine Learning",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on getting machines to learn from data."
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learning is a subfield of machine learning that uses neural networks to learn and make decisions."
+    },
+    {
+        "word": "Ros",
+        "description": "ROS (Robot Operating System) is an open-source framework for writing software for robots."
+    },
+    {
+        "word": "Kinematics",
+        "description": "Kinematics is the study of motion without considering the forces or torques that cause that motion."
+    },
+    {
+        "word": "Dynamics",
+        "description": "Dynamics is the study of motion taking into account the forces or torques that cause that motion."
+    },
+    {
+        "word": "Path Planning",
+        "description": "Path planning is the process of finding an optimal path from start to goal for a robot."
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "Collision avoidance is the capability of a robot to sense and take action to avoid colliding with obstacles in its path."
+    },
+    {
+        "word": "Localization",
+        "description": "Localization is the process of determining the position and orientation of a robot in its environment."
+    },
+    {
+        "word": "Mapping",
+        "description": "Mapping is the process of creating a representation or map of the environment that a robot operates in."
+    },
+    {
+        "word": "Simulator",
+        "description": "A simulator is a software or hardware tool used to simulate the behavior and performance of robots or robotic systems."
+    },
+    {
+        "word": "Human-Robot Interaction",
+        "description": "Human-Robot Interaction (HRI) is the study of interactions between humans and robots."
+    },
+    {
+        "word": "Robot Swarms",
+        "description": "Robot Swarms is a field of study focused on coordinating large groups of robots to perform tasks collectively."
+    },
+    {
+        "word": "Mobile Robots",
+        "description": "Mobile Robots are robots that are capable of moving around in their environment."
+    },
+    {
+        "word": "Industrial Robots",
+        "description": "Industrial Robots are robots that are designed for use in manufacturing and industrial settings."
+    },
+    {
+        "word": "Aerial Robots",
+        "description": "Aerial Robots, also known as drones, are robots that are capable of flying in the air."
+    },
+    {
+        "word": "Underwater Robots",
+        "description": "Underwater Robots are robots that are designed to operate underwater, often used for exploration or maintenance tasks."
+    },
+    {
+        "word": "Medical Robotics",
+        "description": "Medical Robotics is a field that focuses on developing robotic systems for medical applications, such as surgery and rehabilitation."
+    },
+    {
+        "word": "Surgical Robots",
+        "description": "Surgical Robots are robots that are designed to assist surgeons during surgical procedures."
+    },
+    {
+        "word": "Exoskeletons",
+        "description": "Exoskeletons are wearable robotic devices that enhance human mobility and strength."
+    },
+    {
+        "word": "Robotic Prosthetics",
+        "description": "Robotic Prosthetics are artificial limbs or body parts that are controlled by robotic systems."
+    },
+    {
+        "word": "Humanoid Robots",
+        "description": "Humanoid Robots are robots that are designed to resemble and interact with humans."
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "description": "Autonomous Vehicles are vehicles that are capable of driving themselves without human intervention."
+    },
+    {
+        "word": "Industrial Automation",
+        "description": "Industrial automation refers to the use of technology and control systems to automate industrial processes and operations."
+    },
+    {
+        "word": "Human-In-The-Loop",
+        "description": "Human-in-the-Loop systems involve human operators working in coordination with robotic systems."
+    },
+    {
+        "word": "Teleoperation",
+        "description": "Teleoperation is the control of a robot or system from a distance using wireless communication or network connectivity."
+    },
+    {
+        "word": "Robotic Vision",
+        "description": "Robotic vision refers to the use of computer vision techniques in robotics to enable robots to perceive and understand visual information."
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "Haptic feedback is the use of touch or force feedback to provide users with a tactile sensation or interaction in a robotic system."
+    },
+    {
+        "word": "Robot Ethics",
+        "description": "Robot ethics is the study and consideration of ethical issues related to the design, use, and impact of robots and AI systems."
+    },
+    {
+        "word": "Human Factors",
+        "description": "Human factors is an interdisciplinary field that focuses on the interaction between humans and the systems, tools, or environments they work with."
+    },
+    {
+        "word": "Articulated Robots",
+        "description": "Articulated Robots are robots that have multiple rotary joints, enabling them to perform high-dexterity tasks."
+    },
+    {
+        "word": "Collaborative Robots",
+        "description": "Collaborative Robots, also known as cobots, are robots designed to work safely alongside humans."
+    },
+    {
+        "word": "Gripper",
+        "description": "A gripper is an end effector used to grasp or hold objects."
+    },
+    {
+        "word": "Vision System",
+        "description": "A vision system is a combination of hardware and software that enables robots to perceive and interpret visual information."
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine vision is the technology and methods used to provide images-based automatic inspection, evaluation, and analysis for applications such as robot guidance, process control, and quality control."
+    },
+    {
+        "word": "Robot Calibration",
+        "description": "Robot Calibration is the process of fine-tuning and adjusting the parameters of a robot to improve its accuracy and performance."
+    },
+    {
+        "word": "Multi-Robot Systems",
+        "description": "Multi-robot systems involve the coordination and collaboration of multiple robots to perform tasks collectively or cooperatively."
+    },
+    {
+        "word": "Semi-Autonomous Robots",
+        "description": "Semi-Autonomous Robots are robots that can operate autonomously but still require human intervention or supervision."
+    },
+    {
+        "word": "Cyber-Physical Systems",
+        "description": "Cyber-Physical Systems are systems that integrate computational algorithms and physical components, such as robots, to perform tasks."
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "Robotic Process Automation (RPA) involves the use of software robots or bots to automate repetitive and rule-based tasks."
+    },
+    {
+        "word": "Robot Middleware",
+        "description": "Robot Middleware is a software layer that provides communication and integration capabilities for robotic systems."
+    },
+    {
+        "word": "Robotic Path Following",
+        "description": "Robotic Path Following is the task of making a robot follow a predefined path or trajectory."
+    },
+    {
+        "word": "Human-Robot Collaboration",
+        "description": "Human-robot collaboration refers to the cooperative interaction and teamwork between humans and robots in shared workspaces."
+    },
+    {
+        "word": "Robot Safety",
+        "description": "Robot Safety involves the design, implementation, and monitoring of safety measures to ensure the well-being of humans working with or near robots."
+    },
+    {
+        "word": "Robotic Arm",
+        "description": "A robotic arm is a type of manipulator that mimics the structure and function of a human arm, used for various applications in robotics."
+    },
+    {
+        "word": "Sensor",
+        "description": "A sensor is a device that detects and measures physical input from the environment and converts it into data or signals."
+    },
+    {
+        "word": "Actuator",
+        "description": "An actuator is a component of a robot that is responsible for controlling the robot's movement or behavior."
+    },
+    {
+        "word": "Inverse Kinematics",
+        "description": "Inverse kinematics is the process of determining the joint configurations of a robot to achieve a desired end-effector position."
+    },
+    {
+        "word": "End-Effector",
+        "description": "The end-effector is the tool or device attached to the end of a robotic arm that interacts with the environment."
+    },
+    {
+        "word": "Computer Science",
+        "description": "Computer science is the study of computers, computational systems, and the theory and practice of computation."
+    },
+    {
+        "word": "Navigation",
+        "description": "Navigation refers to the capability of a robot to autonomously determine and follow a desired path or trajectory."
+    },
+    {
+        "word": "Active Perception",
+        "description": "Active perception refers to the process by which a robot selectively perceives and collects information from its environment."
+    },
+    {
+        "word": "Control System",
+        "description": "A control system is a set of algorithms and hardware that regulates and influences the behavior of a robot."
+    },
+    {
+        "word": "Kalman Filter",
+        "description": "A Kalman filter is an algorithm used for state estimation in systems that are subject to uncertainty and noise."
+    },
+    {
+        "word": "Sensors Fusion",
+        "description": "Sensor fusion is the process of combining sensory inputs from multiple sensors to obtain a more accurate and robust perception of the environment."
+    },
+    {
+        "word": "Computer-Aided Design",
+        "description": "Computer-aided design (CAD) is the use of computer systems to assist in the creation, modification, analysis, and optimization of designs."
+    },
+    {
+        "word": "Simulation",
+        "description": "Simulation is the process of creating a computer model or virtual representation of a real-world system or phenomenon."
+    },
+    {
+        "word": "Rapid Prototyping",
+        "description": "Rapid prototyping is the process of quickly fabricating physical prototypes of a design using additive manufacturing techniques."
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "The Internet of Things (IoT) refers to the network of physical objects embedded with sensors, software, and connectivity to enable data exchange and communication."
+    },
+    {
+        "word": "Humanoid Robot",
+        "description": "A humanoid robot is a robot that is designed to resemble or mimic human appearance and behavior."
+    },
+    {
+        "word": "Mobile Robot",
+        "description": "A mobile robot is a robot that is capable of moving within its environment."
+    },
+    {
+        "word": "Industrial Robot",
+        "description": "An industrial robot is a robot specifically designed to perform tasks in industrial settings, such as manufacturing and assembly."
+    },
+    {
+        "word": "Machine Perception",
+        "description": "Machine perception is the ability of a machine to interpret data from sensors and perceive the world."
+    },
+    {
+        "word": "Swarm Robotics",
+        "description": "Swarm robotics is the study of how large groups of relatively simple robots can work together to accomplish complex tasks or behaviors."
+    },
+    {
+        "word": "Autonomous Robot",
+        "description": "An autonomous robot is a robot that can perform tasks or act independently without external control or human intervention."
+    },
+    {
+        "word": "Robot Operating System",
+        "description": "The Robot Operating System (ROS) is a framework for writing robot software that provides libraries and tools for creating robot applications."
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "Sensor fusion is the process of combining sensory inputs from multiple sensors to obtain a more accurate and robust perception of the environment."
+    },
+    {
+        "word": "Semi-Autonomous Robot",
+        "description": "A semi-autonomous robot is a robot that can perform some tasks autonomously but still requires human intervention or control."
+    },
+    {
+        "word": "Aerial Robotics",
+        "description": "Aerial robotics involves the design and development of robotic systems capable of flying in the air."
+    },
+    {
+        "word": "Intelligent Control",
+        "description": "Intelligent control refers to the use of AI or advanced algorithms to control the behavior of a robot or system."
+    },
+    {
+        "word": "Human-Centered Design",
+        "description": "Human-centered design is an approach to design that focuses on understanding and addressing the needs and preferences of end-users."
+    },
+    {
+        "word": "Robot Programming",
+        "description": "Robot programming involves the creation and implementation of software programs or algorithms to control the behavior and actions of a robot."
+    },
+    {
+        "word": "Robot Vision",
+        "description": "Robot vision refers to the ability of a robot to see and interpret visual information from its environment using cameras or other sensors."
+    },
+    {
+        "word": "Surgical Robotics",
+        "description": "Surgical robotics involves the use of robot-assisted systems to perform surgical procedures with precision and control."
+    },
+    {
+        "word": "Embedded Systems",
+        "description": "Embedded systems are computer systems designed to perform specific tasks with a dedicated function within a larger mechanical or electrical system."
+    },
+    {
+        "word": "Soft Robotics",
+        "description": "Soft robotics involves the design and development of robots made from highly compliant and flexible materials."
+    },
+    {
+        "word": "Symbiotic Robotics",
+        "description": "Symbiotic robotics refers to the collaboration and interaction between robots and living organisms, such as animals or humans."
+    },
+    {
+        "word": "Robot Perception",
+        "description": "Robot perception refers to the ability of a robot to sense, interpret, and understand information about its environment."
+    },
+    {
+        "word": "Future Of Robotics",
+        "description": "The future of robotics involves advancements in technology, AI, and automation that will continue to revolutionize various industries and aspects of our lives."
+    },
+    {
+        "word": "Machine Ethics",
+        "description": "Machine ethics is the study of how machines or AI systems can be programmed to act ethically or make ethical decisions."
+    },
+    {
+        "word": "Human-Centered Robotics",
+        "description": "Human-centered robotics focuses on creating robots that are designed to interact with humans and assist them in various tasks."
+    },
+    {
+        "word": "Social Robotics",
+        "description": "Social robotics is a field of robotics that focuses on the design, development, and interaction of robots in social and interactive settings."
+    },
+    {
+        "word": "Cobot",
+        "description": "A cobot, short for collaborative robot, is a robot designed to work safely and effectively alongside humans in a shared workspace."
+    },
+    {
+        "word": "Robot",
+        "description": "A robot is a machine that is designed to carry out tasks autonomously or semi-autonomously."
+    },
+    {
+        "word": "Control Systems",
+        "description": "Control systems are used to regulate and control the behavior of robots or robotic systems."
+    },
+    {
+        "word": "Perception",
+        "description": "Perception refers to a robot's ability to sense and understand the world around it using sensors."
+    },
+    {
+        "word": "Motion Planning",
+        "description": "Motion planning is the process of generating trajectories or motion plans to move a robot from one configuration to another."
+    },
+    {
+        "word": "Slam",
+        "description": "Simultaneous Localization and Mapping (SLAM) is the process of creating a map of an unknown environment while simultaneously navigating within it."
+    },
+    {
+        "word": "End Effector",
+        "description": "The end effector is the tool or device attached to the end of a robot manipulator to perform a specific task."
+    },
+    {
+        "word": "Collision Detection",
+        "description": "Collision detection is the process of detecting when a robot or its components come into contact with obstacles or other objects."
+    },
+    {
+        "word": "Autonomous Navigation",
+        "description": "Autonomous navigation is the ability of a robot to navigate and move in an environment without human intervention."
+    },
+    {
+        "word": "Obstacle Avoidance",
+        "description": "Obstacle avoidance is the capability of a robot to detect and maneuver around obstacles in its path."
+    },
+    {
+        "word": "Unmanned Aerial Vehicle",
+        "description": "An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft without a human pilot onboard."
+    },
+    {
+        "word": "Localization Error",
+        "description": "Localization error refers to the discrepancy between the estimated and true position of a robot."
+    },
+    {
+        "word": "Semantic Mapping",
+        "description": "Semantic mapping involves creating maps of environments that contain high-level semantic information about objects and their relationships."
+    },
+    {
+        "word": "Safety In Robotics",
+        "description": "Safety in robotics refers to the design, implementation, and operation of robots in a way that minimizes risks and ensures the well-being of humans and the environment."
+    },
+    {
+        "word": "Industrial Robotics",
+        "description": "Industrial robotics is the use of robots in industrial manufacturing processes and applications."
+    },
+    {
+        "word": "Teleoperated Robots",
+        "description": "Teleoperated robots are robots that are controlled remotely by human operators."
+    },
+    {
+        "word": "Robotic Surgery",
+        "description": "Robotic surgery is a type of minimally invasive surgery that is performed using robotically controlled surgical instruments."
+    },
+    {
+        "word": "Exoskeleton",
+        "description": "An exoskeleton is a wearable robotic device that is worn by a human to enhance their strength, endurance, or mobility."
+    },
+    {
+        "word": "Microbotics",
+        "description": "Microbotics is the field of robotics that deals with the design and construction of very small robots, typically at the microscopic or nanoscopic scale."
+    },
+    {
+        "word": "Underwater Robotics",
+        "description": "Underwater robotics involves the design and development of robotic systems capable of operating underwater."
+    },
+    {
+        "word": "Field Robotics",
+        "description": "Field robotics is the branch of robotics that focuses on the development of robots for outdoor or rugged environments."
+    },
+    {
+        "word": "Bio-Inspired Robotics",
+        "description": "Bio-inspired robotics involves taking inspiration from nature and biology to design robots that mimic or replicate natural systems or behaviors."
+    },
+    {
+        "word": "Automated Guided Vehicles",
+        "description": "Automated guided vehicles (AGVs) are mobile robots that are used for material handling and transport in factories and warehouses."
+    },
+    {
+        "word": "Robot Swarming",
+        "description": "Robot swarming is a collective behavior exhibited by a group of robots that work together to achieve a common goal."
+    },
+    {
+        "word": "Cad",
+        "description": "Computer-Aided Design (CAD) is the use of computer software to create, modify, analyze, or optimize designs for a wide range of disciplines."
+    },
+    {
+        "word": "Control Theory",
+        "description": "Control theory is a branch of engineering and mathematics that deals with the behavior of dynamical systems and the design of control systems."
+    },
+    {
+        "word": "Electrical Engineering",
+        "description": "Electrical engineering is a field of engineering that involves the design and application of electrical systems, components, and devices."
+    },
+    {
+        "word": "Mechanical Engineering",
+        "description": "Mechanical engineering is a field of engineering that involves the design, analysis, and manufacture of mechanical systems and devices."
+    },
+    {
+        "word": "Control Engineering",
+        "description": "Control engineering is a branch of engineering that deals with the design and implementation of control systems for machines and processes."
+    }
+]

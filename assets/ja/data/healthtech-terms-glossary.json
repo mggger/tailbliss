@@ -1,0 +1,466 @@
+[
+    {
+        "word": "Healthtech",
+        "description": "Healthtech, or Healthcare Technology, refers to the use of technology in the healthcare industry to improve the delivery of healthcare services and patient outcomes. ヘルステクノロジーは、医療サービスの提供と患者の結果を改善するために医療産業におけるテクノロジーの使用を指します。"
+    },
+    {
+        "word": "Telemedicine",
+        "description": "テレメディカンは、コンサルティングや診断などの医療サービスの遠隔配信で、電気通信技術を使用しています。"
+    },
+    {
+        "word": "Ehr",
+        "description": "電子保健記録(EHR)は、診断、薬物、治療を含む患者の医療履歴のデジタルバージョンであり、簡単にアクセスし、共有するために中央システムに保存されます。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、物理的なデバイス、センサー、ソフトウェア、ネットワークの相互接続を指し、これらのオブジェクトがデータを収集し交換することを可能にします。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して簡単に管理または分析できない大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録し、セキュリティ、透明性、不変性を確保する分散型および分散型デジタルリーガです。"
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "精密医学は、遺伝子、環境、ライフスタイルの個々の変異を考慮に入れる医療へのアプローチです。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械学習を訓練し、パターンやアルゴリズムに基づいて予測や決定を下すためのAIのサブセットです。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つ人工ニューラルネットワークを訓練し、複雑な意思決定やパターンを認識することを含むMLのサブセットです。"
+    },
+    {
+        "word": "Image Recognition",
+        "description": "画像認識は、デジタル画像やビデオ内のオブジェクトや機能を識別し、分類する機械の能力です。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、自然言語を通じてコンピュータと人間の相互作用に焦点を当てるAIの分野です。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、医療を含むさまざまなアプリケーションのためのロボットの設計、作成、使用を含む技術分野です。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、実体験をシミュレートするコンピュータ生成環境で、しばしばトレーニング、セラピー、視覚化のために医療で使用されます。"
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "拡張現実(AR)は、コンピュータ生成情報またはビジュアルを現実世界に表し、感知と相互作用を向上させます。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics は、有用な情報を発見し、結論を出し、意思決定をサポートするためにデータを調査、クリーニング、変換、モデリングするプロセスです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analytics では、歴史的およびリアルタイムのデータを使用して、パターン、トレンド、および洞察を特定し、将来のイベントまたは結果について予測します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人または機密情報の保護を意味し、権限のある個人または団体のみがデータにアクセスし、使用できるようにすることを目的とします。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティとは、コンピュータシステム、ネットワーク、およびデータを不正アクセス、使用、または損傷から保護するための実践と措置を指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、データベース、およびソフトウェアアプリケーションなどのオンデマンドコンピューティングサービスのインターネット上の提供です。"
+    },
+    {
+        "word": "Mobile Health",
+        "description": "Mobile Health(mHealth)は、スマートフォンやタブレットなどのモバイル機器を使用して、医療サービスを提供し、健康を監視し、健康情報を提供します。"
+    },
+    {
+        "word": "Health Information Exchange",
+        "description": "健康情報交換(HIE)とは、さまざまな医療機関やシステム間で患者様の健康情報を電子的に共有することです。"
+    },
+    {
+        "word": "Remote Patient Monitoring",
+        "description": "Remote Patient Monitoring(RPM)は、従来の医療環境の外部から患者データを収集し、分析するための技術を使用しています。"
+    },
+    {
+        "word": "Health Wearables",
+        "description": "Health Wearablesは、フィットネストラッカーやスマートウォッチなどの着用可能なデバイスで、心拍数、睡眠パターン、身体活動を含む健康関連のデータをモニタリングし、追跡します。"
+    },
+    {
+        "word": "Digital Therapeutics",
+        "description": "デジタル療法は、医療状態を予防、管理、または治療するためのソフトウェアプログラムまたはデジタルデバイスを通じて提供される証拠に基づく治療介入です。"
+    },
+    {
+        "word": "Genomics",
+        "description": "ゲノミクスは、すべての遺伝子とその相互作用を含む生物のDNAの完全なセットの研究です。"
+    },
+    {
+        "word": "Telehealth",
+        "description": "テレヘルスとは、ビデオ会議や遠隔監視などのデジタル技術の使用を指し、遠隔で医療サービスを提供することを指します。"
+    },
+    {
+        "word": "Healthcare Analytics",
+        "description": "Healthcare Analyticsは、意思決定、パフォーマンス向上、コスト削減をサポートする洞察、トレンド、パターンを発見するための医療データの分析を含みます。"
+    },
+    {
+        "word": "Personalized Medicine",
+        "description": "パーソナライズされた医学(Personalized Medicine)は、個人の遺伝学、環境、ライフスタイルを考慮して医療治療をカスタマイズする医療のアプローチです。"
+    },
+    {
+        "word": "Health Tech Startups",
+        "description": "Health Tech Startupsは、テクノロジーとイノベーションを活用して医療製品、サービス、またはソリューションを開発し、提供する新設企業です。"
+    },
+    {
+        "word": "Healthcare Ai",
+        "description": "ヘルスケアAIとは、機械学習や自然言語処理などのAI技術を医療業界で適用し、診断、治療、患者ケアを改善することを指します。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソース、フォーマット、およびシステムからデータを統合し、分析および意思決定のための統一的な視点に組み込むプロセスです。"
+    },
+    {
+        "word": "Clinical Decision Support Systems",
+        "description": "臨床意思決定支援システム(CDSS)は、医療従事者に臨床意思決定を支援するための情報と知識を提供するコンピュータベースのツールです。"
+    },
+    {
+        "word": "Patient Engagement",
+        "description": "患者関与とは、患者を積極的に介入し、医療の意思決定、治療の遵守、および全体的な福祉に力を与える努力を指します。"
+    },
+    {
+        "word": "Health Data Interoperability",
+        "description": "健康データの相互運用性とは、さまざまな健康情報システムとデバイスのデータを組織的および技術的境界を越えてシームレスに交換、解釈、使用する能力です。"
+    },
+    {
+        "word": "Health Robotics",
+        "description": "ヘルスロボティクスは、手術、リハビリテーション、または薬物管理などの医療環境におけるロボットシステムと自動化技術の使用を指します。"
+    },
+    {
+        "word": "Healthcare Imaging",
+        "description": "ヘルスケアイメージングには、X線、CT、MRI、または超音波などのさまざまな医療イメージング技術が含まれ、診断および治療目的で使用されます。"
+    },
+    {
+        "word": "Clinical Trials",
+        "description": "臨床試験は、新しい医学的介入、治療、または薬物の安全性と有効性を評価するために人体で行われた研究です。"
+    },
+    {
+        "word": "Healthcare Supply Chain",
+        "description": "ヘルスケアサプライチェーンとは、医療製品やサービスの生産、配布、供給に関わる商品、サービス、情報の流れを指します。"
+    },
+    {
+        "word": "Medical Devices",
+        "description": "医療機器とは、医療状態や病気の診断、治療、または予防に使用される楽器、機械、インプラント、またはツールです。"
+    },
+    {
+        "word": "Electronic Prescription",
+        "description": "電子処方箋は、医療従事者の処方箋の指示のデジタル記録であり、電子的に薬局に送信して薬を配布します。"
+    },
+    {
+        "word": "Healthcare Regulations",
+        "description": "保健規則とは、政府や規制当局が保健行為の安全性、品質、倫理性を確保するために制定した規則、政策、法律です。"
+    },
+    {
+        "word": "Healthcare Compliance",
+        "description": "医療コンプライアンスとは、患者の安全、データのセキュリティ、倫理的慣行を確保するために、医療業界内の法律、規制、および業界基準の遵守を指します。"
+    },
+    {
+        "word": "Clinical Documentation",
+        "description": "臨床文書は、患者の健康情報、医療史、評価、診断、治療計画を含む記録および文書化を含みます。"
+    },
+    {
+        "word": "Healthcare Informatics",
+        "description": "Healthcare Informaticsは、情報科学、コンピュータサイエンス、医療を統合して、意思決定のための医療データ、情報、知識を管理し、活用します。"
+    },
+    {
+        "word": "Telepharmacy",
+        "description": "電話薬局は、薬剤師が電気通信技術を通じて医薬品関連のコンサルティング、カウンセリング、および配給を提供できる遠隔薬局の実践です。"
+    },
+    {
+        "word": "Healthcare Chatbots",
+        "description": "ヘルスケアチャットボットは、自然言語処理を使用してユーザーと対話し、質問に答え、情報を提供し、医療関連のタスクを支援するAI駆動型の仮想アシスタントです。"
+    },
+    {
+        "word": "Clinical Pathways",
+        "description": "臨床経路(Clinical Pathways)は、特定の医療条件または手順を持つ患者に対する介入の順序とタイミングを概説する多学科のケア計画です。"
+    },
+    {
+        "word": "Patient Monitoring Systems",
+        "description": "患者モニタリングシステムとは、医療従事者が評価し介入するために、重要な兆候や電気測定などの患者データを継続的に監視し収集するために使用されるデバイスまたは技術です。"
+    },
+    {
+        "word": "Remote Surgery",
+        "description": "遠隔外科やロボット外科とも呼ばれる遠隔外科は、遠隔地からロボットシステムや電気通信技術を使用して外科医が行う外科手術を含みます。"
+    },
+    {
+        "word": "Healthcare Ai Ethics",
+        "description": "ヘルスケアのAI倫理は、医療におけるAI技術の開発と使用に関連する倫理的考慮事項、原則、ガイドラインを指し、公平性、透明性、プライバシー、責任を確保します。"
+    },
+    {
+        "word": "Healthcare Data Security",
+        "description": "医療データのセキュリティは、無許可のアクセス、使用、開示、干渉、または破壊から敏感な患者および医療データを保護することを意味します。"
+    },
+    {
+        "word": "Health Data Analytics",
+        "description": "Health Data Analytics は、パターン、トレンド、および相関関係を含む健康関連のデータの分析を含み、洞察を得て、医療の意思決定と介入を通知します。"
+    },
+    {
+        "word": "Digital Health Solutions",
+        "description": "デジタルヘルスソリューションには、デジタルメディアを通じて医療の提供、アクセス、結果を改善するための幅広い技術ツール、アプリケーション、プラットフォームが含まれています。"
+    },
+    {
+        "word": "Healthcare Data Governance",
+        "description": "Healthcare Data Governanceとは、医療データを管理し、データの品質、プライバシー、セキュリティ、適切な使用を確保するための枠組み、ポリシー、プロセスを指します。"
+    },
+    {
+        "word": "Healthcare Data Mining",
+        "description": "ヘルスケアデータマイニングは、高度な分析、技術、アルゴリズムを使用して、研究、計画、または意思決定のための大規模なヘルスケアデータセットからパターン、関係、または洞察を発見することを意味します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the graphical representation of data or information, often using charts, graphs, or dashboards, to facilitate understanding, analysis, and decision-making. データビジュアル化は、データや情報のグラフィック表示、しばしば図、グラフ、またはダッシュボードを使用して、理解、分析、および意思決定を促進します。"
+    },
+    {
+        "word": "Electronic Health Record (Ehr)",
+        "description": "電子健康記録(EHR)は、患者の医療史、診断、薬物、その他の関連情報を含む患者様の紙図のデジタルバージョンです。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、通常、人間の知能を必要とするタスクを実行するために機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、コンピュータがデータから学び、予測することを可能にするアルゴリズムや統計モデルを開発することに焦点を当てたAIのサブセットです。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネット(IoT)は、データを収集し、交換できる相互接続されたデバイスまたは物のネットワークであり、相互に通信し、相互に相互作用することを可能にします。"
+    },
+    {
+        "word": "Healthcare Information Exchange (Hie)",
+        "description": "ヘルスケア情報交換(HIE)とは、医療サービスプロバイダ間で患者の健康情報を電子的に共有し、介護の調整と患者の結果を改善することです。"
+    },
+    {
+        "word": "Health Monitoring Wearables",
+        "description": "Health Monitoring Wearablesは、心拍数、睡眠パターン、身体活動などの健康およびフィットネス情報を追跡し監視するために個人が着用するデバイスです。"
+    },
+    {
+        "word": "Health Information Technology (Hit)",
+        "description": "健康情報技術(HIT)とは、健康情報の保存、管理、交換のための技術の使用を指します。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実(VR)は、見た目で現実的または物理的な方法で相互作用することができる環境または経験のコンピュータ生成シミュレーションです。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "拡張現実(AR)は、画像やデータなどのデジタル情報を現実世界に表し、ユーザーの感知と相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Remote Patient Monitoring (Rpm)",
+        "description": "Remote Patient Monitoring(RPM)は、デジタルテクノロジーを使用して、医療審査と介入のための伝統的な医療環境の外部からの患者の健康データを収集および転送します。"
+    },
+    {
+        "word": "Clinical Decision Support (Cds)",
+        "description": "臨床意思決定支援(CDS)システムは、患者データ、医療知識、および最良の実践を統合することによって、医療プロバイダが明確な意思決定を下すのを支援します。"
+    },
+    {
+        "word": "Healthcare Robotics",
+        "description": "ヘルスケアロボットは、手術、患者ケア、医薬品管理などのタスクを支援するために、医療環境におけるロボットの使用を指します。"
+    },
+    {
+        "word": "Digital Imaging",
+        "description": "デジタルイメージングは、診断、モニタリング、治療のための身体の組織、臓器、構造のデジタル画像をキャプチャし、作成するための高度な技術を使用しています。"
+    },
+    {
+        "word": "Gamification",
+        "description": "ゲーム化は、競争、報酬、挑戦などのゲーム要素を医療などの非ゲーム環境に適用し、ユーザーを巻き込んで動機づけます。"
+    },
+    {
+        "word": "Health Information Exchange (Hie)",
+        "description": "ヘルス情報交換(HIE)とは、医療サービスプロバイダ間で患者の健康情報を電子的に共有し、介護の調整と患者の結果を改善することです。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、自然言語を通じて人間とコンピュータの相互作用に焦点を当てるAIの分野です。"
+    },
+    {
+        "word": "Robot-Assisted Surgery",
+        "description": "ロボット支援外科手術は、手術中に外科医を助けるためにロボットシステムを使用する、最小限に侵入的な手術の一種です。"
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "生物情報学は、DNA序列やタンパク質構造などの生物学的データを分析し解釈するためのコンピュータ科学、統計学、情報技術の応用です。"
+    },
+    {
+        "word": "Population Health Management",
+        "description": "人口保健管理は、結果を改善し、医療費を削減するために定義されたグループまたは人口の健康を積極的に管理することを意味します。"
+    },
+    {
+        "word": "Electronic Prescribing",
+        "description": "電子処方は、医療機関から薬局に処方箋を電子的に生成し、送信し、薬の誤りを減らし、効率を向上させます。"
+    },
+    {
+        "word": "Clinical Documentation Improvement (Cdi)",
+        "description": "CDI(Clinical Documentation Improvement)とは、患者の状態の重度を正確に反映し、コードの正確性を向上させ、収益を最適化するための臨床文書の強化のプロセスです。"
+    },
+    {
+        "word": "Healthtech Incubator",
+        "description": "Healthtech Incubatorは、初期段階のヘルステクノロジースタートアップや起業家にサポート、リソース、メンターシップを提供するプログラムまたは組織です。"
+    },
+    {
+        "word": "Social Determinants Of Health",
+        "description": "健康の社会的決定要因は、教育、雇用、および医療サービスへのアクセスを含む個人の健康および人口の健康に影響を与える社会的および経済的要因を指します。"
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットまたは人工知能を使用して、繰り返しやルールベースのタスクやプロセスを自動化する。"
+    },
+    {
+        "word": "Cloud-Based Healthcare Solutions",
+        "description": "クラウドベースのヘルスケアソリューションは、インターネット経由でホストされ、アクセスされるソフトウェアアプリケーションまたはサービスで、医療機関がローカルなインフラを必要とせずにデータを保存、管理、分析することができます。"
+    },
+    {
+        "word": "Clinical Data Management",
+        "description": "臨床データ管理は、品質、正確性、および完全性を確保するために臨床試験および研究からのデータの収集、統合、検証を含みます。"
+    },
+    {
+        "word": "Diagnostic Imaging",
+        "description": "診断イメージングは、X線、CT、およびMRIなどのさまざまな非侵入的な医療イメージング技術を指し、体内の構造を視覚化し、医療状態を診断するために使用されます。"
+    },
+    {
+        "word": "Predictive Modeling",
+        "description": "予測モデリングは、歴史的およびリアルタイムのデータに基づいて将来の出来事または結果を予測するモデルを作成するために、統計技術とアルゴリズムを使用します。"
+    },
+    {
+        "word": "Healthtech Startup",
+        "description": "Healthtech Startupは、医療業界で革新的なソリューションとサービスを提供するためにテクノロジーを使用することに焦点を当てた新設企業です。"
+    },
+    {
+        "word": "Clinical Informatics",
+        "description": "臨床情報学は、効果的な医療を提供し、患者のケアを強化し、臨床意思決定を改善するために、コンピュータサイエンスと情報技術の応用です。"
+    },
+    {
+        "word": "Healthcare Interoperability",
+        "description": "医療相互運用性とは、さまざまな医療システム、デバイス、およびアプリケーションが正確に、一貫して、効果的にデータを交換し、解釈する能力を指します。"
+    },
+    {
+        "word": "Digital Health Coaching",
+        "description": "デジタルヘルスコーチングは、モバイルアプリや着用可能なデバイスなどのデジタルテクノロジーの使用で、個人の健康と福祉を向上させるためのパーソナライズされたコーチング、ガイド、およびサポートを提供します。"
+    },
+    {
+        "word": "Clinical Data Integration",
+        "description": "臨床データ統合は、電子健康記録、実験室の結果、および医療機器などの複数のソースからのデータの集計と統合を含み、患者の健康に関する包括的な見解を提供します。"
+    },
+    {
+        "word": "Healthtech Accelerator",
+        "description": "Healthtech Accelerator は、健康技術スタートアップに強力なサポート、メンテナンス、リソースを提供し、成長と発展を加速させるプログラムまたは組織です。"
+    },
+    {
+        "word": "Digital Biomarkers",
+        "description": "デジタルバイオマーカーは、デジタルデバイスやセンサーを通じて収集された客観的で量子化可能な生理学的および行動的測定物であり、健康および病気を追跡および評価するために使用することができます。"
+    },
+    {
+        "word": "Clinical Decision Support System (Cdss)",
+        "description": "CDSS(Clinical Decision Support System)は、患者の特定の情報を提供し、証拠に基づく勧告を提供することによって、医療機関が臨床決定を下すのを助けるソフトウェアツールです。"
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "仮想アシスタントは、人工知能と自然言語処理を使用して情報を提供し、タスクを支援し、会話的な方法でユーザーと相互作用するソフトウェアプログラムまたはインターフェイスです。"
+    },
+    {
+        "word": "Mhealth",
+        "description": "mHealth、またはモバイルヘルスは、スマートフォンやタブレットなどのモバイルデバイスの使用を指し、医療サービスを提供し、健康情報にアクセスし、健康を監視します。"
+    },
+    {
+        "word": "Electronic Consent",
+        "description": "電子同意は、医療手続き、治療、およびデータ共有のための患者同意のデジタル収集と管理で、効率的かつ安全なプロセスを提供します。"
+    },
+    {
+        "word": "Patient Portal",
+        "description": "患者ポータルは、患者の健康記録にアクセスし、医療機関とコミュニケーションし、医療情報の管理を可能にする安全なオンラインプラットフォームです。"
+    },
+    {
+        "word": "Medical Imaging Software",
+        "description": "Medical Imaging Softwareは、診断と治療の目的のために、X線、CT、およびMRIなどの医療画像を表示、分析、操作するために使用される専門のソフトウェアです。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "リモートモニタリングは、患者の健康データ、すなわち重要な兆候や症状を遠隔から追跡し、モニタリングする技術の使用を含み、変化の早期検出と迅速な介入を可能にします。"
+    },
+    {
+        "word": "Clinical Research Organization (Cro)",
+        "description": "臨床研究機関(CRO)は、臨床試験および研究研究の計画、実施および管理のためのサポートサービスを提供する会社です。"
+    },
+    {
+        "word": "Data Interoperability",
+        "description": "データの相互運用性とは、異なるシステムやデバイスのデータを効率的かつ正確に交換、解釈、使用する能力であり、シームレスなデータ共有と統合を可能にします。"
+    },
+    {
+        "word": "Healthtech Consultant",
+        "description": "Healthtechコンサルタントは、医療技術分野の専門家であり、技術の採用、戦略、および実装に関する医療機関およびスタートアップにガイダンス、専門知識、アドバイスを提供します。"
+    },
+    {
+        "word": "Innovative Healthtech Solutions",
+        "description": "革新的なヘルステクノロジーソリューションは、医療業界における主要な課題や機会に対処する新しいまたは革新的なテクノロジー駆動製品、サービス、またはアプローチです。"
+    },
+    {
+        "word": "Clinical Data Warehousing",
+        "description": "臨床データストレージは、複数のソースからの臨床データの収集、保存、管理を含み、包括的な分析、レポート、および意思決定を可能にします。"
+    },
+    {
+        "word": "Healthtech Integration",
+        "description": "Healthtech Integration は、さまざまな healthtech ソリューション、システム、デバイスを統合し、シームレスなデータ交換、相互運用性、およびワークフローの統合を可能にするプロセスを指します。"
+    },
+    {
+        "word": "Medication Management",
+        "description": "薬物管理は、薬物の安全かつ効果的な使用をサポートするための技術とソフトウェアツールの使用を含み、処方、管理、監視を含む。"
+    },
+    {
+        "word": "Healthcare Data Analytics",
+        "description": "Healthcare Data Analyticsは、臨床、財務、および運用データを含む医療データを分析し、パフォーマンス向上と意思決定のためのトレンド、パターン、洞察を特定します。"
+    },
+    {
+        "word": "Clinical Data Standards",
+        "description": "臨床データ規格は、臨床データを表明し、交換し、一貫性、相互運用性、品質を確保するための形式、構造、用語に基づいて合意されています。"
+    },
+    {
+        "word": "Healthtech Regulation",
+        "description": "ヘルステクノロジー規制とは、ヘルステクノロジー製品、サービス、ソリューションの開発、使用、商業化を規制する法律、規制、および基準を指します。"
+    },
+    {
+        "word": "Clinical Data Privacy",
+        "description": "臨床データのプライバシーには、患者の健康情報の保護と安全な取り扱い、データプライバシー規制の遵守と患者の機密保持が含まれます。"
+    },
+    {
+        "word": "Clinical Data Analysis",
+        "description": "臨床データ分析は、臨床データを調べ、解釈し、有意義な洞察を抽出し、研究結果をサポートし、証拠に基づく意思決定を伝えるプロセスです。"
+    },
+    {
+        "word": "Clinical Data Visualization",
+        "description": "臨床データの視覚化は、図表、グラフ、および他の視覚要素を通じて臨床データの視覚的表現であり、理解、分析、およびコミュニケーションを促進します。"
+    },
+    {
+        "word": "Mobile Medical Apps",
+        "description": "Mobile Medical Appsは、モバイルデバイスで実行するように設計されたソフトウェアアプリケーションで、診断、モニタリング、または治療のサポートなどの医療、健康、またはフィットネス関連の機能を提供します。"
+    },
+    {
+        "word": "Healthtech Investment",
+        "description": "Healthtech Investmentは、健康技術企業やイノベーションの成長と発展を支援するために、リスク資本やプライベートエクイティなどの財務資源の配分を指します。"
+    },
+    {
+        "word": "Clinical Trials Management System (Ctms)",
+        "description": "臨床試験管理システム(CTMS)は、患者の登録、データ管理、研究文書を含む臨床試験の管理と管理をサポートするために特別に設計されたソフトウェアです。"
+    },
+    {
+        "word": "Secure Health Data Exchange",
+        "description": "セキュアな健康データ交換は、医療機関と提供者間で安全かつ機密に患者の健康情報を共有し、調整されたケアを可能にし、患者の結果を改善することを目的としています。"
+    }
+]

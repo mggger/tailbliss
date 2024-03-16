@@ -1,0 +1,502 @@
+[
+    {
+        "word": "Online Payment Gateway",
+        "description": "オンライン決済ゲートウェイは、電子商取引サイトのオンライン決済を処理し、顧客、商人、買収銀行間の資金転送を容易にするサービスです。"
+    },
+    {
+        "word": "Merchant Account",
+        "description": "商人アカウントは、企業がクレジットカードおよびデビットカードの支払いを受け入れおよび処理することを可能にする銀行口座の一種です。"
+    },
+    {
+        "word": "Payment Processor",
+        "description": "支払いプロセッサは、認可、決済、セキュリティを含む支払い取引プロセスの技術的な側面を処理する会社またはサービスプロバイダーです。"
+    },
+    {
+        "word": "Transaction",
+        "description": "取引とは、顧客と商人の間で製品またはサービスに対する資金の交換を指します。"
+    },
+    {
+        "word": "Payment Card",
+        "description": "クレジットまたはデビットカードなどの支払いカードは、顧客が支払いを行うことを可能にする物理的または仮想カードです。"
+    },
+    {
+        "word": "Authorization",
+        "description": "認可は、支払い取引を承認し、顧客が十分な資金を持っており、取引が有効であることを保証するプロセスです。"
+    },
+    {
+        "word": "Capture",
+        "description": "キャプチャは、顧客のアカウントから商人のアカウントに承認された資金を転送するプロセスです。"
+    },
+    {
+        "word": "Settlement",
+        "description": "決済は、資金を買収銀行から商人の銀行口座に移転することによって支払い取引を完了するプロセスです。"
+    },
+    {
+        "word": "Refund",
+        "description": "返金は、以前に処理された支払いのために顧客に資金を返すプロセスです。"
+    },
+    {
+        "word": "Chargeback",
+        "description": "A Chargebackは、通常、紛争または詐欺の結果として、支払い取引を逆転させるクライアントの要請です。"
+    },
+    {
+        "word": "Card Association",
+        "description": "カード協会は、Visa、Mastercard、American Express、Discoverなどのクレジットカードの使用を規制するネットワークです。"
+    },
+    {
+        "word": "Pci Dss",
+        "description": "PCI DSS (Payment Card Industry Data Security Standard) は、カード所有者のデータを保護するために商人が遵守しなければならないセキュリティ基準のセットです。"
+    },
+    {
+        "word": "Tokenization",
+        "description": "トークン化は、セキュリティを強化し、データ侵害のリスクを減らすために、敏感なカードデータをトークンとして知られるユニークな識別子に置き換えるプロセスです。"
+    },
+    {
+        "word": "Encryption",
+        "description": "暗号化は、不正なアクセスやデータ盗難を防ぐために情報やデータをコードに変換するプロセスです。"
+    },
+    {
+        "word": "Secure Socket Layer (Ssl)",
+        "description": "Secure Socket Layer(SSL)は、オンライン通信を保護し、ウェブサーバーとブラウザ間で送信されるデータを保護するために使用されるプロトコルです。"
+    },
+    {
+        "word": "Two-Factor Authentication (2Fa)",
+        "description": "Two-Factor Authentication(2FA)は、ユーザーが自分のアイデンティティを検証するためにモバイルデバイスに送信されたパスワードとユニークなコードなどの2種類の認証要因を提供することを要求するセキュリティ対策です。"
+    },
+    {
+        "word": "Recurring Payment",
+        "description": "繰り返し支払いは、月額サブスクリプションなどの定期的な間隔で繰り返される予定の自動支払いです。"
+    },
+    {
+        "word": "Virtual Terminal",
+        "description": "仮想ターミナルは、商人が手動で支払いを処理し、顧客のために支払いカードの詳細を入力することを可能にするオンラインプラットフォームです。"
+    },
+    {
+        "word": "Hosted Payment Page",
+        "description": "ホストされた支払いページは、お客様から安全に支払い情報を収集する支払いゲートウェイによって提供されるウェブページです。"
+    },
+    {
+        "word": "Api",
+        "description": "APIとは、アプリケーションプログラミングインターフェイス(Application Programming Interface)の略で、さまざまなソフトウェアアプリケーションが通信し、データを交換することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Invoicing",
+        "description": "請求書は、顧客に請求書または請求書を生成および送信するプロセスです。"
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "詐欺の検出は、詐欺的な取引や活動を特定し、防止するために使用される方法や技術を指します。"
+    },
+    {
+        "word": "Cvv",
+        "description": "CVVはカード検証価値の略で、オンライン取引中に追加のセキュリティのために使用される支払いカードの背面にある3桁のコードです。"
+    },
+    {
+        "word": "3D Secure",
+        "description": "3D Secureは、詐欺のリスクを減らすためにオンライン取引で使用される追加のセキュリティ層であり、顧客は追加の認証ステップを提供する必要があります。"
+    },
+    {
+        "word": "Batch Processing",
+        "description": "バッチ処理は、通常、営業日の終わりに実行される複数の支払い取引を同時に処理する方法です。"
+    },
+    {
+        "word": "Reconciliation",
+        "description": "和解は、販売記録や支払い決済などの取引データを比較し、一致させ、正確性を確保し、差異を特定するプロセスです。"
+    },
+    {
+        "word": "Acquirer",
+        "description": "買収者は、支払いカード取引を処理するために商人と契約契約を結ぶ金融機関です。"
+    },
+    {
+        "word": "Issuing Bank",
+        "description": "発行銀行は、顧客にクレジットカードを提供する金融機関またはクレジットカード会社です。"
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "支払いゲートウェイは、商人、顧客、金融機関を接続することによってオンライン取引を容易にする技術ソリューションです。"
+    },
+    {
+        "word": "E-Commerce",
+        "description": "電子商取引、電子商取引の略で、インターネット経由で商品やサービスの購入と販売です。"
+    },
+    {
+        "word": "Payment Method",
+        "description": "支払い方法は、顧客がクレジットカード、デジタル財布、または銀行振込などのオンライン購入の支払いを提供する方法です。"
+    },
+    {
+        "word": "Fraud Prevention",
+        "description": "詐欺防止は、オンライン取引中に詐欺活動を積極的に検出し、防止するための措置と戦略を実施することです。"
+    },
+    {
+        "word": "Authorization Code",
+        "description": "認証コードは、支払いゲートウェイによって生成されるユニークなコードで、取引を検証し、承認します。"
+    },
+    {
+        "word": "Merchant Id",
+        "description": "商人のIDは、支払いゲートウェイまたは取得者によって商人に割り当てられたユニークな識別子で、取引を安全に処理することができます。"
+    },
+    {
+        "word": "Payment Notification",
+        "description": "支払い通知は、支払いゲートウェイによって商人に送信され、支払いが成功したことを通知するメッセージです。"
+    },
+    {
+        "word": "Payment Api",
+        "description": "支払い API は、商人が支払いプロセスを自動化するために支払いゲートウェイとシステムを統合することを可能にするインターフェイスです。"
+    },
+    {
+        "word": "Currency Conversion",
+        "description": "通貨変換は、国際取引のために一つの通貨から他の通貨に製品またはサービスの価格を変換するプロセスです。"
+    },
+    {
+        "word": "Payouts",
+        "description": "支払いは、手数料または払い戻しの支払いなど、商人の口座から受領者の口座に資金を転送するプロセスを指します。"
+    },
+    {
+        "word": "Digital Wallet",
+        "description": "デジタルウォレットは、支払いカード情報を格納し、ユーザーが電子的に支払いを行うことを可能にする仮想プラットフォームまたはアプリケーションです。"
+    },
+    {
+        "word": "Subscription",
+        "description": "サブスクリプションは、顧客と商人の間の合意で、顧客が製品またはサービスにアクセスするために定期的な手数料を支払う。"
+    },
+    {
+        "word": "Fraud Chargeback",
+        "description": "詐欺課金は、顧客がそのアカウント上の許可されていない活動のために取引に異議を唱えるときに発生します。"
+    },
+    {
+        "word": "Recurring Billing",
+        "description": "繰り返し請求は、継続的なサービスまたはサブスクリプションに対して定期的に顧客を自動的に請求するプロセスです。"
+    },
+    {
+        "word": "Payment Risk Assessment",
+        "description": "支払いリスク評価とは、取引を承認する前に、詐欺または不適切な支払い行為の可能性を評価することです。"
+    },
+    {
+        "word": "Customer Vault",
+        "description": "クライアントクローゼットは、顧客の支払い情報を保管するための支払いゲートウェイによって提供されるセキュアなストレージシステムです。"
+    },
+    {
+        "word": "Gateway Integration",
+        "description": "ゲートウェイ統合は、支払いを処理するための支払いゲートウェイに商人のウェブサイトまたはアプリケーションを接続するプロセスです。"
+    },
+    {
+        "word": "Acquiring Bank",
+        "description": "買収銀行は、ビジネスの名義でオンラインクレジットカードおよびデビットカード取引を処理する金融機関です。"
+    },
+    {
+        "word": "Payment Card Industry Data Security Standard (Pci Dss)",
+        "description": "PCI DSS(Payment Card Industry Data Security Standard)は、クレジットカード取引中にカード所有者のデータを保護するためのセキュリティ基準です。"
+    },
+    {
+        "word": "One-Click Payment",
+        "description": "One-click payment allows customers to make a purchase using stored payment information, without the need to enter their card details each time. 1クリックの支払いにより、顧客は、毎回カードの詳細を入力する必要がなく、保存された支払い情報を使用して購入することができます。"
+    },
+    {
+        "word": "Recurring Payments",
+        "description": "繰り返し支払いは、手動の承認を必要とせずに、毎月または毎年、定期的に自動的に処理される予定の支払いです。"
+    },
+    {
+        "word": "Mobile Wallet",
+        "description": "Mobile Walletは、ユーザーがスマートフォンやその他のモバイルデバイスを使用して支払いを行うことを可能にする物理的な財布のデジタルバージョンです。"
+    },
+    {
+        "word": "Avs (Address Verification System)",
+        "description": "AVSは、クライアントがオンライン取引中に提供したアドレスを、発行銀行のファイル上のアドレスと比較することによって検証する詐欺検出機能です。"
+    },
+    {
+        "word": "Cvv (Card Verification Value)",
+        "description": "CVVは、クレジットカードに印刷された3桁または4桁のコードで、クレジットカードが存在しない取引を検証するための追加のセキュリティ対策として使用されます。"
+    },
+    {
+        "word": "Payment Gateway Integration",
+        "description": "支払いゲートウェイの統合は、オンライン決済ゲートウェイを電子商取引のウェブサイトまたはアプリケーションに接続し、オンライン決済の受け入れを可能にするプロセスです。"
+    },
+    {
+        "word": "Ach (Automated Clearing House)",
+        "description": "ACHは、米国における銀行口座間にお金を移転することを可能にする電子送金システムです。"
+    },
+    {
+        "word": "Digital Currencies",
+        "description": "暗号通貨とも呼ばれるデジタル通貨は、セキュリティのために暗号化を使用するデジタルまたは仮想通貨の形態です。"
+    },
+    {
+        "word": "Payment Link",
+        "description": "支払いリンクは、支払いゲートウェイによって生成されるユニークなURLで、顧客はリンクをクリックしてオンラインで支払いを行うことができます。"
+    },
+    {
+        "word": "Multi-Currency Support",
+        "description": "複数の通貨のサポートにより、オンライン決済ゲートウェイは異なる通貨での支払いを受け入れ、それを商人の好ましい通貨に変換することができます。"
+    },
+    {
+        "word": "Gateway Fee",
+        "description": "ゲートウェイ手数料は、オンライン取引の処理のために支払いゲートウェイが請求する手数料です。"
+    },
+    {
+        "word": "Discount Rate",
+        "description": "割引率、また商人の割引率とも呼ばれる割引率は、クレジットカードまたはデビットカードの支払いを処理するために買収銀行が請求する手数料です。"
+    },
+    {
+        "word": "Reserve Account",
+        "description": "準備口座は、買収銀行が潜在的な返金やその他のリスクに対するセキュリティ対策として保有している商人の資金の一部です。"
+    },
+    {
+        "word": "Pci Compliance",
+        "description": "PCIコンプライアンスとは、クレジットカード所有者の情報の安全な取り扱いを確保するために、クレジットカード業界のセキュリティ基準評議会が定めたガイドラインと要件に従うことを指します。"
+    },
+    {
+        "word": "Gateway Api",
+        "description": "支払いゲートウェイAPIとも呼ばれるゲートウェイAPIは、電子商取引サイトと支払いゲートウェイ間のコミュニケーションを可能にするプログラミング指示のセットです。"
+    },
+    {
+        "word": "Transaction Id",
+        "description": "支払い参照として知られるトランザクションIDは、追跡と和解を促進するために各オンライン取引に割り当てられるユニークな識別子です。"
+    },
+    {
+        "word": "Secure Sockets Layer (Ssl)",
+        "description": "Secure Sockets Layer (SSL) は、ウェブサイトまたはオンラインサービスとユーザーのウェブブラウザ間で送信されるデータを暗号化するセキュリティプロトコルです。"
+    },
+    {
+        "word": "Ipn (Instant Payment Notification)",
+        "description": "IPNは、決済ゲートウェイによって提供される機能で、取引の状態に関するリアルタイムの通知を商人に送信し、自動的な注文処理を可能にします。"
+    },
+    {
+        "word": "Moto (Mail Order/Telephone Order)",
+        "description": "MOTO は、カード所有者の情報が手動で入力されるメール注文または電話で実行されるカード不在の取引を指します。"
+    },
+    {
+        "word": "Dynamic Currency Conversion (Dcc)",
+        "description": "ダイナミック通貨変換(DCC)は、顧客が国際取引を行う際、支払いプロセッサが提供する変換率で自国の通貨で支払うことを可能にするサービスです。"
+    },
+    {
+        "word": "Invoice Payments",
+        "description": "請求書支払いは、顧客が商人から受け取った請求書または請求書に基づいて商品またはサービスの支払いを行うことを可能にします。"
+    },
+    {
+        "word": "Smart Routing",
+        "description": "スマートルーティングは、さまざまな要因に基づいて、各取引のための最もコスト効率的または信頼性の高い支払いプロセッサを動的に選択する支払いゲートウェイの機能です。"
+    },
+    {
+        "word": "Payment Card Industry (Pci)",
+        "description": "PCI(Payment Card Industry)とは、カード発行業者、支払いプロセッサ、マーケターを含む支払いカード取引に関与する組織、企業、システムを指します。"
+    },
+    {
+        "word": "Gateway Plug-In",
+        "description": "支払いモジュールまたは拡張子とも呼ばれるゲートウェイプラグインは、支払いゲートウェイを電子商取引プラットフォームまたはコンテンツ管理システムと統合するソフトウェアコンポーネントです。"
+    },
+    {
+        "word": "Card-On-File",
+        "description": "Card-on-fileとは、将来の取引または繰り返しの支払いのために顧客のクレジットカードの詳細を安全に保存する慣行を指します。"
+    },
+    {
+        "word": "Transaction Fee",
+        "description": "取引手数料は、支払いゲートウェイを通じて処理される各支払い取引に対して、商人または顧客に請求される手数料です。"
+    },
+    {
+        "word": "Payment Card Industry Professional (Pcip)",
+        "description": "支払いカード業界プロフェッショナル(PCIP)は、PCIコンプライアンスの認定を受け、支払いカード業界のセキュリティ基準について熟知している個人です。"
+    },
+    {
+        "word": "Authentication",
+        "description": "認証は、特定のアクションにアクセスまたは実行する権限があることを確認するために、個人または組織のアイデンティティを確認するプロセスです。"
+    },
+    {
+        "word": "Card Issuing Bank",
+        "description": "カード発行銀行は、クレジットカードやデビットカードなどのカード所有者に支払いカードを発行する金融機関です。"
+    },
+    {
+        "word": "Fallback",
+        "description": "フォールバックは、技術的な問題や制限のために、連絡先のない支払い方法(NFC)から、支払いカードの挿入やスワイプなどの伝統的な支払い方法に切り替えるプロセスです。"
+    },
+    {
+        "word": "Dynamic Descriptor",
+        "description": "ダイナミックディスクリプターは、特定の取引についてカード所有者に追加情報を提供するカスタマイズ可能な支払い説明または声明です。"
+    },
+    {
+        "word": "Surcharge",
+        "description": "追加料金は、クレジットカードまたはデビットカードの支払い処理のコストをカバーするために取引金額に追加された料金または割合です。"
+    },
+    {
+        "word": "Merchant Identification Number (Mid)",
+        "description": "商人の識別番号(MID)は、買収銀行が商人に識別および追跡目的で割り当てたユニークな番号です。"
+    },
+    {
+        "word": "Gateway Dashboard",
+        "description": "ゲートウェイダッシュボード(Gateway Dashboard)は、取引データ、レポート、アカウント設定を管理するために、支払いゲートウェイによって商人に提供されるウェブベースのインターフェイスです。"
+    },
+    {
+        "word": "Fraud Prevention Tools",
+        "description": "詐欺防止ツールとは、売り手が詐欺的な取引を検出し、防止するのに役立つ支払いゲートウェイによって提供されるソフトウェア機能またはサービスです。"
+    },
+    {
+        "word": "P2Pe (Point-To-Point Encryption)",
+        "description": "P2PEは、カード所有者のデータを、支払い端末などの入力点から支払いプロセッサまで暗号化し、データ侵害に対する保護を強化するセキュリティフレームワークです。"
+    },
+    {
+        "word": "Emv (Europay, Mastercard, And Visa)",
+        "description": "EMVは、組み込まれたマイクロチップを搭載した決済カードのグローバル標準であり、より強力なセキュリティを提供し、偽造詐欺のリスクを減らす。"
+    },
+    {
+        "word": "E-Check",
+        "description": "電子チェック(e-check)は、ACH(Automated Clearing House)ネットワークを通じて処理される紙のチェックのデジタルバージョンです。"
+    },
+    {
+        "word": "Interchange Fee",
+        "description": "交換手数料は、購入銀行がカード所有者の発行銀行に支払う手数料で、カードネットワークのサービスおよび詐欺防止の費用をカバーするクレジットまたはデビットカード取引ごとに支払われます。"
+    },
+    {
+        "word": "Pci Saq (Self-Assessment Questionnaire)",
+        "description": "PCI SAQ は、Payment Card Industry Security Standards Council が提供するアンケートで、商業界が PCI DSS 要件の遵守を評価するのに役立ちます。"
+    },
+    {
+        "word": "Payment Gateway Service Level Agreement (Sla)",
+        "description": "支払いゲートウェイサービスレベルの合意(SLA)は、支払いゲートウェイプロバイダーと商人との間の契約契約で、サービス、パフォーマンス、および可用性の保証の条件を定義します。"
+    },
+    {
+        "word": "Card Verification Method (Cvm)",
+        "description": "カード認証方法(CVM)は、PIN、署名、バイオメトリック認証などのカード所有者のアイデンティティを検証するためにカードプレゼント取引中に使用されるセキュリティ機能です。"
+    },
+    {
+        "word": "Expired Card",
+        "description": "期限切れのカードは、その期限が到達したため、取引を行うためにもはや有効ではない支払いカードです。"
+    },
+    {
+        "word": "Chargeback Prevention",
+        "description": "請求回避は、請求回避の発生を最小限に抑え、紛争がエスカレートする前に解決するために商人によって取られた慣行と措置を指します。"
+    },
+    {
+        "word": "Cardholder Not Present (Cnp)",
+        "description": "カード持ち主不在(CNP)とは、カード持ち主が物理的に存在しない取引、例えばオンラインまたは電話取引を指します。"
+    },
+    {
+        "word": "Reconciliation Reports",
+        "description": "和解レポートは、支払いゲートウェイによって商人に提供される詳細な概要であり、指定された期間のすべての処理された取引、手数料、予約、および請求バック情報を表示します。"
+    },
+    {
+        "word": "Card Issuer",
+        "description": "カード発行者は、クレジットカードやデビットカードなどの支払いカードを顧客に発行する金融機関です。"
+    },
+    {
+        "word": "Payment Gateway Api",
+        "description": "Payment Gateway API(アプリケーションプログラミングインターフェイス)は、マーケターが支払いゲートウェイにウェブサイトやアプリケーションを統合できるプロトコルとツールのセットです。"
+    },
+    {
+        "word": "Direct Payment",
+        "description": "直接支払いは、顧客がクレジットカードやデビットカードを必要とせずに銀行口座から直接支払いを行うことを可能にする支払い方法です。"
+    },
+    {
+        "word": "Fraud Detection And Prevention",
+        "description": "詐欺の検出と予防とは、詐欺の取引を特定し、防止するための措置とシステムを指します。"
+    },
+    {
+        "word": "Payment Reconciliation",
+        "description": "支払い和解は、支払いゲートウェイ、商人、買収銀行などの異なる当事者間の支払い取引の記録を一致させ、バランスをとるプロセスです。"
+    },
+    {
+        "word": "Dispute Resolution",
+        "description": "紛争解決は、支払い取引に関する顧客と商人の間の紛争や紛争を解決するプロセスです。"
+    },
+    {
+        "word": "Payment Settlement Period",
+        "description": "支払い決済期間とは、資金が買収銀行から商人の銀行口座に移転するのにかかる時間のことである。"
+    },
+    {
+        "word": "Cross-Border Payments",
+        "description": "国境を越えた支払いとは、異なる国に位置する個人や企業間で行われた支払いであり、通貨交換や国際規制を含むものです。"
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "リスク評価は、支払い取引に関連する潜在的なリスクを評価し分析し、適切なセキュリティ対策を実施するプロセスです。"
+    },
+    {
+        "word": "Merchant Dashboard",
+        "description": "マーチャンダッシュボードは、支払いゲートウェイによって提供されるウェブベースのインターフェイスで、マーチャンは支払い取引を管理し、監視し、レポートを作成し、管理タスクを実行することができます。"
+    },
+    {
+        "word": "In-App Payments",
+        "description": "アプリ内支払いは、モバイルアプリ内で行われる支払いであり、ユーザーはアプリを離れることなく商品やサービスを購入することができます。"
+    },
+    {
+        "word": "Zero-Day Fraud Protection",
+        "description": "ゼロデイ詐欺保護とは、詐欺の検出システムとアルゴリズムを指し、詐欺的な取引をリアルタイムで識別し、防ぐことができます。"
+    },
+    {
+        "word": "Open Banking",
+        "description": "Open Bankingは、第三者金融サービスプロバイダーが顧客の銀行データにアクセスし、顧客の同意を得て、革新的な支払いソリューションを提供することを可能にするシステムです。"
+    },
+    {
+        "word": "Mobile Point Of Sale (Mpos)",
+        "description": "Mobile Point of Sale(mPOS)とは、スマートフォンやタブレットなどのモバイルデバイスのポータブル決済端末としての使用を指し、企業がどこからでもカード決済を受け入れることを可能にします。"
+    },
+    {
+        "word": "Payment Gateway Aggregator",
+        "description": "Payment Gateway Aggregator は、単一の支払いゲートウェイアカウントの下で複数の商人または企業を統合するサービスプロバイダーです。"
+    },
+    {
+        "word": "E-Commerce Platforms",
+        "description": "電子商取引プラットフォームは、オンラインで製品やサービスを販売することを可能にするオンラインプラットフォームまたはソフトウェアソリューションであり、しばしばシームレスな取引のために支払いゲートウェイと統合されます。"
+    },
+    {
+        "word": "Payment Card Processing Fee",
+        "description": "支払いカード処理手数料は、支払い取引を処理するために商人に請求される手数料です。これには、交換手数料、評価手数料、支払いゲートウェイ手数料が含まれる場合があります。"
+    },
+    {
+        "word": "Merchant Services",
+        "description": "商業サービスは、支払い処理、オンライン支払いゲートウェイ、および関連サービスを含む企業に提供される金融サービスです。"
+    },
+    {
+        "word": "Reconciliation Statement",
+        "description": "和解宣言は、支払い取引および金融活動の記録をまとめ、異なる当事者間のデータの調和と正確性を確保する文書です。"
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "バイオメトリック認証は、指紋や顔認証などのユニークな身体的または行動的な特徴を使用して、人の身元を確認するセキュリティ対策です。"
+    },
+    {
+        "word": "Guest Checkout",
+        "description": "ゲストチェックアウトは、顧客がアカウントを作成したり、広範な個人情報を提供することなく、購入を行うことを可能にするオンライン商店が提供するオプションです。"
+    },
+    {
+        "word": "Stored Card Vault",
+        "description": "Stored Card Vault は、支払いゲートウェイによって提供されるセキュアなストレージシステムで、顧客の支払いカードデータを保存し、繰り返しまたは将来の取引のために管理します。"
+    },
+    {
+        "word": "Acquirer Reference Number (Arn)",
+        "description": "購入者参照番号(ARN)は、追跡および参照の目的で使用されるすべての完了した支払い取引に割り当てられるユニークな識別子です。"
+    },
+    {
+        "word": "Payment Facilitator",
+        "description": "Payment Facilitator は、企業や個人が顧客からの支払いを受け入れることを可能にする会社またはプラットフォームであり、しばしば独自のアカウントの下に複数のマーケターを集計することによってです。"
+    },
+    {
+        "word": "Automatic Clearing House (Ach)",
+        "description": "Automatic Clearing House (ACH) は、米国における金融取引のための電子ネットワークであり、銀行口座間の直接預金と引き出しを可能にします。"
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "Know Your Customer (KYC) 規制は、金融サービスを提供する前に顧客のアイデンティティを検証し、検証するプロセスを指します。"
+    },
+    {
+        "word": "Anti-Money Laundering (Aml)",
+        "description": "アンチマネーロンダリング(AML)とは、金融システムを通じて違法な活動から得られた資金の処理を防止するために実施された規制と手続きのセットを指します。"
+    },
+    {
+        "word": "Financial Technology (Fintech)",
+        "description": "金融技術(Fintech)は、オンライン決済ゲートウェイを含む金融サービスとプロセスを改善するために技術とイノベーションを適用する産業です。"
+    },
+    {
+        "word": "Real-Time Payment",
+        "description": "リアルタイム支払いは、資金の即時またはほぼ即時送金を提供する支払い方法であり、顧客や商人はすぐに資金を受け取り、アクセスすることができます。"
+    },
+    {
+        "word": "Payout",
+        "description": "支払いは、商人の口座から商人の指定銀行口座に資金を移転するプロセスです。"
+    },
+    {
+        "word": "Subscriptions",
+        "description": "サブスクリプションとは、顧客が定期的に製品やサービスにアクセスするための繰り返しの支払いであり、通常は一定の間隔で行われます。"
+    },
+    {
+        "word": "Payment Notifications",
+        "description": "支払い通知は、成功した支払いや拒否された取引などの支払い取引の状態と詳細を確認するために商人または顧客に送信される警告またはメッセージです。"
+    }
+]

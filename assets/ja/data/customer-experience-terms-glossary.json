@@ -1,0 +1,402 @@
+[
+    {
+        "word": "Customer Experience",
+        "description": "顧客体験とは、顧客が購入前に、購入中に、そして購入後の相互作用に基づいてブランドや組織について持っている全体的な認識を指します。"
+    },
+    {
+        "word": "Touchpoint",
+        "description": "タッチポイントは、顧客とブランドの間の相互作用のあらゆる点、例えばウェブサイト訪問、ソーシャルメディアのメッセージ、または電話の通話です。"
+    },
+    {
+        "word": "Customer Journey",
+        "description": "顧客の旅は、最初の認識から購入後の相互作用まで、顧客がブランドと関わる際の経験の完全なセットです。"
+    },
+    {
+        "word": "Omni-Channel",
+        "description": "Omni-channelは、店舗内、オンライン、モバイル、ソーシャルメディアなどの複数のチャネルで顧客体験のシームレスな統合と一貫性を指します。"
+    },
+    {
+        "word": "Persona",
+        "description": "Persona は、顧客セグメントの仮説的なプロフィールを表し、その人口、行動、ニーズ、および好みを特定し、ターゲット化された顧客体験戦略を伝える。"
+    },
+    {
+        "word": "Net Promoter Score (Nps)",
+        "description": "Net Promoter Score(NPS)は、顧客の忠誠心と満足度を「0から10のスケールで、あなたは友人や同僚に当社のブランドを推薦する確率はどれくらいですか?」という単一の質問で測定するためのメトリックです。"
+    },
+    {
+        "word": "Customer Satisfaction (Csat)",
+        "description": "顧客満足度(CSAT)は、特定のインタラクション、取引、または全体的な経験で顧客がどれほど満足しているかを測定するための指標です。"
+    },
+    {
+        "word": "Customer Effort Score (Ces)",
+        "description": "Customer Effort Score (CES) は、顧客が特定のタスクを達成するか、ある問題の解決を得るために必要とする努力の量を測定するための測定値です。"
+    },
+    {
+        "word": "Voice Of The Customer (Voc)",
+        "description": "顧客の声(Voice of the Customer)とは、顧客のニーズ、期待、好みを理解するために直接顧客から得られた洞察とフィードバックを指します。"
+    },
+    {
+        "word": "Customer Journey Mapping",
+        "description": "顧客旅行マッピングは、顧客の旅を視覚的に表し、途中で重要なタッチポイント、感情、痛みのポイントを強調するプロセスです。"
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "顧客セグメントは、顧客を共有する特徴、行動、または好みに基づいてグループに分割する実践です。"
+    },
+    {
+        "word": "Customer Churn",
+        "description": "Customer churn は、顧客が特定の期間にわたって測定された会社とビジネスをやめるレートです。"
+    },
+    {
+        "word": "Customer Lifetime Value (Cltv)",
+        "description": "Customer Lifetime Value (CLTV) は、顧客がその関係全体を通じてブランドに与える予想される収益性であり、繰り返し購入、平均オーダー価値、および保留などの要因を考慮に入れる。"
+    },
+    {
+        "word": "First Contact Resolution (Fcr)",
+        "description": "First Contact Resolution (FCR) は、フォローアップやエスカレーションを必要とせずに、最初の接触で解決された顧客インタラクションの割合を測定するためのメトリックです。"
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "サービスレベルの合意(SLA)は、サービスプロバイダーと顧客との間の契約で、合意されたサービスレベル、主要なパフォーマンス指標、および期待を述べています。"
+    },
+    {
+        "word": "Customer Retention",
+        "description": "顧客保持とは、企業が特定の期間にわたって既存顧客を保持する能力です。"
+    },
+    {
+        "word": "Customer Advocacy",
+        "description": "顧客擁護とは、積極的に彼らのポジティブな経験に基づいてブランドまたは製品を推奨し、促進する顧客を指します。"
+    },
+    {
+        "word": "Customer Onboarding",
+        "description": "顧客オンボードは、新規顧客を導き、関与させるプロセスであり、彼らが製品またはサービスに成功して導入されることを保証し、採用と満足度の高いレベルにつながります。"
+    },
+    {
+        "word": "Customer Feedback",
+        "description": "顧客のフィードバックは、顧客がブランドや製品との経験について提供する情報、意見、提案です。"
+    },
+    {
+        "word": "Customer Loyalty",
+        "description": "顧客の忠誠心とは、顧客がしばしばポジティブな経験や感情的なつながりによって引き起こされるブランドから何度も購入したり、ブランドと関わったりする意欲を指します。"
+    },
+    {
+        "word": "Customer Support",
+        "description": "顧客サポートとは、ブランドが顧客の質問、問題、またはリクエストを支援するために提供するサービス、サポート、およびリソースを指します。"
+    },
+    {
+        "word": "Customer Success",
+        "description": "顧客の成功とは、顧客が望ましい結果を達成し、購入の価値を最大化するための企業の積極的かつ継続的な努力を指します。"
+    },
+    {
+        "word": "Customer Centricity",
+        "description": "顧客中心主義とは、顧客をすべてのビジネス意思決定、行動、プロセスの中心に置く戦略的アプローチで、優れた顧客体験を提供することを目的としています。"
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "データベースの意思決定は、データ、分析、洞察を活用してビジネス意思決定や戦略を指導し、伝えるプロセスです。"
+    },
+    {
+        "word": "Emotional Intelligence (Ei)",
+        "description": "感情知能(EI)とは、自分自身や他人の感情を認識し、理解し、管理する能力を指し、しばしば顧客の相互作用を改善するために適用されます。"
+    },
+    {
+        "word": "Customer Analytics",
+        "description": "顧客分析とは、データと統計分析を使用して顧客の行動、好み、トレンドの洞察を得るための実践です。"
+    },
+    {
+        "word": "Customer Delight",
+        "description": "顧客の喜びとは、顧客の期待を超え、単なる満足を超えるポジティブな感情的な経験を生み出すことを意味します。"
+    },
+    {
+        "word": "Multi-Channel Support",
+        "description": "マルチチャンネルサポートとは、電話、メール、ライブチャット、ソーシャルメディアなどのさまざまなチャンネルを通じて顧客サポートとサポートを提供することを指します。"
+    },
+    {
+        "word": "Customer Empathy",
+        "description": "顧客同情とは、顧客の感情と視点を理解し、共有し、顧客のニーズと期待をよりよく満たすことを意味します。"
+    },
+    {
+        "word": "Brand Loyalty",
+        "description": "ブランド忠誠心とは、顧客が特定のブランドに対して持っている強力な愛着、好み、そして繰り返しの購入行動であり、しばしばポジティブな経験や感情的なつながりから生じる。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーは、お客様のデータの保護と責任ある取り扱いを含み、プライバシー法および規制の遵守を保証します。"
+    },
+    {
+        "word": "Customer Complaints",
+        "description": "顧客の苦情は、顧客がブランド、製品、またはサービスに関する経験について不満や批判を表明するものです。"
+    },
+    {
+        "word": "Customer Acquisition",
+        "description": "顧客の獲得は、ブランドのために新しい顧客やユーザーを獲得するプロセス、しばしばマーケティングや販売戦略を含む。"
+    },
+    {
+        "word": "Customer Lifetime Journey",
+        "description": "Customer Lifetime Journeyは、最初の認識から購入後まで、ブランドとの顧客との関係と旅の全体を表しています。"
+    },
+    {
+        "word": "Customer Service",
+        "description": "顧客サービスとは、購入前、期間中、そして購入後の顧客に提供されるサポートとサポートで、問題を解決し、質問に答え、顧客満足を確保することを目的としています。"
+    },
+    {
+        "word": "Customer Experience Management (Cem)",
+        "description": "Customer Experience Management(CEM)は、ブランドが全体的な顧客体験を積極的に管理するために使用する戦略、プロセス、実践を含みます。"
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "ユーザ体験(UX)とは、ユーザがウェブサイト、アプリケーション、またはデジタル製品と相互作用する際に持っている全体的な経験を指し、使いやすさと満足度に焦点を当てています。"
+    },
+    {
+        "word": "Employee Experience (Ex)",
+        "description": "従業員経験(EX)とは、組織内の従業員の全体的な経験と満足度を指し、しばしば優れた顧客体験を提供する能力に影響を与える。"
+    },
+    {
+        "word": "Personalization",
+        "description": "パーソナライゼーションは、製品、サービス、経験を個々の顧客の好みやニーズに合わせて調整するプロセスです。"
+    },
+    {
+        "word": "Customer Feedback Loop",
+        "description": "顧客フィードバック ループは、顧客のフィードバックを収集し、分析し、応答する継続的なプロセスで、改善を推進し、顧客体験を向上させます。"
+    },
+    {
+        "word": "Customer Happiness",
+        "description": "顧客の幸福度は、顧客がブランドと相互作用するときに経験する全体的な感情的幸福、満足、喜びを測定します。"
+    },
+    {
+        "word": "Customer Intelligence",
+        "description": "顧客インテリジェンスとは、顧客に関するデータと洞察を収集、分析、解釈し、戦略的意思決定を推進し、顧客体験を改善することを意味します。"
+    },
+    {
+        "word": "Customer-Centric Culture",
+        "description": "顧客中心の文化は、優れた顧客体験を提供し、顧客満足度を最優先することに強く重点を置く企業文化です。"
+    },
+    {
+        "word": "Customer Engagement",
+        "description": "顧客関与とは、顧客がブランドや組織に対して持つ接続、相互作用、感情的コミットメントのレベルを指します。"
+    },
+    {
+        "word": "Customer Convenience",
+        "description": "顧客の快適性とは、顧客体験における努力、複雑さ、摩擦を最小限に抑え、顧客がブランドと相互作用することを容易かつ便利にすることを意味します。"
+    },
+    {
+        "word": "Customer Perception",
+        "description": "顧客の認識は、顧客がブランドについて持っている主観的な意見、印象、または信念であり、しばしば彼らの相互作用や経験に基づいています。"
+    },
+    {
+        "word": "Customer Relationship Management (Crm)",
+        "description": "顧客関係管理(CRM)は、顧客のライフサイクルを通じて顧客のインタラクション、データ、および関係を管理し、分析するための技術と戦略です。"
+    },
+    {
+        "word": "Customer-Centric Design",
+        "description": "Customer-Centric Designは、顧客のニーズ、好み、行動を取り巻く製品、サービス、経験を設計し、設計プロセスの最前線に置くアプローチです。"
+    },
+    {
+        "word": "Service Recovery",
+        "description": "サービス回復とは、顧客のネガティブな経験を修正し、顧客の信頼を取り戻し、状況をポジティブなものに変えるために企業が行う行動を指します。"
+    },
+    {
+        "word": "Customer Advocacy Program",
+        "description": "顧客擁護プログラムは、顧客が彼らのポジティブな経験に基づいてブランドを推進し、擁護することを奨励し、権限を与える構造化されたイニシアチブです。"
+    },
+    {
+        "word": "Customer Behavior",
+        "description": "顧客行動は、ブランド、製品、またはサービスと相互作用するときに顧客の行動、購入パターン、および意思決定プロセスを指します。"
+    },
+    {
+        "word": "Customer Relationship",
+        "description": "顧客関係とは、顧客とブランドの間の接続、相互作用、継続的な関係を指し、しばしば信頼と忠誠心によって特徴づけられる。"
+    },
+    {
+        "word": "Customer Touchpoint Mapping",
+        "description": "顧客のタッチポイントマッピングは、オンラインとオフラインの両方で、顧客がブランドを持っている可能性のあるすべてのタッチポイントを識別し分析するプロセスです。"
+    },
+    {
+        "word": "Customer Insight",
+        "description": "顧客洞察とは、研究とデータ分析を通じて顧客の動機、行動、ニーズ、および好みについて得た深い理解と知識を指します。"
+    },
+    {
+        "word": "Customer Value Proposition",
+        "description": "顧客価値提案は、ブランドがターゲット顧客に提供することを約束する利点と価値のユニークな組み合わせであり、競合相手と区別します。"
+    },
+    {
+        "word": "Customer-Centric Strategy",
+        "description": "顧客中心の戦略は、ビジネス目標、プロセス、および決定を顧客のニーズと好みと一致させるアプローチであり、例外的な経験を生み出すことを目指します。"
+    },
+    {
+        "word": "Customer Journey Analytics",
+        "description": "顧客トラベル分析は、顧客トラベルを通じてデータを収集し分析し、洞察を得、顧客体験を最適化するプロセスです。"
+    },
+    {
+        "word": "Customer Experience Design",
+        "description": "顧客体験デザインは、満足度、コミットメント、忠誠心を最大化する顧客体験の意図的かつ戦略的な作成を含みます。"
+    },
+    {
+        "word": "Customer Data Platform (Cdp)",
+        "description": "顧客データプラットフォーム(CDP)は、さまざまなソースから顧客データを収集、統合、管理するために使用される技術またはプラットフォームで、パーソナライズされたデータベースのマーケティングを可能にします。"
+    },
+    {
+        "word": "Customer Experience Strategy",
+        "description": "顧客体験戦略は、ビジネス目標と顧客のニーズに合わせて、ブランドがどのように優れた顧客体験を提供するかを定義する長期的な計画とアプローチです。"
+    },
+    {
+        "word": "Customer Sentiment Analysis",
+        "description": "顧客感情分析は、自然言語処理と機械学習を使用して顧客のフィードバックを分析し、その背後にある感情や感情を決定することを意味します。"
+    },
+    {
+        "word": "Customer Experience Metrics",
+        "description": "顧客体験指標は、顧客体験のイニシアチブや戦略のパフォーマンス、効果、影響を評価し、追跡するために使用される定量的な測定です。"
+    },
+    {
+        "word": "Customer Satisfaction Survey",
+        "description": "顧客満足度調査(Customer Satisfaction Survey)は、顧客が顧客の経験を評価するよう求めることでフィードバックを収集し、満足度レベルを測定するための研究ツールです。"
+    },
+    {
+        "word": "Customer Journey Optimization",
+        "description": "Customer Journey Optimization は、データ、洞察、および顧客フィードバックに基づいて顧客の旅、タッチポイント、および経験に反復的な改善を行うことを意味します。"
+    },
+    {
+        "word": "Customer Experience Platform",
+        "description": "顧客体験プラットフォームとは、ブランドが複数のチャンネルやタッチポイントを通じて一貫性と個別化された顧客体験を管理し、提供することを可能にする技術またはソフトウェアです。"
+    },
+    {
+        "word": "Touchpoints",
+        "description": "タッチポイントは、顧客がウェブサイト、ストア、コールセンター、ソーシャルメディアなどのブランドと持っているさまざまな接触または相互作用のポイントです。"
+    },
+    {
+        "word": "Omnichannel",
+        "description": "Omnichannelは、オンライン、モバイル、オフラインなどの複数のチャンネルにおける顧客体験のシームレスな統合と一貫性を指します。"
+    },
+    {
+        "word": "Upselling",
+        "description": "アップセールは、顧客が製品またはサービスのより高価またはアップグレードされたバージョンを購入することを説得する技術であり、しばしば追加の機能または利点を強調することによって。"
+    },
+    {
+        "word": "Cross-Selling",
+        "description": "クロスセールは、以前の購入や興味に基づいて顧客に補完製品またはサービスを推奨または販売する実践です。"
+    },
+    {
+        "word": "Customer-Centricity",
+        "description": "Customer-Centricityは、顧客をすべてのビジネス決定と行動の中心に置き、顧客のニーズを満たし、価値を提供することに焦点を当てているアプローチです。"
+    },
+    {
+        "word": "Customer Complaint",
+        "description": "顧客の苦情は、顧客が製品、サービス、または経験に関して提起した不満または懸念の表現であり、しばしば解決とフォローアップを必要とする。"
+    },
+    {
+        "word": "Customer Self-Service",
+        "description": "クライアントの自己サービスとは、直接の援助を必要とせずに、クライアントが独自に解決策を見つけ、問題を解決することを可能にするツール、リソース、情報の利用可能性を指します。"
+    },
+    {
+        "word": "Customer Data",
+        "description": "顧客データとは、顧客から収集された情報と洞察を指し、人口統計、好み、行動、相互作用、購入履歴を含む。"
+    },
+    {
+        "word": "Customer Privacy",
+        "description": "顧客プライバシーとは、顧客データの保護と制御を意味し、プライバシー規制に従って安全かつ責任ある方法で収集、保管、使用することを保証します。"
+    },
+    {
+        "word": "Customer Touchpoint Analysis",
+        "description": "顧客のタッチポイント分析は、顧客の旅の各タッチポイントを調査し、評価し、改善の分野を特定し、プロセスを簡素化し、経験を向上させます。"
+    },
+    {
+        "word": "Customer Referral Program",
+        "description": "顧客参照プログラムは、顧客が友人、家族、または同僚をブランド、製品、またはサービスに参照することを奨励し、報酬する構造化されたイニシアチブです。"
+    },
+    {
+        "word": "Customer Touchpoint Management",
+        "description": "顧客タッチポイント管理は、顧客の期待に一貫性、効率性、および一致性を確保するために、顧客のすべてのタッチポイントを積極的に管理し、最適化するプロセスです。"
+    },
+    {
+        "word": "Customer Education",
+        "description": "顧客教育とは、顧客に、ブランド、製品、またはサービスの理解と使用を向上させるためのリソース、情報、およびトレーニングを提供することです。"
+    },
+    {
+        "word": "Customer Insights",
+        "description": "顧客洞察とは、顧客データと分析から得られた有益で実行可能な学習であり、顧客の行動、動機、ニーズのより深い理解を提供します。"
+    },
+    {
+        "word": "Customer Effort",
+        "description": "クライアントの努力は、クライアントが問題を解決し、タスクを完了し、または望む結果を達成するために必要な時間、エネルギー、およびステップの量を指します。"
+    },
+    {
+        "word": "Customer Persona",
+        "description": "顧客人格は、市場調査、人口統計データ、顧客洞察に基づく理想顧客の仮想表現です。"
+    },
+    {
+        "word": "Customer Centricity Index",
+        "description": "Customer Centricity Index (CCI) は、企業の顧客中心のパフォーマンスと成熟度を測定し、組織が顧客のニーズをどれだけよく理解し、満たしているかを評価するためのメトリックです。"
+    },
+    {
+        "word": "Customer-Focused Culture",
+        "description": "顧客に焦点を当てた文化とは、あらゆるレベルで顧客のニーズ、期待、満足を優先し、評価する組織文化です。"
+    },
+    {
+        "word": "Customer Retention Rate",
+        "description": "Customer Retention Rate は、特定の期間にわたってブランドが成功して顧客を保持する割合を測定するためのメトリックであり、顧客維持戦略と努力の有効性を反映します。"
+    },
+    {
+        "word": "Customer Lifetime Value (Clv)",
+        "description": "Customer Lifetime Value (CLV) は、顧客がブランドとの関係全体を通じて生み出す予測された純利益です。"
+    },
+    {
+        "word": "Customer-Centric",
+        "description": "顧客中心的なアプローチまたは戦略は、すべての決定や行動の中心に顧客を置くことによって、優れた顧客体験を生み出すことに焦点を当てています。"
+    },
+    {
+        "word": "Emotional Intelligence",
+        "description": "感情的な知性とは、自分の感情や他人の感情を認識し、理解し、管理する能力を指し、しばしば優れた顧客体験を提供するために重要である。"
+    },
+    {
+        "word": "Design Thinking",
+        "description": "デザイン思考は、ユーザーと共感し、問題を定義し、解決策を構築し、プロトタイプを作成し、テストすることを含む、人間中心の問題解決アプローチです。"
+    },
+    {
+        "word": "Customer Interaction",
+        "description": "顧客インタラクションとは、顧客とブランドとの間の直接的または間接的なコミュニケーション、関与、またはタッチポイントを指します。"
+    },
+    {
+        "word": "First Call Resolution (Fcr)",
+        "description": "First Call Resolution(FCR)は、顧客サービスとの最初のインタラクション中に解決された顧客の問題や問い合わせの割合を測定するためのメトリックです。"
+    },
+    {
+        "word": "Social Listening",
+        "description": "ソーシャルオーディションは、ソーシャルメディアでブランドの会話、言及、感情を監視し分析し、洞察を得、関与の機会を特定するための実践です。"
+    },
+    {
+        "word": "Customer Churn Rate",
+        "description": "Customer Churn Rateは、特定の期間に会社とビジネスをやめる顧客の割合です。"
+    },
+    {
+        "word": "Customer-Facing",
+        "description": "顧客面接とは、販売、顧客サービス、マーケティングなどの顧客との相互作用を直接含む役割、行動、または活動を指します。"
+    },
+    {
+        "word": "Moments Of Truth",
+        "description": "真実の瞬間は、顧客とブランドとの間で重要な接触点であり、顧客の認識と将来の相互作用に大きな影響を与えます。"
+    },
+    {
+        "word": "Customer Empowerment",
+        "description": "顧客の権限化とは、顧客がリソース、ツール、および自律性を持って知的意思決定を下し、解決策を見つけて、自分の経験をコントロールできるようにすることです。"
+    },
+    {
+        "word": "Customer Obsession",
+        "description": "顧客の執着とは、顧客の期待、ニーズ、願望を理解し、超越し、継続的に改善することを優先する考え方と戦略的アプローチです。"
+    },
+    {
+        "word": "Customer Response Time",
+        "description": "顧客応答時間とは、企業が顧客の問い合わせ、要求、または苦情に答えるのにかかる時間であり、しばしば顧客満足度の重要な要因です。"
+    },
+    {
+        "word": "Customer Metrics",
+        "description": "顧客指標は、顧客体験、満足度、忠誠心、買収のさまざまな側面を評価し、追跡するために使用される測定可能な測定手段です。"
+    },
+    {
+        "word": "Customer-Focused Metrics",
+        "description": "顧客に焦点を当てた指標は、優れた顧客体験を提供する企業の努力の効果を直接測定し、評価するパフォーマンス指標です。"
+    },
+    {
+        "word": "Customer Expectations",
+        "description": "顧客の期待は、顧客がブランドや組織から受け取る製品、サービス、または経験に対して期待される基準と結果です。"
+    }
+]

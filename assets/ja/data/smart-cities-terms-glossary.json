@@ -1,0 +1,434 @@
+[
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネット(IoT)は、通信し、データを交換できる相互接続されたデバイスのネットワークを指します。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータは、処理と分析のための高度なツールと技術を必要とする大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、インターネット上のコンピューティングサービスの提供を指します。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを安全に記録し、検証する分散型および分散型デジタルリーガーテクノロジです。"
+    },
+    {
+        "word": "Smart Grid",
+        "description": "スマートグリッドは、デジタル通信と自動化を使用して、電力配信の効率性、信頼性、持続可能性を向上させる高度な電力網です。"
+    },
+    {
+        "word": "Smart City",
+        "description": "スマートシティとは、住民の生活の質を向上させ、資源の使用を最適化し、サービスの効率性を向上させるためにテクノロジーとデータを使用する都市エリアです。"
+    },
+    {
+        "word": "Digital Twin",
+        "description": "デジタルツインは、シミュレーション、モニタリング、分析を可能にする物理的なオブジェクトまたはシステムの仮想表示です。"
+    },
+    {
+        "word": "5G",
+        "description": "5Gは第5世代のワイヤレス通信技術であり、より高速なデータ転送速度と低い遅延を提供しています。"
+    },
+    {
+        "word": "Sustainable Development",
+        "description": "持続可能な開発とは、将来の世代が自らのニーズを満たす能力を損なうことなく、現在のニーズを満たす開発のことである。"
+    },
+    {
+        "word": "Smart Home",
+        "description": "スマートホームは、高度な自動化システムと、遠隔で制御および監視できる接続されたデバイスを備えた住宅です。"
+    },
+    {
+        "word": "Smart Mobility",
+        "description": "スマートモビリティとは、効率性、安全性、アクセシビリティを向上させるために、さまざまな交通手段をテクノロジーやデータベースのソリューションと統合することを指します。"
+    },
+    {
+        "word": "Intelligent Transportation System (Its)",
+        "description": "インテリジェント輸送システム(ITS)は、輸送の効率性、安全性、持続可能性を向上させる技術ベースのシステムです。"
+    },
+    {
+        "word": "Geographic Information System (Gis)",
+        "description": "地理情報システム(GIS)は、地理データの収集、管理、分析のための枠組みです。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analyticsは、パターンを発見し、結論を出し、明確な決定を下すためにデータを調べるプロセスです。"
+    },
+    {
+        "word": "Smart Building",
+        "description": "スマートビルは、エネルギー使用を最適化し、乗客の快適性を向上させ、運用効率を向上させるために自動化とデータ分析を使用する構造です。"
+    },
+    {
+        "word": "Renewable Energy",
+        "description": "再生可能エネルギーは、太陽光、風、水などの自然に補充される源から得られるエネルギーを指します。"
+    },
+    {
+        "word": "Smart Waste Management",
+        "description": "スマート廃棄物管理は、廃棄物の収集を最適化し、環境への影響を軽減し、衛生を改善するための技術を使用しています。"
+    },
+    {
+        "word": "Energy Efficiency",
+        "description": "エネルギー効率とは、廃棄物を減らし、環境への影響を減らすためにエネルギーの使用を最適化することを指します。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティとは、コンピュータシステムやネットワークを不正アクセス、損傷、またはデータの盗難から保護することを指します。"
+    },
+    {
+        "word": "Smart Agriculture",
+        "description": "スマート農業とは、農業慣行を改善し、効率を高め、環境への影響を減らすための技術の使用を指します。"
+    },
+    {
+        "word": "Smart Water Management",
+        "description": "スマート・ウォーター・マネジメントは、水の使用を最適化し、漏洩を検出し、水質を改善するための技術を使用しています。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality(AR)は、デジタルコンテンツを現実世界に覆い、ユーザーの認識と環境との相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実(VR)は、ヘッドセットや手袋などの特殊な電子機器を使用して相互作用できる3次元環境のコンピュータ生成シミュレーションです。"
+    },
+    {
+        "word": "Smart Healthcare",
+        "description": "スマートヘルスケアは、テクノロジーを使用して、医療の提供、患者の結果、および全体的な健康を改善します。"
+    },
+    {
+        "word": "Smart Parking",
+        "description": "スマート駐車場は、リアルタイムのデータとセンサーを使用して駐車可用性を最適化し、渋滞を減らします。"
+    },
+    {
+        "word": "Intelligent Lighting",
+        "description": "インテリジェント照明とは、センサー、コントロール、および自動システムの使用を指し、屋内および屋外の空間における人工照明の使用を最適化することを指します。"
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "description": "自動運転車は、人間の介入なしで航行、操作、意思決定ができる自動運転車です。"
+    },
+    {
+        "word": "Smart Retail",
+        "description": "Smart Retailは、ショッピング体験を向上させ、運営を最適化し、顧客関心を向上させるために技術を使用しています。"
+    },
+    {
+        "word": "City Surveillance",
+        "description": "都市監視は、カメラ、センサー、データ分析を使用して、公共の場所でのセキュリティを監視し維持することを指します。"
+    },
+    {
+        "word": "Smart Education",
+        "description": "スマート教育は、技術を活用して、教えや学習の経験を向上させ、教育へのアクセスを改善し、教えを個別化します。"
+    },
+    {
+        "word": "Smart Street Lighting",
+        "description": "Smart Street Lightingは、センサーと接続を備えたエネルギー効率の高いLEDライトを使用して、照明レベルを最適化し、エネルギー消費を削減し、遠隔制御と監視を可能にします。"
+    },
+    {
+        "word": "Smart Public Transport",
+        "description": "スマート公共交通機関は、公共交通システムの効率性、信頼性、ユーザー体験を向上させるために、技術とデータを使用しています。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人の個人情報の保護と、それがどのように収集され、使用され、共有されるかを制御する権利を指します。"
+    },
+    {
+        "word": "Smart Governance",
+        "description": "スマートガバナンスは、効率性、透明性、意思決定プロセスにおける市民の参加を向上させるために、テクノロジーとデータベースのアプローチを使用しています。"
+    },
+    {
+        "word": "Smart Tourism",
+        "description": "スマート観光は、訪問者の体験を向上させ、観光管理を最適化し、持続可能な慣行を促進するための技術を使用しています。"
+    },
+    {
+        "word": "Smart Water Metering",
+        "description": "Smart Water Meteringは、センサーとデータを使用して、水の消費を監視し、漏洩を検出し、水分配ネットワークを最適化します。"
+    },
+    {
+        "word": "Smart Street Furniture",
+        "description": "Smart Street Furnitureとは、都市のインフラストラクチャとストリート家具にテクノロジーとデータベースのソリューションを統合し、機能性と効率性を向上させることを指します。"
+    },
+    {
+        "word": "Open Data",
+        "description": "オープンデータとは、誰でもアクセスし、使用し、共有するために自由に利用可能なデータを指します。"
+    },
+    {
+        "word": "Smart Manufacturing",
+        "description": "スマート製造とは、製造プロセスを最適化し、生産性を向上させ、より柔軟な生産を可能にするための技術とデータの使用を指します。"
+    },
+    {
+        "word": "Smart Fire Detection",
+        "description": "Smart Fire Detectionは、センサーとデータ分析を使用して火災を検出し、予防し、応答時間を短縮し、全体的な火災安全性を向上させます。"
+    },
+    {
+        "word": "Smart Energy Management",
+        "description": "スマートエネルギー管理は、テクノロジーとデータ分析を使用して、建物や施設のエネルギー消費、生産、貯蔵を監視、制御し、最適化します。"
+    },
+    {
+        "word": "Smart Waste Sorting",
+        "description": "スマート廃棄物分類は、技術とデータを使用して、異なる種類の廃棄物を自動的に分類し、分類し、リサイクル率を向上させ、廃棄物を減らす。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "予測メンテナンスは、センサーデータ、AI、機械学習アルゴリズムを使用して、機器の故障を予測し、停止時間やコストを削減するために、プロアクティブにメンテナンスを実行することを意味します。"
+    },
+    {
+        "word": "Smart Street Infrastructure",
+        "description": "スマートストリートインフラは、ストリートインフラに統合された接続されたデバイス、センサー、通信ネットワークを含み、さまざまなスマートシティサービスとアプリケーションを可能にします。"
+    },
+    {
+        "word": "Smart Citizen",
+        "description": "スマート市民とは、スマートシティ技術を積極的に活用し、都市生活の改善に貢献する個人を指します。"
+    },
+    {
+        "word": "Smart Building Automation",
+        "description": "Smart Building Automationは、センサー、コントロール、およびデータ分析を使用して、照明、HVAC、セキュリティシステムを含むビルの操作を自動化し、最適化します。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革は、デジタル技術を組織のあらゆる側面に統合し、その運営方法と顧客に価値を提供する根本的な変化をもたらします。"
+    },
+    {
+        "word": "Smart Health Monitoring",
+        "description": "スマートヘルスモニタリングは、着用可能なデバイスとセンサーを使用して、重要な兆候、身体活動、および全体的な健康をモニタリングし、パーソナライズされたヘルスケアとウェルネス管理を可能にします。"
+    },
+    {
+        "word": "Smart Energy Grid",
+        "description": "スマートエネルギーグリッドは、再生可能エネルギー源と高度なネットワーク管理技術を組み込む、電力の効率的な生産、配布、消費を可能にする統合されたインテリジェントなエネルギーシステムです。"
+    },
+    {
+        "word": "Citizen Engagement",
+        "description": "Citizen Engagementとは、住民の意思決定プロセスへの関与と情報の共有を指します。"
+    },
+    {
+        "word": "Smart Noise Monitoring",
+        "description": "スマートノイズモニタリングは、環境騒音レベルをモニタリングし、分析するためにセンサーとデータ分析を使用し、騒音汚染源の識別と緩和措置の計画を可能にします。"
+    },
+    {
+        "word": "Smart Disaster Management",
+        "description": "スマート災害管理は、テクノロジー、データ、コミュニケーションシステムを活用して、自然災害や人為的な災害に備え、対応、回復を向上させます。"
+    },
+    {
+        "word": "Smart Security Systems",
+        "description": "スマートセキュリティシステムは、監視カメラ、アクセス制御システム、データ分析などの技術を使用して、公共の場所、建物、重要インフラの安全性と安全性を向上させます。"
+    },
+    {
+        "word": "Sustainable Transportation",
+        "description": "持続可能な輸送は、公共交通機関、自転車、歩行、電気自動車を含む環境への影響を減らす交通手段を含みます。"
+    },
+    {
+        "word": "Green Building",
+        "description": "グリーンビル、また持続可能なビルまたはグリーンビルとして知られ、環境に責任があり、資源効率的な方法で建物を設計、建設、運用する実践を指します。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、データ、統計アルゴリズム、機械学習技術を用いて、将来の出来事や行動について予測することです。"
+    },
+    {
+        "word": "Smart Sensors",
+        "description": "スマートセンサーは、リアルタイムでデータを収集および転送できる通信機能を備えた高度なセンサーです。"
+    },
+    {
+        "word": "Digital Infrastructure",
+        "description": "デジタルインフラストラクチャとは、デジタルサービスと接続をサポートするベースのテクノロジーとシステムを指します。"
+    },
+    {
+        "word": "Urban Planning",
+        "description": "都市計画は、土地利用とインフラの最適化に焦点を当てた都市の設計と組織のプロセスです。"
+    },
+    {
+        "word": "Cyber-Physical Systems (Cps)",
+        "description": "サイバー物理システム(CPS)は、物理世界とコンピュータ世界を結ぶ統合システムであり、人、機械、環境とのリアルタイムのモニタリング、制御、相互作用を可能にします。"
+    },
+    {
+        "word": "Smart Surveillance",
+        "description": "Smart Surveillanceはビデオ分析とAIを使用して、リアルタイムのモニタリングと脅威検出を通じてセキュリティとセキュリティを向上させます。"
+    },
+    {
+        "word": "Smart Supply Chain",
+        "description": "スマートサプライチェーンは、IoT、ブロックチェーン、データ分析などの技術を活用して、サプライチェーン運営における可視性、追跡性、効率性を向上させます。"
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットまたはボットを使用して繰り返しのタスクを自動化し、ビジネスプロセスを簡素化し、効率性を向上させることを指します。"
+    },
+    {
+        "word": "Smart Buildings",
+        "description": "スマートビルは、エネルギー効率、快適性、運用を最適化するための高度なシステム、センサー、および自動化を備えた構造です。"
+    },
+    {
+        "word": "Smart City Platform",
+        "description": "スマートシティ・プラットフォームは、さまざまなスマートシティ・テクノロジー、サービス、データを統合し管理するデジタルインフラストラクチャで、相互運用性と総合的な管理を可能にします。"
+    },
+    {
+        "word": "Digital Citizen",
+        "description": "デジタル市民とは、オンライン社会に従事し、テクノロジーとデジタルツールを使用してコミュニケーション、コラボレーション、参加する個人です。"
+    },
+    {
+        "word": "Smart Stadium",
+        "description": "スマートスタジアムは、IoT、モバイルアプリケーション、データ分析などのテクノロジーを組み込み、観客の体験を向上させ、セキュリティを向上させ、スタジアムの運用を最適化します。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、ネットワークの端に、データ生成源に近いデータの分散処理を指します。"
+    },
+    {
+        "word": "Electric Vehicle (Ev)",
+        "description": "電気自動車(EV)は、1つまたは複数の電気モーターを使用して動作し、充電可能なバッテリーまたは他の蓄積された電気エネルギー源から電力を吸収する車両です。"
+    },
+    {
+        "word": "Smart Transportation",
+        "description": "スマート輸送とは、輸送システムを最適化し、交通流れを改善し、渋滞を減らし、安全性を高めるための技術とデータの使用を指します。"
+    },
+    {
+        "word": "Smart Metering",
+        "description": "スマートメーティングは、ユーティリティ使用量の遠隔測定と監視を含み、正確な請求を可能にし、エネルギー節約を促進します。"
+    },
+    {
+        "word": "Urban Resilience",
+        "description": "都市の抵抗力は、気候変動や社会的混乱などの課題に直面して適応し、回復し、繁栄する都市の能力を指します。"
+    },
+    {
+        "word": "Sensor",
+        "description": "センサーは、環境からの物理的な入力を検出し、それに反応し、それを電気信号に変換する装置です。"
+    },
+    {
+        "word": "Mobility As A Service (Maas)",
+        "description": "サービスとしてのモビリティ(MaaS)は、さまざまな形式の交通サービスを1つのプラットフォームに統合し、ユーザーがシームレスに旅行を計画し、予約し、支払うことを可能にするコンセプトです。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、複雑なタスクを実行できるプログラミング可能な機械であるロボットの設計、開発、操作を含みます。"
+    },
+    {
+        "word": "Smart Government",
+        "description": "スマート政府とは、テクノロジーとデータを活用して公共サービスをより効率的に提供し、透明性を向上させ、市民の満足度を高めることを指します。"
+    },
+    {
+        "word": "Sustainability",
+        "description": "持続可能性とは、将来の世代が自らのニーズを満たす能力を損なうことなく、現在のニーズを満たす能力を指します。"
+    },
+    {
+        "word": "Circular Economy",
+        "description": "循環型経済とは、廃棄物を最小限に抑え、資源効率を最大化し、材料の再利用とリサイクルを促進する経済システムである。"
+    },
+    {
+        "word": "Smart Infrastructure",
+        "description": "スマートインフラストラクチャとは、道路、橋、公用品などの物理インフラの効率性、持続可能性、および抵抗性を向上させるための技術とデータの使用を指します。"
+    },
+    {
+        "word": "Smart Lighting",
+        "description": "スマートライトとは、エネルギー効率の高い照明システムを指し、リモートで制御し、環境条件に反応することができます。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the graphical representation of data and information to facilitate understanding, analysis, and decision-making. データビジュアル化は、データと情報のグラフィック表示で、理解、分析、および意思決定を促進します。"
+    },
+    {
+        "word": "Smart Security",
+        "description": "スマートセキュリティは、セキュリティシステムを強化し、リアルタイムで脅威を監視し、対応し、公共の安全を確保するための技術とデータの使用を含みます。"
+    },
+    {
+        "word": "E-Government",
+        "description": "電子政府とは、技術とデジタルツールを用いて政府サービスを提供し、市民の相互作用を促進し、行政プロセスを強化することを指します。"
+    },
+    {
+        "word": "Smart Streetlights",
+        "description": "スマートストリートライトは、センサーと接続を搭載したエネルギー効率の高い照明装置で、照明レベルを最適化し、交通モニタリングなどの追加機能を提供します。"
+    },
+    {
+        "word": "Smart Social Infrastructure",
+        "description": "スマートソーシャルインフラストラクチャとは、技術とデータを学校、病院、コミュニティセンターなどのソーシャルインフラストラクチャに統合して機能性とサービスを向上させることを指します。"
+    },
+    {
+        "word": "Fintech",
+        "description": "フィンテックとは、金融サービス、決済、融資、投資を含む金融サービスを改善するための技術とイノベーションの適用を指します。"
+    },
+    {
+        "word": "Crowdsourcing",
+        "description": "クラウドソーシングは、アイデア、貢献、またはサービスを大規模なグループから、通常、インターネットを通じて取得する実践です。"
+    },
+    {
+        "word": "Mobility",
+        "description": "移動性は、公共交通機関、自転車、歩行などの交通手段を含む都市部で移動する能力を指します。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、光、温度、または動きなどの物理的な入力を検出し、反応し、それらを電気信号に変換する装置です。"
+    },
+    {
+        "word": "Collaboration",
+        "description": "協力とは、共通の目標や目標に向かって協力する行為である。"
+    },
+    {
+        "word": "Traffic Management",
+        "description": "交通管理は、道路利用を最適化し、渋滞を減らし、安全性を向上させるために交通流れを監視し、制御することを意味します。"
+    },
+    {
+        "word": "Resilience",
+        "description": "抵抗力とは、都市が自然災害や景気後退などの衝撃に耐え、回復する能力を指す。"
+    },
+    {
+        "word": "Digital Divide",
+        "description": "デジタルギャップとは、デジタルテクノロジーにアクセスできる人と、そうでない人の間のギャップを指します。"
+    },
+    {
+        "word": "Digital Citizenship",
+        "description": "デジタル市民権とは、他人の権利とオンラインプライバシーを尊重することを含む技術の責任ある倫理的利用を指します。"
+    },
+    {
+        "word": "Intelligent Street Lighting",
+        "description": "インテリジェントストリートライトは、センサーとコントロールを使用してストリート照明を最適化し、エネルギーを節約し、安全性を向上させます。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "リモートモニタリングは、センサーや接続されたデバイスを使用して、遠隔からデータを監視し、収集し、効率と安全性を向上させます。"
+    },
+    {
+        "word": "Privacy By Design",
+        "description": "Privacy by Designは、プライバシーとデータ保護の原則をシステムやプロセスの設計に組み込むことを目指すアプローチです。"
+    },
+    {
+        "word": "Smart Public Safety",
+        "description": "スマート・パブリック・セキュリティは、緊急対応、犯罪防止、および一般的な公共の安全を改善するための技術を使用しています。"
+    },
+    {
+        "word": "Smart Asset Management",
+        "description": "スマート・アセット・マネジメントは、建物やインフラなどの物理的資産の管理と維持を最適化するための技術を使用しています。"
+    },
+    {
+        "word": "Social Innovation",
+        "description": "ソーシャルイノベーションとは、社会的課題に対処し、生活の質を向上させる新しいアイデアやアプローチの開発と実施を指します。"
+    },
+    {
+        "word": "Green Infrastructure",
+        "description": "グリーンインフラは、公園や緑地などの自然や自然に基づく特徴を指し、環境、経済、社会的な利益を提供します。"
+    },
+    {
+        "word": "Open Innovation",
+        "description": "オープンイノベーションは、市民、起業家、研究者などの外部の利害関係者との協力と共同創造を含むアプローチです。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースやフォーマットからデータを統一された標準化されたビューに組み合わせるプロセスです。"
+    },
+    {
+        "word": "Smart Sensor Network",
+        "description": "スマートセンサーネットワークとは、モニタリングおよび制御の目的でデータを収集および転送する相互接続されたセンサーのネットワークです。"
+    },
+    {
+        "word": "Citizen-Centric Services",
+        "description": "市民中心のサービスは、住民のニーズと好みを優先し、個人化されたユーザーフレンドリーな方法で政府サービスを提供します。"
+    },
+    {
+        "word": "Digital Identity",
+        "description": "デジタルアイデンティティとは、個人情報やデジタル認証を含む個人または組織のオンライン表示を指します。"
+    }
+]

@@ -1,0 +1,486 @@
+[
+    {
+        "word": "Quantum Computing",
+        "description": "量子コンピューティングは、複雑な計算を実行するために量子力学の原則を使用するコンピューティングの分野です。"
+    },
+    {
+        "word": "Qubit",
+        "description": "クビットは量子ビットの基本単位であり、古典的なビットとは異なり、クビットは複数の状態で同時に存在する可能性があります。"
+    },
+    {
+        "word": "Superposition",
+        "description": "重複は量子力学の基本原理であり、量子ビットは測定されるまで複数の状態で同時に存在することができる。"
+    },
+    {
+        "word": "Entanglement",
+        "description": "関節化とは、2つ以上のキュービットが、あるキュービットの状態が他のキュービットとは独立して記述できないように相関する現象である。"
+    },
+    {
+        "word": "Quantum Gate",
+        "description": "量子ゲートは、特定の数学操作に基づいてクビットを変換して動作する基本的な量子回路要素です。"
+    },
+    {
+        "word": "Quantum Circuit",
+        "description": "A Quantum Circuit is a representation of quantum computation as a sequence of quantum gates acting on a set of qubits. 量子回路は、量子コンピューティングを量子ゲートの連続として表しています。"
+    },
+    {
+        "word": "Quantum Algorithm",
+        "description": "量子アルゴリズムは、古典的なアルゴリズムよりも効率的に特定の計算問題を解決するために量子コンピュータで実行するように設計されたステップごとに実行される手順です。"
+    },
+    {
+        "word": "Grover'S Algorithm",
+        "description": "Groverのアルゴリズムは、O(√N)時間のN入力データベースを検索できる量子アルゴリズムで、従来の検索アルゴリズムと比較して、平方スピードアップを提供します。"
+    },
+    {
+        "word": "Shor'S Algorithm",
+        "description": "Shorのアルゴリズムは、暗号化に重要な影響を及ぼす大きな数を効率的に要因化できる量子アルゴリズムです。"
+    },
+    {
+        "word": "Quantum Teleportation",
+        "description": "Quantum Teleportationは、未知の量子状態を別の場所から転送することを可能にする量子通信プロトコルです。"
+    },
+    {
+        "word": "Quantum Error Correction",
+        "description": "量子エラー修正は、不一致やその他の騒音源によるエラーから量子情報を保護するために使用される技術のセットです。"
+    },
+    {
+        "word": "Quantum Supremacy",
+        "description": "Quantum Supremacy は、量子コンピュータが、古典的なコンピュータが合理的な時間枠内で解決できない問題を解決できる仮説的な点を指します。"
+    },
+    {
+        "word": "Noisy Intermediate-Scale Quantum (Nisq) Computers",
+        "description": "NISQコンピュータは、限られた量子ビット数を有し、騒音やエラーに苦しむ中規模量子デバイスのクラスです。"
+    },
+    {
+        "word": "Quantum Annealing",
+        "description": "Quantum Annealingは、量子システムを使用して最適化の問題を解決するためのヘウリスティックなアプローチです。"
+    },
+    {
+        "word": "Quantum Volume",
+        "description": "量子ボリュームは、ゲート信頼性、キュービット接続性、騒音レベルなどの要因を考慮して、量子コンピュータの全体的な能力を評価するメトリックです。"
+    },
+    {
+        "word": "Topological Quantum Computing",
+        "description": "トポロギー量子コンピューティングは、量子操作を実行するために状態のトポロギー特性を操作することに依存する量子コンピューティングのアプローチです。"
+    },
+    {
+        "word": "Quantum Error Rate",
+        "description": "量子エラー率は、量子コンピュータでクビットで実行された操作のエラー確率を測定します。"
+    },
+    {
+        "word": "Adiabatic Quantum Computing",
+        "description": "Adiabatic Quantum Computing は、アディアバティック理論に基づく量子コンピューティングのアプローチで、量子状態を望ましいソリューションに徐々に変換することを可能にします。"
+    },
+    {
+        "word": "Quantum Walk",
+        "description": "Quantum Walkは、古典的なランダムウォークの量子機械的一般化であり、量子検索と最適化のためのアルゴリズムで使用することができます。"
+    },
+    {
+        "word": "Quantum Simulator",
+        "description": "量子シミュレータは、量子システムの行動をシミュレートし、研究者が量子アルゴリズムやプロトコルを理解し、テストすることを可能にするデバイスまたはソフトウェアです。"
+    },
+    {
+        "word": "Quantum Cryptography",
+        "description": "量子暗号化は、暗号鍵と通信の交換を確保するために量子力学を使用することに焦点を当てた研究分野です。"
+    },
+    {
+        "word": "Quantum Key Distribution (Qkd)",
+        "description": "量子鍵配布(QKD)は、量子力学の原則を使用して、2つの当事者間で共有された秘密鍵を確立するセキュアな通信方法です。"
+    },
+    {
+        "word": "Quantum Sensing",
+        "description": "量子検出は、量子属性を用いて、測定装置のより高い精度と敏感性を達成し、ナビゲーション、イメージング、医療診断などの分野での進歩を可能にします。"
+    },
+    {
+        "word": "Quantum Machine Learning",
+        "description": "量子機械学習は、機械学習アルゴリズムを改善し、複雑な計算問題を解決するための量子コンピューティング技術の応用です。"
+    },
+    {
+        "word": "Quantum Neural Networks",
+        "description": "量子ニューラルネットワークは、量子コンピューティングとニューラルネットワークの要素を組み合わせたコンピューティングモデルであり、機械学習システムの処理能力と能力を向上させることを目的としています。"
+    },
+    {
+        "word": "Quantum Entanglement Swapping",
+        "description": "Quantum Entanglement Swapping は、直接の物理的な接続なしに、遠くのキュービット間で接続を転送することを可能にするプロトコルです。"
+    },
+    {
+        "word": "Quantum Approximate Optimization Algorithm (Qaoa)",
+        "description": "Quantum Approximate Optimization Algorithm (QAOA) は、最適化の問題を解決するために設計された量子アルゴリズムで、ほぼ最適なソリューションを表す量子状態を準備します。"
+    },
+    {
+        "word": "Hadamard Transform",
+        "description": "Hadamard 変換は、クビットの基礎状態をそれらの状態の重複にマッピングする基本的な量子ゲートであり、重複状態のクビットを作成および操作する方法を提供します。"
+    },
+    {
+        "word": "Measurement",
+        "description": "測定は、量子システムから情報を抽出し、重複を一定の古典的状態に崩壊させるプロセスである。"
+    },
+    {
+        "word": "Quantum Phase Estimation",
+        "description": "Quantum phase estimation は、多くの量子アルゴリズムで重要な役割を果たす量子システムにおける未知の段階の推定を可能にするアルゴリズムです。"
+    },
+    {
+        "word": "Quantum Hamiltonian",
+        "description": "量子ハミルトンは、量子システムの合計エネルギー、その構成要素の動的エネルギーと潜在エネルギーを含むオペレーターです。"
+    },
+    {
+        "word": "Multiqubit System",
+        "description": "マルチクビットシステムは、コレクティブに操作され、互いに相互作用させ、より複雑な量子計算を可能にするクビットのコレクションを指します。"
+    },
+    {
+        "word": "Quantum Computation Complexity Theory",
+        "description": "量子計算の複雑性理論は、量子アルゴリズムの計算的複雑性と、量子コンピュータの難易度に基づく問題の分類を研究する。"
+    },
+    {
+        "word": "Quantum Fourier Transform",
+        "description": "Quantum Fourier Transform(QFT)は、量子状態の幅にフューイヤー変換を実行する量子アルゴリズムです。"
+    },
+    {
+        "word": "Decoherence",
+        "description": "Decoherence は、外部環境との相互作用による量子連結の喪失を指し、量子計算におけるエラーを引き起こす。"
+    },
+    {
+        "word": "Quantum Register",
+        "description": "Quantum Register は、量子情報を保存し、操作するために使用できる量子ビットのコレクションです。"
+    },
+    {
+        "word": "Quantum Oracle",
+        "description": "量子オラクルは、量子アルゴリズムに特定の問題についての情報を提供し、古典的なアルゴリズムが時計的に複雑である問題を効率的に解決することを可能にする抽象的なブラックボックスである。"
+    },
+    {
+        "word": "Quantum Speedup",
+        "description": "量子スピードアップとは、量子コンピュータが、量子パラレル主義と干渉を活用して、古典的なコンピュータよりもはるかに速く特定の問題を解決する能力を指す。"
+    },
+    {
+        "word": "Quantum Communication",
+        "description": "量子通信は、暗号化と解読のための量子力学の原則を活用して、情報を安全に伝送し処理するための量子システムの使用を含みます。"
+    },
+    {
+        "word": "Quantum Memory",
+        "description": "量子メモリとは、量子コンピューティングと量子コミュニケーションのスケーラブルに不可欠な、信頼性と効率を有する量子情報を保存および取得する能力を指します。"
+    },
+    {
+        "word": "Quantum Randomness",
+        "description": "量子ランダム性は、確実に予測できないが、確率分布に従うことのできる量子システムで観察された固有のランダムな結果を指します。"
+    },
+    {
+        "word": "Quantum Dense Coding",
+        "description": "量子密度コーディングは、送信者と受信者間の以前共有された混乱を利用して、より高い速度で古典的な情報の伝送を可能にするプロトコルである。"
+    },
+    {
+        "word": "Quantum Circuit Optimization",
+        "description": "量子回路最適化技術は、量子回路におけるゲートの数とゲートの深さを減らし、その効率を向上させ、不一致効果を減らすことを目的としています。"
+    },
+    {
+        "word": "Quantum Nonlocality",
+        "description": "量子非局所性は、混ざった量子粒子が、長距離で分離した場合でも、古典物理学で説明できない関連性を示す現象を指します。"
+    },
+    {
+        "word": "Quantum Advantage",
+        "description": "量子優位性は、量子コンピュータが古典的なコンピュータを上回る能力を指し、特定のタスクや問題のための計算力の大幅な改善を提供します。"
+    },
+    {
+        "word": "Quantum Parallelism",
+        "description": "Quantum parallelism is a property of quantum systems that enables multiple computations to be performed simultaneously, exploiting the superposition and entanglement of qubits. 量子パラレル主義は、量子システムの特性であり、複数の計算を同時に実行し、クビットの重複と混合を活用する。"
+    },
+    {
+        "word": "Quantum Annealer",
+        "description": "Quantum annealer は、材料の物理的 annealing プロセスを模することによって最適化の問題を解決するために特別に設計された量子コンピュータの一種です。"
+    },
+    {
+        "word": "Quantum Biology",
+        "description": "量子生物学は、生物システムにおける量子現象とプロセスの研究であり、量子力学が生物学的プロセスをどのように影響するかを探る。"
+    },
+    {
+        "word": "Quantum Interference",
+        "description": "Quantum interference is a phenomenon observed in quantum systems, where the superposition of quantum states leads to constructive or destructive interference, affecting the probability of measurement outcomes. 量子干渉は、量子システムで観察される現象であり、量子状態の重複が建設的または破壊的な干渉につながり、測定結果の確率に影響します。"
+    },
+    {
+        "word": "Quantum Software",
+        "description": "量子ソフトウェアとは、量子コンピュータで実行するために特別に設計されたプログラムとアルゴリズムを指し、量子計算を実行し、量子問題を解決することを可能にします。"
+    },
+    {
+        "word": "Quantum Circuit Compilation",
+        "description": "Quantum circuit compilation is the process of converting a high-level quantum algorithm into a sequence of elementary quantum gates, taking into account the limitations and constraints of a specific quantum hardware architecture. 量子回路コンパイルは、特定の量子ハードウェアアーキテクチャの限界と制限を考慮して、高レベルの量子アルゴリズムを基本的な量子ゲートの順序に変換するプロセスです。"
+    },
+    {
+        "word": "Quantum Cloning",
+        "description": "量子クローンは、未知の量子状態の複数の同一のコピーを作成するプロセスであり、これは通常、量子力学における非クローン理論によって禁止されている。"
+    },
+    {
+        "word": "Quantum Metamaterials",
+        "description": "量子メタ材料は、量子力学的性質を示し、光やその他の電磁波を制御するユニークな能力を提供する人工的に設計された材料です。"
+    },
+    {
+        "word": "Quantum Field Theory",
+        "description": "量子フィールド理論は、量子力学と特殊相対性理論を組み合わせた理論的枠組みで、基礎粒子の行動とそれらの間の勢力を説明する。"
+    },
+    {
+        "word": "Quantum Repeaters",
+        "description": "量子繰り返し器は、量子通信で使用されるデバイスまたはプロトコルで、混乱が共有できる範囲を拡大し、長距離での信号劣化などの問題を克服する。"
+    },
+    {
+        "word": "Quantum Tomography",
+        "description": "Quantum tomography は、さまざまな基盤に沿って測定を行い、結果としての統計を分析することによってシステムの完全な量子状態を再構築するための技術のセットです。"
+    },
+    {
+        "word": "Quantum Error Detection",
+        "description": "量子エラー検出は、量子計算やコミュニケーションにおけるエラーの存在を検出することに焦点を当てている量子エラー修正技術のサブセットです。"
+    },
+    {
+        "word": "Quantum Logic Gate",
+        "description": "量子論理ゲートは、1つまたは複数のキュービットの論理操作を表す種類の量子ゲートです。"
+    },
+    {
+        "word": "Quantum Processor",
+        "description": "量子プロセッサは、クビットを実装し、量子操作を実行し、量子コンピュータのコアコンポーネントを形成する物理的装置またはシステムです。"
+    },
+    {
+        "word": "Quantum Gravitational Waves",
+        "description": "Quantum gravitational waves are hypothetical quantum fluctuations in the fabric of spacetime, analogous to classical gravitational waves, but manifesting at quantum scales. 量子重力波は、古典的な重力波に類似し、量子スケールで現れる仮定的な量子変動です。"
+    },
+    {
+        "word": "Quantum Sensor",
+        "description": "量子センサーは、磁場や重力波などの物理量を測定する際の高感度と精度を達成するために量子力学の原則を活用する装置です。"
+    },
+    {
+        "word": "Quantum Chemistry",
+        "description": "量子化学は、原子や分子の行動を研究するために量子力学原理を使用する化学の分野です。"
+    },
+    {
+        "word": "Quantum Cloud Computing",
+        "description": "Quantum Cloud Computingは、クラウドベースのプラットフォームとサービスを通じて量子コンピューティングのリソースと能力にアクセスし、利用することを意味します。"
+    },
+    {
+        "word": "Quantum Image Processing",
+        "description": "量子画像処理は、画像分析、圧縮、および合成タスクを強化するために量子コンピューティング技術を使用する可能性を調査し、画像ベースのアプリケーションの進歩を可能にします。"
+    },
+    {
+        "word": "Quantum Hacking",
+        "description": "量子ハッキングは、量子通信および量子暗号化システムに対するセキュリティの脆弱性や攻撃を指し、実装またはプロトコルの弱点を利用する。"
+    },
+    {
+        "word": "Quantum Black-Box Complexity",
+        "description": "量子ブラックボックスの複雑性は、量子クエリを通じて未知の入力にアクセスする際に量子アルゴリズムの限界と可能性を理解することに焦点を当てた量子複雑性理論の分野です。"
+    },
+    {
+        "word": "Quantum Machine Instruction",
+        "description": "量子機械の指示は、量子コンピュータで実行できる基本的な操作または指示であり、量子情報の操作と処理を可能にします。"
+    },
+    {
+        "word": "Hybrid Quantum-Classical Algorithms",
+        "description": "Hybrid Quantum-Classical Algorithmsは、クラシックと量子のステップを組み合わせ、両方のタイプの計算の利点を活用するアルゴリズムです。"
+    },
+    {
+        "word": "Quantum Bit (Qubit)",
+        "description": "量子ビットまたはクビットは、量子コンピューティングにおける情報の基本単位であり、古典的なビットと類似していますが、重複と混乱を可能にします。"
+    },
+    {
+        "word": "Circuit Model",
+        "description": "The Circuit Model is a representation of a quantum algorithm as a sequence of quantum gates applied to qubits. サーキットモデルは、量子アルゴリズムをクビットに適用される量子ゲートのシーケンスとして表しています。"
+    },
+    {
+        "word": "Noisy Intermediate-Scale Quantum (Nisq) Devices",
+        "description": "NISQデバイスは、限られた量子ビット数と高いエラーレートを持つ量子デバイスで、量子アルゴリズムやアプリケーションの探索に適しています。"
+    },
+    {
+        "word": "Quantum Simulation",
+        "description": "量子シミュレーションは、古典的なコンピュータの能力を超える量子システムをシミュレートし、研究するための量子コンピュータの使用を指します。"
+    },
+    {
+        "word": "Error Correcting Codes",
+        "description": "エラー修正コードとは、情報の送信または保存中に発生するエラーを検出し、訂正するためのコードです。"
+    },
+    {
+        "word": "Quantum Key Distribution",
+        "description": "量子鍵配布(QKD)は、量子力学の原則を使用して2つの当事者間で暗号鍵を交換するセキュアな鍵配布方法です。"
+    },
+    {
+        "word": "Bell'S Theorem",
+        "description": "ベルの理論は、混在した量子システムの非ローカル性質を確立する量子力学の根本的な結果である。"
+    },
+    {
+        "word": "Bra-Ket Notation",
+        "description": "Bra-Ket Notationは、量子力学における量子状態と操作を記述し、操作するための数学的記述です。"
+    },
+    {
+        "word": "Oracles",
+        "description": "量子コンピューティングにおけるオラクルは、古典的に容易にアクセスできない問題に関する情報を提供できるブラックボックス関数を指します。"
+    },
+    {
+        "word": "Error Rate",
+        "description": "量子コンピューティングにおけるエラー率とは、量子情報の計算または伝送中に発生するエラーの確率を指します。"
+    },
+    {
+        "word": "Polynomial-Time",
+        "description": "Polynomial-Time は、その入力のサイズで多角的である数段階で解決できるアルゴリズムまたは問題を指します。"
+    },
+    {
+        "word": "Exponential Speedup",
+        "description": "Exponential Speedup は、量子アルゴリズムが最もよく知られている古典的なアルゴリズムよりも急速に特定の問題を解決する能力を指します。"
+    },
+    {
+        "word": "Boson Sampling",
+        "description": "ボゾンサンプリングは、量子コンピュータが古典的なコンピュータを上回る可能性を示す計算問題です。"
+    },
+    {
+        "word": "Qubit Leakage",
+        "description": "Qubit Leakage は、量子システムのエラーや不完全性によるクビットからの情報の望ましくない損失を指します。"
+    },
+    {
+        "word": "Measurement-Based Quantum Computing",
+        "description": "Measurement-Based Quantum Computing is a model of quantum computing where entangled qubits are measured sequentially to perform calculations. 測定ベースの量子コンピューティングは、量子計算のモデルであり、混ざったキュービットが計算を行うために順序的に測定されます。"
+    },
+    {
+        "word": "No-Cloning Theorem",
+        "description": "ノークローニング理論は、任意の未知の量子状態の同一のコピーを作成することは不可能であるという量子力学の根本的な結果である。"
+    },
+    {
+        "word": "Gate",
+        "description": "量子ゲートは、量子操作を実行するためにキュービットを操作する量子コンピューティングの基本的なビルです。"
+    },
+    {
+        "word": "Circuit",
+        "description": "量子回路は、特定の計算または操作を実行するためにクビットに適用される量子ゲートの連続です。"
+    },
+    {
+        "word": "Noisy Intermediate-Scale Quantum (Nisq) System",
+        "description": "ノイズ・インターメディア・スケール・クォンタル(NISQ)システムは、量子コンピュータの種類で、クビット数が限られ、エラー率が高いが、特定のアプリケーションではまだ有用である。"
+    },
+    {
+        "word": "Quantum Circuit Model",
+        "description": "量子回路モデルは、量子アルゴリズムをクビットで動作する量子ゲートの順序として記述する計算モデルである。"
+    },
+    {
+        "word": "Ibm Q",
+        "description": "IBM Qは、研究者や開発者がクラウドベースの量子システムにアクセスできるようにするために、IBMが提供する業界をリードする量子コンピューティングプラットフォームです。"
+    },
+    {
+        "word": "Google Quantum Ai",
+        "description": "Google Quantum AIは、量子コンピューティングの研究、量子ハードウェアとソフトウェアの開発に焦点を当てたGoogleの部門です。"
+    },
+    {
+        "word": "Microsoft Quantum",
+        "description": "Microsoft Quantumは、量子コンピューティングの分野におけるマイクロソフトのイニシアチブであり、量子開発のための包括的なエコシステムを提供しています。"
+    },
+    {
+        "word": "Quantum Cryptanalysis",
+        "description": "量子暗号分析は、量子コンピュータを使用して古典的な暗号システムを破る研究です。"
+    },
+    {
+        "word": "Fault-Tolerant Quantum Computing",
+        "description": "Fault-Tolerant Quantum Computingは、エラー修正技術のおかげで、ノイズやエラーの存在でさえ、量子システムが適切に機能し続ける能力を指します。"
+    },
+    {
+        "word": "Quantum Annealing Hardware",
+        "description": "Quantum Annealing Hardware は、量子 annealing 操作を実行するために特別に設計および構築された物理装置を指します。"
+    },
+    {
+        "word": "Superconducting Qubits",
+        "description": "Superconducting Qubits は、スーパー伝導回路と属性を用いて量子情報を暗号化し、操作するクビットの一種です。"
+    },
+    {
+        "word": "Trapped Ion Qubits",
+        "description": "捕らわれたイオンクビットは、イオン技術を使用して、制御可能な量子状態の個々のイオンを捕らえ、量子操作を実行する。"
+    },
+    {
+        "word": "Topological Qubits",
+        "description": "トポロギークビットは、分子のトポロギー特性とそのブレイディング操作に依存するクビットの一種で、故障許容量子コンピューティングのための。"
+    },
+    {
+        "word": "Photonic Qubits",
+        "description": "光子クビットは、量子光学の原則に基づくクビットであり、量子情報処理において光子を情報伝達者として使用する。"
+    },
+    {
+        "word": "Quantum Random Number Generator",
+        "description": "Quantum Random Number Generator(QRNG)は、予測不能な量子プロセスに基づいてランダム数を生成するデバイスです。"
+    },
+    {
+        "word": "Quantum Machine Code",
+        "description": "Quantum Machine Codeは、量子コンピュータのプログラミングと量子アルゴリズムの実装のために特別に設計された低レベルのプログラミング言語です。"
+    },
+    {
+        "word": "Quantum Software Development Kit (Sdk)",
+        "description": "量子ソフトウェア開発キット(SDK)は、開発者が量子プログラムを書き、量子システム上で実行するのを助けるツール、ライブラリ、ドキュメントのコレクションです。"
+    },
+    {
+        "word": "Quantum-Resistant Cryptography",
+        "description": "量子抵抗的な暗号化は、量子コンピュータによる攻撃に抵抗する暗号化アルゴリズムやプロトコルを開発することを意味します。"
+    },
+    {
+        "word": "Quantum Metrology",
+        "description": "量子計量学は、量子物理学を測定科学に適用し、古典的な限界を超える精度と精度を提供しています。"
+    },
+    {
+        "word": "Quantum Error Correction Code",
+        "description": "量子エラー修正コードとは、量子情報におけるエラーの検出と訂正を可能にし、重大な不一致を引き起こすことなくする暗号化システムである。"
+    },
+    {
+        "word": "Quantum Learning Algorithm",
+        "description": "量子学習アルゴリズムは、古典的な機械学習アルゴリズムの量子アナログであり、量子属性を活用してパフォーマンスを向上させます。"
+    },
+    {
+        "word": "Quantum Circuit Synthesis",
+        "description": "量子回路合成は、特定のタスクまたは計算を実行する量子回路を自動的に生成するプロセスです。"
+    },
+    {
+        "word": "Quantum Walks On Graphs",
+        "description": "Quantum Walks on Graphs は、量子重複と混ざりを用いて、グラフの特性をサンプル化し、最適化、検索、アルゴリズム設計におけるアプリケーションを使用します。"
+    },
+    {
+        "word": "Quantum-Enhanced Sensing",
+        "description": "Quantum-enhanced Sensingは、混乱などの量子特性を用いて、従来の限界を超える測定精度と感度の向上を達成します。"
+    },
+    {
+        "word": "Quantum Reinforcement Learning",
+        "description": "Quantum Reinforcement Learningは、複雑な最適化問題に対する量子強化ソリューションを見つけることを目指す量子コンピューティングと強化学習の組み合わせです。"
+    },
+    {
+        "word": "Quantum Generative Adversarial Networks (Qgans)",
+        "description": "Quantum Generative Adversarial Networks (QGANs) は、量子データの分布から生成および学習するために使用される生成対抗ネットワークの量子変数です。"
+    },
+    {
+        "word": "Quantum Convolutional Neural Networks (Qcnns)",
+        "description": "Quantum Convolutional Neural Networks (QCNNs) は、量子情報処理タスクに適応した古典的なコンvolutional neural networks の量子類である。"
+    },
+    {
+        "word": "Quantum Robotics",
+        "description": "Quantum Roboticsは、量子コンピューティングとロボットの連携を模索し、量子技術を活用してロボットの感知、制御、意思決定を向上させます。"
+    },
+    {
+        "word": "Quantum-Enhanced Optimization",
+        "description": "Quantum-enhanced Optimizationは、量子コンピューティングを活用して、最適化の問題をより効率的に解決し、最適なソリューションを見つけることを目的としています。"
+    },
+    {
+        "word": "Quantum Secret Sharing",
+        "description": "Quantum Secret Sharingは、複数の当事者間で秘密を分配することを可能にする暗号化プロトコルであり、その秘密は量子操作と共有情報を通じてのみ再構築することができる。"
+    },
+    {
+        "word": "Quantum Walk-Based Search",
+        "description": "量子ウォークベースの検索アルゴリズムは、古典的な検索アルゴリズムと比較して、検索タスクを実行するために量子ウォークを活用します。"
+    },
+    {
+        "word": "Quantum Chemistry Simulation",
+        "description": "量子化学シミュレーションは、量子コンピュータを使用して、原子や分子の行動と性質をシミュレートし、薬物発見、材料科学、化学反応を助ける。"
+    },
+    {
+        "word": "Quantum Natural Language Processing (Qnlp)",
+        "description": "量子自然言語処理(QNLP)は、量子原則を自然言語の処理と分析に適用し、言語理解と生成能力の向上を目指す。"
+    },
+    {
+        "word": "Quantum-Assisted Optimization",
+        "description": "Quantum-assisted Optimizationは、量子システムまたは量子インスピレーションの方法を使用して、組み合わせ型の最適化の問題を解決するのに役立ちます。"
+    },
+    {
+        "word": "Quantum Computational Biology",
+        "description": "量子計算生物学は、タンパク質の折りたたみ、遺伝子分析、薬物発見などの生物学的問題に量子計算技術を適用します。"
+    },
+    {
+        "word": "Quantum-Enhanced Fourier Transform",
+        "description": "Quantum-enhanced Fourier Transform algorithms utilize quantum properties to faster calculation of Fourier transforms compared to classical algorithms. 量子変換アルゴリズムは、古典的なアルゴリズムに比べて、フューイヤー変換のより高速な計算を達成するために量子属性を用いる。"
+    },
+    {
+        "word": "Quantum-Enhanced Data Science",
+        "description": "Quantum-enhanced Data Scienceは、ビッグデータ分析、機械学習、およびデータ視覚化における課題に対処するために、古典的なデータ科学方法と量子コンピューティング技術を組み合わせています。"
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Drone",
+        "description": "無人航空機(UAV)とも呼ばれるドローンは、機内でパイロットなしで運用される航空機です。"
+    },
+    {
+        "word": "Quadcopter",
+        "description": "Quadcopter は 4 つのローターによって動作するドローンのタイプで、この構成は安定性と操縦性を提供します。"
+    },
+    {
+        "word": "Hexacopter",
+        "description": "ヘクサコプターは、6つのローターによって動作するドローンの一種で、この構成は、クアッドコプターに比べて、引き上げ力と過剰性の増加を提供します。"
+    },
+    {
+        "word": "Octocopter",
+        "description": "オクトコプターは、8つのローターを持つドローンのタイプです。"
+    },
+    {
+        "word": "Fixed-Wing",
+        "description": "固定翼ドローンは固定翼を持つドローンの一種であり、エレベーターを生成するために前進する必要がある。"
+    },
+    {
+        "word": "Payload",
+        "description": "ドローンの有用負荷は、ドローンが運ぶカメラ、センサー、または配送パッケージなどの追加機器または重量を指します。"
+    },
+    {
+        "word": "Fpv",
+        "description": "FPVはFirst Person Viewの略で、搭載カメラからのライブビデオフィードを使用してドローンを飛行する能力を指します。"
+    },
+    {
+        "word": "Gps",
+        "description": "GPSはGlobal Positioning Systemの略で、場所と時間情報を提供する衛星ベースのナビゲーションシステムです。"
+    },
+    {
+        "word": "Altitude Hold",
+        "description": "Altitude holdは、ドローンがパイロットからの入力なしに特定の高度を維持できる機能です。"
+    },
+    {
+        "word": "Return To Home",
+        "description": "Home Returnは、ドローンが自動的に離陸地点に戻ることを可能にする機能です。"
+    },
+    {
+        "word": "Obstacle Avoidance",
+        "description": "障害回避は、いくつかのドローンがセンサーやソフトウェアアルゴリズムを使用して飛行経路の障害物を検出し、移動する能力です。"
+    },
+    {
+        "word": "Waypoint",
+        "description": "ウェイポイントは、ドローンが飛ぶようにプログラムできる事前定義のポイントまたは場所です。"
+    },
+    {
+        "word": "Telemetry",
+        "description": "テレメトリーは、電池電圧、速度、GPS座標などのドローンから地上駅またはコントローラへのデータの収集と転送を指します。"
+    },
+    {
+        "word": "Battery Life",
+        "description": "バッテリー寿命とは、ドローンが単一のバッテリー充電で飛べる時間のことです。"
+    },
+    {
+        "word": "Brushless Motors",
+        "description": "ブラシレスモーターは、交換用のブラシを持たないドローンで使用される電気モーターであり、ブラシングモーターと比較してより効率的で信頼性が高く、耐久性が高い。"
+    },
+    {
+        "word": "Gimbal",
+        "description": "ジンバルは機械装置であり、カメラまたはセンサーをドローンレベルに固定し、飛行中に安定させ、振動を減らし、スムーズな撮影を確保します。"
+    },
+    {
+        "word": "Rth",
+        "description": "RTH(Return to Home)は、ドローンが自動的に離陸地点に戻ることを可能にする機能です。"
+    },
+    {
+        "word": "Follow Me Mode",
+        "description": "Follow Me モードは、いくつかのドローンの機能で、通常、GPS または視覚認識を使用して、標的を自動的に追跡し、追跡することができます。"
+    },
+    {
+        "word": "Obstacle Detection",
+        "description": "障害物検出は、ドローンの飛行経路上の障害物を検出する能力を指します。"
+    },
+    {
+        "word": "Path Planning",
+        "description": "ルートプランニングは、ドローンが現在の位置からターゲット位置に移動するための最適なルートを決定するプロセスです。"
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "衝突回避は、無人機がセンサー、アルゴリズム、リアルタイムの意思決定を使用して静的および動く物体との衝突を検出し、回避する能力です。"
+    },
+    {
+        "word": "Photogrammetry",
+        "description": "フォトグラメトリーは、ドローンが航空写真をキャプチャし分析することによって、地球表面の地図、モデル、測定を作成するために使用される技術です。"
+    },
+    {
+        "word": "Lidar",
+        "description": "LiDARはLight Detection and Rangingの略で、レーザーを使用して距離を測定し、環境の詳細な3Dマップを作成するリモートセンサー技術です。"
+    },
+    {
+        "word": "Thermal Imaging",
+        "description": "熱画像は、ドローンに設置された赤外線カメラを使用して物体や環境によって放出される熱をキャプチャし、分析するプロセスです。"
+    },
+    {
+        "word": "Remote Controller",
+        "description": "リモートコントローラは、ドローンのフライトを制御するために使用されるハンドルデバイスです。"
+    },
+    {
+        "word": "Autonomous Flight",
+        "description": "自動飛行とは、ドローンが直接の人間のコントロールなしで飛行し、航行することができる運用モードを指します。"
+    },
+    {
+        "word": "Remote Sensing",
+        "description": "リモートセンサーは、地球の表面または物体に関する情報を直接の物理的接触なしに取得するプロセスであり、通常はドローンに搭載されたセンサーを使用します。"
+    },
+    {
+        "word": "Lipo Battery",
+        "description": "LiPoはリチウムポリマーの略で、高エネルギー密度、軽量、高放電率のためにドローンで一般的に使用されるタイプのバッテリーです。"
+    },
+    {
+        "word": "Brushed Motors",
+        "description": "ブラシングモーターは、スイッチを交換するためにブラシを持っているドローンで使用される電気モーターです。それらはより安価ですが、一般的にブラシングレスモーターよりも低効率で耐久性があります。"
+    },
+    {
+        "word": "Attitude Control",
+        "description": "態度コントロールとは、ドローンの空気中の方向性や態度を制御する能力です。"
+    },
+    {
+        "word": "Aerial Photography",
+        "description": "航空写真は、空中でのドローンから画像やビデオを撮影する実践です。"
+    },
+    {
+        "word": "Aerial Videography",
+        "description": "航空ビデオは、通常、ドローンを使用して、高い位置からビデオを録画するプロセスを指します。"
+    },
+    {
+        "word": "Flight Controller",
+        "description": "フライトコントローラーは、ドローンの主な制御ユニットであり、パイロットまたは自律システムからの入力を受信し、ドローンのエンジンやその他の部品を制御する責任があります。"
+    },
+    {
+        "word": "Obstacle Mapping",
+        "description": "障害地図は、ドローンを用いて周囲の環境の地図やモデルを作成するプロセスです。"
+    },
+    {
+        "word": "Geo-Fencing",
+        "description": "Geo-fencing は、ドローンの飛行領域を制限するために使用される仮想境界です。"
+    },
+    {
+        "word": "Image Stabilization",
+        "description": "イメージ安定化は、ドローンによって撮影された写真やビデオの曖昧さや揺れを減らすのに役立つ機能です。"
+    },
+    {
+        "word": "Real-Time Video Streaming",
+        "description": "リアルタイムのビデオストリーミングは、ドローンから地上ステーションまたはその他のデバイスへのライブビデオ映像の転送です。"
+    },
+    {
+        "word": "Air Traffic Management",
+        "description": "航空交通管理は、空域内のドローンの動きを管理し、制御するために使用されるシステムと手順を指します。"
+    },
+    {
+        "word": "Swarm",
+        "description": "スワームとは、無人機のグループまたは艦隊を指し、中央システムまたはソフトウェアによってコントロールされるしばしば、調整された方法で一緒に動作する。"
+    },
+    {
+        "word": "Remote Identification",
+        "description": "遠隔識別は、ドローンが識別情報、例えばドローンの位置と登録番号を送信するための要件であり、識別と追跡を容易にする。"
+    },
+    {
+        "word": "Photovoltaic Cells",
+        "description": "太陽電池とも呼ばれる太陽電池は、太陽光を電気エネルギーに変換する装置です。"
+    },
+    {
+        "word": "Anti-Collision Lights",
+        "description": "衝突防止ライトは、ドローンの視界を向上させ、他の航空機との衝突のリスクを減らすのに役立ちます。"
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "ヘプティックフィードバックは、ドローンのリモートコントローラによってパイロットに提供されるタクティルフィードバックまたは振動であり、状況意識と制御を向上させます。"
+    },
+    {
+        "word": "Lidar Scanning",
+        "description": "LiDAR スキャンは LiDAR テクノロジーを使用して、詳細な3次元地図または環境モデルを生成します。"
+    },
+    {
+        "word": "Geo-Tagging",
+        "description": "地理タグは、座標や場所名などの地理情報をドローンによってキャプチャされたメディアファイルに追加するプロセスです。"
+    },
+    {
+        "word": "Flight Planning Software",
+        "description": "フライト計画ソフトウェアは、ドローンパイロットが飛行ルートやミッションを計画し、最適化するのを助けるコンピュータソフトウェアです。"
+    },
+    {
+        "word": "Payload Capacity",
+        "description": "ペイロード容量とは、ドローンが持ち運べる最大重量を指し、追加機材や貨物の重量を含む。"
+    },
+    {
+        "word": "Sense And Avoid",
+        "description": "Sense and Avoidは、ドローンが近隣の他の物体や航空機との衝突を検出し、回避することを可能にするコンセプトと技術です。"
+    },
+    {
+        "word": "Uav Regulations",
+        "description": "UAV規制は、特定の地域におけるドローンの運用を規制する航空当局によって設定されたルールとガイドラインです。"
+    },
+    {
+        "word": "Batteries Charging Station",
+        "description": "バッテリー充電ステーションは、複数のドローンのバッテリーを同時に充電するための装置です。"
+    },
+    {
+        "word": "Geospatial Mapping",
+        "description": "地理空間マッピングは、地理データをキャプチャ、分析、視覚化し、地図やモデルを作成するプロセスです。"
+    },
+    {
+        "word": "Payload Release Mechanism",
+        "description": "パイロードリリースメカニズムは、ドローンの装置で、オブジェクトまたはパイロードの制御されたリリースを可能にする。"
+    },
+    {
+        "word": "Ground Control Station",
+        "description": "地上制御ステーションは、飛行計画、データ分析、リアルタイムのビデオフィードを含むドローンの操作を制御し監視するために使用されるシステムまたはステーションです。"
+    },
+    {
+        "word": "Point Of Interest",
+        "description": "興味のポイントは、ドローンが特定の場所を自動的に回り、または軌道を回ることを可能にする機能です。"
+    },
+    {
+        "word": "Aerodynamics",
+        "description": "エアロダイナミクスは、空気の動きと、ドローンなどのそれを通過する物体に作用する力の研究です。"
+    },
+    {
+        "word": "Counter-Drone Systems",
+        "description": "対ドローンシステムとは、無人機によるリスクを検出し、追跡し、軽減するために使用されるデバイスまたは技術です。"
+    },
+    {
+        "word": "Gis",
+        "description": "GISは地理情報システムの略で、地理データの収集、保存、分析、管理のためのシステムです。"
+    },
+    {
+        "word": "Autonomous",
+        "description": "自動ドローンは、直接の人間のコントロールなしにドローンの操作や意思決定を行う能力を指します。"
+    },
+    {
+        "word": "Altitude",
+        "description": "標高は、海面などの基準点の上の標高です. ドローンは、さまざまなセンサーやシステムを使用して標高を測定し、維持することができます。"
+    },
+    {
+        "word": "Lipo",
+        "description": "LiPo(リチウムポリマー)バッテリーは、高エネルギー密度と軽量のためにドローンで一般的に使用されています。"
+    },
+    {
+        "word": "Waypoints",
+        "description": "ウェイポイントは、ドローンが飛行ミッション中に追跡するようにプログラムできる特定の地理座標または場所です。"
+    },
+    {
+        "word": "Pid Controller",
+        "description": "PID(Proportional-Integral-Derivative)コントローラは、ドローンのフライトを調節し、安定させるために使用されます。"
+    },
+    {
+        "word": "Hovering",
+        "description": "Hovering は、ドローンの空気中の固定位置に留まる能力です。"
+    },
+    {
+        "word": "Drone Racing",
+        "description": "ドローンレーシングは、参加者が事前定義されたコースを通じてドローンを操縦しレースするスポーツであり、しばしばFirst-Person View(FPV)メガネを使用します。"
+    },
+    {
+        "word": "Drone Swarming",
+        "description": "ドローンスワームは、複数のドローンが任務を遂行するための連携操作です。"
+    },
+    {
+        "word": "Multirotor",
+        "description": "マルチロータードローンは、通常4つ以上の複数のローターによって動作するドローンの一種です。"
+    },
+    {
+        "word": "Li-Ion",
+        "description": "リチウムイオン(リチウムイオン)バッテリーは、高エネルギー密度と安定性のためにドローンで一般的に使用されています。"
+    },
+    {
+        "word": "Flight Time",
+        "description": "フライト時間は、ドローンがバッテリーが枯渇する前に空中に滞在できる時間の合計時間を指します。"
+    },
+    {
+        "word": "Fixed Wing",
+        "description": "固定翼ドローンは、飛行機のように設計され、翼と単一のプロペラを持って前進飛行します。"
+    },
+    {
+        "word": "Imu",
+        "description": "IMUは、ドローンの方向性、速度、および加速を測定し、追跡するために加速計、ギロスコープ、時には磁気計を組み合わせたセンサーモジュールです。"
+    },
+    {
+        "word": "Ground Station",
+        "description": "地上駅は、ドローンが制御され監視される物理的な場所またはシステムであり、通常はコンピュータ、通信機器、制御インターフェイスで構成されています。"
+    },
+    {
+        "word": "Lihv",
+        "description": "LiHV(High Voltage Lithium Polymer)バッテリーは、通常のLiPoバッテリーと比較して、より高い電圧とエネルギーを提供します。"
+    },
+    {
+        "word": "Camera Gimbal",
+        "description": "カメラジンバルは、ドローンに設置されたカメラを安定させ、スムーズな映像を生成する装置です。"
+    },
+    {
+        "word": "Photography Drone",
+        "description": "写真ドローンは、高品質の航空写真やビデオを撮影するために特別に設計されたドローンの一種です。"
+    },
+    {
+        "word": "Panorama",
+        "description": "パノラマは、ドローンによって撮影されたシーンの幅広い視点または表現です。"
+    },
+    {
+        "word": "Terrain Following",
+        "description": "地形に従って、ドローンはその高度変動に関係なく、地面上に一貫した高度を維持することができます。"
+    },
+    {
+        "word": "Fpv Racing",
+        "description": "FPVレースは、パイロットがFPVメガネを使用してドローンをレースする競技スポーツです。"
+    },
+    {
+        "word": "Fail-Safe",
+        "description": "Fail-safeは、無人機が信号喪失やその他の緊急事態の場合に自動的に事前決定されたアクションを行うことを可能にする機能です。"
+    },
+    {
+        "word": "Mavic",
+        "description": "Mavicは、DJIが製造するドローンシリーズです。"
+    },
+    {
+        "word": "Three-Axis Gimbal",
+        "description": "3軸ジンバルは、カメラを3つの異なる軸に回転させることができる安定装置です。"
+    },
+    {
+        "word": "Range",
+        "description": "ドローンの範囲は、パイロットまたは地上駅から飛行できる最大距離を指し、安定した信頼性の高い接続を維持します。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、物体の高さ、速度、温度、および近さなどの物理的量を検出し、測定するためにドローンで使用される電子デバイスであり、ドローンがその環境と相互作用することを可能にします。"
+    },
+    {
+        "word": "Bvr",
+        "description": "BVRは「Beyond Visual Range」の略で、ドローンがパイロットまたは操縦者の視界線を超えて動作する能力を指します。"
+    },
+    {
+        "word": "Microdrone",
+        "description": "マイクロドローンは小型ドローンで、通常1キロ未満の重量で、しばしば室内または近距離のアプリケーションに使用されます。"
+    },
+    {
+        "word": "Remote Control",
+        "description": "リモートコントロールは、通常、無線周波数または無線通信を通じて、ハンドル送信機またはコントローラを使用してドローンを遠隔から制御する方法です。"
+    },
+    {
+        "word": "Li-Ion Battery",
+        "description": "リチウムイオンは、ドローンで使用される別のタイプのバッテリーであるリチウムイオンの略で、リチウムイオンバッテリーはLiPoバッテリーと比較して低いエネルギー密度を持っていますが、より安定し、より長い寿命を持っています。"
+    },
+    {
+        "word": "Transmitter",
+        "description": "送信機は、通常、無線周波数または無線通信を通じて、パイロットまたはオペレーターからドローンに制御信号を送信するために使用される装置です。"
+    },
+    {
+        "word": "Thrust",
+        "description": "トルストは、ドローンのエンジンやプロペラによって生成されるドローンを前進または上昇させる力です。"
+    },
+    {
+        "word": "Rtk",
+        "description": "RTKはリアルタイムキネマティックの略で、GPS受信機とベースステーションを使用してドローンの正確かつ正確な位置情報を提供するポジションテクニックです。"
+    },
+    {
+        "word": "Aerial Mapping",
+        "description": "航空マッピングは、ドローンによって撮影された画像を使用して、大規模な領域や景観の地図や3Dモデルを作成するプロセスです。"
+    },
+    {
+        "word": "Lidar Sensor",
+        "description": "LiDar センサーは LiDAR テクノロジーを使用して距離を測定し、環境の詳細な 3D マップを作成するタイプのセンサーです。"
+    },
+    {
+        "word": "Yaw",
+        "description": "Yawは、ドローンの垂直軸の回転運動で、ドローンの鼻が左または右に曲がることを引き起こします。"
+    },
+    {
+        "word": "Hobbyist Drone",
+        "description": "趣味のドローンは、主に趣味としての楽や航空写真のための飛行など、レクリエーション目的で使用されるドローンの一種です。"
+    },
+    {
+        "word": "Collision-Tolerant",
+        "description": "衝突耐性とは、ドローンの構造や機能に重大な損傷を及ぼさずに衝突や衝突に耐える能力を指します。"
+    },
+    {
+        "word": "Ground Station Software",
+        "description": "地上ステーションソフトウェアは、飛行計画、ミッション実行、データ分析を含むドローンの操作を制御し監視するために使用されるコンピュータソフトウェアです。"
+    },
+    {
+        "word": "Sense And Avoid System",
+        "description": "A sense and avoid system は、センサー、ソフトウェア、アルゴリズムの組み合わせで、ドローンが飛行経路の障害物や他の航空機を検出し、回避することを可能にします。"
+    },
+    {
+        "word": "Hexrotor",
+        "description": "Hexrotorは、シンメトリックな六角形構成の6つのローターによって動作するドローンのタイプです。"
+    },
+    {
+        "word": "Microcontroller",
+        "description": "マイクロコントローラーは、ドローンのさまざまなコンポーネントとサブシステムの操作を制御し管理するために使用される単一統合回路(IC)上の小さなコンピュータです。"
+    },
+    {
+        "word": "Multispectral Imaging",
+        "description": "マルチスペクトラルイメージングは、ドローンの特殊なセンサーを使用して、電磁スペクトルの複数の帯域の画像をキャプチャおよび分析するプロセスです。"
+    },
+    {
+        "word": "Orbit Mode",
+        "description": "軌道モードは、いくつかのドローンの飛行モードで、ドローンは指定された関心地点のまわりに円形の軌道で自動的に飛行する。"
+    },
+    {
+        "word": "Firmware",
+        "description": "ファームウェアは、ドローンのハードウェアに埋め込まれたソフトウェアであり、その操作と行動を制御します。"
+    },
+    {
+        "word": "Emergency Parachute",
+        "description": "緊急パラシュートは、緊急または重大な故障の場合、ドローンを減速または安定させるために展開することができる安全装置です。"
+    },
+    {
+        "word": "Thrust-To-Weight Ratio",
+        "description": "推力/重量比は、ドローンの推進効率を測定し、それが生成できる最大推力をその重量に分けることによって計算されます。"
+    },
+    {
+        "word": "Wireless Communication",
+        "description": "無線通信とは、無線周波数またはその他の無線技術を介してデバイス間の情報伝達を指し、ドローンと地上システム間の通信を可能にします。"
+    },
+    {
+        "word": "Collision Mitigation",
+        "description": "衝突緩和とは、ドローンと他の物体や航空機との衝突の確率または影響を減らすために実施された行動またはシステムを指します。"
+    },
+    {
+        "word": "Drone Delivery",
+        "description": "ドローン配達は、ドローンの使用で、パッケージ、商品、または他の物品を遠隔地または到達困難な場所に運び、配達します。"
+    },
+    {
+        "word": "Ducted Fan",
+        "description": "ドッキットファンは、ドローンまたはスロッド内に閉じ込められたファンで構成されるいくつかのドローンで使用される推進システムであり、効率性、制御、および安全性を向上させます。"
+    },
+    {
+        "word": "Multi-Sensor Fusion",
+        "description": "Multi-sensor fusion は、カメラ、LiDAR、GPSなどの複数のセンサーからのデータを組み合わせ、ドローンの感知、ナビゲーション、および認識を向上させるプロセスです。"
+    },
+    {
+        "word": "Drone Regulations",
+        "description": "ドローン規制は、ドローンの運用と使用を規制し、安全、プライバシー、および空域規制の遵守を確保するために政府当局によって課される規則、法律、ガイドラインです。"
+    }
+]

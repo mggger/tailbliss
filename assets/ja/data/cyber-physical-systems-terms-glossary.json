@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Cyber-Physical Systems",
+        "description": "サイバー物理システム(CPS)は、物理プロセスをネットワーク化されたコンピューティングとコミュニケーションと統合するエンジニアリングシステムです。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネット(IoT)は、データ交換を可能にするためにセンサー、ソフトウェア、接続を組み込んだ物理デバイス、車両、機器、その他のオブジェクトのネットワークを指します。"
+    },
+    {
+        "word": "Embedded Systems",
+        "description": "組み込まれたシステムは、より大きなシステム内の特定のタスクを実行するように設計されたコンピュータシステムであり、しばしば専用の機能と限られたリソースを持つ。"
+    },
+    {
+        "word": "Real-Time Systems",
+        "description": "リアルタイムシステムとは、厳格な時間制限内に外部の出来事に反応しなければならないコンピュータシステムです。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、環境からの物理的な入力を電気信号に変換することによって検出し、反応する装置です。"
+    },
+    {
+        "word": "Actuators",
+        "description": "アクチュエータは、制御信号を物理的行動または動きに変換するデバイスであり、しばしば物理的環境を操作するために使用されます。"
+    },
+    {
+        "word": "Modeling And Simulation",
+        "description": "モデリングとシミュレーションは、現実世界のシステムの抽象的な表現を作成し、その行動を分析し、予測することを意味します。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステムやネットワークを不正アクセス、盗難、損傷、または干渉から保護する実践です。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、サーバー、ストレージ、データベース、ネットワーク、ソフトウェア、アナリティクス、インテリジェンスを含む求人コンピューティングサービスの提供です。"
+    },
+    {
+        "word": "Wireless Communication",
+        "description": "無線通信とは、物理的な接続やワイヤーを使用せずに2つ以上の点間の情報またはデータの転送です。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、コンピューティングとデータストレージを必要な場所に近づける分散型コンピューティングパラダイムです。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、機械が明示的にプログラミングされずにデータから学び、予測を行うことを可能にするAIの分野です。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データ分析は、大きな、多様なデータセットを調査し、パターン、相関関係、洞察、その他の有意義な情報を発見するプロセスです。"
+    },
+    {
+        "word": "Control Systems",
+        "description": "コントロールシステムとは、他のデバイスやシステムの行動を管理、コマンド、指揮、または規制するように設計されたシステムです。"
+    },
+    {
+        "word": "System Integration",
+        "description": "システム統合は、特定の機能を達成するために、異なるサブシステムを一つの統合されたシステムに組み合わせることを意味します。"
+    },
+    {
+        "word": "Fault Tolerance",
+        "description": "故障許容は、システムまたはコンポーネントが一部のコンポーネントが故障した場合に適切に動作し続けることを可能にする属性です。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、現実世界と類似するか、または完全に異なるシミュレート体験です。"
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality(AR)は、コンピュータによって生成された知覚情報とリアルな環境を組み合わせたインタラクティブな体験です。"
+    },
+    {
+        "word": "Digital Twin",
+        "description": "デジタルツインとは、物理的なオブジェクト、システム、またはプロセスの仮想レプリカであり、物理世界でのパフォーマンスをシミュレート、予測し、最適化するために使用されます。"
+    },
+    {
+        "word": "Distributed Systems",
+        "description": "分散システムとは、複数の自律的なコンピュータで構成されるシステムで、ネットワークを通じて通信し、行動を調整する。"
+    },
+    {
+        "word": "Sensor Networks",
+        "description": "センサーネットワークは、空間的に分散したセンサーで構成され、環境からのデータを監視し、収集します。"
+    },
+    {
+        "word": "Internet Protocol Suite",
+        "description": "インターネットプロトコル・スイート(TCP/IP)は、インターネット上で通信とデータ交換を可能にするプロトコルのセットです。"
+    },
+    {
+        "word": "Human-Machine Interaction",
+        "description": "ヒューマン・マシン・インタラクション(HMI)は、人間と機械の間の設計と相互作用に焦点を当てています。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "機械ビジョンは、コンピュータやロボットが視覚情報を解釈し、環境を感知することを可能にするために、カメラ、センサー、および画像処理技術の使用を含みます。"
+    },
+    {
+        "word": "Digital Control",
+        "description": "デジタルコントロールとは、デジタルコンピュータまたはプロセッサを使用して制御アルゴリズムを実行し、センサーフィードバックに基づいてシステムの行動を調整する制御システムを指します。"
+    },
+    {
+        "word": "Simulation Tools",
+        "description": "シミュレーションツールは、複雑なシステムの行動をモデリングし、分析するためのソフトウェアプログラムです。"
+    },
+    {
+        "word": "Machine-To-Machine Communication",
+        "description": "機械対機械(M2M)通信とは、人間の介入なしで機器や機械間の直接的なコミュニケーションと相互作用を指します。"
+    },
+    {
+        "word": "System-On-Chip",
+        "description": "System-on-Chip(SoC)は、コンピュータシステムのすべての必要なコンポーネントを1つのチップに統合する統合回路です。"
+    },
+    {
+        "word": "Power System Automation",
+        "description": "電力システム自動化は、電力システムの監視、制御、および最適化を自動化することです。"
+    },
+    {
+        "word": "Intelligent Transportation Systems",
+        "description": "インテリジェント輸送システム(ITS)は、さまざまな交通手段と交通管理に関連する革新的なサービスを提供することを目指す高度なアプリケーションです。"
+    },
+    {
+        "word": "Smart Grid",
+        "description": "スマートグリッドは、デジタル通信および制御技術を使用して、効率的かつ持続可能なエネルギー配布のためにリアルタイムのデータを収集し、行動する電力ネットワークです。"
+    },
+    {
+        "word": "Cyber-Physical Security",
+        "description": "サイバー物理セキュリティは、サイバー物理システムのセキュリティと完全性をサイバー脅威から保護することに焦点を当てています。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "予測メンテナンスとは、データ分析と機械学習技術を用いて、機器またはシステムの状態を決定し、いつメンテナンスが必要であるかを予測することです。"
+    },
+    {
+        "word": "Networked Control Systems",
+        "description": "ネットワーク制御システムとは、コンポーネントが通信と連携のためのネットワークを通じて接続されている制御システムです。"
+    },
+    {
+        "word": "Industrial Internet Of Things",
+        "description": "物の産業インターネット(IIoT)は、IoT技術の産業および製造環境への拡大を指し、機械、デバイス、およびセンサーを接続してデータを収集し、操作を改善するために分析します。"
+    },
+    {
+        "word": "Cyber-Physical Production Systems",
+        "description": "サイバー物理生産システム(CPPS)は、物理生産プロセスとサイバー機能を組み合わせ、効率性と柔軟性を向上させます。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、機械工学、電気工学、コンピュータサイエンスを組み合わせた学際的な分野で、ロボットを設計、構築、操作します。"
+    },
+    {
+        "word": "Energy Harvesting",
+        "description": "エネルギー収集は、太陽光、機械、熱、または電磁エネルギーなどの環境源からのエネルギーをキャプチャし、保存し、それを電子機器の電源に変換するプロセスです。"
+    },
+    {
+        "word": "Wireless Sensor Networks",
+        "description": "無線センサーネットワークとは、無線で通信し、環境からデータを収集する空間的に分散した自動センサーのネットワークです。"
+    },
+    {
+        "word": "Fog Computing",
+        "description": "霧コンピューティングは、データ源に近いネットワークの端まで、クラウドの能力を拡張する分散型コンピューティングインフラストラクチャです。"
+    },
+    {
+        "word": "Ubiquitous Computing",
+        "description": "普及型コンピューティングとも呼ばれる普遍的なコンピューティングは、コンピューティング技術が環境や日常のオブジェクトにシームレスに統合される概念です。"
+    },
+    {
+        "word": "Industrial Control Systems",
+        "description": "産業制御システム(ICS)は、制御技術を使用して産業プロセスを管理し、自動化します。"
+    },
+    {
+        "word": "Supervisory Control And Data Acquisition",
+        "description": "SCADA(Supervisory Control and Data Acquisition)システムは、集中ソフトウェアを通じて産業プロセスを監視し、制御します。"
+    },
+    {
+        "word": "Cyber-Physical Manufacturing Systems",
+        "description": "サイバー物理製造システム(CPMS)は、製造プロセスの効率性と柔軟性を向上させるために高度な技術を使用しています。"
+    },
+    {
+        "word": "Digital Thread",
+        "description": "Digital Threadは、デザインからメンテナンスまで、製品のライフサイクル全体にわたってデータを接続し、統合するコミュニケーションフレームワークです。"
+    },
+    {
+        "word": "Industry 4.0",
+        "description": "産業4.0は、デジタル技術と製造の統合によって特徴付けられた第四次産業革命を記述する用語です。"
+    },
+    {
+        "word": "Smart Cities",
+        "description": "スマートシティは、IoT、AI、その他のテクノロジーを活用して、市民の生活の質を向上させ、持続可能性を高め、資源とインフラの利用を最適化します。"
+    },
+    {
+        "word": "Robustness",
+        "description": "強度とは、システムまたはプロセスの不確実性や干渉を含むさまざまな条件下で適切に機能する能力を指します。"
+    },
+    {
+        "word": "Interoperability",
+        "description": "相互運用性とは、異なるシステムまたは構成要素が相互に有益かつシームレスな方法で情報を交換し、使用する能力である。"
+    },
+    {
+        "word": "Cyber-Physical System Of Systems",
+        "description": "サイバー物理システム(CPSoS)は、複数の相互接続したサイバー物理システムからなる複雑なシステムです。"
+    },
+    {
+        "word": "Smart Buildings",
+        "description": "スマートビルは、エネルギー効率、乗客の快適さ、およびビルの全体的なパフォーマンスを最適化するために自動化と接続を活用しています。"
+    },
+    {
+        "word": "Drone Systems",
+        "description": "ドローンシステムは、さまざまなアプリケーションのために遠隔コントロールまたは自律的に飛行することができる無人航空機です。"
+    },
+    {
+        "word": "Smart Healthcare Systems",
+        "description": "スマートヘルスケアシステムは、医療サービスの提供を改善するためにデジタル技術とデータ分析を活用しています。"
+    },
+    {
+        "word": "Smart Agriculture",
+        "description": "Smart Agricultureは、IoT、センサー、データアナリティクスを活用して、生産性の向上のために農業操作を最適化し、自動化します。"
+    },
+    {
+        "word": "Digital Health Monitoring",
+        "description": "デジタルヘルスモニタリングは、モニタリングと診断のために健康関連のデータを収集し分析するために、着用可能なセンサーやデバイスを使用することを意味します。"
+    },
+    {
+        "word": "Cyber-Physical Energy Systems",
+        "description": "サイバー物理エネルギーシステムは、エネルギー生産、配布、消費を高度な監視と制御技術と統合します。"
+    },
+    {
+        "word": "Automated Vehicles",
+        "description": "自動運転車や自動運転車とも呼ばれる自動運転車は、直接の人間の介入や制御なしで動作することができる。"
+    },
+    {
+        "word": "Data Fusion",
+        "description": "データ合併は、より高いレベルの知識を生み出したり、より正確な推測をするために複数のデータ源を統合するプロセスです。"
+    },
+    {
+        "word": "Security",
+        "description": "セキュリティとは、コンピュータシステムやデータを不正アクセス、使用、開示、干渉、変更、または破壊から保護するための措置を指します。"
+    },
+    {
+        "word": "Privacy",
+        "description": "プライバシーは、個人が個人情報やデータの収集、使用、開示を制限する権利です。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録し、透明性、セキュリティ、不変性を提供する分散型および分散型デジタルリーガーテクノロジです。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革は、デジタルテクノロジーを組織のあらゆる側面に統合し、機能し、価値を提供する方法を根本的に変化させます。"
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "description": "自動運転車とも呼ばれる自動運転車は、センサー、機械学習、および接続機能を使用して、人間の介入なしでナビゲーションおよび操作できる車両です。"
+    },
+    {
+        "word": "Simulation",
+        "description": "シミュレーションは、実世界のシステムまたはプロセスのコンピュータモデルまたは表現を作成し、その行動を分析、予測、または理解するプロセスです。"
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "混合現実(MR)は、物理的およびデジタルオブジェクトが共存し、リアルタイムで相互作用する新しい環境と視覚化を生み出すために、現実世界と仮想世界の合併です。"
+    },
+    {
+        "word": "Human-Computer Interaction",
+        "description": "Human-Computer Interaction(HCI)とは、人間とコンピュータの間の研究、設計、相互作用であり、効果的でユーザーフレンドリーなコンピュータインターフェイスを構築することに焦点を当てています。"
+    },
+    {
+        "word": "Wearable Technology",
+        "description": "着用可能なテクノロジーとは、身体に着用できるデバイスやアクセサリーを指し、センサー、接続、コンピューティングパワーを組み込み、ユーザー体験を向上させ、パーソナライズされた情報を提供します。"
+    },
+    {
+        "word": "Parallel Computing",
+        "description": "パラレルコンピューティングは、多くの計算やプロセスを同時に実行するコンピューティングの種類です。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して容易に処理または分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Cloud Robotics",
+        "description": "クラウドロボティクスは、ロボットのパフォーマンス、コラボレーション、および学習を向上させるためのクラウドコンピューティングのリソースと能力を組み込むロボット分野です。"
+    },
+    {
+        "word": "Smart Homes",
+        "description": "スマートハウスは、さまざまな家庭機能を自動化し、コントロールするIoTデバイスやシステムを備えた住宅で、快適さ、便利性、効率を向上させます。"
+    },
+    {
+        "word": "Industrial Automation",
+        "description": "産業自動化は、ロボットやコンピューターなどの制御システムを使用して、産業環境におけるさまざまなプロセスを処理し、制御し、生産性を高め、人間の介入を減らします。"
+    },
+    {
+        "word": "Wireless Power Transfer",
+        "description": "ワイヤレス電源転送技術は、電気接続やワイヤーを必要とせずに、電磁フィールドや共鳴誘導結合を使用して電気電力を転送することができます。"
+    },
+    {
+        "word": "Model Predictive Control",
+        "description": "モデル予測制御(MPC)は、制限や目標を考慮し、将来の行動を予測し、最適化するために、明確に定義されたシステムモデルを使用する制御戦略です。"
+    },
+    {
+        "word": "Haptic Technology",
+        "description": "Hapticテクノロジーは、タッチベースの相互作用を通じてタッチフィードバックと感覚を提供し、ユーザーが仮想または遠隔のオブジェクトを感知し、操作することを可能にします。"
+    },
+    {
+        "word": "Self-Healing Systems",
+        "description": "自己治癒システムとは、故障や故障を検出し、診断し、自律的に回復し、継続的な運用を確保し、保守努力を減らすことができるシステムです。"
+    },
+    {
+        "word": "Industrial Robotics",
+        "description": "産業用ロボットは、作業を自動化し、効率を高め、安全性を向上させるために産業用製造プロセスにおけるロボットの使用を含みます。"
+    },
+    {
+        "word": "Edge Intelligence",
+        "description": "エッジインテリジェンスとは、センサーやロボットなどのエッジデバイスのデータ処理、分析、および意思決定を行う能力を、集中クラウドリソースに頼ることなく、ローカルに指します。"
+    },
+    {
+        "word": "Digital Manufacturing",
+        "description": "デジタル製造、またはスマート製造または産業4.0とも呼ばれるデジタル製造は、製造プロセスを最適化し自動化するためにデジタル技術、IoT、およびデータ分析の使用を含みます。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析は、過去のデータ、統計アルゴリズム、機械学習技術を使用して、将来の結果や行動を予測し、積極的な意思決定と最適化を可能にします。"
+    },
+    {
+        "word": "Biometric Systems",
+        "description": "Biometric systems identify and authenticate individuals using their unique physiological or behavioral characteristics, such as fingerprints, facial features, or voice patterns. バイオメトリックシステムは、指紋、顔の特徴、または声のパターンを用いて個人を識別し、認証します。"
+    },
+    {
+        "word": "Wireless Sensor Actuator Networks",
+        "description": "Wireless Sensor-Actuator Networks (WSANs) は、無線で通信し、物理環境と相互作用するためにデータを収集し分析するセンサーとアクチュアーターノードで構成されるネットワークです。"
+    },
+    {
+        "word": "Constraint Handling",
+        "description": "制約処理とは、システムの設計、運用、または最適化における制約または制限に対処するための方法と技術を指します。"
+    },
+    {
+        "word": "Simulation-Based Optimization",
+        "description": "シミュレーションベースの最適化では、シミュレーションと数学的なアルゴリズムを使用して複雑な問題に対する最適かつ最適なソリューションを見つけることで、複数の変数や制約を考慮します。"
+    },
+    {
+        "word": "Digital Security",
+        "description": "デジタルセキュリティは、デジタル資産、情報、およびシステムを不正アクセス、使用、開示、妨害、または破壊から保護するための措置と技術を含みます。"
+    },
+    {
+        "word": "Fault Diagnosis",
+        "description": "故障診断は、システムまたはデバイスの故障または故障を識別し、隔離し、修正するプロセスです。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データのプライバシーは、個人データや情報の保護に関係しており、個人がデータがどのように収集、使用、共有されるかをコントロールできるようにします。"
+    },
+    {
+        "word": "Real-Time Optimization",
+        "description": "リアルタイム最適化とは、システムのダイナミクスと制約を考慮し、リアルタイムで変化する状況に決定を下し、適応するための最適化アルゴリズムと技術を指します。"
+    },
+    {
+        "word": "Privacy-Preserving Data Mining",
+        "description": "プライバシーを守るデータマイニングは、匿名化や暗号化技術を適用することによって個人のプライバシーを保護しながら、データから貴重な洞察やパターンを抽出する課題に取り組んでいます。"
+    },
+    {
+        "word": "Industrial Iot",
+        "description": "Industrial Internet of Things(IIoT)は、産業環境におけるIoT技術の応用に焦点を当て、機械、デバイス、システムを接続してデータの収集、分析、最適化を可能にします。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の隠された層を持つ人工ニューラルネットワークの訓練と展開を含む機械学習のサブセットで、データの複雑なパターンを学び理解する。"
+    },
+    {
+        "word": "Sensor",
+        "description": "センサーとは、物理的性質を検出または測定し、それらを処理または送信できる信号に変換する装置です。"
+    },
+    {
+        "word": "Actuator",
+        "description": "アクチュエータは、制御信号を物理的運動またはその他の物理的プロセスに変換する装置です。"
+    },
+    {
+        "word": "Control System",
+        "description": "コントロールシステムとは、他のデバイスやシステムの行動を管理、コマンド、指示、または規制するシステムです。"
+    },
+    {
+        "word": "Firmware",
+        "description": "ファームウェアは、ハードウェアデバイスに永久に保存され、デバイスの特定の機能に対する低レベルの制御を提供するソフトウェアの種類です。"
+    },
+    {
+        "word": "Gis",
+        "description": "GIS(地理情報システム)は、空間的または地理的データをキャプチャ、保存、分析、管理、および提示するために設計されたシステムです。"
+    },
+    {
+        "word": "Hmi",
+        "description": "HMI (Human-Machine Interface) は、人間を機械、システム、またはデバイスに接続するインターフェイスまたはコントロールパネルです。"
+    },
+    {
+        "word": "Model-Based Design",
+        "description": "モデルベースの設計は、モデルを使用してシステムの行動を記述し、自動的にソフトウェアとハードウェアの実装を生成するシステム開発のアプローチです。"
+    },
+    {
+        "word": "Network Protocol",
+        "description": "ネットワークプロトコルは、ネットワークを通じてデータがどのように送信され、受信されるかを決定するルールと標準のセットです。"
+    },
+    {
+        "word": "Time Synchronization",
+        "description": "時間同期は、複数のデバイスやシステムの時計を調整して、同じ時間参照を確保するプロセスです。"
+    },
+    {
+        "word": "Virtualization",
+        "description": "仮想化は、デバイス、オペレーティングシステム、ストレージ、またはネットワークリソースの仮想バージョンを作成するプロセスです。"
+    },
+    {
+        "word": "Wireless Sensor Network",
+        "description": "無線センサーネットワークとは、無線で通信し、物理的または環境条件を監視する空間的に分散した自動センサーのネットワークです。"
+    },
+    {
+        "word": "Middleware",
+        "description": "ミドルウェアは、オペレーティングシステムとアプリケーションの間に座り、サービスを提供し、さまざまなソフトウェアコンポーネント間のコミュニケーションを可能にするソフトウェアです。"
+    },
+    {
+        "word": "Reliability",
+        "description": "信頼性とは、システムまたは部品が特定の期間にわたって、指定された条件下で必要な機能を実行する能力である。"
+    },
+    {
+        "word": "Resilience",
+        "description": "抵抗力とは、システムが失敗、障害、または障害から耐え、回復し、効果的に動作し続ける能力です。"
+    },
+    {
+        "word": "Autonomous System",
+        "description": "自動システムとは、人間の介入なしで動作し、意思決定を行うことができるシステムです。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、不正なアクセス、使用、開示、破壊、または干渉からデータを保護することを指します。"
+    },
+    {
+        "word": "Embedded System",
+        "description": "組み込まれたシステムは、より大きなシステムまたはデバイス内の特定の機能のために設計されたコンピュータハードウェアとソフトウェアの組み合わせです。"
+    },
+    {
+        "word": "Model Checking",
+        "description": "モデルチェックは、システムモデルまたは設計の正しさを徹底的にすべての可能な状態を調査することによって検証するための自動化されたテクニックです。"
+    },
+    {
+        "word": "Quality Of Service",
+        "description": "Quality of Service (QoS) は、ネットワークまたはサービスのパフォーマンス特性、例えば帯域幅、遅延、信頼性を指します。"
+    },
+    {
+        "word": "Software-Defined Networking",
+        "description": "Software-Defined Networking(SDN)は、コントロール・フロアをデータ・フロアから分離するネットワークアプローチで、集中的なネットワーク制御とプログラミングを可能にします。"
+    },
+    {
+        "word": "Time-Critical Systems",
+        "description": "タイムクリティカルシステムとは、タイムリーさと運用の予測性が不可欠なシステムです。"
+    },
+    {
+        "word": "Control Theory",
+        "description": "コントロール理論は、ダイナミックシステムの行動とコントローラの設計を扱う数学と工学の分野です。"
+    },
+    {
+        "word": "Embedded Security",
+        "description": "組み込まれたセキュリティとは、組み込まれたシステムおよびデバイスのセキュリティおよび完全性を保護するために使用される措置および技術を指します。"
+    },
+    {
+        "word": "Privacy-Preserving Techniques",
+        "description": "プライバシー保存技術とは、処理または転送中にデータの機密性とプライバシーを保護するために設計された方法またはメカニズムです。"
+    },
+    {
+        "word": "Safety-Critical Systems",
+        "description": "安全に重要なシステムとは、失敗の結果が損傷、負傷、または命の喪失につながるシステムです。"
+    },
+    {
+        "word": "Software Engineering",
+        "description": "ソフトウェアエンジニアリングは、ソフトウェアシステムの開発、メンテナンス、運用にエンジニアリングの原則と実践の適用です。"
+    },
+    {
+        "word": "Model-Driven Engineering",
+        "description": "モデルドライブエンジニアリング(MDE)は、ソフトウェアとシステム開発のアプローチで、開発の主なアーティファクトとしてモデルを作成し操作することに焦点を当てています。"
+    },
+    {
+        "word": "Power Systems",
+        "description": "電力システムは、電力の生産、伝送、配布、制御に使用されるインフラストラクチャ、装置、技術を指します。"
+    },
+    {
+        "word": "Safety Engineering",
+        "description": "安全エンジニアリングは、システム、製品、またはプロセスの安全性と信頼性を確保するためのエンジニアリング技術と原則の適用です。"
+    },
+    {
+        "word": "Software Verification",
+        "description": "ソフトウェア検証は、システムまたはコンポーネントが特定の要件または条件を満たしているかどうかを決定するための評価プロセスです。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、さまざまな分析技術を使用して、大規模なデータセットからパターン、関係、またはその他の有用な情報を発見するプロセスです。"
+    },
+    {
+        "word": "Scheduling",
+        "description": "スケジュールは、資源を割り当て、課題の順序とタイミングを決定し、あるいは特定の目標を達成するために活動を計画し、調整するプロセスです。"
+    }
+]

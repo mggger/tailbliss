@@ -1,0 +1,450 @@
+[
+    {
+        "word": "Genomics",
+        "description": "ゲノミクスは、遺伝子や非コードDNAを含む生物の全遺伝子の研究です。"
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "精密医学は、個人の遺伝子、環境、ライフスタイルの個々の変異性を考慮する医療のアプローチです。"
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "薬理学は、人の遺伝子が薬物への反応にどのように影響するかを研究するものです。"
+    },
+    {
+        "word": "Biomarkers",
+        "description": "バイオマーカーは、生物学的状態またはプロセスの測定可能な指標であり、しばしば病気を予測、診断、または監視するために使用されます。"
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-Generation Sequencingは、DNAまたはRNAを序列化するために使用される高流量の方法です。"
+    },
+    {
+        "word": "Variant",
+        "description": "変数は、標準または参照セクションに比べてDNAセクションの違いを指します。"
+    },
+    {
+        "word": "Single Nucleotide Polymorphism",
+        "description": "Single Nucleotide Polymorphism (SNP) は、個体間のDNA序列における1つの位置の変異である。"
+    },
+    {
+        "word": "Structural Variant",
+        "description": "構造変異は、DNA構造の変異、例えば挿入、削除、複製、または逆転、遺伝子の機能や表現に影響を与える可能性があります。"
+    },
+    {
+        "word": "Genotype",
+        "description": "遺伝子型とは、遺伝子構造または遺伝子のセットを指します。"
+    },
+    {
+        "word": "Phenotype",
+        "description": "フェノタイプとは、遺伝子と環境の相互作用によって生じる個人の観察可能な特徴を指します。"
+    },
+    {
+        "word": "Functional Genomics",
+        "description": "機能ゲノミクスは、遺伝子がどのように働き、ある生物体内で相互作用するかについての研究です。"
+    },
+    {
+        "word": "Transcriptomics",
+        "description": "トランスクリプトミクスは、ゲノムから転写されたすべてのRNA分子の研究です。"
+    },
+    {
+        "word": "Proteomics",
+        "description": "プロテオミクスは、細胞、組織、または有機体によって生産されるすべてのタンパク質の研究です。"
+    },
+    {
+        "word": "Metabolomics",
+        "description": "代謝学は、生物体内の小分子、代謝物と呼ばれる分子の研究です。"
+    },
+    {
+        "word": "Gene Expression",
+        "description": "遺伝子表現は、遺伝子からの情報が機能遺伝子製品の合成に使用されるプロセスです。"
+    },
+    {
+        "word": "Epigenetics",
+        "description": "エピジェネティクスは、DNA序列の変化を伴わない遺伝子表現または細胞現象型の変化の研究です。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、人工のニューラルネットワークを使用してデータの複雑なパターンをモデル化し、理解する機械学習のサブセットです。"
+    },
+    {
+        "word": "Clinical Decision Support",
+        "description": "臨床意思決定サポートは、患者ケアを向上させるためのアクティブな情報と知識を医療従事者に提供します。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースからのデータを組み合わせ、分析し、有意義な洞察を生成するプロセスです。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、パターンを発見し、大規模なデータセットから知識を抽出するプロセスです。"
+    },
+    {
+        "word": "Insilico Medicine",
+        "description": "InSilico Medicineは、計算モデリングやシミュレーションなどのコンピュータベースのアプローチを使用して、生物システムを研究し、治療戦略を開発することを指します。"
+    },
+    {
+        "word": "Clinical Trials",
+        "description": "臨床試験は、ヒトに対する医療介入の安全性と有効性を評価する研究です。"
+    },
+    {
+        "word": "Electronic Health Record",
+        "description": "電子健康記録(EHR)は、医療機関が維持する患者の医療史のデジタルバージョンです。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人情報の保護とその収集、保管、使用の規制を指します。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、不正なアクセス、変更、または破壊からデータを保護するための措置とプロトコルを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、サーバー、ストレージ、およびアプリケーションなどのオンデマンドコンピューティングリソースのインターネット上の配信です。"
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "生物情報学は、生物データを分析し解釈するためのコンピュータサイエンスと統計の応用です。"
+    },
+    {
+        "word": "Population Health",
+        "description": "人口の健康は、特定の人口の健康に影響を与える健康の結果、健康の決定要因のパターン、および政策を指します。"
+    },
+    {
+        "word": "Cancer Genomics",
+        "description": "がんゲノミクスは、がん細胞に起こる遺伝的変化や変化の研究です。"
+    },
+    {
+        "word": "Personalized Medicine",
+        "description": "パーソナライズされた医学は、個人のユニークな特徴に医療治療をカスタマイズするアプローチです。"
+    },
+    {
+        "word": "Clinical Genomics",
+        "description": "臨床ゲノミクスは、診断、予測、治療のための臨床ケアにおけるゲノミクス情報の統合です。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "データ視覚化とは、データと情報を視覚形式で表示し、理解と分析を促進することを意味します。"
+    },
+    {
+        "word": "Data Analysis",
+        "description": "データ分析は、有意義なパターン、洞察、情報を発見するためにデータを検査、クリーニング、変換、モデリングするプロセスです。"
+    },
+    {
+        "word": "High-Throughput Screening",
+        "description": "High-Throughput Screeningは、さまざまな生物学的分析における大量の化合物や遺伝子を迅速かつ自動的にテストするための方法です。"
+    },
+    {
+        "word": "Pharmacokinetics",
+        "description": "薬理学は、薬物が体内でどのように吸収され、分散され、代謝され、排出されるかを研究するものです。"
+    },
+    {
+        "word": "Pharmacodynamics",
+        "description": "薬理学は、薬物の生理学的効果とその作用メカニズムの研究です。"
+    },
+    {
+        "word": "Targeted Therapy",
+        "description": "ターゲット療法は、特定の癌細胞を特定し、攻撃するために薬物や他の物質を使用する治療の種類です。"
+    },
+    {
+        "word": "Pharmacogenetics",
+        "description": "薬理学は、個人の遺伝子構造が薬物への反応にどのように影響するかを研究するものです。"
+    },
+    {
+        "word": "Immunotherapy",
+        "description": "免疫療法は、がん細胞や他の病気を引き起こす要因を認識し排除する免疫システムの力を活用する治療の種類です。"
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "遺伝子療法は、異常な遺伝子を修正または修正するために細胞に遺伝材料を導入することによって病気を治療または予防することを目的とした実験的アプローチです。"
+    },
+    {
+        "word": "Cell Therapy",
+        "description": "細胞療法は、幹細胞や免疫細胞などの生きた細胞を使用して、病気を治療または予防します。"
+    },
+    {
+        "word": "Drug Discovery",
+        "description": "薬物発見は、新しい治療化合物を特定し、開発するプロセスです。"
+    },
+    {
+        "word": "Genome Editing",
+        "description": "ゲノム編集は、科学者が生物のDNAを変えることを可能にするテクノロジーのグループです。"
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9 は、DNA シーケンスの正確かつ具体的な変更を可能にするゲノム編集ツールです。"
+    },
+    {
+        "word": "Prognostic Biomarker",
+        "description": "予測生物マーカーは、病気の可能性のある進行または治療の成功の確率に関する情報を提供するバイオマーカーです。"
+    },
+    {
+        "word": "Diagnostic Biomarker",
+        "description": "診断バイオマーカーは、個人の病気または状態の存在を識別するために使用できるバイオマーカーです。"
+    },
+    {
+        "word": "Therapeutic Biomarker",
+        "description": "治療バイオマーカーは、特定の治療または治療介入に対する個人の答えの可能性または可能性を示すバイオマーカーです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して管理、分析、処理することが困難な非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Clinical Data",
+        "description": "臨床データとは、通常の臨床ケアの過程で得られた患者または個人に関する情報、医療記録、検査結果、治療履歴を含む。"
+    },
+    {
+        "word": "Electronic Medical Record",
+        "description": "電子医療記録(EMR)は、患者の医療記録のデジタルバージョンで、臨床データと彼らの医療経験に関する情報が含まれています。"
+    },
+    {
+        "word": "Telemedicine",
+        "description": "遠隔医療は、医療相談、診断、治療を含む医療サービスの遠隔配信で、電気通信技術を使用しています。"
+    },
+    {
+        "word": "Omics",
+        "description": "Omicsは、ゲノミクス、プロテオミクス、およびメタボロミクスなどのさまざまな大規模な生物学的データセットを記述するために使用される集合用語です。"
+    },
+    {
+        "word": "Pharmacoepidemiology",
+        "description": "薬物疫学は、薬物の使用方法、人口への影響、薬物の使用と結果に影響を与える要因の研究です。"
+    },
+    {
+        "word": "Single-Cell Analysis",
+        "description": "単細胞分析は個々の細胞を研究するための方法であり、細胞の異質性を調査し、希少細胞タイプを識別することを可能にします。"
+    },
+    {
+        "word": "Liquid Biopsy",
+        "description": "Liquid Biopsyは、循環する腫瘍DNAの遺伝的変化を検出する非侵入的な診断テストです。"
+    },
+    {
+        "word": "Telehealth",
+        "description": "テレヘルスとは、医療サービス、教育、情報を遠隔で提供するための電気通信技術の使用を指します。"
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "遺伝子検査は、遺伝子、染色体、またはタンパク質の変化を特定するために使用される実験室の方法です。"
+    },
+    {
+        "word": "Biomarker",
+        "description": "バイオマーカーは、正常な生物学的プロセス、病気、または治療に対する反応の測定可能な指標です。"
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA Sequencing is the process of determining the order of nucleotides in a DNA molecule. DNA Sequencing is the process of determining the order of nucleotides in a DNA molecule. DNA Sequencing is the process of determining the order of nucleotides in a DNA molecule. DNA Sequencing is the process of determining the order of nucleotides in a DNA molecule."
+    },
+    {
+        "word": "Genetic Variant",
+        "description": "遺伝的変異とは、参考に比べてDNAの序列の違いを指します。"
+    },
+    {
+        "word": "Single-Nucleotide Polymorphism (Snp)",
+        "description": "Single-nucleotide polymorphism (SNP) は、DNA シーケンスの 1 つの位置の変異です。"
+    },
+    {
+        "word": "Clinical Trial",
+        "description": "臨床試験は、新しい薬物、治療法、あるいは介入が人間に与える影響を調査する研究です。"
+    },
+    {
+        "word": "Electronic Health Record (Ehr)",
+        "description": "電子健康記録(EHR)は、診断、薬物、検査結果を含む患者の医療史のデジタルバージョンです。"
+    },
+    {
+        "word": "Exome Sequencing",
+        "description": "Exome Sequencing は、ゲノムのタンパク質をコードする領域を標的にしたセクエンシングです。"
+    },
+    {
+        "word": "Genome-Wide Association Study (Gwas)",
+        "description": "ゲノム全体の関連研究(GWAS)は、特定の特性または病気に関連する遺伝子変異を特定するために多数の個人の全ゲノムを調べる研究です。"
+    },
+    {
+        "word": "Biobank",
+        "description": "バイオバンクは、生物サンプルと関連する健康情報の収集であり、研究目的で使用されます。"
+    },
+    {
+        "word": "Hereditary Disease",
+        "description": "遺伝性疾患は、遺伝子の変化や変異によって一世代から別の世代に移される疾患です。"
+    },
+    {
+        "word": "Variant Calling",
+        "description": "変数呼び出しは、単一核酸素ポリモルフィズム(SNPs)および小さい挿入または削除(indels)などの遺伝子変異の識別プロセスを指します。"
+    },
+    {
+        "word": "Drug Response",
+        "description": "薬物反応は、薬物の有効性と副作用を含む、患者の体が薬物にどのように反応するかを指します。"
+    },
+    {
+        "word": "Immuno-Oncology",
+        "description": "免疫オンコロジーは、がんと戦うために体の免疫システムを活用することに焦点を当てた研究分野です。"
+    },
+    {
+        "word": "Pharmacogenomic Testing",
+        "description": "薬理学的検査は、特定の医薬品に対する個人の反応を遺伝的構成に基づいて予測する遺伝的検査の一種です。"
+    },
+    {
+        "word": "Population Genetics",
+        "description": "人口遺伝学は、人口内の遺伝的変異と進化プロセスの研究です。"
+    },
+    {
+        "word": "Polygenic Risk Score",
+        "description": "Polygenic Risk Scoreは、特定の病気に対する個人の遺伝的リスクを推定する数値です。"
+    },
+    {
+        "word": "Drug Resistance",
+        "description": "薬物抵抗は、細菌やがん細胞のような微生物が、通常、その成長を殺したり抑制したりする薬物の影響に耐える能力です。"
+    },
+    {
+        "word": "Drug Repurposing",
+        "description": "薬物の再利用は、既存の薬物の新しい用途の識別と開発を指します。"
+    },
+    {
+        "word": "Pharmacokinetic Variability",
+        "description": "Pharmacokinetic variability refers to differences in the rate and extent to which drugs are absorbed, distributed, metabolized, and excreted among individuals. 薬物学的変動性は、薬物が個人間で吸収され、分散され、代謝され、排出される速度と程度の違いを指します。"
+    },
+    {
+        "word": "Genome Assembly",
+        "description": "ゲノムの組み立ては、DNAの個々の断片を組み合わせ、完全なゲノムを再構築するプロセスです。"
+    },
+    {
+        "word": "Chemoinformatics",
+        "description": "化学情報学は、化学分野における問題を解決するためのコンピュータサイエンスと情報技術の応用です。"
+    },
+    {
+        "word": "Mutation",
+        "description": "突然変異は、遺伝子の構造と機能を変える可能性のあるDNA序列の永続的な変化です。"
+    },
+    {
+        "word": "Germline Mutation",
+        "description": "生殖線変異は、生殖細胞(すなわち精子または卵細胞)に存在し、子孫に転送することができる遺伝的変化です。"
+    },
+    {
+        "word": "Somatic Mutation",
+        "description": "ソマティック変異は、非生殖細胞で起こる遺伝的変異であり、将来の世代から継承されない。"
+    },
+    {
+        "word": "Bioethics",
+        "description": "生物倫理学は、生物学や医学の進歩から生じる倫理的問題の研究です。"
+    },
+    {
+        "word": "Network Analysis",
+        "description": "ネットワーク分析は、タンパク質とタンパク質の相互作用ネットワークなどの複雑なシステムやネットワークの研究で、その構造と機能を理解する。"
+    },
+    {
+        "word": "Patient Stratification",
+        "description": "患者層化は、特定の生物学的または臨床的特徴に基づいて患者群をサブグループに分割するプロセスです。"
+    },
+    {
+        "word": "Clinical Decision Support System (Cdss)",
+        "description": "臨床意思決定支援システム(CDSS)は、医療従事者に臨床意思決定を支援するための証拠に基づく勧告とガイドラインを提供するコンピュータベースのツールです。"
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "遺伝子変異とは、個体間のDNA序列の違いを指します。"
+    },
+    {
+        "word": "Pharmacoepigenomics",
+        "description": "Pharmacoepigenomicsは、エピジェネティック因子が薬物に対する個人の反応にどのように影響するかを研究するものです。"
+    },
+    {
+        "word": "Genetic Counseling",
+        "description": "遺伝カウンセリングは、個人や家族が遺伝障害の遺伝的リスクを理解し、対処するのを助けるプロセスです。"
+    },
+    {
+        "word": "Single-Nucleotide Polymorphism",
+        "description": "Single-Nucleotide Polymorphism (SNP) は、DNA シーケンス内の 1 つの位置の変異です。"
+    },
+    {
+        "word": "Systems Biology",
+        "description": "システム生物学は、複雑な生物システムを研究し、モデリングする学際的な分野です。"
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "遺伝子工学は、有機体の遺伝子を操作して望ましい特徴を生成することを意味します。"
+    },
+    {
+        "word": "Translational Research",
+        "description": "翻訳研究は、科学的発見と臨床実践における応用との間のギャップを埋める。"
+    },
+    {
+        "word": "Genome-Wide Association Study",
+        "description": "Genome-wide Association Study(GWAS)は、特定の特徴や病気に関連する遺伝子変異を特定するためのアプローチです。"
+    },
+    {
+        "word": "Phenomics",
+        "description": "現象学は、有機体のすべての測定可能な現象型の研究です。"
+    },
+    {
+        "word": "Drug Response Prediction",
+        "description": "薬物反応予測は、特定の薬物に対する個人の反応を予測するために遺伝的およびゲノム情報の使用です。"
+    },
+    {
+        "word": "Heritability",
+        "description": "遺伝性は、遺伝的要因に起因する可能性のある人口における現象型変異の割合を指します。"
+    },
+    {
+        "word": "Functional Medicine",
+        "description": "機能医学は、病気の根本原因を特定し、取り扱うことに焦点を当てた医療への個人的なアプローチです。"
+    },
+    {
+        "word": "Informed Consent",
+        "description": "知的同意は、リスクと利点を完全に知った後、医学的または研究手順のための個人からの許可を得るプロセスです。"
+    },
+    {
+        "word": "Heterogeneity",
+        "description": "Heterogeneityとは、特定の人口またはグループ内の多様かつ異なる特徴の存在である。"
+    },
+    {
+        "word": "Companion Diagnostics",
+        "description": "同伴診断は、患者が特定のターゲット療法に反応する可能性があるかどうかを特定するために使用される検査です。"
+    },
+    {
+        "word": "Healthcare Analytics",
+        "description": "Healthcare Analyticsは、患者の結果と意思決定を改善するために、医療データの体系的な分析を含みます。"
+    },
+    {
+        "word": "Phenome-Wide Association Study",
+        "description": "A Phenome-wide Association Study (PheWAS) は、遺伝的変異と一連の現象型の間の関係を特定するためのアプローチです。"
+    },
+    {
+        "word": "Regulatory Genomics",
+        "description": "規制ゲノミクスは、遺伝子の非コード区域によって遺伝子がどのように規制され、制御されるかについての研究です。"
+    },
+    {
+        "word": "Drug-Drug Interaction",
+        "description": "薬物相互作用は、二つ以上の薬物が相互作用し、一つまたは両方の薬物の効果または毒性を変化させるときに起こります。"
+    },
+    {
+        "word": "Phenotypic Screening",
+        "description": "フェノタイプ検査は、細胞のフェノタイプを変える能力に基づいて化合物をスクリーンする薬物発見アプローチです。"
+    },
+    {
+        "word": "Pharmacovigilance",
+        "description": "薬物監視は、副作用または他の薬物関連の問題の検出、評価、理解、予防に関連する科学と活動です。"
+    },
+    {
+        "word": "Pharmaceutical Industry",
+        "description": "製薬産業は、医薬品として使用する薬の発見、開発、製造を含む。"
+    },
+    {
+        "word": "Genetic Epidemiology",
+        "description": "遺伝的流行病学は、遺伝的要因が人口内の健康と病気のパターンにどのように貢献するかを研究するものです。"
+    },
+    {
+        "word": "Functional Annotation",
+        "description": "機能的な注釈は、実験的証拠や計算的予測に基づいて遺伝子に生物学的機能を割り当てるプロセスである。"
+    },
+    {
+        "word": "Digital Health",
+        "description": "デジタルヘルスとは、デジタルテクノロジーとデータの使用を指し、医療の提供と患者の結果を改善することを指します。"
+    }
+]

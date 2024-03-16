@@ -1,0 +1,538 @@
+[
+    {
+        "word": "Workforce Analytics",
+        "description": "Workforce Analyticsは、従業員関連のデータを分析し、洞察を得、データベースの意思決定を行い、従業員の管理とパフォーマンスを向上させるプロセスです。"
+    },
+    {
+        "word": "Metrics",
+        "description": "メトリックは、生産性、従業員の関与、および売上などの従業員のパフォーマンスのさまざまな側面を追跡し評価するために使用される測定可能な測定手段です。"
+    },
+    {
+        "word": "Kpis",
+        "description": "キーパフォーマンス指標(KPI)は、組織の目標達成における成功と効果を評価するために使用される特定の指標です。"
+    },
+    {
+        "word": "Talent Analytics",
+        "description": "Talent Analyticsは、組織内の才能の分析と管理に特化するWorkforce Analyticsのサブセットです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、歴史的データ、統計的アルゴリズム、機械学習技術を用いて、将来の結果や傾向を予測することです。"
+    },
+    {
+        "word": "Descriptive Analytics",
+        "description": "記述分析とは、歴史的データを分析して洞察を得、パターンや傾向を理解するプロセスです。"
+    },
+    {
+        "word": "Prescriptive Analytics",
+        "description": "Prescriptive Analyticsは、データとモデルを使用して、結果を最適化するための最適な行動または決定コースを決定することを意味します。"
+    },
+    {
+        "word": "Hr Analytics",
+        "description": "HRアナリティクスは、人事データに分析方法を適用し、人事戦略およびプロセスにおける洞察を獲得し、意思決定を改善するプロセスです。"
+    },
+    {
+        "word": "People Analytics",
+        "description": "人事アナリティクス(People Analytics)は、組織内の人的資本を理解し、最適化するためのデータと分析技術の使用でもある。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization is the presentation of data in a visual format, such as charts, graphs, and infographics, to facilitate understanding and interpretation. データビジュアル化は、図表、グラフ、インフォグラフィックスなどの視覚的な形式でデータを提示し、理解と解釈を促進します。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、統計的方法やアルゴリズムを使用して大規模なデータセットからパターン、関係、洞察を発見するプロセスです。"
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "データベースの意思決定は、単に直感や経験に頼るのではなく、データの分析に基づいて明確な意思決定をするという実践です。"
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governanceとは、組織内のデータの可用性、可用性、完全性、およびセキュリティの全体的な管理を指します。"
+    },
+    {
+        "word": "Data Quality",
+        "description": "データの品質とは、有意義な分析と意思決定に不可欠なデータの正確性、完全性、一貫性、信頼性を指します。"
+    },
+    {
+        "word": "Data Warehouse",
+        "description": "Data Warehouse は、組織内のさまざまなソースからの統合データの中央リポジトリであり、報告および分析に使用されます。"
+    },
+    {
+        "word": "Etl",
+        "description": "ETLは「Extract, Transform, Load」の略で、ソースシステムからデータを抽出し、それを変換し、ターゲットシステムまたはデータ倉庫にロードするプロセスを指します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人情報や機密情報を保護し、関連するプライバシー規制に従って収集、保管、使用することを保証することです。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、データの不正アクセス、使用、開示、干渉、変更、または破壊から保護し、その完全性と機密性を確保することを指します。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースからのデータを組み合わせ、分析およびレポートの目的のためにユーザーにデータの統合された視点を提供するプロセスです。"
+    },
+    {
+        "word": "Data Exploration",
+        "description": "Data Explorationは、意思決定を伝えるパターン、関係、洞察を発見するためにデータを分析し、調査するプロセスです。"
+    },
+    {
+        "word": "Data Model",
+        "description": "データモデルは、システムまたはデータベース内のデータの組織、統合、操作を定義するデータ構造、関係、ルールの概念的表現です。"
+    },
+    {
+        "word": "Data Scientist",
+        "description": "データサイエンティストは、科学的な方法、アルゴリズム、および分析ツールを使用してデータから知識と洞察を抽出する専門家です。"
+    },
+    {
+        "word": "Data Analyst",
+        "description": "データアナリストは、意思決定をサポートするパターン、傾向、洞察を特定するためにデータを収集、分析、解釈するプロフェッショナルです。"
+    },
+    {
+        "word": "Data Engineer",
+        "description": "データエンジニアは、データの収集、保存、および処理に必要なシステムとインフラを設計、開発、管理する専門家です。"
+    },
+    {
+        "word": "Data Governance Framework",
+        "description": "Data Governance Framework は、組織内のデータがどのように管理され、使用され、保護されるかを定義するポリシー、手順、ガイドラインのセットです。"
+    },
+    {
+        "word": "Data Dictionary",
+        "description": "Data Dictionary は、データベースまたはシステム内のデータ要素の定義、説明、属性を提供するメタデータの集中的なリポジトリです。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、機械がデータから学び、明示的にプログラミングされずにパフォーマンスを向上させることを可能にする人工知能の分野です。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、コンピュータが人間の言語を理解し、解釈し、有意義で関連する方法で生成することを可能にするAIの分野です。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して簡単に管理、処理、分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Data Warehouse Automation",
+        "description": "Data Warehouse Automation(DWA)とは、データ倉庫の設計、建設、保守を加速するためのソフトウェアフレームワークとツールの使用です。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、サーバー、ストレージ、データベース、ネットワーク、ソフトウェアを含むコンピューティングサービスの提供です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、機械が通常、人間の知能を必要とするタスクを実行し、意思決定を行うことを可能にします。"
+    },
+    {
+        "word": "Employee Engagement",
+        "description": "Employee Engagementとは、従業員が自分の仕事、組織、そしてその目標に対して持つコミットメント、熱意、献身のレベルを指します。"
+    },
+    {
+        "word": "Employee Turnover",
+        "description": "従業員の転換率とは、従業員が組織を去って置き換えられる必要がある割合を指します。"
+    },
+    {
+        "word": "Skills Gap",
+        "description": "スキルギャップとは、組織が要求するスキルと能力と、その従業員が持っているスキルとの違いを指します。"
+    },
+    {
+        "word": "Succession Planning",
+        "description": "継続計画は、組織内の主要なリーダーシップのポジションを満たす可能性のある内部従業員の識別と開発のプロセスです。"
+    },
+    {
+        "word": "Leadership Development",
+        "description": "リーダーシップ開発は、そのパフォーマンスと効果を向上させるために、リーダーシップの役割を担う個人のスキル、能力、能力を向上させるプロセスです。"
+    },
+    {
+        "word": "Performance Management",
+        "description": "パフォーマンスマネジメントは、目標を設定し、フィードバックを提供し、従業員のパフォーマンスを評価し、組織の目標と一致させるプロセスです。"
+    },
+    {
+        "word": "Competency Framework",
+        "description": "能力枠組みとは、特定の役割や職務において成功するための期待と要求を定義する相互に関連する能力、スキル、知識、行動の集まりである。"
+    },
+    {
+        "word": "Learning Management System",
+        "description": "学習管理システム(LMS)は、組織内のトレーニングと開発プログラムを提供、管理、追跡するためのソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Roi",
+        "description": "ROIは、投資の結果として生じた財政的利益または収益を測定する投資収益の略です。"
+    },
+    {
+        "word": "Cost Per Hire",
+        "description": "雇用当たりのコストは、新たな従業員を雇用するための組織の平均コストを推定するメトリックであり、採用、選択、オンボードのコストを含む。"
+    },
+    {
+        "word": "Time To Fill",
+        "description": "Time to Fill は、空き地を埋めるのにかかる平均的な時間を測定するためのメトリックであり、それが承認される時から新しい従業員が仕事を始める時までです。"
+    },
+    {
+        "word": "Employee Satisfaction",
+        "description": "従業員満足度は、従業員が職場環境で経験する満足度と満足度のレベルを指します。"
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboardingは、新しい従業員を組織に統合し、調整し、適応し、生産的になるのを助けるプロセスです。"
+    },
+    {
+        "word": "Flexible Work Arrangements",
+        "description": "柔軟なワークアレンジとは、従業員がいつ、どこで働くか、例えば、リモートワークや柔軟な時間など、より大きなコントロールを可能にする代替的なワークスケジュールまたはアレンジを指します。"
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "多様性と包摂とは、多様な労働力を促進し、すべての従業員が価値と尊重を感じる包摂的な職場環境を作り出す慣行と政策を指します。"
+    },
+    {
+        "word": "Employee Wellness",
+        "description": "Employee Wellnessとは、従業員の身体的、精神的、感情的福祉を促進し、サポートすることを目的としたイニシアチブやプログラムを指します。"
+    },
+    {
+        "word": "Organizational Culture",
+        "description": "組織文化とは、組織の社会的および心理的環境を形作る共通の価値観、信念、行動を指します。"
+    },
+    {
+        "word": "Employee Productivity",
+        "description": "従業員の生産性とは、従業員が課題を達成し、目標を達成するための出力と効率性を指します。"
+    },
+    {
+        "word": "Employee Retention",
+        "description": "従業員保持は、組織が従業員を維持し、営業を最小限に抑える能力を指し、これは、労働力内の知識、スキル、継続性を維持するために不可欠です。"
+    },
+    {
+        "word": "Employee Absenteeism",
+        "description": "従業員欠席は、従業員が定期的に欠席するか、または仕事に出席しないという慣習であり、それは生産性の低下と組織のコストの増加につながる可能性があります。"
+    },
+    {
+        "word": "Employee Morale",
+        "description": "従業員モラルとは、従業員の仕事と組織に対する全体的な満足、幸せ、そして熱意のレベルを指します。"
+    },
+    {
+        "word": "Employee Advocacy",
+        "description": "従業員擁護とは、従業員が組織を積極的に支援し、促進し、内部および外部のポジティブな大使とチャンピオンとして行動するときです。"
+    },
+    {
+        "word": "Employee Benefits",
+        "description": "従業員の恩恵とは、組織が従業員に提供する追加の恩恵や報酬を指し、通常の給与や給与を超えて、医療、退職計画、休暇時間などです。"
+    },
+    {
+        "word": "Data Analysis",
+        "description": "データ分析は、有用な情報を発見し、結論を出し、意思決定を支援するためにデータを検査、クリーニング、変換、モデリングするプロセスです。"
+    },
+    {
+        "word": "Churn Rate",
+        "description": "Churn Rate は、顧客または従業員が会社との関係を離脱または中止するレートを測定するメトリックです。"
+    },
+    {
+        "word": "Attrition",
+        "description": "Employee churn とも呼ばれる魅力は、従業員が特定の期間にわたって組織を離れる割合です。"
+    },
+    {
+        "word": "Retention Rate",
+        "description": "保持率は、特定の期間にわたって組織に留まる従業員の割合です。"
+    },
+    {
+        "word": "Recruitment",
+        "description": "採用は、組織内の空き場所を埋めるために候補者を引き付ける、調達し、選択するプロセスです。"
+    },
+    {
+        "word": "Selection",
+        "description": "選択は、仕事のための応募者のプールから最も資格のある候補者を評価し、選ぶプロセスです。"
+    },
+    {
+        "word": "Key Performance Indicators (Kpis)",
+        "description": "キーパフォーマンス指標(KPI)は、個人、チーム、組織の目標達成のパフォーマンスと進展を評価するために使用される測定可能な指標です。"
+    },
+    {
+        "word": "Sourcing",
+        "description": "ソーシングは、雇用ボード、ソーシャルメディア、または従業員のリファレンスなどのさまざまなチャネルを通じて潜在的な就職候補者を特定し、魅了するプロセスです。"
+    },
+    {
+        "word": "Talent Acquisition",
+        "description": "Talent Acquisitionは、組織の現在および将来の労働力需要を満たすためにトップの才能を引き付ける、調達し、選択する戦略的プロセスを指します。"
+    },
+    {
+        "word": "Learning And Development",
+        "description": "学習と開発(L&D)は、トレーニング、ワークショップ、その他の学習活動を通じて知識、スキル、能力を獲得するプロセスです。"
+    },
+    {
+        "word": "Training Needs Analysis",
+        "description": "トレーニングニーズ分析は、従業員のトレーニングニーズを識別し、評価し、パフォーマンスのギャップを埋め、スキルを高めるための体系的なプロセスです。"
+    },
+    {
+        "word": "Absenteeism",
+        "description": "欠席とは、正当な理由なしに仕事から通常または意図的に欠席することを指します。"
+    },
+    {
+        "word": "Benchmarking",
+        "description": "Benchmarkingは、組織のパフォーマンス、実践、およびプロセスを業界の同僚またはクラスベストの組織と比較し、改善のための領域を特定するプロセスです。"
+    },
+    {
+        "word": "Compensation Analysis",
+        "description": "報酬分析とは、組織の報酬の実践とパッケージの競争力と公平性を評価し、決定することです。"
+    },
+    {
+        "word": "Workforce Planning",
+        "description": "労働力計画は、組織の労働力をそのビジネス目標や目標と調和させる戦略的プロセスである。"
+    },
+    {
+        "word": "Demand Forecasting",
+        "description": "需要予測は、将来の労働力需要を予想されるビジネス需要と成長に基づいて推定するプロセスです。"
+    },
+    {
+        "word": "Workforce Segmentation",
+        "description": "労働部門の分割は、関連する特性や基準に基づいて労働部隊を異なるグループに分割するプロセスである。"
+    },
+    {
+        "word": "Hr Metrics",
+        "description": "HRメトリクスは、HRプログラム、イニシアチブ、およびプロセスのパフォーマンスと影響を評価し、追跡するために使用される定量的な測定です。"
+    },
+    {
+        "word": "Hr Dashboard",
+        "description": "HRダッシュボードは、データベースの意思決定を促進するために、HRメトリクスと主要な労働力指標のスナップショットを提供するビジュアルツールです。"
+    },
+    {
+        "word": "Workforce Productivity",
+        "description": "労働力生産性は、従業員が投資した資源と時間に関連して生み出した生産または価値の測定値です。"
+    },
+    {
+        "word": "Labor Market Analysis",
+        "description": "労働市場分析は、トレンド、供給と需要のダイナミクス、そして才能の利用可能性を理解するために労働市場の研究と評価を含みます。"
+    },
+    {
+        "word": "Success Metrics",
+        "description": "成功指標は、組織内のイニシアチブ、プログラム、またはプロジェクトの成功または有効性を評価するために使用される特定の測定値です。"
+    },
+    {
+        "word": "Job Analysis",
+        "description": "仕事分析は、仕事の課題、責任、要件を特定し、決定するプロセスです。"
+    },
+    {
+        "word": "Job Satisfaction",
+        "description": "仕事満足度は、従業員が特定の仕事の役割で経験する満足度と満足度のレベルを指します。"
+    },
+    {
+        "word": "Workforce Diversity",
+        "description": "労働力の多様性は、組織内のさまざまな背景、人口、および特徴の従業員の存在を指します。"
+    },
+    {
+        "word": "Time-To-Fill",
+        "description": "Time-to-Fill は、オープンした瞬間から候補者が雇われた瞬間まで、空き地を埋めるのにかかる平均的な時間です。"
+    },
+    {
+        "word": "Workforce Analytics Software",
+        "description": "Workforce Analytics Software は、組織が従業員に関連するデータを収集、分析、視覚化できる技術ソリューションです。"
+    },
+    {
+        "word": "Turnover Rate",
+        "description": "売上率は、特定の期間に組織を離れる従業員の割合です。"
+    },
+    {
+        "word": "Workforce Forecasting",
+        "description": "労働力予測は、ビジネス予測と戦略目標に基づいて、組織の将来の労働力需要と能力を推定するプロセスです。"
+    },
+    {
+        "word": "Workforce Segmentation Analysis",
+        "description": "Workforce Segmentation Analysisは、さまざまな従業員セグメントに関連するデータを分析し、解釈し、HR戦略と意思決定を最適化します。"
+    },
+    {
+        "word": "Workforce Development",
+        "description": "労働力開発は、組織の従業員のスキル、知識、能力を向上させることを目的としたイニシアチブや活動を指します。"
+    },
+    {
+        "word": "Workforce Optimization",
+        "description": "労働力の最適化は、組織の目標を達成するために労働力の生産性、効率性、効率性を最大化する戦略的プロセスである。"
+    },
+    {
+        "word": "Workforce Planning Models",
+        "description": "労働力計画モデルは、組織の労働力の戦略的計画を指導し、サポートするために使用される定量的または質的フレームワークです。"
+    },
+    {
+        "word": "Workforce Utilization",
+        "description": "労働力利用とは、組織がその目標を達成するために労働力を効率的かつ効果的に利用できる程度である。"
+    },
+    {
+        "word": "Workforce Analysis",
+        "description": "Workforce Analysisは、洞察を得るために、意思決定をサポートし、組織戦略を推進するために、HRデータとメトリクスを調べ、解釈することを含みます。"
+    },
+    {
+        "word": "Skill Matrix",
+        "description": "Skill Matrix は、組織内の従業員が持っているスキルや能力を表示するビジュアルツールまたはマトリックスです。"
+    },
+    {
+        "word": "Hr Analytics Tools",
+        "description": "HRアナリティクスツールは、人事分析目的のためのHRデータの収集、分析、視覚化を容易にするソフトウェアソリューションまたはプラットフォームです。"
+    },
+    {
+        "word": "Talent Management",
+        "description": "才能管理とは、現在および将来の組織のニーズを満たすために才能のある個人を引き付ける、開発し、維持する戦略的プロセスです。"
+    },
+    {
+        "word": "Employee Performance",
+        "description": "従業員のパフォーマンスは、個々の従業員の生産性、効率性、および組織の目標と目標への貢献のレベルを指します。"
+    },
+    {
+        "word": "Employee Segmentation",
+        "description": "Employee Segmentationは、ターゲット化されたHR戦略のための従業員の共通の特徴、人口統計、またはパフォーマンスレベルに基づいて従業員を分類またはグループ化することを意味します。"
+    },
+    {
+        "word": "Job Satisfaction Survey",
+        "description": "Job Satisfaction Surveyは、従業員が職場や職場環境における満足度のレベルを測定し、評価するための調査です。"
+    },
+    {
+        "word": "Succession Management",
+        "description": "継続管理は、組織内の主要なリーダーシップのポジションを満たすために内部の才能を特定し、開発するプロセスです。"
+    },
+    {
+        "word": "Retention Strategies",
+        "description": "保持戦略とは、組織が従業員の売上を削減し、トップの才能を維持するために実施する積極的な取り組みや行動です。"
+    },
+    {
+        "word": "Demographics",
+        "description": "人口統計は、年齢、性別、民族、教育水準、雇用状況などの人口に関する統計データを指します。"
+    },
+    {
+        "word": "Human Capital",
+        "description": "人間資本とは、組織内の個人の集団的な能力、知識、スキル、経験を指し、その全体的な価値と競争力に貢献します。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データ分析は、大規模かつ多様なデータセットを調査し、意思決定や組織のパフォーマンスを促進するパターン、トレンド、洞察を発見するプロセスです。"
+    },
+    {
+        "word": "Key Talent",
+        "description": "キー才能とは、組織の成功に不可欠な重要なスキル、知識、経験を持つ従業員を指します。"
+    },
+    {
+        "word": "Employee Well-Being",
+        "description": "従業員の福祉とは、従業員の肉体的、精神的、感情的な健康を指します。"
+    },
+    {
+        "word": "Labor Costs",
+        "description": "労働コストとは、従業員の賃金、賃金、利益、その他の補償に関連して組織に発生した経費を指します。"
+    },
+    {
+        "word": "Key Performance Drivers",
+        "description": "主要なパフォーマンスドライバーは、望ましい結果や結果の達成に最も大きな影響を与える要因または変数です。"
+    },
+    {
+        "word": "Performance Metrics",
+        "description": "パフォーマンスメトリクスは、個人、チーム、組織のパフォーマンスを評価し、追跡するために使用される定量的な測定です。"
+    },
+    {
+        "word": "Employee Turnover Cost",
+        "description": "従業員の営業コストとは、組織を去る従業員の置き換えに関連する財務的および非財務的コストを指します。"
+    },
+    {
+        "word": "Employee Onboarding",
+        "description": "新たな従業員指向とも呼ばれる従業員オンボードは、新しい従業員を組織に統合し、同化するプロセスです。"
+    },
+    {
+        "word": "Performance Improvement",
+        "description": "パフォーマンス向上とは、個人、チーム、組織のパフォーマンスと効率性を向上させるための取り組みや取り組みを指します。"
+    },
+    {
+        "word": "Employee Development",
+        "description": "従業員開発とは、従業員の知識、スキル、能力を向上させ、そのパフォーマンスと潜在力を向上させるためのイニシアチブや活動を指します。"
+    },
+    {
+        "word": "Compensation And Benefits",
+        "description": "報酬と利益とは、従業員が彼らの仕事と貢献に引き換えに与えられる財政的および非財政的報酬を指します。"
+    },
+    {
+        "word": "Workforce Agility",
+        "description": "Workforce agility は、組織が急速に適応し、対応し、変化するビジネスニーズと市場のダイナミクスに従事する能力を指します。"
+    },
+    {
+        "word": "Performance Rating",
+        "description": "業績評価は、従業員の業績を事前定義された基準または基準に基づいて評価または評価するものです。"
+    },
+    {
+        "word": "Employee Feedback",
+        "description": "従業員のフィードバックとは、従業員が彼らの仕事や組織に関連する経験、認識、アイデアについて提供する情報、意見、提案です。"
+    },
+    {
+        "word": "Employee Relations",
+        "description": "従業員関係は、従業員、マネージャー、組織間の関係、相互作用、コミュニケーションの管理を指します。"
+    },
+    {
+        "word": "Employee Benefits Enrollment",
+        "description": "Employee benefits enrollment is the process of allowing employees to choose and enroll in the benefits and perks offered by an organization. 従業員の恩恵の登録は、従業員が組織によって提供される恩恵と特権を選択し、登録することを可能にするプロセスです。"
+    },
+    {
+        "word": "Compensation Management",
+        "description": "報酬管理は、従業員に与えられる賃金、賃金、その他の財政的報酬の決定と管理の戦略的プロセスである。"
+    },
+    {
+        "word": "Employee Data Privacy",
+        "description": "従業員データのプライバシーとは、組織が収集し、保管する個人および敏感な従業員情報の保護と機密性です。"
+    },
+    {
+        "word": "Employee Lifecycle",
+        "description": "従業員のライフサイクルは、組織内の従業員の旅のさまざまな段階を指し、採用や加入から開発、パフォーマンス管理、出発までです。"
+    },
+    {
+        "word": "Organizational Performance",
+        "description": "組織のパフォーマンスは、組織の全体的な効率性、効率性、および目標の達成を指します。"
+    },
+    {
+        "word": "Evidence-Based Hr",
+        "description": "証拠に基づくHRは、信頼性の高い、有効かつ関連するデータと証拠に基づいて、HRの意思決定と戦略の実施の実践です。"
+    },
+    {
+        "word": "Employee Motivation",
+        "description": "従業員の動機づけとは、組織の目標を達成するための従業員の努力と行動を刺激し、導き、維持する内部的および外部的な要因を指します。"
+    },
+    {
+        "word": "Candidate Experience",
+        "description": "候補者の経験とは、雇用候補者が採用および選択プロセス中に持っている全体的な経験と認識を指します。"
+    },
+    {
+        "word": "Organizational Network Analysis (Ona)",
+        "description": "組織ネットワーク分析 (ONA) は、組織内の公式および非公式な関係、相互作用、およびコミュニケーションパターンをマッピングし、分析するプロセスです。"
+    },
+    {
+        "word": "Employee Empowerment",
+        "description": "従業員の権限強化とは、意思決定権限と責任を従業員に委託し、従業員に行動し、選択し、組織の目標に貢献する自由と自主性を与えることを指します。"
+    },
+    {
+        "word": "Performance Appraisal",
+        "description": "パフォーマンス評価は、パフォーマンスレビューまたは評価とも呼ばれ、事前定義された目標や基準に基づいて従業員のパフォーマンスを評価するために使用される公式な評価とフィードバックプロセスです。"
+    },
+    {
+        "word": "Employee Absenteeism Rate",
+        "description": "従業員欠席率とは、従業員が予定外の欠席や休暇のために職場から欠席する予定の労働時間の割合です。"
+    },
+    {
+        "word": "Employee Training And Development",
+        "description": "従業員の訓練と開発は、従業員の知識、スキル、能力を向上させ、業績と成長の可能性を向上させるためのイニシアチブやプログラムを指します。"
+    },
+    {
+        "word": "Employee Recognition",
+        "description": "従業員認定とは、職場での従業員の業績、貢献、努力の認識と評価を指します。"
+    },
+    {
+        "word": "Employee Health And Safety",
+        "description": "従業員の健康と安全は、職場における従業員の肉体的および精神的福祉を保護し、促進するための慣行、政策、規制を指します。"
+    },
+    {
+        "word": "Employee Competency",
+        "description": "従業員の能力とは、特定の仕事や役割を効果的に遂行するために必要な知識、スキル、能力、行動を指します。"
+    },
+    {
+        "word": "Employee Surveys",
+        "description": "従業員調査は、従業員の意見、認識、および仕事と組織のさまざまな側面に関するフィードバックを収集するために使用される構造化されたアンケートやフィードバックメカニズムです。"
+    },
+    {
+        "word": "Employee Benefits Administration",
+        "description": "従業員の補助金管理は、健康保険、退職計画、有給休暇などの従業員に提供されるさまざまな利益と特権の管理と管理のプロセスです。"
+    },
+    {
+        "word": "Organizational Effectiveness",
+        "description": "組織的効率性とは、組織が利用可能な資源、能力、システムを最大限に活用することによって目標や目標を達成する能力を指します。"
+    }
+]

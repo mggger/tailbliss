@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Biotechnology",
+        "description": "バイオテクノロジーは、生物システム、生物体、およびその由来をさまざまなアプリケーションのための製品や技術を開発または作成するために適用する分野です。"
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "遺伝子工学は、有機体の遺伝子を操作して、望ましい特徴を導入したり、望ましくない特徴を除去したりするプロセスです。"
+    },
+    {
+        "word": "Cloning",
+        "description": "クローンは、遺伝子的に同一のコピーまたは特定の遺伝子を生成するプロセスです。"
+    },
+    {
+        "word": "Pharmaceuticals",
+        "description": "医薬品は、病気の予防、治療、または診断に使用される薬物または薬物化合物です。"
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "遺伝子療法は、欠陥の遺伝子を置き換えるか補完するために細胞に治療遺伝子を導入することによって病気を治療または治すことを目的とした技術です。"
+    },
+    {
+        "word": "Genome Editing",
+        "description": "ゲノム編集は、通常、CRISPR-Cas9のような技術を使用して、有機体のDNAの修正です。"
+    },
+    {
+        "word": "Gene Sequencing",
+        "description": "遺伝子序列は、DNA分子内の核酸素の順序を決定するプロセスです。"
+    },
+    {
+        "word": "Protein Engineering",
+        "description": "タンパク質工学は、治療や産業プロセスなどのさまざまなアプリケーションのための望ましい性質や機能を持つタンパク質を修正または設計するプロセスです。"
+    },
+    {
+        "word": "Biomaterials",
+        "description": "バイオ材料とは、インプラントや組織ステッカーなどの医学的または治療的目的のために生物システムと相互作用するように設計された材料です。"
+    },
+    {
+        "word": "Recombinant Dna Technology",
+        "description": "再結合DNA技術は、異なる源からのDNAを組み合わせ、新しい遺伝子組み合わせを作成します。"
+    },
+    {
+        "word": "Transgenic Organism",
+        "description": "遺伝子組み換え生物は、外来のDNAを遺伝子に挿入した生物です。"
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "生物情報学は、生物学、コンピュータサイエンス、統計を組み合わせて、生物データを分析し解釈する学際的な分野です。"
+    },
+    {
+        "word": "Stem Cells",
+        "description": "幹細胞は、さまざまな専門細胞タイプに分化することができ、破損した組織を修復し置き換える可能性があります。"
+    },
+    {
+        "word": "Genome",
+        "description": "ゲノムは、遺伝子または遺伝子の完全なセットで、ある生物体に存在します。"
+    },
+    {
+        "word": "Microarray",
+        "description": "マイクロアレイは、数千個の遺伝子やDNAシーケンスの表現レベルを同時に分析するためのツールです。"
+    },
+    {
+        "word": "Proteomics",
+        "description": "タンパク質学は、特定の生物体やシステムにおけるタンパク質の構造、機能、相互作用の研究です。"
+    },
+    {
+        "word": "Bioremediation",
+        "description": "Bioremediationは、汚染された環境から汚染物を除去または中立化するために微生物を使用するプロセスです。"
+    },
+    {
+        "word": "Tissue Engineering",
+        "description": "組織工学は、実験室で機能的な組織や臓器を作成する分野です。"
+    },
+    {
+        "word": "Antibiotics",
+        "description": "抗生物質は、細菌の成長を殺したり抑制したりする物質です。"
+    },
+    {
+        "word": "Vaccine",
+        "description": "ワクチンは、病原体の弱体化または殺された形を注射することによって特定の病気に対する積極的に取得した免疫力を提供する生物学的製剤です。"
+    },
+    {
+        "word": "Nanotechnology",
+        "description": "ナノテクノロジーは、しばしばさまざまな生物学的および医学的アプリケーションで使用されるナノスケールの物質の操作と制御です。"
+    },
+    {
+        "word": "Bioethics",
+        "description": "生物倫理学は、生物学、医学、バイオテクノロジーの分野で生じる倫理的問題と困難の研究です。"
+    },
+    {
+        "word": "Metabolomics",
+        "description": "代謝学は、細胞プロセスに関与する小さな分子、または代謝物の研究であり、それらのレベルが生理学的または環境条件に応じてどのように変化するかです。"
+    },
+    {
+        "word": "Pcr (Polymerase Chain Reaction)",
+        "description": "PCRは、DNAの特定のセグメントを加熱と冷却の繰り返しのサイクルを通じて強化するために使用される実験室の技術です。"
+    },
+    {
+        "word": "Gene Expression",
+        "description": "遺伝子発現は、タンパク質などの機能的な遺伝子製品を合成するために遺伝子からの情報が使用されるプロセスを指します。"
+    },
+    {
+        "word": "Gmo (Genetically Modified Organism)",
+        "description": "GMOとは、遺伝子組み換え技術を使用して遺伝物質を変更した生物です。"
+    },
+    {
+        "word": "Oligonucleotide",
+        "description": "オリゴヌクレオチドはDNAまたはRNAの短い分子であり、一般に遺伝子研究や治療用途で使用される。"
+    },
+    {
+        "word": "Biosecurity",
+        "description": "生物安全性とは、病原体や遺伝子組み換え生物の侵入、拡散、または放出を防ぐための措置や実践を指します。"
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9は、科学者がDNAの順序を変更し、遺伝子の機能を変えることを可能にするゲノム編集ツールです。"
+    },
+    {
+        "word": "Bioprocessing",
+        "description": "バイオプロセッサは、バイオ燃料や医薬品などの貴重な製品を生産するために生物材料またはシステムの使用を指します。"
+    },
+    {
+        "word": "Microbiome",
+        "description": "ミクロバイオームは、特定の環境に住む細菌、真菌、ウイルスを含む微生物の集まりを指します。"
+    },
+    {
+        "word": "Bioassay",
+        "description": "生物検査は、物質の生物学的活性または強度を測定するための実験室検査です。"
+    },
+    {
+        "word": "Biofuel",
+        "description": "バイオ燃料とは、植物や植物由来の材料などのバイオマスから得られた燃料を指し、伝統的な化石燃料の代替として使用することができます。"
+    },
+    {
+        "word": "Genetic Screening",
+        "description": "遺伝子スクリーニングは、特定の遺伝的障害に関連する遺伝子変異の存在をテストする個体を含みます。"
+    },
+    {
+        "word": "Gel Electrophoresis",
+        "description": "Gel electrophoresisは、DNA、RNA、またはタンパク質をそのサイズと充電に基づいて分離し分析するために使用される技術です。"
+    },
+    {
+        "word": "Epigenetics",
+        "description": "エピジェネティクスは、根底にあるDNA序列の変化以外のメカニズムによって引き起こされる遺伝子表現または細胞フェノタイプの変化の研究です。"
+    },
+    {
+        "word": "Fermentation",
+        "description": "発酵は、酵母や細菌などの微生物を使用して砂糖を酸、ガス、またはアルコールに変換する代謝プロセスです。"
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "精密医学は、遺伝子、環境、ライフスタイルの個々の変異を考慮に入れる医療のアプローチです。"
+    },
+    {
+        "word": "Biosensor",
+        "description": "バイオセンサーは、酵素や抗体などの生物学的要素を物理的または化学的検出器と組み合わせ、特定の物質の存在または濃度を測定する装置です。"
+    },
+    {
+        "word": "Biopreservation",
+        "description": "生物保存は、細胞や組織などの生物材料を長期間保存することを意味します。"
+    },
+    {
+        "word": "Biopesticide",
+        "description": "Biopesticide は、自然材料または微生物から生じた農薬の一種です。"
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "薬理学は、個人の遺伝子構造がどのように薬物に対する反応に影響を与えるかを研究し、遺伝情報に基づいて薬物療法を最適化することを目的としています。"
+    },
+    {
+        "word": "Immunotherapy",
+        "description": "免疫療法は、癌などの病気と戦うために体の免疫システムを活用する治療の種類です。"
+    },
+    {
+        "word": "Cell Culture",
+        "description": "細胞文化とは、細胞を自然環境の外で生産し、維持するプロセスであり、しばしば細胞の行動を研究したり、生物製品を生産したりするのに使用される。"
+    },
+    {
+        "word": "Biofertilizer",
+        "description": "バイオ肥料は、細菌や真菌などの生きた微生物で構成される肥料の一種で、土壌の生殖性と植物の成長を促進します。"
+    },
+    {
+        "word": "Transfection",
+        "description": "移植は、外国のDNAまたはRNAをユーカリオティック細胞に導入するプロセスです。"
+    },
+    {
+        "word": "Nanomedicine",
+        "description": "Nanomedicineは、病気の診断、治療、予防のためのナノテクノロジーの使用を含みます。"
+    },
+    {
+        "word": "Biomarker",
+        "description": "バイオマーカーは、生物学的状態または状態の測定可能な指標であり、しばしば診断や疾患の進行を監視するために使用されます。"
+    },
+    {
+        "word": "Bioavailability",
+        "description": "生物利用性は、薬物または物質が循環に入り、投与後に効果を生み出すことができる割合です。"
+    },
+    {
+        "word": "Biocompatibility",
+        "description": "生物互換性とは、材料または物質が特定のアプリケーションまたは環境で適切な生物学的反応を実現する能力を指します。"
+    },
+    {
+        "word": "Biohazard",
+        "description": "生物危険物とは、生体、特に人間の健康を脅かすあらゆる生物学的物質である。"
+    },
+    {
+        "word": "Biodesign",
+        "description": "Biodesignは、生物学、エンジニアリング、設計原則を組み合わせて革新的なソリューションを作成する学際的なアプローチです。"
+    },
+    {
+        "word": "Bioluminescence",
+        "description": "Bioluminescenceは、通常、ルシファラゼを含む化学反応を通じて生息する生物によって生成される光の放出です。"
+    },
+    {
+        "word": "Biofabrication",
+        "description": "バイオ製造は、組織や臓器などの複雑で機能的な生物構造を3Dプリントや他の添加製造技術を使用して作成するプロセスです。"
+    },
+    {
+        "word": "Immunology",
+        "description": "免疫学は、免疫システムと外国の物質や病原体に対するその反応の研究です。"
+    },
+    {
+        "word": "Metagenomics",
+        "description": "メタジェノミクスは、環境サンプルから直接回収された遺伝材料の研究であり、微生物コミュニティとその機能の分析を可能にします。"
+    },
+    {
+        "word": "Recombinant Dna",
+        "description": "再結合DNAは、異なる源からのDNAの断片を組み合わせることによって形成されるDNA分子を指し、しばしば遺伝工学やバイオテクノロジーで使用されます。"
+    },
+    {
+        "word": "Genome Sequencing",
+        "description": "ゲノム順序は、有機体のゲノムの完全なDNA順序を決定するプロセスです。"
+    },
+    {
+        "word": "Drug Discovery",
+        "description": "薬物の発見は、病気を治療または治すための新しい薬の識別と開発のプロセスです。"
+    },
+    {
+        "word": "Vaccines",
+        "description": "ワクチンは、体の免疫反応を刺激することによって特定の病気に対する免疫力を提供する生物学的物質です。"
+    },
+    {
+        "word": "Genomic Medicine",
+        "description": "ゲノム医学は、遺伝子情報を使用して病気の診断、治療、予防を指導する医学の分野です。"
+    },
+    {
+        "word": "Biopharmaceuticals",
+        "description": "バイオ医薬品は、バイオテクノロジーを使用して生産され、生きた生物から引き出されています。"
+    },
+    {
+        "word": "Genetically Modified Organism (Gmo)",
+        "description": "遺伝子組み換え生物(GMO)とは、遺伝子工学技術を通じて遺伝物質が変化した生物です。"
+    },
+    {
+        "word": "Monoclonal Antibodies",
+        "description": "モノクローン抗体は、同一の免疫細胞によって生成され、さまざまな病気の治療に使用される同一の抗体です。"
+    },
+    {
+        "word": "Enzyme",
+        "description": "酵素は、生物システムにおける特定の化学反応を促進する催化剤として作用するタンパク質です。"
+    },
+    {
+        "word": "Industrial Biotechnology",
+        "description": "産業用バイオテクノロジーは、バイオ燃料、酵素、または化学物質などの産業プロセスのための製品を開発し製造するためのバイオテクノロジーの応用です。"
+    },
+    {
+        "word": "Bioengineering",
+        "description": "バイオエンジニアリングは、生物学とバイオテクノロジーの分野におけるエンジニアリングの原則と技術の適用です。"
+    },
+    {
+        "word": "Food Biotechnology",
+        "description": "食品バイオテクノロジーは、食品の生産、品質、安全性を向上させるためのバイオテクノロジーの使用を指します。"
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA Sequencing は、DNA分子内の核酸素の正確な順序を決定するプロセスです。"
+    },
+    {
+        "word": "Pharmacokinetics",
+        "description": "薬理学は、薬物が体内でどのように吸収され、分散され、代謝され、排出されるかについての研究です。"
+    },
+    {
+        "word": "Biocatalysis",
+        "description": "バイオカタリズムは、産業プロセスにおける化学反応を加速させるために、酵素などの自然催化物の使用です。"
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-generation sequencing(NGS)は、大量のDNAを迅速に sequencingすることを可能にする高速DNA sequencing技術です。"
+    },
+    {
+        "word": "Reverse Transcriptase",
+        "description": "Reverse transcriptase は、RNA テンプレートからDNAの合成を催化する酵素です。"
+    },
+    {
+        "word": "Bioreactor",
+        "description": "バイオ反応器とは、生物学的反応またはプロセスをサポートし、制御する装置またはシステムであり、生物学的製品の大規模な生産にしばしば生物技術で使用される。"
+    },
+    {
+        "word": "Nucleic Acid",
+        "description": "核酸は、遺伝情報を運ぶ、またはタンパク質の合成に関与するマクロ分子です。"
+    },
+    {
+        "word": "Biomarkers",
+        "description": "バイオマーカーは、病気の存在などの生物学的プロセスや条件の測定可能な指標です。"
+    },
+    {
+        "word": "Cryopreservation",
+        "description": "Cryopreservationは、細胞、組織、または臓器を極めて低い温度で保存し、その生存性を維持するプロセスです。"
+    },
+    {
+        "word": "Dna Replication",
+        "description": "DNAの複製は、DNA分子が2つの同一のDNA分子を生成するためにコピーされるプロセスです。"
+    },
+    {
+        "word": "Gene Silencing",
+        "description": "遺伝子沈黙は、特定の遺伝子または遺伝子のセットの発現を抑制するプロセスを指し、しばしば小さな干渉RNA(siRNA)またはその他の分子ツールの使用を通じて達成されます。"
+    },
+    {
+        "word": "Embryonic Stem Cells",
+        "description": "胚の幹細胞は、胚から生まれた幹細胞であり、体内のあらゆる種類の細胞に発達する可能性があります。"
+    },
+    {
+        "word": "Gene Regulation",
+        "description": "遺伝子規制は、細胞が内部または外部の信号に反応し、適切な発達と機能を確保することを可能にする遺伝子表現を制御するメカニズムを指します。"
+    },
+    {
+        "word": "Biofilms",
+        "description": "バイオフィルムは、表面に粘着し、自己生成マトリックスに包まれている微生物のコミュニティです。"
+    },
+    {
+        "word": "Molecular Diagnostics",
+        "description": "分子診断は、DNA、RNA、およびその他の分子を分析することによって疾患を検出し診断するための技術です。"
+    },
+    {
+        "word": "Metabolic Engineering",
+        "description": "代謝工学は、細胞の代謝経路の最適化または微生物による望ましい化合物または製品の生産を改善する新しい経路の導入の実践です。"
+    },
+    {
+        "word": "Biological Diversity",
+        "description": "生物多様性または生物多様性は、特定の地域または生態系の生物の多様性と変異性を指します。"
+    },
+    {
+        "word": "Polymerase Chain Reaction (Pcr)",
+        "description": "ポリメラゼ連鎖反応(PCR)は、DNAの特定のセグメントを強化するための技術であり、さまざまなアプリケーションで検出と分析を可能にします。"
+    },
+    {
+        "word": "Agrobacterium",
+        "description": "Agrobacteriumは、植物細胞に遺伝子を転送する能力のためにバイオテクノロジーで広く使用されている細菌の一種です。"
+    },
+    {
+        "word": "Regenerative Medicine",
+        "description": "再生医学は、損傷または病気の組織または臓器を置き換えまたは再生することを目的とする医学の分野であり、しばしば幹細胞または組織工学のアプローチを使用します。"
+    },
+    {
+        "word": "Biopesticides",
+        "description": "バイオ農薬は、農業における昆虫や雑草などの害虫を制御するために使用される自然発生物質または微生物です。"
+    },
+    {
+        "word": "Genotyping",
+        "description": "ジェノタイプ化は、個人のゲノムにおける単一ヌクレオチドポリモリズム(SNPs)などの遺伝的変異を決定するプロセスです。"
+    },
+    {
+        "word": "Transgenic",
+        "description": "Transgenic organisms are organisms that have had foreign genes introduced into their genome, resulting in the expression of new traits. トランス遺伝子は、彼らのゲノムに外国の遺伝子を導入し、新しい特性の発現をもたらした生物です。"
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "遺伝子検査は、個人のDNAを分析して、特定の病気に対する敏感性の増加と関連する遺伝的変異を特定したり、遺伝障害を子孫に転送するリスクを評価するプロセスです。"
+    },
+    {
+        "word": "Probiotics",
+        "description": "プロバイオティクスは、人間の健康、特に消化および免疫機能に有益な生きた細菌または酵母です。"
+    },
+    {
+        "word": "Antibiotic",
+        "description": "抗生物質は、細菌感染症を治療または予防するために使用される抗菌物質の一種です。"
+    },
+    {
+        "word": "Bioprocess",
+        "description": "バイオプロセスとは、生物学的または生化学的ステップの連続で、生きた細胞またはその成分を使用して、医薬品やバイオ燃料などの望ましい製品を生産するために使用される。"
+    },
+    {
+        "word": "Xenotransplantation",
+        "description": "Xenotransplantationは、臓器、組織、または細胞を一種から別の種に移植し、しばしば動物から人間への移植を含む。"
+    },
+    {
+        "word": "Biodiversity",
+        "description": "生物多様性は、遺伝子、種、生態系を含む、特定の地域または地球上に存在する生命の形態の多様性を指します。"
+    },
+    {
+        "word": "Biomimicry",
+        "description": "Biomimicryは、人間の問題を解決し、持続可能なテクノロジーを創造するために、自然の設計やプロセスを模したり、インスピレーションを取ったりすることの実践です。"
+    },
+    {
+        "word": "Gene Editing",
+        "description": "遺伝子編集は、さまざまな分子ツール、例えばCRISPR-Cas9を用いて、ゲノム内の特定のDNAシーケンスに正確にターゲット変更を行うプロセスです。"
+    },
+    {
+        "word": "Biomimetic Materials",
+        "description": "バイオミメティック材料は、生物システムに存在する自然材料の性質や機能を模する合成材料です。"
+    },
+    {
+        "word": "Biosafety",
+        "description": "バイオセキュリティとは、生物学的材料または有害物質の安全な取り扱いを確保し、人間、動物、または環境に害を及ぼすことを防止する取り扱い、取り扱い、処分の実践を指します。"
+    },
+    {
+        "word": "Immunogenetics",
+        "description": "免疫遺伝学は、免疫反応の遺伝的基盤の研究であり、遺伝子の変異が病気への感受性や治療への反応にどのように影響を与えるかです。"
+    },
+    {
+        "word": "Biomimetic Robotics",
+        "description": "Biomimetic Roboticsは、ロボットやロボットシステムの設計や開発における生きた生物の動き、構造、または機能を再現または模することを目指す分野です。"
+    },
+    {
+        "word": "Protein Purification",
+        "description": "タンパク質浄化は、特定のタンパク質を複雑なタンパク質混合物から隔離し、浄化するプロセスであり、しばしば研究やバイオ製造に使用されます。"
+    },
+    {
+        "word": "Biosynthesis",
+        "description": "生物合成は、生体が酵素や代謝経路を使用して、タンパク質、核酸、または二次代謝物などの複雑な分子を生成または合成するプロセスです。"
+    },
+    {
+        "word": "Bioelectricity",
+        "description": "バイオエレクトリックは、生物学的用途や再生可能エネルギー源としてよく使用される生体によって生成される電気潜在力と電流を指します。"
+    },
+    {
+        "word": "Phenotype",
+        "description": "フェノタイプとは、遺伝子型や環境要因によって影響を受ける有機体の観察可能な特性または特性を指します。"
+    },
+    {
+        "word": "Biological Control",
+        "description": "生物学的コントロールは、自然の捕食者、寄生虫、または病原体を使用して害虫や侵入種の人口を制御するための害虫管理の方法です。"
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "遺伝的変異とは、個体の間のDNA序列または遺伝子周波数の違いを指し、現象型の多様性と適応につながる。"
+    }
+]

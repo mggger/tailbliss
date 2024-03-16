@@ -1,0 +1,450 @@
+[
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当てた人工知能のサブフィールドです。"
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenizationは、トークンと呼ばれる小さい単位にテキストを分割するプロセスです。"
+    },
+    {
+        "word": "Stemming",
+        "description": "ストーミングは、単語の変異を正常化するために、単語をそのベースまたは根形に減らすプロセスです。"
+    },
+    {
+        "word": "Lemmatization",
+        "description": "Lemmatization は、単語をその基盤または辞書形式に減らすプロセスであり、その形態学的および文法的特徴を考慮に入れる。"
+    },
+    {
+        "word": "Stop Words",
+        "description": "停止単語は、「and」、「the」、「is」などの一般的に使用される単語で、テキストの前処理中にしばしば削除されるため、それらは重要な意味を持っていない。"
+    },
+    {
+        "word": "Part-Of-Speech (Pos) Tagging",
+        "description": "Part-of-speech (POS) tagging is the process of assigning grammatical categories (such as noun, verb, adjective) to words in a sentence. POS tagging helps in understanding the syntactic structure of a sentence. POS tagging is the process of assigning grammatical categories (such as noun, verb, adjective) to words in a sentence. POS tagging helps in understanding the syntactic structure of a sentence. POS tagging is the process of assigning grammatical categories (such as noun, verb, adjective) to words in a sentence. POS tagging helps in understanding the syntactic structure of a sentence."
+    },
+    {
+        "word": "Named Entity Recognition (Ner)",
+        "description": "Named Entity Recognition (NER) は、テキストにおける名付けされた entities (person names, locations, organizations) を識別し、分類する作業です。"
+    },
+    {
+        "word": "Dependency Parsing",
+        "description": "Dependency Parsing は、句の文法構造を分析し、単語間の関係を決定するプロセスです。"
+    },
+    {
+        "word": "Syntax",
+        "description": "Syntax は、言語における文の構造を支配するルールを指します。"
+    },
+    {
+        "word": "Semantic Role Labeling (Srl)",
+        "description": "Semantic Role Labeling (SRL) は、句の単語やフレーズにセマンティックな役割を割り当てる作業であり、句の実体の役割や関係を理解するのに役立ちます。"
+    },
+    {
+        "word": "Sentiment Analysis",
+        "description": "Sentiment Analysis または Opinion Mining とも呼ばれる、感情分析は、テキストの一部で表現される感情または感情を決定するプロセスです。"
+    },
+    {
+        "word": "Text Classification",
+        "description": "テキスト分類、テキスト分類とも呼ばれるテキスト分類は、そのコンテンツに基づいてテキスト文書に事前定義されたカテゴリまたはラベルを割り当てるプロセスです。"
+    },
+    {
+        "word": "Named Entity Disambiguation",
+        "description": "Named Entity Disambiguation is the process of resolving the ambiguity of named entities, determining the correct entity referred to in a given context. 名付けられた Entity Disambiguationは、名付けられた entitiesの曖昧さを解決し、特定の文脈で適切に参照される entity を決定するプロセスです。"
+    },
+    {
+        "word": "Word Embedding",
+        "description": "Word Embedding は、単語を密集ベクターとして表現し、単語間のセマンティックな関係をキャプチャするためのテクニックです。"
+    },
+    {
+        "word": "Word2Vec",
+        "description": "Word2Vec は、単語を分布特性に基づいてベクトルとして表す単語埋め込みモデルです。"
+    },
+    {
+        "word": "Glove",
+        "description": "GloVe(Global Vectors for Word Representation)は、単語を共通の統計に基づいてベクトルとして表す単語埋め込みモデルです。"
+    },
+    {
+        "word": "Bag-Of-Words",
+        "description": "単語バッグ(BoW)は、単純で一般的に使用されるテキストの表現であり、テキスト内の単語の頻度のみを考慮し、その順序を無視する。"
+    },
+    {
+        "word": "Term Frequency-Inverse Document Frequency (Tf-Idf)",
+        "description": "用語 Frequency-Inverse Document Frequency (TF-IDF) は、文書のコルプスの単語の重要性を反映する数値統計です。"
+    },
+    {
+        "word": "N-Grams",
+        "description": "N グラムは、テキストサンプルの n 項目(単語または文字)の連続順序で、言語モデリング、テキスト生成、および情報収集に広く使用されています。"
+    },
+    {
+        "word": "Language Modeling",
+        "description": "言語モデリングは、次の単語を単語の順序で予測するプロセスです。"
+    },
+    {
+        "word": "Recurrent Neural Networks (Rnn)",
+        "description": "Recurrent Neural Networks (RNNs) は、NLP タスクで一般的に使用される神経ネットワークの一種です. RNNs は、順序データを処理できるメモリ細胞を持っており、順序生成や予測を含むタスクに適しています。"
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "Long Short-Term Memory (LSTM) は、消滅するグラディエントの問題に対処するリクルート ニューラル ネットワーク (RNN) アーキテクチャの一種です。"
+    },
+    {
+        "word": "Attention Mechanism",
+        "description": "注意メカニズムは、出力を生成する際に入力シーケンスの特定の部分に焦点を当てるためにニューラルネットワークで使用される技術です。"
+    },
+    {
+        "word": "Transformer",
+        "description": "トランスフォーマーは、機械翻訳やテキスト生成などのシーケンス対シーケンスのタスクに使用される深い学習モデルの一種で、グローバルな依存性をキャプチャするための自己注意メカニズムを用います。"
+    },
+    {
+        "word": "Bert",
+        "description": "BERT (Bidirectional Encoder Representations from Transformers) は、さまざまな NLP タスクに一般的に使用される大規模なテキストデータに事前訓練されたトランスフォーマーベースの言語モデルです。"
+    },
+    {
+        "word": "Sequence-To-Sequence (Seq2Seq)",
+        "description": "Sequence-to-Sequence (Seq2Seq) モデルは、機械翻訳やチャットボットシステムなどのセクション入力とセクション出力に関連するタスクに使用される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Encoder-Decoder",
+        "description": "Encoder-Decoder は、エンコーダーが入力シーケンスを処理し、デコーダーが出力シーケンスを生成するシーケンスで一般的に使用されるアーキテクチャです。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "強化学習は、環境と相互作用し、試行錯誤を通じて最適な行動を学ぶエージェントを含む機械学習の種類です。"
+    },
+    {
+        "word": "Question Answering",
+        "description": "質問回答は、自然言語で提起された質問に自動的に正確な答えを提供するというタスクで、質問を理解し、関連する情報を検索し、適切な答えを生成することを意味します。"
+    },
+    {
+        "word": "Word Sense Disambiguation (Wsd)",
+        "description": "Word Sense Disambiguation (WSD) は、特定の文脈における単語の正しい意味を決定するタスクであり、機械翻訳や情報収集などの単語セマンティクスの正確な理解を必要とするタスクにおいて重要です。"
+    },
+    {
+        "word": "Chunking",
+        "description": "Chunking is the process of grouping words together into meaningful chunks, such as noun phrases or verb phrases. それは構造化されていないテキストから構造化された情報を抽出するのに役立ちます。"
+    },
+    {
+        "word": "Coreference Resolution",
+        "description": "Coreference resolution is the task of determining when two or more expressions in a text refer to the same entity or concept. それは文脈を理解し、自然言語の理解における一貫性を維持するために重要です。"
+    },
+    {
+        "word": "Machine Translation",
+        "description": "機械翻訳は、一言語から別の言語にテキストを自動的に翻訳する作業です。"
+    },
+    {
+        "word": "Named Entity Linking (Nel)",
+        "description": "Named Entity Linking (NEL) は、テキスト内の名付けられたエンティティを知識ベース内のユニークな識別子にリンクする作業であり、構造化されていないテキストで言及されたエンティティを構造化された知識源に接続します。"
+    },
+    {
+        "word": "Topic Modeling",
+        "description": "トピックモデリングは、主なテーマまたはテキストのコレクションのトピックを発見するために使用されるテクニックで、通常は監督されていない機械学習アルゴリズムを使用します。"
+    },
+    {
+        "word": "Text Summarization",
+        "description": "テキストの概要化は、より長いテキストの簡潔で一貫した概要を作成するプロセスです。"
+    },
+    {
+        "word": "Dialogue Systems",
+        "description": "会話エージェントまたはチャットボットとも呼ばれる対話システムは、ユーザーと自然言語の会話を行うことができるシステムです。"
+    },
+    {
+        "word": "Entity Recognition And Linking (Erl)",
+        "description": "Entity Recognition and Linking(ERL)は、Nameed Entity Recognition(NER)とNameed Entity Linking(NEL)の組み合わせのタスクで、テキスト内で名前付けされたエンティティを識別し、知識ベース内のユニークな識別子にそれらをリンクすることを含みます。"
+    },
+    {
+        "word": "Document Classification",
+        "description": "文書分類は、文書の内容に基づいて事前定義されたラベルまたはクラスに分類する作業です。"
+    },
+    {
+        "word": "Topic Classification",
+        "description": "トピック分類は、事前定義のトピックまたはカテゴリをテキスト文書に割り当てる作業で、大規模な文書のコレクションを組織およびカテゴリ化するのに役立ちます。"
+    },
+    {
+        "word": "Syntactic Parsing",
+        "description": "Syntax Parsing または Syntax Parsing または Syntax Parsing または Syntax Parsing または Syntax Parsing とも呼ばれ、句の構造を分析するプロセスです。"
+    },
+    {
+        "word": "Automated Speech Recognition (Asr)",
+        "description": "Automated Speech Recognition (ASR) は、話した言語を書かれたテキストに変換する技術です。ASR システムは、転写サービス、音声アシスタント、および音声コマンドインターフェイスなどのアプリケーションで使用されています。"
+    },
+    {
+        "word": "Text-To-Speech (Tts)",
+        "description": "Text-to-Speech (TTS) は、テキストを話した言葉に変換する技術です TTS システムは、音声アシスタント、オーディオブック、視覚障害者向けのアクセシビリティツールなどのアプリケーションで使用されています。"
+    },
+    {
+        "word": "Cross-Lingual Nlp",
+        "description": "多言語のNLPは、複数の言語で働くことができるNLP技術やモデルを開発することに焦点を当てている分野で、機械翻訳、多言語の情報収集、多言語のテキスト分類などのタスクを含む。"
+    },
+    {
+        "word": "Multimodal Nlp",
+        "description": "Multimodal NLPは、画像、ビデオ、またはオーディオなどの他の形態と自然言語処理を組み合わせるフィールドです。"
+    },
+    {
+        "word": "Preprocessing",
+        "description": "プレプロセッサは、言語処理モデルに供給する前に原文データを清掃、正常化、変換するためのステップを指します。"
+    },
+    {
+        "word": "Evaluation Metrics",
+        "description": "評価メトリクスは、NLPモデルとアルゴリズムのパフォーマンスを評価し、測定するために使用されます. Common evaluation metrics in NLP include accuracy, precision, recall, F1 score, and perplexity."
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation is a technique used to artificially increase the size of a training dataset by creating new samples with slight modifications. In NLP, it can involve methods such as back-translation, word replacement, or text paraphrasing. トレーニングデータセットのサイズを人工的に増やす方法です。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "転送学習は、事前訓練されたモデルが新しいタスクまたはドメインの出発点として使用されるテクニックです. In NLP, transfer learning has been successfully used for various tasks such as sentiment analysis, text classification, and question answering."
+    },
+    {
+        "word": "Bias In Nlp",
+        "description": "NLPにおける偏見は、NLPモデルやデータセットにおける不公平または差別的な行動の存在を指します。それは偏見的なトレーニングデータや偏見的なアルゴリズム的決定によって引き起こされ、偏見的な結果や予測につながる可能性があります。"
+    },
+    {
+        "word": "Privacy In Nlp",
+        "description": "NLPにおけるプライバシーは、テキストデータに含まれる個人情報または機密情報の保護と機密性を指します. It involves techniques such as anonymization, data encryption, and safe data storage and transmission."
+    },
+    {
+        "word": "Ethics In Nlp",
+        "description": "NLPにおける倫理学は、NLPモデルの倫理的影響と結果の評価と考慮を意味し、NLPシステムにおける偏見、公平性、プライバシー、透明性などの問題に対処することを含む。"
+    },
+    {
+        "word": "Explainable Ai",
+        "description": "Explainable AI (XAI) は、AI システムにおける信頼と透明性を構築するために重要な分野であり、AI の決定や予測に解釈可能な説明を提供できるAI モデルやアルゴリズムの開発に焦点を当てています。"
+    },
+    {
+        "word": "Domain Adaptation",
+        "description": "ドメイン適応は、あるドメインから別のドメインに知識やモデルを転送するプロセスであり、ターゲットドメインは異なる特性やデータ配布を持っている可能性があります。"
+    },
+    {
+        "word": "Active Learning",
+        "description": "Active Learning は機械学習のアプローチで、モデルは、パフォーマンスを向上させるために、大きなラベルのないデータセットから情報サンプルを積極的に選択し、クエリします。"
+    },
+    {
+        "word": "Zero-Shot Learning",
+        "description": "Zero-shot Learning は、機械学習のアプローチで、モデルが訓練中に見られなかった新しいクラスを認識し、分類するように訓練されています。"
+    },
+    {
+        "word": "Reproducibility",
+        "description": "再生可能性とは、研究結果や実験結果を再生し、検証する能力を指します. NLPでは、他の研究者が既存の研究を再生し、構築することを可能にするために、詳細な記述、コード、データを提供することが重要です。"
+    },
+    {
+        "word": "Word Sense Induction (Wsi)",
+        "description": "Word Sense Induction (WSI) は、類似の意味や感覚を持つ単語を自動的に集計する作業で、事前定義された感覚や辞書に頼ることなく、単語の感覚や意味を発見するために使用されます。"
+    },
+    {
+        "word": "Event Extraction",
+        "description": "イベント抽出は、テキストで言及されたイベントやイベントに関する構造化された情報を識別し、分類するタスクで、イベントトリガー、その論点、およびそれらの間の関係を検出することを含む。"
+    },
+    {
+        "word": "Aspect-Based Sentiment Analysis",
+        "description": "Aspect-Based Sentiment Analysis is the task of analyzing sentiment towards specific aspects or entities within a piece of text. It involves identifying opinion targets, their attributes, and the sentiment expressed towards them. 観点に基づく感覚分析は、テキストの一部内の特定の側面や実体に対する感覚を分析することです。"
+    },
+    {
+        "word": "Document Similarity",
+        "description": "ドキュメントの類似性は、2 つのドキュメントの類似性または関連性を定量化する作業であり、プラジアリズム検出、ドキュメントクラスターリング、情報収集などのアプリケーションで使用できます。"
+    },
+    {
+        "word": "Word Alignment",
+        "description": "Word Alignment は、平行テキストにおける単語やフレーズを調和させるプロセスであり、しばしば機械翻訳や二言語テキスト分析に使用されます。"
+    },
+    {
+        "word": "Nlp Pipeline",
+        "description": "NLP Pipeline は、さまざまな NLP タスクを実行するためにテキストの一部に適用される処理ステップまたはモジュールの順序を指します. It typically involves steps like tokenization, POS tagging, parsing, and named entity recognition."
+    },
+    {
+        "word": "Neural Machine Translation (Nmt)",
+        "description": "ニューラルマシン翻訳(NMT)は、ニューラルネットワークモデルを使用して翻訳を生成するための機械翻訳のアプローチです。"
+    },
+    {
+        "word": "Cross-Lingual Word Embedding",
+        "description": "Cross-lingual Word Embedding は、異なる言語の間でセマンティックな類似性をキャプチャできる単語の埋め込みを学ぶテクニックです。"
+    },
+    {
+        "word": "Parallel Corpora",
+        "description": "Parallel Corporaは、複数の言語のテキストのコレクションで、互いにカップルまたは翻訳されています。それらは、機械翻訳、クロス言語の検索、クロス言語の単語感覚の曖昧化などのさまざまな多言語のNLPタスクに使用されます。"
+    },
+    {
+        "word": "Nlp",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当てるAIのサブフィールドです。"
+    },
+    {
+        "word": "Pos Tagging",
+        "description": "Part-of-Speech (POS) Tagging は、文法タグを文句内の単語に割り当てるプロセスです。"
+    },
+    {
+        "word": "Named Entity Recognition",
+        "description": "Named Entity Recognition(NER)は、人、組織、および場所の名前など、テキスト内の名付けされた entities を識別し、分類する作業です。"
+    },
+    {
+        "word": "Word Sense Disambiguation",
+        "description": "Word Sense Disambiguation(WSD)は、特定の文脈における単語の正しい意味を決定するプロセスです。"
+    },
+    {
+        "word": "Information Extraction",
+        "description": "情報抽出は、構造化されていないテキストから構造化された情報を自動的に抽出する作業です。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、人間と会話をシミュレートするように設計されたコンピュータプログラムです。"
+    },
+    {
+        "word": "Anaphora Resolution",
+        "description": "Anaphora Resolution is the process of identifying and linking an anaphoric expression to its antecedent. アナフォラ解析は、アナフォラ表現をその前例と識別し、結びつけるプロセスです。"
+    },
+    {
+        "word": "Text Mining",
+        "description": "テキストデータマイニングとも呼ばれるテキストデータマイニングは、大量のテキストデータから有意義なパターンを抽出するプロセスです。"
+    },
+    {
+        "word": "Named Entity Linking",
+        "description": "Named Entity Linking (NEL) は、テキスト内の名付けられたエンティティを知識ベースにリンクし、参照を解決し、エンティティを曖昧にするプロセスです。"
+    },
+    {
+        "word": "Ontology",
+        "description": "Ontology is a formal representation of a set of concepts, relationships, and properties within a domain. Ontology is a formal representation of a set of concepts, relationships, and properties within a domain. Ontology is a formal representation of a set of concepts, relationships, and properties within a domain."
+    },
+    {
+        "word": "Corpus",
+        "description": "NLPでは、コルパスは、言語処理モデルのトレーニング、評価、またはテストに使用される書面または口頭テキストのコレクションです。"
+    },
+    {
+        "word": "Morphology",
+        "description": "形態学は、言語における単語の内部構造と形態の研究です。"
+    },
+    {
+        "word": "Semantic Role Labeling",
+        "description": "Semantic Role Labeling (SRL) は、句の単語やフレーズにセマンティックな役割を割り当てるプロセスであり、その関係を主動詞と示します。"
+    },
+    {
+        "word": "Dependency Relationship",
+        "description": "依存関係とは、一つの単語が別の単語に依存する二つの単語の間の文法的関係です。"
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "Recurrent Neural Network (RNN) は、連続データを処理し、時間の経過とともに依存性をキャプチャできるタイプの人工ニューラルネットワークです。"
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "Long Short-Term Memory(LSTM)は、連続データにおける長期依存を効果的にキャプチャできるRNNの種類です。"
+    },
+    {
+        "word": "Tf-Idf",
+        "description": "Frequency-Inverse Document Frequency (TF-IDF) は、コルパス内の文書への単語の重要性を反映する数値統計です。"
+    },
+    {
+        "word": "Named Entity",
+        "description": "A Named Entity is a real-world object such as a person, organization, location, product, or date that can be recognized and classified. 名付けられたエンティティは、認識され、分類することができる人、組織、場所、製品、または日付のような現実世界のオブジェクトです。"
+    },
+    {
+        "word": "Inference",
+        "description": "NLPでは、推定は、テキストや言語の入力から論理的な結論や予測を引き出すプロセスを指します。"
+    },
+    {
+        "word": "Recursive Neural Network",
+        "description": "Recursive Neural Network (RecNN) は、パースツリーなどのリクルシブ構造を使用して構造化されたデータを処理できる人工ニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Deepavlov",
+        "description": "DeepPavlovはオープンソースのNLPライブラリとプラットフォームで、自然言語処理アプリケーションを構築するための事前訓練されたモデルとツールを提供しています。"
+    },
+    {
+        "word": "Bilstm",
+        "description": "BiLSTM(Bidirectional Long Short-Term Memory)は、前方と後方の方向の入力シーケンスを処理するRNNの種類です。"
+    },
+    {
+        "word": "Entity Linking",
+        "description": "Entity Linking is the process of linking named entities in text to their corresponding entities in a knowledge graph or database. Entity Linking is the process of linking named entities in text to their corresponding entities in a knowledge graph or database. Entity Linking is the process of linking named entities in text to their corresponding entities in a knowledge graph or database."
+    },
+    {
+        "word": "Natural Language Understanding",
+        "description": "自然言語理解(NLU)は、コンピュータシステムが人間の言語を理解し解釈することを可能にすることに焦点を当てているNLPのサブフィールドです。"
+    },
+    {
+        "word": "Natural Language Generation",
+        "description": "Natural Language Generation(NLG)は、構造化されたデータやその他の入力から人間のようなテキストやスピーチを生成する作業です。"
+    },
+    {
+        "word": "Contextual Word Embedding",
+        "description": "Contextual Word Embedding は、文や文書の文脈に基づいて単語の意味をキャプチャする単語埋め込みモデルです。"
+    },
+    {
+        "word": "Attention Is All You Need",
+        "description": "Attention Is All You Needは、さまざまなNLPタスクのために提案されたトランスフォーマーベースのニューラルネットワークアーキテクチャで、最先端の結果を達成します。"
+    },
+    {
+        "word": "Named Entity Normalization",
+        "description": "Named Entity Normalization は、より一貫性と精度を向上させるために、命名された entities を標準またはカノニカル形式に変換するプロセスです。"
+    },
+    {
+        "word": "Language Generation",
+        "description": "言語生成は、一貫性、流暢性、そして文脈的に適切なテキストを生成する作業であり、しばしばチャットボットや対話システムで使用されます。"
+    },
+    {
+        "word": "Named Entity Classification",
+        "description": "Named Entity Classification は、事前に定義されたカテゴリまたはラベルを、人、場所、組織などのテキスト内の名付けられた entities に割り当てる作業です。"
+    },
+    {
+        "word": "Knowledge Graph",
+        "description": "知識グラフは、ドメイン内のエンティティ、概念、属性間の関係をキャプチャする知識の構造化表示です。"
+    },
+    {
+        "word": "Neural Machine Translation",
+        "description": "Neural Machine Translation(NMT)は、ニューラルネットワークを使用して、ソース言語とターゲット言語のマッピングをモデル化するマシン翻訳のアプローチです。"
+    },
+    {
+        "word": "Cohesion",
+        "description": "Cohesion は、テキスト内の単語またはフレーズの間のセマンティックな類似性または関連性を指し、しばしば共通点または分布パターンによって測定されます。"
+    },
+    {
+        "word": "Coherence",
+        "description": "一貫性は、テキストの個々の部分がどれほどよく一致し、統一された全体を形成するかを測定し、しばしば論理的な接続と流れの面で評価されます。"
+    },
+    {
+        "word": "Word Sense Induction",
+        "description": "Word Sense Induction は、特定の文脈で類似した意味や意味を持つ単語を自動的に識別し、グループ化するプロセスです。"
+    },
+    {
+        "word": "Low-Resource Language",
+        "description": "低リソース言語は、NLPモデルを構築するためのデータやリソースが限られている言語であり、しばしばより大きな課題と低いパフォーマンスをもたらします。"
+    },
+    {
+        "word": "Multimodal Learning",
+        "description": "Multimodal Learning は、さまざまな NLP タスクにおけるパフォーマンスを向上させるために、テキスト、画像、オーディオなどの複数の形態から情報を処理し、統合する作業です。"
+    },
+    {
+        "word": "Ontology Population",
+        "description": "Ontology Population is the task of automatically augmenting or extending an existing ontology with new instances or entities extracted from text or other sources. Ontology Population is the task of automatically augmenting or extending an existing ontology with new instances or entities extracted from text or other sources. Ontology Population is the task of automatically augmenting or extending an existing ontology with new instances or entities extracted from text or other sources."
+    },
+    {
+        "word": "Concept Extraction",
+        "description": "用語抽出とも呼ばれるコンセプト抽出は、テキストからドメイン特有の概念や用語を識別し抽出する作業です。"
+    },
+    {
+        "word": "Dialogue System",
+        "description": "会話エージェントまたはチャットボットとも呼ばれる対話システムは、人と会話し、情報を提供したり、助けを提供したりするように設計されたコンピュータシステムです。"
+    },
+    {
+        "word": "Language Identification",
+        "description": "言語識別は、特定のテキストまたは多言語データに使用される言語または言語を特定する作業です。"
+    },
+    {
+        "word": "Phonetics",
+        "description": "音声学は、人間の言葉の音とその物理的特性に関わる言語学の分野です。"
+    },
+    {
+        "word": "Srl Role Classification",
+        "description": "Semantic Role Labeling (SRL) Role Classification is the task of assigning semantic roles to words or phrases in a sentence, indicating their specific role or function in relation to the main verb. 役割分類は、単語やフレーズにセマンティックな役割を割り当て、その特定の役割や機能を主動詞に関連して示す作業です。"
+    },
+    {
+        "word": "Word Sense Alignment",
+        "description": "Word Sense Alignment は、異なる言語や異なるリソースで単語の感覚や意味を調和させるプロセスで、より良い相互運用性と理解のために。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "無監督学習は、アルゴリズムが明示的な監督や事前定義のラベルなしにデータのパターンや構造を学ぶ機械学習の種類です。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "Supervised Learning は、モデルがラベル化されたデータセットから学び、学習したパターンや関係に基づいて予測や新しいインスタンスを分類するタイプの機械学習です。"
+    }
+]

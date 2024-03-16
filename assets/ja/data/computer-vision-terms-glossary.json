@@ -1,0 +1,494 @@
+[
+    {
+        "word": "Computer Vision",
+        "description": "コンピュータビジョンは、コンピュータがデジタル画像やビデオから視覚情報を理解し解釈することを可能にすることに焦点を当てた研究分野です。"
+    },
+    {
+        "word": "Image Classification",
+        "description": "Image Classification は、コンピュータビジョンのタスクまたはカテゴリをそのコンテンツまたは特性に基づいて入力画像に割り当てることに関連するタスクです。"
+    },
+    {
+        "word": "Object Detection",
+        "description": "オブジェクト検出は、画像やビデオ内のオブジェクトを識別し、位置づけることを含むコンピュータビジョンのタスクです。"
+    },
+    {
+        "word": "Semantic Segmentation",
+        "description": "セマンティックセグメンテーションは、イメージをそれぞれの意味に基づいて異なる領域またはセグメントに分割するプロセスです。"
+    },
+    {
+        "word": "Instance Segmentation",
+        "description": "インスタンスセグメントは、単にオブジェクトをセグメントするだけでなく、同じオブジェクトクラスの個々のインスタンスを区別するというより高度な形式の画像セグメントです。"
+    },
+    {
+        "word": "Object Tracking",
+        "description": "Object Tracking は、画像またはビデオフレームの連続で物体または人の動きを追跡し、監視するプロセスです。"
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "機能抽出は、画像などの原始データを重要かつ有意義な情報をキャプチャする表示に変換するプロセスです。"
+    },
+    {
+        "word": "Feature Matching",
+        "description": "Feature Matching は、コンピュータビジョンのプロセスで、画像間の機能やキーポイントを比較し、一致させることです。"
+    },
+    {
+        "word": "Image Registration",
+        "description": "画像登録は、同じシーンの異なる画像を共通の座標システムに調和または変換するプロセスです。"
+    },
+    {
+        "word": "Object Recognition",
+        "description": "Object Recognition は、画像またはビデオ内の特定のオブジェクトまたはインスタンスを識別し、分類する作業です。"
+    },
+    {
+        "word": "Image Segmentation",
+        "description": "イメージセグメントは、画像を複数の有意義なセグメントまたは領域に分割するプロセスです。"
+    },
+    {
+        "word": "Depth Estimation",
+        "description": "深度推定は、2D画像やビデオからシーンの3D深度情報を推定する作業です。"
+    },
+    {
+        "word": "Human Pose Estimation",
+        "description": "Human Pose Estimationは、画像やビデオ内の人のポーズまたは体のキーポイントの位置を推定する作業です。"
+    },
+    {
+        "word": "Image Super-Resolution",
+        "description": "Image Super-Resolution は、低解像度の入力画像から高解像度の画像を生成するプロセスです。"
+    },
+    {
+        "word": "Image Denoising",
+        "description": "Image Denoising は、画像から騒音や望ましくないアーティファクトを除去するプロセスです。"
+    },
+    {
+        "word": "Image Inpainting",
+        "description": "Image Inpainting は、画像の欠落または破損した部分を、信頼できるコンテンツで埋め込む作業です。"
+    },
+    {
+        "word": "Image Enhancement",
+        "description": "Image Enhancement は、画像の品質または視覚的外観を向上させるために使用される技術を指します。"
+    },
+    {
+        "word": "Visual Search",
+        "description": "Visual Search は、ユーザーがテキストベースの検索用語ではなく、画像をクエリとして使用する大規模な画像データベースを検索することを可能にするプロセスです。"
+    },
+    {
+        "word": "Facial Recognition",
+        "description": "Facial Recognitionは、コンピュータアルゴリズムを使用して、顔の特徴に基づいて個人を識別し、検証する技術です。"
+    },
+    {
+        "word": "Image Annotation",
+        "description": "Image Annotation は、オブジェクト境界ボックス、セグメントマスク、または記述ラベルなどのメタデータで画像をラベル化またはタグ化するプロセスを指し、監督された学習や分析を可能にする。"
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation は、既存のデータにさまざまな変換や修正を適用することによって、トレーニングデータセットのサイズや多様性を人工的に増やすためのテクニックです。"
+    },
+    {
+        "word": "Convolutional Neural Networks",
+        "description": "Convolutional Neural Networks (CNNs) は、コンピュータビジョンタスクで頻繁に使用される視覚データを処理および分析するために特別に設計された深層学習モデルです。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "転送学習は、一つのタスクまたはドメインからの事前訓練されたモデルや知識が異なるが関連するタスクまたはドメインに適用される機械学習のテクニックです。"
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) は、2つのニューラルネットワーク、ジェネレーターと差別装置で構成される深層学習モデルで、現実的な合成データを生成するために協力する。"
+    },
+    {
+        "word": "Image Reconstruction",
+        "description": "画像再構築は、限られたまたは不完全な画像データから高品質の画像を生成するプロセスであり、しばしば医療イメージングやリモートセンサーアプリケーションで使用されます。"
+    },
+    {
+        "word": "Camera Calibration",
+        "description": "カメラカリブレーションは、カメラのパラメータと固有性質を推定し、正確な3D再構築または測定を可能にするプロセスです。"
+    },
+    {
+        "word": "Stereo Vision",
+        "description": "ステレオビジョンは、深さと3D情報を推定するために、異なる視点から撮影された2つ以上の画像を使用する技術です。"
+    },
+    {
+        "word": "Optical Flow",
+        "description": "Optical Flow は、画像またはビデオフレームの連続内のオブジェクト、表面、およびエッジの明らかな動きのパターンです。"
+    },
+    {
+        "word": "Edge Detection",
+        "description": "エッジ検出は、画像内のオブジェクトの境界またはエッジを識別することを含むコンピュータビジョンのプロセスです。"
+    },
+    {
+        "word": "Corner Detection",
+        "description": "角検出は、コンピュータビジョンのプロセスで、画像内の角や興味のある点を識別し、位置づけることを含む。"
+    },
+    {
+        "word": "Histogram Equalization",
+        "description": "Histogram Equalization は、そのピクセルの強度を再分布することによって画像の対比性とダイナミック範囲を向上させるための技術です。"
+    },
+    {
+        "word": "Image Morphing",
+        "description": "Image Morphing は、中間フレームの連続を作成することによって、一つの画像を別の画像にスムーズに変換するプロセスです。"
+    },
+    {
+        "word": "Texture Analysis",
+        "description": "テクスチャ分析は、画像内のテクスチャパターンを特徴付け、記述するプロセスです。"
+    },
+    {
+        "word": "Pose Estimation",
+        "description": "Pose Estimation は、画像またはビデオ内の物体または人の姿勢、位置、方向を推定する作業です。"
+    },
+    {
+        "word": "Camera Pose Estimation",
+        "description": "Camera Pose Estimationは、カメラの観測されたシーンに対する3D位置と方向性を決定する作業であり、しばしば拡張現実やロボットアプリケーションで使用される。"
+    },
+    {
+        "word": "Video Summarization",
+        "description": "ビデオ概要は、しばしばキーフレームを選択または重要なイベントを抽出することによって、長いビデオシーケンスの簡潔な概要または表示を生成するプロセスです。"
+    },
+    {
+        "word": "Video Compression",
+        "description": "ビデオ圧縮は、ビデオのサイズまたはデータ速度を減らす過程を指し、しばしば効率的なストレージまたは転送のために使用される視覚品質の許容可能なレベルを維持します。"
+    },
+    {
+        "word": "Video Stabilization",
+        "description": "ビデオ安定化は、ビデオシーケンスから望ましくないカメラの動きや振動を除去するプロセスであり、よりスムーズで安定したビデオ出力につながります。"
+    },
+    {
+        "word": "Image-Based Rendering",
+        "description": "イメージベースのレンダリング(IBR)は、入力画像のセットに基づいてシーンまたはオブジェクトの新しい視点を生成し、3D再構築または視点合成を可能にする技術です。"
+    },
+    {
+        "word": "Keypoint Detection",
+        "description": "Keypoint Detection は、イメージ内の特定の関心点またはキーポイントを識別し、位置づけるプロセスです。"
+    },
+    {
+        "word": "Visual Object Tracking",
+        "description": "Visual Object Tracking は、ビデオ シーケンス内の興味のあるオブジェクトを追跡または追跡する作業であり、しばしば閉鎖、スケールの変更、または視点の変動が存在する場合です。"
+    },
+    {
+        "word": "Biometrics",
+        "description": "バイオメトリックは、個人の独自の身体的または行動的特徴の測定と分析を指し、しばしば識別目的で使用されます。"
+    },
+    {
+        "word": "Saliency Detection",
+        "description": "Saliency Detection は、画像またはシーンの内で最も視覚的に特徴的な領域またはオブジェクトを識別するプロセスです。"
+    },
+    {
+        "word": "Robot Vision",
+        "description": "ロボットビジョン(Robot Vision)は、ロボットが視覚情報を使用して環境を認識し、理解し、相互作用することを可能にすることに焦点を当てているコンピュータビジョンのサブフィールドです。"
+    },
+    {
+        "word": "Pattern Recognition",
+        "description": "パターン認識は、データ内のパターンや規則性を識別し、分類する作業であり、しばしばコンピュータビジョンでは、オブジェクト認識や画像分析に使用されます。"
+    },
+    {
+        "word": "Motion Detection",
+        "description": "モーション検出は、ビデオシーケンス内のオブジェクトの動きを検出し、追跡するプロセスで、しばしば監視や活動認識に使用されます。"
+    },
+    {
+        "word": "Foreground Segmentation",
+        "description": "フォーグラウンドセグメントは、画像やビデオの背景からフロントオブジェクトを分離するプロセスです。"
+    },
+    {
+        "word": "Video Object Detection",
+        "description": "ビデオオブジェクト検出は、ビデオシーケンス内の興味のあるオブジェクトを検出し、位置付け、しばしばリアルタイムまたはほぼリアルタイムのシナリオで行います。"
+    },
+    {
+        "word": "Real-Time Tracking",
+        "description": "リアルタイム・トラッキングとは、ビデオシーケンス内のオブジェクトの動きをリアルタイムで継続的に正確に追跡するプロセスです。"
+    },
+    {
+        "word": "Visual Odometry",
+        "description": "Visual Odometryは、入力ビデオシーケンスの分析に基づいてカメラの軌道または動きを推定するプロセスです。"
+    },
+    {
+        "word": "Image-Based Localization",
+        "description": "Image-Based Localization は、カメラやロボットの位置と方向性を、自動ナビゲーションや拡張現実などのタスクにしばしば使用される画像から得られた視覚情報を用いて環境内で評価する作業です。"
+    },
+    {
+        "word": "Data Labeling",
+        "description": "Data Labeling は、画像やビデオなどのデータに注釈やラベルを割り当て、機械学習モデルのトレーニングまたは検証データセットを作成するプロセスです。"
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "モデル評価は、訓練された機械学習モデルのパフォーマンスまたは精度をさまざまな指標や評価基準を使用して評価するプロセスです。"
+    },
+    {
+        "word": "Image Processing",
+        "description": "画像処理は、数学的操作を使用して画像を強化、分析、または変更するために使用される技術を指します。"
+    },
+    {
+        "word": "Classification",
+        "description": "分類は、入力データをその特徴や特徴に基づいて事前定義されたクラスまたはカテゴリに分類するプロセスである。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つ人工ニューラルネットワークを訓練し、データから機能を学習し抽出することに焦点を当てている機械学習のサブフィールドです。"
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "Convolutional Neural Network (CNN) は、視覚データ、特に画像を処理および分析するために設計された神経ネットワークの一種です。"
+    },
+    {
+        "word": "Feature Detection",
+        "description": "Feature Detection は、画像内の特定の構造やパターンを識別するプロセスであり、例えばエッジやコーナーです。"
+    },
+    {
+        "word": "Optical Character Recognition",
+        "description": "Optical Character Recognition(OCR)は、画像やスキャンされた文書からテキストを抽出し、編集可能で検索可能なテキストに変換するための技術です。"
+    },
+    {
+        "word": "Motion Tracking",
+        "description": "モーション・トラッキングは、画像のシーケンスを分析して、物体の動きを追跡したり、カメラ自体の動きをキャプチャすることを意味します。"
+    },
+    {
+        "word": "Image Recognition",
+        "description": "画像認識は、コンピュータシステムがデジタル画像内のオブジェクトやパターンを識別し、分類する能力です。"
+    },
+    {
+        "word": "Instance Recognition",
+        "description": "インスタンス認識は、画像内のオブジェクトのインスタンスを認識し、識別するタスクであり、しばしばその位置、ポーズ、およびインスタンス特有の情報を識別することを含む。"
+    },
+    {
+        "word": "Image Stitching",
+        "description": "Image Stitching は、複数の画像を重複する視点フィールドと組み合わせ、より大きな複合画像を作成するプロセスです。"
+    },
+    {
+        "word": "Deep Neural Networks",
+        "description": "深層ニューラルネットワークは複雑な人工ニューラルネットワークで、複数の隠された層を有し、より複雑なパターンや抽象を学び処理するように設計されています。"
+    },
+    {
+        "word": "Generative Adversarial Network",
+        "description": "Generative Adversarial Network (GAN) は、2つのニューラルネットワーク、ジェネレーターと差別器で構成される深層学習アーキテクチャの一種で、現実的なデータを生成するために敵対的な方法で訓練されています。"
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "ジェスチャー認識は、コンピュータビジョン技術を使用して、手の動きや体の姿勢などの人間のジェスチャーを解釈し、理解するプロセスです。"
+    },
+    {
+        "word": "Object Segmentation",
+        "description": "Object Segmentation は、画像を異なる領域またはセグメントに分割するプロセスであり、各セグメントは別々のオブジェクトまたは興味のある領域を表しています。"
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection は、予想される行動から大きく異なるパターンまたはインスタンスを識別し、標識付けるプロセスです。"
+    },
+    {
+        "word": "Motion Estimation",
+        "description": "Motion Estimationは、ビデオシーケンス内の連続フレーム間の動きを推定するプロセスであり、ビデオ圧縮、オブジェクトトラッキング、ビデオ安定化などのタスクに使用することができます。"
+    },
+    {
+        "word": "Foreground Detection",
+        "description": "フォーグラウンド検出(Foreground Detection)は、ビデオまたは画像のシーケンス内の静的またはダイナミックな背景からフォーグラウンドオブジェクトを分離するためのテクニックです。"
+    },
+    {
+        "word": "Image Retrieval",
+        "description": "Image Retrieval は、画像コンテンツに基づいて、特定のクエリ画像に類似または関連する大規模な画像データベースから画像を取得するタスクです。"
+    },
+    {
+        "word": "Semantic Understanding",
+        "description": "セマンティック理解は、視覚データからより高いレベルの意味や理解を抽出し、低レベルの機能抽出やパターン認識を超えています。"
+    },
+    {
+        "word": "Matched Filtering",
+        "description": "Matched Filtering is a signal processing technique used in image processing to enhance the detection of specific patterns or features in an image by filtering it with a template or matching filter. マッチされたフィルタリングは、テンプレートまたはマッチングフィルターでそれをフィルタリングすることによって、画像の特定のパターンまたは機能の検出を強化するために画像処理で使用されるシグナル処理技術です。"
+    },
+    {
+        "word": "Superpixel Segmentation",
+        "description": "Superpixel Segmentationは、ピクセルを感覚的に有意義で一貫した領域に集め、しばしばさまざまなコンピュータビジョンタスクのプロセッサステップとして使用する技術です。"
+    },
+    {
+        "word": "Depth Map",
+        "description": "深度マップは、通常、ステレオビジョンまたは深度推定アルゴリズムによって生成されるシーンの距離または深度情報の2D表示です。"
+    },
+    {
+        "word": "Image Recognition System",
+        "description": "画像認識システムは、画像内のオブジェクト、パターン、または機能を認識し、識別するように設計されたコンピュータビジョンシステムであり、しばしば監視、品質管理、または自動ナビゲーションなどのさまざまなアプリケーションに使用されます。"
+    },
+    {
+        "word": "Spatial Filtering",
+        "description": "空間フィルタリングは、ピクセルごとにピクセルの周辺を用いて新しい出力画像を生成する画像のフィルタリングの種類であり、しばしばノイズ削減、エッジ強化、または機能抽出などのタスクに使用されます。"
+    },
+    {
+        "word": "Image Restoration",
+        "description": "Image Restoration は、通常、デノイジング、デブラーリング、または inpainting などのテクニックを通じて、劣化または損傷した画像の視覚的品質を向上させるプロセスを含みます。"
+    },
+    {
+        "word": "Image-Based Modeling",
+        "description": "Image-Based Modelingは、仮想現実、拡張現実、または3Dビジュアル化などのアプリケーションを可能にする2D画像のセットからオブジェクトまたはシーンの3Dモデルを再構築する技術です。"
+    },
+    {
+        "word": "Image Segmentation Evaluation",
+        "description": "Image Segmentation Evaluation は、生成された分割結果を地上の真実の注釈や手動のラベルと比較することによって、画像の分割アルゴリズムの品質と正確性を評価することを意味します。"
+    },
+    {
+        "word": "Edge Enhancement",
+        "description": "Edge Enhancement は、画像内のエッジの可視性と強調を向上させるためのテクニックです。"
+    },
+    {
+        "word": "Image Compression",
+        "description": "画像圧縮は、画像のファイルサイズを減らすために使用される技術を指し、視覚品質の許容可能なレベルを維持します。"
+    },
+    {
+        "word": "Real-Time Object Detection",
+        "description": "リアルタイムオブジェクト検出は、リアルタイムでビデオまたは画像ストリーム内のオブジェクトを検出し、認識する作業であり、自動運転、ロボット、または監視システムなどのアプリケーションで頻繁に使用されます。"
+    },
+    {
+        "word": "Feature Descriptor",
+        "description": "A Feature Descriptor is a compact representation of a keypoint or local feature within an image, typically used for tasks such as feature matching, image registration, or object recognition. 機能記述器は、画像内のキーポイントまたはローカル機能のコンパクトな表示であり、通常、機能の匹敵、画像登録、またはオブジェクト認識などのタスクに使用されます。"
+    },
+    {
+        "word": "Foreground Estimation",
+        "description": "Foreground Estimation は、画像やビデオ内のフォーグラウンドピクセルまたは領域を推定するタスクで、フォーグラウンド抽出、オブジェクトトラッキング、または監視などのタスクにしばしば使用されます。"
+    },
+    {
+        "word": "Biometric Identification",
+        "description": "バイオメトリック識別は、指紋、虹膜パターン、または歩行分析などの独自の身体的または行動的特徴に基づいて個人を識別するプロセスであり、しばしばセキュリティやアクセス制御システムに使用されます。"
+    },
+    {
+        "word": "Image Segmentation Algorithms",
+        "description": "イメージセグメントアルゴリズムは、強度、色、テクスチャ、または動きなどの特定の基準に基づいて、意味のある領域またはセグメントに画像を分割するために使用される計算方法または技術です。"
+    },
+    {
+        "word": "Visual Saliency",
+        "description": "Visual Saliency は、画像内の領域またはオブジェクトの顕著さまたは重要性を指し、しばしば画像の品質評価、オブジェクト認識、またはビデオの概要化などのタスクに使用されます。"
+    },
+    {
+        "word": "Structured Light",
+        "description": "構造光は、正確な3D再構築または深度推定を可能にするために、既知の地理的形状または照明のパターンをシーンまたはオブジェクトにプロジェクトする技術です。"
+    },
+    {
+        "word": "Texture Synthesis",
+        "description": "テクスチャ合成は、データサンプルのテクスチャに似た新しいテクスチャを生成するプロセスであり、テクスチャ分析、画像編集、またはコンピュータグラフィックスなどのタスクにしばしば使用されます。"
+    },
+    {
+        "word": "Shadow Detection",
+        "description": "Shadow Detection は、画像やビデオ内の影の領域と非影の領域を識別し、区別する作業であり、しばしばオブジェクト認識、シーン理解、または自律的なナビゲーションなどのさまざまなアプリケーションに使用されます。"
+    },
+    {
+        "word": "Image-Based Lighting",
+        "description": "Image-Based Lightingは、高ダイナミックレンジ(HDR)画像を使用して、現実世界のシーンの照明情報を正確にキャプチャし、表示し、そのシーン内のコンピュータ生成オブジェクトの現実的なレンダリングと照明を可能にします。"
+    },
+    {
+        "word": "Image Synthesis",
+        "description": "イメージ合成は、データの入力画像の特定のセットまたは望ましい属性とリアルかつ視覚的に一致する新しい画像を生成するプロセスであり、しばしばコンピュータグラフィックス、仮想現実、または深層学習のためのデータ拡張に使用されます。"
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "Convolutional Neural Network (CNN) は、コンピュータビジョンタスクで一般的に使用される深いニューラルネットワークの一種で、画像などのグリッドのようなデータを処理するために特別に設計されています。"
+    },
+    {
+        "word": "Optical Character Recognition (Ocr)",
+        "description": "OCR(Optical Character Recognition)は、テキストの画像を機械で読み取れるテキストに変換するための技術です。"
+    },
+    {
+        "word": "Super-Resolution",
+        "description": "スーパー解像度は、画像の解像度を元の品質を超えて向上させるプロセスです。"
+    },
+    {
+        "word": "Histogram Of Oriented Gradients (Hog)",
+        "description": "HOG(Histogram of Oriented Gradients)は、オブジェクト検出および認識に一般的に使用される機能説明器で、局所のオブジェクトの形状および外観に関する情報を抽出します。"
+    },
+    {
+        "word": "Background Subtraction",
+        "description": "Background Subtraction は、コンピュータビジョンのプロセスで、ビデオまたは画像のシーケンスから前面のオブジェクトまたは領域を隔離し、抽出することを含む。"
+    },
+    {
+        "word": "Heatmap",
+        "description": "ヒートマップは、画像内の情報の強度または密度を表すためにカラーコーディングを使用する視覚化技術です。"
+    },
+    {
+        "word": "Semantic Feature Extraction",
+        "description": "Semantic Feature Extraction is the process of extracting high-level semantic or meaningful features from images. Semantic Feature Extraction is the process of extracting high-level semantic or meaningful features from images. Semantic Feature Extraction is the process of extracting high-level semantic or meaningful features from images."
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "無監督学習は、アルゴリズムがタグ付けまたは注釈された例なしにデータのパターンや関係を学ぶ機械学習の一種です。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "監督学習は、アルゴリズムがラベルまたは注釈された例を使用してパターンや関係を学ぶ機械学習の一種です。"
+    },
+    {
+        "word": "Fine-Tuning",
+        "description": "Fine-tuning は、事前訓練されたモデルが特定のタスクまたはデータセットにさらに訓練または適応される移転学習のプロセスです。"
+    },
+    {
+        "word": "Generative Adversarial Networks (Gans)",
+        "description": "Generative Adversarial Networks (GANs) は、新しいデータサンプルを生成するために、ジェネレーターと差別ネットワークから構成される深層学習モデルのクラスです。"
+    },
+    {
+        "word": "Recurrent Neural Networks (Rnns)",
+        "description": "Recurrent Neural Networks (RNNs) は、それぞれのステップに同じ重量を繰り返し適用するセクションデータ処理のために設計された人工神経ネットワークの一種です。"
+    },
+    {
+        "word": "Video Surveillance",
+        "description": "ビデオ監視は、ビデオカメラを使用して特定の地域や施設の活動を監視し、記録する。"
+    },
+    {
+        "word": "Keypoint Description",
+        "description": "Keypoint Description は、画像内の特定のキーポイントのコンパクトで差別的な記述子を生成するプロセスです。"
+    },
+    {
+        "word": "Data Annotation",
+        "description": "Data Annotation は、トレーニングおよび評価の目的のためにメタデータまたは真実情報でデータをラベルまたはタグ化するプロセスです。"
+    },
+    {
+        "word": "Artificial Neural Networks (Anns)",
+        "description": "人工ニューラルネットワーク(ANNs)は、人間の脳の生物学的ニューラルネットワークにインスピレーションを与えた計算モデルであり、複雑なタスクを解決するために使用されます。"
+    },
+    {
+        "word": "Bag-Of-Words (Bow)",
+        "description": "Bag-of-Words (BoW) は、自然言語処理とコンピュータビジョンにおける人気のある機能表示技術であり、テキストや画像を非分類された機能のコレクションとして扱います。"
+    },
+    {
+        "word": "Mean-Shift",
+        "description": "Mean-Shift is an iterative algorithm used to find the modes or peaks in a probability density function, often applied to image segmentation and tracking. Mean-Shiftは、確率密度関数におけるモードまたはピークを見つけるために使用されるイテラティブアルゴリズムで、しばしば画像のセグメントおよびトラッキングに適用されます。"
+    },
+    {
+        "word": "Region Of Interest (Roi)",
+        "description": "ROIとは、画像やビデオフレーム内の特定の領域または部分を指し、分析または処理に特に興味があります。"
+    },
+    {
+        "word": "Scale-Invariant Feature Transform (Sift)",
+        "description": "Scale-Invariant Feature Transform (SIFT) は、スケールと回転に変わらず、画像内のローカルな特徴を検出し、記述する人気のある機能検出と記述技術です。"
+    },
+    {
+        "word": "Speeded Up Robust Features (Surf)",
+        "description": "Speeded Up Robust Features (SURF) は、SIFT よりも効率的に設計された画像のローカル機能を検出し、記述する機能検出および記述技術です。"
+    },
+    {
+        "word": "Mean Average Precision (Map)",
+        "description": "Mean Average Precision (mAP) は、オブジェクト検出と認識アルゴリズムのパフォーマンスを評価するための一般的な評価メトリックです。"
+    },
+    {
+        "word": "Precision",
+        "description": "精度は、正確に予測された正しいインスタンスの割合を予測された正しいインスタンスの合計から測定するためのパフォーマンスメトリクスです。"
+    },
+    {
+        "word": "Recall",
+        "description": "Recall は、正しく予測されたポジティブなインスタンスの割合を実際のポジティブなインスタンスの合計数から測定するためのパフォーマンスメトリックです。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting は機械学習の現象で、モデルがトレーニングデータでうまく行うが、新しい、目に見えないデータで一般化し、うまく行わない。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting は、機械学習の現象で、モデルが単純すぎるか、データの基礎構造をキャプチャする能力が欠如し、パフォーマンスが低下する。"
+    },
+    {
+        "word": "Activation Function",
+        "description": "アクティベーション関数は、人工神経ネットワーク内のニューロンの出力に適用される数学的関数で、非線形性を導入し、複雑なマッピングを学ぶことを可能にします。"
+    },
+    {
+        "word": "Loss Function",
+        "description": "損失関数は、コスト関数または客観関数とも呼ばれ、モデルの予測された出力とトレーニング中の真の目標出力の間の差異またはエラーを測定します。"
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagation は、人工のニューラルネットワークの訓練に使用されるアルゴリズムで、ネットワークのパラメータに関して損失機能のグラディエントが再計算され、重量を更新するために使用される。"
+    },
+    {
+        "word": "Pooling",
+        "description": "パウリングは、機能マップの空間的次元を減らし、計算の複雑さを減らし、ネットワークを空間的変異に対してより強力にするコンボラクシャルニューラルネットワーク(CNNs)の技術です。"
+    }
+]

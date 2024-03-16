@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Nanotechnology",
+        "description": "ナノテクノロジーは、 nanoscale サイズによって特徴づけられた構造、特性、および行動を持つ材料とデバイスの科学、工学、および応用です。"
+    },
+    {
+        "word": "Nanoparticles",
+        "description": "ナノ粒子は、ナノスケールのサイズを持つ粒子であり、しばしば薬物配達や催化などのさまざまなアプリケーションのための特定の性質を持つように設計されています。"
+    },
+    {
+        "word": "Quantum Dots",
+        "description": "Quantum dots are nanoscale semiconductors that exhibit quantum mechanical properties, such as size-tuneable emission of light. 量子点は、量子力学的性質を示すナノスケール半導体である。"
+    },
+    {
+        "word": "Self-Assembly",
+        "description": "Self-assembly is the spontaneous organization of molecules or nanoparticles into ordered structures through non-covalent interactions, without external control. 非コバレンティン相互作用を通じて、分子やナノ粒子を秩序ある構造に自発的に組織する。"
+    },
+    {
+        "word": "Nanofabrication",
+        "description": "Nanofabrication is the process of creating nanoscale structures and devices using techniques such as lithography, etching, and deposition. ナノ製造は、リトグラフィー、エッチャー、および降下などの技術を使用して、ナノスケールの構造やデバイスを作成するプロセスです。"
+    },
+    {
+        "word": "Nanocomposites",
+        "description": "ナノコンポジットは、マトリックス材料とナノ粒子またはナノフィレンダーを組み合わせ、純粋なマトリックス材料に比べて機械的、熱的、電気的、または障壁性の向上をもたらす材料です。"
+    },
+    {
+        "word": "Carbon Nanotubes",
+        "description": "炭素ナノチューブは、チューブのような形で配置された炭素原子から作られたシリンダー構造であり、彼らは例外的な機械的、熱的、および電気的性質を持っています。"
+    },
+    {
+        "word": "Nanomedicine",
+        "description": "Nanomedicineは、医学におけるナノテクノロジーの使用を指し、分子レベルでの標的薬物配達、イメージング、および診断を可能にします。"
+    },
+    {
+        "word": "Mems",
+        "description": "Microelectromechanical Systems (MEMS) は、マイクロメカニズム規模で機械的および電気的部品を統合する小型化された装置またはシステムを指します。"
+    },
+    {
+        "word": "Afm",
+        "description": "原子力顕微鏡(AFM)は、ナノスケール探査機を使用して表面をスキャンし、原子規模で力を測定する顕微鏡技術です。"
+    },
+    {
+        "word": "Nems",
+        "description": "NEMS(Nanoelectromechanical Systems)は、ナノメータースケールで電気部品と機械部品を組み合わせる装置です。"
+    },
+    {
+        "word": "Nanoimprint Lithography",
+        "description": "Nanoimprint Lithographyは、柔らかい材料に模様を押すことによってナノスケールパターンを生成するための技術であり、その後、材料を硬化し、模様を除去します。"
+    },
+    {
+        "word": "Nanoengineering",
+        "description": "ナノエンジニアリングは、新しい機能とアプリケーションを作成するために、ナノスケールで材料とデバイスを設計し、操作することを意味します。"
+    },
+    {
+        "word": "Plasmonics",
+        "description": "Plasmonicsは、光と金属のナノ粒子の相互作用の研究と利用であり、イメージング、センサー、エネルギー変換におけるアプリケーションを可能にします。"
+    },
+    {
+        "word": "Nanorobots",
+        "description": "ナノロボットは、薬物配達、検出、または組み立てなどの特定のタスクを実行できるナノスケールのデバイスまたは機械であり、ナノスケールでの精密な制御と操作を可能にします。"
+    },
+    {
+        "word": "Fullerene",
+        "description": "フルレレンは、完全に空の球またはチューブに配置された炭素原子で構成された分子で、独自の特性と潜在的なアプリケーションで知られています。"
+    },
+    {
+        "word": "Quantum Tunneling",
+        "description": "量子トンネル化は、粒子が潜在的な障壁を通過し、ナノスケールで電子の流れやその他の現象を可能にする量子力学的現象です。"
+    },
+    {
+        "word": "Superparamagnetism",
+        "description": "Superparamagnetism is a property exhibited by nanoparticles when their magnetic moments randomly fluctuate. スーパーパラマグネティズムは、その磁気の瞬間がランダムに変動するときにナノ粒子が示す属性です。"
+    },
+    {
+        "word": "Nanophotonics",
+        "description": "ナノ光学は、ナノスケールレーザー、光学回路、およびセンサーなどのデバイスの開発を可能にする、ナノスケールの光の研究と操作です。"
+    },
+    {
+        "word": "Nanostructured Materials",
+        "description": "ナノ構造材料は、ナノスケールで特定の構造を持っており、エネルギー貯蔵や催化などの分野でユニークな性質とアプリケーションを提供しています。"
+    },
+    {
+        "word": "Nano-Electronics",
+        "description": "ナノエレクトロニクスは、ナノスケールの電子機器の設計、製造、およびアプリケーションを含む。"
+    },
+    {
+        "word": "Nanowires",
+        "description": "ナノワイヤーは、通常数ナノメートルから数百ナノメートルまでの直径を持つナノスケールワイヤーであり、電子、センサー、エネルギー変換における潜在的なアプリケーションを提供します。"
+    },
+    {
+        "word": "Top-Down Fabrication",
+        "description": "トップダウン製造は、エッチまたは彫刻を通じてより大きな材料を減らすことによってナノ構造を作成するプロセスを指します。"
+    },
+    {
+        "word": "Bottom-Up Fabrication",
+        "description": "底の製造は、個々の原子や分子を組み合わせることによってナノ構造を構築することを意味します。"
+    },
+    {
+        "word": "Nanolithography",
+        "description": "Nanolithographyは、マスクや直接書き込み技術を使用して表面にナノスケールの特徴をパターニングまたは彫刻するプロセスで、通常、半導体製造に使用されます。"
+    },
+    {
+        "word": "Dip-Pen Nanolithography",
+        "description": "Dip-pen nanolithography は、原子力顕微鏡の端を用いて、ナノスケールの特徴を描く高解像度のパターニング技術です。"
+    },
+    {
+        "word": "Nanopore Sequencing",
+        "description": "Nanopore Sequencingは、Nanoporeを通じて個々のDNAまたはRNA線をトレードすることを含むDNAのセクエンシング技術であり、迅速かつポータブルなセクエンシングを可能にします。"
+    },
+    {
+        "word": "Nanotribology",
+        "description": "Nanotribologyは、ナノスケールでの摩擦、磨き、および潤滑の研究であり、ナノメータースケールの特徴を持つ表面や材料の行動と相互作用を調査します。"
+    },
+    {
+        "word": "Nanosensors",
+        "description": "ナノセンサーは、物理的、化学的、または生物学的現象を高感度と特異性を検出し、測定するために、ナノスケール材料または構造を使用するミニチュアなセンサーです。"
+    },
+    {
+        "word": "Nanotechnology Roadmap",
+        "description": "ナノテクノロジーロードマップは、ナノテクノロジーの研究と開発の目標、マイルストーン、方向を示す戦略的計画または枠組みです。"
+    },
+    {
+        "word": "Molecular Nanotechnology",
+        "description": "分子ナノテクノロジーは、個々の分子や原子を操作することによって機能的な材料や装置を作成することを目指し、しばしばスキャンサンド顕微鏡などのツールを使用します。"
+    },
+    {
+        "word": "Surface Enhanced Raman Scattering",
+        "description": "Surface enhanced Raman scattering (SERS) は、金属ナノ粒子を使用して Raman scattering 信号を強化する技術です。"
+    },
+    {
+        "word": "Nanoimaging",
+        "description": "Nanoimagingは、ナノスケールで材料や構造を視覚化し、研究するために使用されるさまざまな技術を指します。"
+    },
+    {
+        "word": "Nanotoxicology",
+        "description": "ナノ毒性学は、ナノ粒子やナノ材料が健康や環境に及ぼす影響を含む生体に及ぼす潜在的な毒性の研究です。"
+    },
+    {
+        "word": "Biosensors",
+        "description": "バイオセンサーは、生物学的分析物を検出し分析するために、生物学的成分とトランスデューサーを組み合わせる装置です。"
+    },
+    {
+        "word": "Nanoelectronics",
+        "description": "ナノエレクトロニクスは、性能の向上と小型化のために、トランジスタやナノワイヤーなどのナノスケールの電子部品の設計、製造、およびアプリケーションを含みます。"
+    },
+    {
+        "word": "Nanofluidics",
+        "description": "Nanofluidicsは、ナノスケールのチャネルやデバイス内の液体の操作と制御を含む、ナノスケールの液体の行動の研究です。"
+    },
+    {
+        "word": "Nanopatterning",
+        "description": "Nanopatterningは、しばしば電子、フォトニクス、またはデータストレージのアプリケーションのために、ナノスケールでパターンや機能を作成するプロセスです。"
+    },
+    {
+        "word": "Quantum Confinement",
+        "description": "量子制約は、粒子の動きの制限であり、量子効果を引き起こすため、その狭い空間に制約される。"
+    },
+    {
+        "word": "Nanostructured Surfaces",
+        "description": "ナノ構造の表面には、湿度や粘着などの表面性質を変更するナノスケールの特定のパターンや特徴があります。"
+    },
+    {
+        "word": "Plasmonic Nanoparticles",
+        "description": "プラズマナノ粒子は、光との強い相互作用を可能にするプラズマ共鳴を示す金属ナノ粒子です。"
+    },
+    {
+        "word": "Nanocomputing",
+        "description": "ナノコンピューティングは、高いパフォーマンス、低消費電力、または新しいアーキテクチャを持つコンピューティングシステムを作成するために、ナノスケール部品または材料の使用を含みます。"
+    },
+    {
+        "word": "Nanofabrication Techniques",
+        "description": "Nanofabrication Techniquesは、ナノスケールの構造や装置を作成するために使用されるさまざまな方法をカバーし、化学蒸気蓄積、原子層蓄積、またはナノスケール3D印刷などの技術を含む。"
+    },
+    {
+        "word": "Dendrimers",
+        "description": "デンドリマーは、制御されたサイズや形状などのユニークな特性を示す高度に分裂したマクロ分子です。"
+    },
+    {
+        "word": "Photolithography",
+        "description": "Photolithography is a technique used in nanofabrication to transfer patterns on a substrate using light and photosensitive materials. 光学は、光や光に敏感な材料を使用して基盤にパターンを転送するためにナノ製造に使用される技術です。"
+    },
+    {
+        "word": "Nanopore Membranes",
+        "description": "Nanopore 膜は、サイズに基づいて分子を選択的にフィルタリングまたは分離することができるナノスケールの孔を持つ薄いフィルムです。"
+    },
+    {
+        "word": "Nanomanipulation",
+        "description": "Nanomanipulationは、ナノスケールのオブジェクトや部品の正確な操作、位置付け、および組み立てを含み、しばしば専門のツールや技術を使用します。"
+    },
+    {
+        "word": "Nanoparticle Synthesis",
+        "description": "Nanoparticle synthesis involves the creation and control of nanoparticles through various techniques, such as chemical precipitation, sol-gel, or vapor condensation. ナノ粒子合成には、化学的降水、ソルゲル、または蒸気凝固などのさまざまな技術を通じてナノ粒子の作成と制御が含まれます。"
+    },
+    {
+        "word": "Nanofiltration",
+        "description": "ナノフィルタリングは、水または液体のフィルタリングプロセスの一種であり、ナノスケールの孔または膜を使用して、大きさまたは充電に基づいて物質を分離し、浄化する。"
+    },
+    {
+        "word": "Nanostructured Coatings",
+        "description": "ナノ構造塗料は、特定のナノ構造の表面を持つ薄いフィルムまたは層であり、硬さ、耐磨性、または自浄能力などの改善された性質を提供します。"
+    },
+    {
+        "word": "Nanorod",
+        "description": "nanorod はナノスケールの構造で、独自の物理的および光学的性質を示すスタッドのような形状です。"
+    },
+    {
+        "word": "Nanoparticle",
+        "description": "ナノ粒子は1〜100ナノメートルのサイズの粒子で、その小さなサイズのために独特の特性を示しています。"
+    },
+    {
+        "word": "Graphene",
+        "description": "グラフェンは、その例外的な強さと伝導性で知られる六角形グリットに配置された炭素原子の単一層です。"
+    },
+    {
+        "word": "Nanorobotics",
+        "description": "ナノロボティクスは、ナノスケールでロボットデバイスや機械を作成する分野を指し、通常、標的薬物配達やナノスケールの組み立てなどのタスクのために分子レベルで働く。"
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "量子コンピューティングは、量子現象を使用して計算を実行し、より速く、より強力なコンピューティング能力を可能にします。"
+    },
+    {
+        "word": "Nanoporous",
+        "description": "Nanoporous 材料は、ナノスケールで孔または洞窟を持っており、高表面面面積とフィルタリングおよび催化における潜在的なアプリケーションを提供します。"
+    },
+    {
+        "word": "Quantum Mechanics",
+        "description": "量子力学は、粒子や波を含む最小規模の物質とエネルギーの行動を記述する物理学の分野です。"
+    },
+    {
+        "word": "Supramolecular Chemistry",
+        "description": "Supramolecular chemistryは、非コバレンチ結合を通じて分子と材料の相互作用と特性に焦点を当て、機能的なナノスケール構造の設計を可能にします。"
+    },
+    {
+        "word": "Nanobiosensors",
+        "description": "ナノバイオセンサーは、ナノテクノロジーとバイオセンシングの原則を統合し、ナノスケールでの生物分子やプロセスの検出と分析を可能にする装置です。"
+    },
+    {
+        "word": "Dna Nanotechnology",
+        "description": "DNAナノテクノロジーは、DNA分子をビルドブロックとして使用するナノスケール構造の設計と建設を含み、標的薬物配達やナノエレクトロニクスにおけるアプリケーションを含む。"
+    },
+    {
+        "word": "Nanoelectromechanical Systems (Nems)",
+        "description": "Nanoelectromechanical Systems (NEMS) は、センサー、アクチュエータ、または共鳴器などのアプリケーションを可能にするために、ナノスケールで機械元素と電子を結合するデバイスまたはシステムです。"
+    },
+    {
+        "word": "Bio-Nanotechnology",
+        "description": "バイオナノテクノロジーは、医学や環境モニタリングなどの分野の新しい材料、デバイス、アプリケーションを作成するために生物学的およびナノスケールコンセプトを組み合わせています。"
+    },
+    {
+        "word": "Top-Down Approach",
+        "description": "トップダウンアプローチは、素材や構造が、望ましいナノスケールの特性が達成されるまで、マクロまたはマイクロスケールでより大きな構造を除去して形作ることによって作成される製造方法を指します。"
+    },
+    {
+        "word": "Bottom-Up Approach",
+        "description": "底上のアプローチは、原子または分子成分から材料または構造を構築し、望ましいナノ構造に徐々に組み合わせる製造方法を指します。"
+    },
+    {
+        "word": "Nanocatalysis",
+        "description": "ナノカタリズムは、化学反応を強化するためのカタリズムとしてのナノ材料の使用を含み、従来のカタリズムに比べてより高い効率と選択性を提供します。"
+    },
+    {
+        "word": "Nanogenerators",
+        "description": "ナノ発電機は、機械的、熱的、または他の形態のエネルギーをナノスケールで電気エネルギーに変換するデバイスであり、自力発電ナノシステムの可能性を提供します。"
+    },
+    {
+        "word": "Nanophysiology",
+        "description": "Nanophysiologyは、生物学的現象を理解し、ターゲット療法を開発するために不可欠な、ナノスケールの生理学的プロセスと相互作用の研究です。"
+    },
+    {
+        "word": "Quantum Dots Solar Cells",
+        "description": "量子点太陽電池は、光を吸収する材料として量子点を使用して、太陽エネルギーを電気に変換し、より高い効率と調整可能な特性を提供します。"
+    },
+    {
+        "word": "Nanosatellites",
+        "description": "CubeSatsとも呼ばれるナノ衛星は、宇宙探査と通信のためのコスト効率的なソリューションを提供するナノスケールサイズの小型衛星です。"
+    },
+    {
+        "word": "Dna Origami",
+        "description": "DNAオリガミ(DNA origami)は、DNA分子を使用してナノメーター規模の精度で指定された2Dまたは3D構造に折りたたみ、自己組み合わせする技術です。"
+    },
+    {
+        "word": "Surface Enhanced Raman Spectroscopy (Sers)",
+        "description": "Surface Enhanced Raman Spectroscopy (SERS) は、超敏感な検出と分析を可能にする、金属表面に吸収された分子の Raman 散布信号を強化する技術です。"
+    },
+    {
+        "word": "Nanografting",
+        "description": "Nanograftingは、個々の分子またはナノメーター規模の構造を高精度で操作および転送するために使用される技術であり、カスタムナノ規模のパターンの作成を可能にします。"
+    },
+    {
+        "word": "Nanowrinkles",
+        "description": "ナノ線は、しばしば圧縮ストレスの導入を通じて形成され、ユニークな光学的、機械的、または粘着性の特性を提供する、ナノ規模の表面パターンまたはです。"
+    },
+    {
+        "word": "Nano-Optics",
+        "description": "ナノ光学は、ナノスケールの光の研究と操作を含み、改善された画像解像度、ナノスケールレーザー、光学データストレージなどのアプリケーションを可能にします。"
+    },
+    {
+        "word": "Nanofabric Sensors",
+        "description": "Nanofabric センサーは、物理的、化学的、または生物学的現象を検出し、測定するために設計されたナノスケールのデバイスまたはシステムであり、高い感受性と選択性を提供します。"
+    },
+    {
+        "word": "Nemsensor",
+        "description": "ネムセンサーとは、ナノ電気機械センサーを指し、ナノスケールの機械的部品、例えばカンティレバーまたはバームを、さまざまなパラメータを検出し分析するためのセンサー要素と統合する。"
+    },
+    {
+        "word": "Nanolaser",
+        "description": "ナノレーザーは、ナノスケールで光を放出し、さまざまなナノスケール材料と構造を獲得メディアとして使用する非常に小さなレーザーです。"
+    },
+    {
+        "word": "Nanophysics",
+        "description": "ナノ物理学は、ナノスケールでの材料、システム、現象の行動と性質に焦点を当て、このスケールでの物質のユニークな性質への洞察を提供する物理学の分野です。"
+    },
+    {
+        "word": "Nanomaterials Characterization",
+        "description": "Nanomaterials characterization involves analyzing and understanding the structure, composition, and properties of nanomaterials using various techniques, such as electron microscopy, spectroscopy, and microscopy. ナノ材料の特徴化は、電子顕微鏡、スペクトロスコピー、および顕微鏡などのさまざまな技術を使用して構造、構成、および特性を分析し、理解することを含む。"
+    },
+    {
+        "word": "Dendrimer",
+        "description": "Dendrimersは、明確に定義された構造を持つ高度に分裂した合成マクロ分子であり、分子の大きさと形の正確な制御を提供し、薬物配達やナノテクノロジーでアプリケーションを見つける。"
+    },
+    {
+        "word": "Nanoparticle Tracking",
+        "description": "ナノ粒子追跡は、溶液中の個々のナノ粒子をモニタリングし、分析し、サイズ、濃度、および動きに関する情報を提供するために使用される技術です。"
+    },
+    {
+        "word": "Nanolasers",
+        "description": "ナノレーザーは、データストレージや光学コンピューティングを含むさまざまなアプリケーションに低電力でエネルギー効率の高い光源を提供する、ナノスケールのサイズを持つ超コンパクトなレーザーです。"
+    },
+    {
+        "word": "Nanobubbles",
+        "description": "ナノバブルは、ナノメータースケールの直径を持つ固体液体インターフェイスで形成された小さなガスで満たされた穴であり、水処理やナノ医学などの分野でユニークな性質とアプリケーションを示しています。"
+    },
+    {
+        "word": "Nanotheranostics",
+        "description": "Nanotheranosticsは、治療および診断機能を1つのナノスケールプラットフォームに統合し、個別化された医学アプローチを可能にし、治療効果を向上させます。"
+    },
+    {
+        "word": "Hybrid Nanomaterials",
+        "description": "ハイブリッドナノ材料は、ナノ粒子、ナノチューブ、またはナノワイヤーなどの異なる種類の nanoscale コンポーネントを組み合わせた複合材料で、シナリズム特性と多様なアプリケーションを達成します。"
+    },
+    {
+        "word": "Nanoscale",
+        "description": "ナノスケールは、約1〜100ナノメートルの大きさの範囲を指し、ユニークな物理的および化学的性質が現れる。"
+    },
+    {
+        "word": "Fullerenes",
+        "description": "フルレネは閉鎖された檻やチューブで構成される炭素ベースの分子であり、薬物配達や電子を含むナノテクノロジーにおけるさまざまなアプリケーションを有する。"
+    },
+    {
+        "word": "Scanning Probe Microscopy",
+        "description": "Scanning Probe Microscopyは、ナノスケールの表面をイメージ、測定、または操作するために探査機を使用する技術のグループであり、原子力顕微鏡(AFM)とスキャントンネル顕微鏡(STM)を含む。"
+    },
+    {
+        "word": "Quantum Nanotechnology",
+        "description": "量子ナノテクノロジーは、ナノスケールで量子現象を活用する技術を開発することを目的として、ナノテクノロジーと量子物理学を組み合わせています。"
+    },
+    {
+        "word": "Top-Down Nanofabrication",
+        "description": "Top-Down Nanofabrication は、より大きな材料から始まり、望ましい特性が達成されるまで部分を除去することによって、ナノスケールの構造を作成する方法です。"
+    },
+    {
+        "word": "Bottom-Up Nanofabrication",
+        "description": "Bottom-Up Nanofabrication は、自己組み立てまたは化学合成を使用して、より小さい部品または分子からそれらを組み立てまたは育てることによって、ナノスケールの構造を作成する方法です。"
+    },
+    {
+        "word": "Two-Dimensional Materials",
+        "description": "二次元材料は、グラフェンや過渡金属ディカルコゲニドなどの原子の単一層で構成される超薄材料であり、ユニークな電子的および機械的性質を示しています。"
+    },
+    {
+        "word": "Nanopillars",
+        "description": "ナノ柱は、光の吸収を向上させ、催化反応を改善したり、ナノワイヤーの成長のテンプレートとして機能するために使用できる垂直に並ぶ、ナノスケールの構造です。"
+    },
+    {
+        "word": "Nanorods",
+        "description": "Nanorodsは、高度な側面比を持つ長いナノ粒子であり、しばしばセンサー、薬物配達、またはより複雑なナノ構造のビルドブロックとして使用されます。"
+    },
+    {
+        "word": "Nanopore Sensors",
+        "description": "ナノポアセンサーは、ナノポアを通過する際に電気信号の変化に基づいてDNA、タンパク質、またはイオンなどの分子を検出し分析するためにナノポアを使用するデバイスです。"
+    },
+    {
+        "word": "Plasmonic Nanomaterials",
+        "description": "Plasmonic Nanomaterialsは、プラズモンとの相互作用によりユニークな光学的性質を示すナノスケール材料であり、強化された感知や光熱療法などのアプリケーションを可能にします。"
+    },
+    {
+        "word": "Nanoflakes",
+        "description": "ナノフラックは、ナノスケールの薄いフラックまたは材料のシートであり、しばしばエネルギー貯蔵装置や催化剤などのアプリケーションで使用されます。"
+    },
+    {
+        "word": "Nanopatterning Techniques",
+        "description": "Nanopatterning Techniques は、電子ライトリトグラフィー、ナノ印刷リトグラフィー、またはブロックコポリマーリトグラフィーなどの技術を含む、ナノスケールのパターンを作成するために使用される方法です。"
+    },
+    {
+        "word": "Nanogaps",
+        "description": "Nanogapsは、ナノ電子やプラズモニカ装置で頻繁に使用される、電磁フィールドを制限し、制御するために、ナノスケールの小さな隙間またはスペースです。"
+    },
+    {
+        "word": "Nanomaterials",
+        "description": "ナノ材料は、ナノスケールで出現する構造、特性、または行動を持つ材料であり、ユニークな特徴を提供し、しばしば新しいアプリケーションを可能にする。"
+    },
+    {
+        "word": "Nanocapsules",
+        "description": "ナノカプセルは、空洞なコアを持つナノ粒子であり、しばしば薬物、栄養素、またはその他の機能的有用負荷を包装し、供給するために使用されます。"
+    },
+    {
+        "word": "Nanolenses",
+        "description": "ナノレンズは、光をナノスケールで焦点または操作することができる光学的装置または構造であり、しばしば周期間隔を持つナノスケールの特徴の配列で構成されています。"
+    },
+    {
+        "word": "Nanochannels",
+        "description": "Nanochannelsは、しばしば液体の流れを制御し、分子を分離し、またはミニチュアなラボオンチップ装置を作成するために使用される、ナノスケールの小さなチャネルまたは管道です。"
+    },
+    {
+        "word": "Nanomotors",
+        "description": "ナノモーターは、しばしば化学的、電気的、または光駆動推進メカニズムを使用して、ナノスケールで動作する小さなエンジンまたは機械です。"
+    },
+    {
+        "word": "Nanofluids",
+        "description": "ナノフリッジは、しばしば熱転送、潤滑、または光学的性質を向上させるために設計された suspended nanoparticlesを含む液体です。"
+    },
+    {
+        "word": "Nanoplasmonics",
+        "description": "ナノプラズマ学は、ナノ構造材料における電子の集合的振動、プラズモンとして知られ、感知、イメージング、エネルギー変換におけるアプリケーションを可能にする研究と操作です。"
+    },
+    {
+        "word": "Nanomembranes",
+        "description": "ナノ膜は非常に薄く、ユニークな特性を持つナノスケール膜であり、しばしばフィルタリング、分離、または電子部品などのアプリケーションで使用されます。"
+    },
+    {
+        "word": "Nanoprinting",
+        "description": "Nanoprintingは、インクジェット印刷、ナノ転送印刷、または直接書写リトグラフィーなどの技術を使用して、サプリメントにナノスケールパターン、構造、または材料を印刷または配置するプロセスです。"
+    },
+    {
+        "word": "Nanoscale Interfaces",
+        "description": "ナノスケールインターフェイスは、ナノスケールで異なる材料または段階の間の境界であり、しばしば大量材料と比較してユニークな性質や行動を示す。"
+    },
+    {
+        "word": "Nanosurgery",
+        "description": "ナノ外科は、細胞または分子レベルでの精密な外科手術のためのナノスケールツールまたは技術の使用を指し、医学的治療における潜在的な進歩を提供します。"
+    },
+    {
+        "word": "Nanopiezotronics",
+        "description": "Nanopiezotronicsは、ナノテクノロジーとピエゾ電気材料を組み合わせて、機械的ストレスやストレスを電気信号やエネルギーに変換できるデバイスを開発する分野です。"
+    },
+    {
+        "word": "Nanopharmaceutics",
+        "description": "Nanopharmaceuticsは、薬学科学におけるナノテクノロジーの応用であり、ナノスケールでの新しい薬剤の設計、開発、配信に焦点を当てています。"
+    },
+    {
+        "word": "Nanoframes",
+        "description": "ナノフレームは、しばしば金属や金属酸化物からでき、カタリゼやエネルギー貯蔵における潜在的なアプリケーションを提供するフレームのような形状を持つ空洞な、ナノスケールの構造です。"
+    },
+    {
+        "word": "Nanolithography Techniques",
+        "description": "Nanolithography Techniquesは、電子ライトリトグラフィー、ナノ印刷リトグラフィー、または干渉リトグラフィーなどの技術を含む、ナノスケールパターンや構造を作成するために使用されるさまざまな方法を含みます。"
+    },
+    {
+        "word": "Nanolubricants",
+        "description": "Nanolubricants は、ナノスケール添加物またはナノ粒子を組み込み、润滑性能を向上させ、さまざまな機械システムにおける摩擦と磨きを減らす润滑剤です。"
+    },
+    {
+        "word": "Nanobiotechnology",
+        "description": "ナノバイオテクノロジーは、ナノテクノロジーと生物学を組み合わせ、医療、環境モニタリング、生物学研究のアプリケーションのためにデバイス、材料、またはシステムを作成します。"
+    },
+    {
+        "word": "Nanopatch",
+        "description": "Nanopatchは、皮膚に直接ワクチンや薬物を届けることができ、無痛で針のない投与などの利点を提供する小さな針フリーのパッチまたはデバイスを指します。"
+    },
+    {
+        "word": "Nanowelding",
+        "description": "Nanoweldingは、ナノスケールの材料や構造を結合または結合するプロセスであり、しばしばナノスケールの熱、圧力、または化学反応を使用する。"
+    },
+    {
+        "word": "Nanotweezers",
+        "description": "Nanotweezersは、高い精度とコントロールで粒子、分子、または細胞を操作または捕らえることができるナノスケールのデバイスまたはツールです。"
+    },
+    {
+        "word": "Nanofiltration Membranes",
+        "description": "Nanofiltration Membranesは、水処理や脱塩などのアプリケーションで使用される大きさや充電に基づいて物質を選択的に分離し、浄化するナノスケールポアを持つ特殊な膜です。"
+    },
+    {
+        "word": "Nanolabels",
+        "description": "ナノラベルは、しばしばナノスケール材料に基づく小さなラベルまたはタグであり、バイオセンシングや偽造防止などのアプリケーションで、バイオ分子などの特定の標的を追跡または検出するために使用されます。"
+    },
+    {
+        "word": "Nanopumping",
+        "description": "ナノポンプは、ナノスケールの液体を移動または輸送するプロセスであり、しばしばナノチャネルやナノスケールのポンプを通じて流れを生成するために物理的または化学的メカニズムを使用する。"
+    },
+    {
+        "word": "Nanomuscle",
+        "description": "Nanomuscleは、温度や電気フィールドなどの外部刺激によって引き起こされる形状の変化や機械的動きを受けることができるナノスケールのアクティベーターまたは筋肉のようなコンポーネントを指します。"
+    },
+    {
+        "word": "Nanograss",
+        "description": "ナノグラスは、草に似た垂直に並び、ナノスケールの構造の密集な配列を指し、しばしばさまざまなアプリケーションで光の捕捉、表面の濡れ、またはエネルギー収集を強化するために使用されます。"
+    }
+]

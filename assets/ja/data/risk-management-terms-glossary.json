@@ -1,0 +1,474 @@
+[
+    {
+        "word": "Risk Management",
+        "description": "リスク管理とは、リスクを特定し、評価し、優先順位を設定し、負の出来事の影響と確率を最小化し、監視し、制御するための行動をとるプロセスである。"
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "リスク評価とは、リスクを特定し、分析し、評価し、その潜在的な影響と発生の確率を決定することを意味します。"
+    },
+    {
+        "word": "Risk Mitigation",
+        "description": "リスク緩和とは、特定されたリスクの確率または影響を減少または排除するための措置の実施を意味する。"
+    },
+    {
+        "word": "Risk Appetite",
+        "description": "リスク食欲とは、組織が目標を達成するために受け入れる準備ができているリスクの量です。"
+    },
+    {
+        "word": "Risk Tolerance",
+        "description": "Risk Toleranceとは、組織が耐えられるリスクのレベルです。"
+    },
+    {
+        "word": "Risk Identification",
+        "description": "リスク識別とは、潜在的なリスクを識別し、文書化するプロセスです。"
+    },
+    {
+        "word": "Risk Analysis",
+        "description": "リスク分析とは、特定されたリスクの確率と影響を評価することです。"
+    },
+    {
+        "word": "Risk Response",
+        "description": "リスク対応とは、リスクを転送、回避、受け入れる、または軽減するなどの特定のリスクに対処するための行動または計画です。"
+    },
+    {
+        "word": "Risk Register",
+        "description": "リスク記録は、特定されたリスク、その評価、および計画された対応の文書化された記録です。"
+    },
+    {
+        "word": "Key Risk Indicator",
+        "description": "キーリスク指標は、潜在的なリスクイベントの確率を監視し、評価するために使用されるメトリックまたは変数です。"
+    },
+    {
+        "word": "Business Continuity Planning",
+        "description": "ビジネス継続性計画は、障害が発生した場合に重要なビジネス機能の継続的な運用を確保するための戦略と手順を開発することを意味します。"
+    },
+    {
+        "word": "Crisis Management",
+        "description": "危機管理は、危機や緊急事態に対応し、管理するためのプロセスや手順を含みます。"
+    },
+    {
+        "word": "Solvency Risk",
+        "description": "資金調達リスクとは、組織が財務義務を履行できないリスクを指します。"
+    },
+    {
+        "word": "Operational Risk",
+        "description": "運用リスクとは、不適切または失敗した内部プロセス、人、およびシステムによる損失のリスクです。"
+    },
+    {
+        "word": "Financial Risk",
+        "description": "金融リスクとは、金融商品や市場によって生じる損失リスクです。"
+    },
+    {
+        "word": "Market Risk",
+        "description": "市場リスクは、利率、為替レート、商品価格などの市場価格の変動による損失リスクです。"
+    },
+    {
+        "word": "Credit Risk",
+        "description": "クレジットリスクとは、借り手が財務義務を履行しないことから生じる損失のリスクです。"
+    },
+    {
+        "word": "Liquidity Risk",
+        "description": "流動性リスクとは、金銭的義務を履行できないリスクです。"
+    },
+    {
+        "word": "Reputational Risk",
+        "description": "評判リスクとは、組織の評判やブランド価値に対する潜在的な損害です。"
+    },
+    {
+        "word": "Compliance Risk",
+        "description": "コンプライアンスリスクとは、法的または規制上の制裁、罰金、または法律および規制の不遵守による罰金のリスクです。"
+    },
+    {
+        "word": "Enterprise Risk Management",
+        "description": "エンタープライズリスク管理(ERM)は、組織全体でリスクを管理するための包括的なアプローチです。"
+    },
+    {
+        "word": "Risk Culture",
+        "description": "リスク文化とは、リスク管理のアプローチを形作る組織内の共通の価値観、信念、行動のセットを指します。"
+    },
+    {
+        "word": "Risk Assessment Matrix",
+        "description": "リスク評価マトリックスは、リスクの確率と影響に基づいてリスクを評価し、優先するためのツールです。"
+    },
+    {
+        "word": "Risk Tolerance Level",
+        "description": "リスク容認レベルとは、組織がリスクを受け入れる準備ができているレベルです。"
+    },
+    {
+        "word": "Risk Control",
+        "description": "リスク管理とは、特定のリスクを管理、削減、または排除するための具体的な措置の実施を指します。"
+    },
+    {
+        "word": "Risk Transfer",
+        "description": "リスク移転は、保険や契約を通じて、リスクの財政的結果を別の当事者に転送するプロセスです。"
+    },
+    {
+        "word": "Risk Avoidance",
+        "description": "リスク回避とは、特定のリスクへの暴露を完全に排除するための行動をとることである。"
+    },
+    {
+        "word": "Risk Sharing",
+        "description": "リスク共有とは、リスクの潜在的な影響を複数の当事者に分配することです。"
+    },
+    {
+        "word": "Risk Monitoring",
+        "description": "リスクモニタリングは、リスク管理活動が効果的であることを保証するために、リスクを追跡し、見直す継続的なプロセスです。"
+    },
+    {
+        "word": "Risk Reporting",
+        "description": "リスク報告は、利害関係者へのリスクおよびリスク管理活動の文書化とコミュニケーションを含みます。"
+    },
+    {
+        "word": "Risk Assessment Framework",
+        "description": "リスク評価枠組みとは、リスク評価プロセスをガイドし、標準化するための構造化されたアプローチまたはモデルです。"
+    },
+    {
+        "word": "Risk Management Plan",
+        "description": "リスク管理計画は、プロジェクトまたはイニシアチブのリスク管理アプローチ、活動、責任を概説する文書です。"
+    },
+    {
+        "word": "Contingency Plan",
+        "description": "緊急事態計画は、潜在的なリスクや予期せぬ出来事に対応するために事前に開発された行動コースです。"
+    },
+    {
+        "word": "Risk Profile",
+        "description": "リスクプロフィールは、組織の全体的なリスク曝露と食欲の概要または評価です。"
+    },
+    {
+        "word": "Risk-Based Decision Making",
+        "description": "リスクベースの意思決定には、リスク要因を決定プロセスに考慮し、組み込むことが含まれます。"
+    },
+    {
+        "word": "Risk Aggregation",
+        "description": "リスク集計は、個々のリスクを組み合わせ、組織の全体的なリスク曝露のより広い視点を提供することを意味します。"
+    },
+    {
+        "word": "Risk Audit",
+        "description": "リスク監査は、組織のリスク管理プロセスと実践を体系的に見直し、それらが効果的で業界基準に準拠することを保証する。"
+    },
+    {
+        "word": "Risk Ownership",
+        "description": "リスク所有権とは、特定のリスクを管理し監督する責任の割り当てを指します。"
+    },
+    {
+        "word": "Risk Assessment Tool",
+        "description": "リスク評価ツールとは、リスクを特定、評価、優先するためのソフトウェアまたは方法論です。"
+    },
+    {
+        "word": "Risk Management Framework",
+        "description": "リスク管理枠組みは、政策、プロセス、および制御の確立を含むリスク管理に対する構造的かつ体系的なアプローチです。"
+    },
+    {
+        "word": "Risk Transfer Mechanism",
+        "description": "リスク転送メカニズムとは、契約、保険方針、またはヘッジング戦略などのリスクを他の当事者に転送するための特定の方法またはツールを指します。"
+    },
+    {
+        "word": "Risk Treatment Plan",
+        "description": "リスク管理計画は、特定のリスクに対処するために必要な具体的な行動、戦略、およびリソースを概説します。"
+    },
+    {
+        "word": "Risk Scenario Analysis",
+        "description": "リスクシナリオ分析は、リスクの異なる組み合わせに基づいて潜在的なシナリオを特定し、分析し、潜在的な影響を評価することを意味します。"
+    },
+    {
+        "word": "Risk Threshold",
+        "description": "リスクの限界は、特定のリスクが受け入れられないものとみなされ、即時行動を必要とするレベルである。"
+    },
+    {
+        "word": "Risk Governance",
+        "description": "リスク管理は、組織内のリスク管理活動を導く枠組み、ポリシー、プロセスを指します。"
+    },
+    {
+        "word": "Risk Management Policy",
+        "description": "リスク管理ポリシーは、リスクを特定、評価、管理するための組織のアプローチを概説する文書です。"
+    },
+    {
+        "word": "Risk Appetite Statement",
+        "description": "Risk Appetite Statementは、リスク取るための組織のアプローチと限界を明示する正式な文書です。"
+    },
+    {
+        "word": "Risk Communication",
+        "description": "リスクコミュニケーションとは、利害関係者間でリスクに関連する情報や洞察を交換することです。"
+    },
+    {
+        "word": "Risk Avoidance Strategy",
+        "description": "リスク回避戦略とは、特定のリスクへの暴露を排除または回避するための行動を取ることです。"
+    },
+    {
+        "word": "Risk Transfer Strategy",
+        "description": "リスク転送戦略とは、リスクの潜在的な財政的影響を、例えば保険または契約の枠組みを通じて、別の当事者に転送することです。"
+    },
+    {
+        "word": "Risk Acceptance",
+        "description": "リスク受け入れとは、リスクの潜在的な結果や影響を受け入れ、リスクを緩和したり回避したりするためのさらなる措置をとらないという決定です。"
+    },
+    {
+        "word": "Risk Monitoring And Review",
+        "description": "リスク監視およびレビューは、リスク管理プロセスおよび活動の有効性を定期的に評価し、評価することを含む。"
+    },
+    {
+        "word": "Risk Assessment Methodology",
+        "description": "Risk Assessment Methodologyは、リスクの評価と定量化のための体系的で構造化されたアプローチです。"
+    },
+    {
+        "word": "Risk Response Plan",
+        "description": "リスク対応計画は、特定のリスクに対応するための具体的な行動と措置を概説する。"
+    },
+    {
+        "word": "Risk Indicator",
+        "description": "リスク指標は、特定されたリスクの可能性を評価するために使用されるトリガーまたは測定です。"
+    },
+    {
+        "word": "Risk-Based Capital",
+        "description": "Risk-Based Capital(リスクベースの資本)は、金融機関がそのリスクに比例して資本を保有するための規制要件です。"
+    },
+    {
+        "word": "Risk-Adjusted Return",
+        "description": "リスク調整収益は、その収益を達成するために取られたリスクレベルを考慮に入れる投資業績の尺度です。"
+    },
+    {
+        "word": "Risk Event",
+        "description": "リスクイベントとは、組織の目標にポジティブまたはネガティブな影響を及ぼす可能性のある出来事または出来事です。"
+    },
+    {
+        "word": "Risk Quantification",
+        "description": "リスクの定量化は、特定されたリスクの確率および影響に値または測定を割り当て、優先順位を設定し、効果的に管理することを意味します。"
+    },
+    {
+        "word": "Risk Matrix",
+        "description": "リスクマトリックスは、リスクの確率と影響に基づいてリスクを評価し、優先するためのツールです。"
+    },
+    {
+        "word": "Cyber Risk",
+        "description": "サイバーリスクとは、組織の情報システムまたはデータの破損または妥協による潜在的な損失を指します。"
+    },
+    {
+        "word": "Disaster Recovery",
+        "description": "災害復旧とは、重要なシステムやデータを重大な障害の後に復元し、回復するプロセスです。"
+    },
+    {
+        "word": "Loss Event",
+        "description": "損失イベントとは、実際の損失または負の影響を引き起こす出来事または発生を指します。"
+    },
+    {
+        "word": "Business Impact Analysis",
+        "description": "ビジネス影響分析 (BIA) は、組織に対する障害の潜在的な財政的および運用的影響を評価するプロセスです。"
+    },
+    {
+        "word": "Risk Owner",
+        "description": "リスクオーナーとは、特定のリスクを管理し監督する責任を負う個人または団体です。"
+    },
+    {
+        "word": "Scenario Analysis",
+        "description": "シナリオ分析は、さまざまな可能な将来のシナリオが組織の目標やリスクに及ぼす影響を評価するための技術です。"
+    },
+    {
+        "word": "Stress Testing",
+        "description": "ストレステストは、組織の抵抗性を極端または不利な条件にさらすことによって評価するために使用される技術です。"
+    },
+    {
+        "word": "Third-Party Risk",
+        "description": "第三者リスクとは、第三者ベンダー、サプライヤー、またはサービスプロバイダーの使用から生じる潜在的なリスクを指します。"
+    },
+    {
+        "word": "Risk Transfer Agreement",
+        "description": "リスク移転合意とは、特定のリスクを一方から他方に移転する契約の合意である。"
+    },
+    {
+        "word": "Risk Documentation",
+        "description": "リスク文書化とは、リスクの識別、評価、軽減措置を含むリスクの記録及び文書化を指す。"
+    },
+    {
+        "word": "Risk Evaluation",
+        "description": "リスク評価は、リスクの重要性を決定するために、事前決定された基準に基づいてリスク評価の結果を比較するプロセスです。"
+    },
+    {
+        "word": "Risk Probability",
+        "description": "リスク確率とは、リスクイベントが起こる確率または確率です。"
+    },
+    {
+        "word": "Risk Impact",
+        "description": "リスク影響とは、特定のリスクイベントによって生じる影響の潜在的な大きさまたは重症度を指します。"
+    },
+    {
+        "word": "Risk Treatment",
+        "description": "リスク管理は、特定されたリスクに対処し、軽減するための適切な措置の選択と実施を含む。"
+    },
+    {
+        "word": "Internal Control",
+        "description": "内部コントロールとは、金融および運用情報の信頼性、正確性、および完全性を確保するためのプロセス、ポリシー、および保護措置を指します。"
+    },
+    {
+        "word": "Risk Financing",
+        "description": "リスク資金調達は、潜在的な損失を資金調達し管理するための最も適切なメカニズムと戦略を決定することです。"
+    },
+    {
+        "word": "Risk Awareness",
+        "description": "リスク意識とは、組織内の個人が直面している潜在的なリスクを理解し、認識する程度です。"
+    },
+    {
+        "word": "Risk Scenario",
+        "description": "リスクシナリオは、潜在的なリスクイベント、その原因、結果、および確率を含む可能性の記述または記述です。"
+    },
+    {
+        "word": "Risk Workshop",
+        "description": "リスクワークショップは、リスクを特定し、評価し、優先するために重要な関係者を含むコラボレーションセッションです。"
+    },
+    {
+        "word": "Risk Modeling",
+        "description": "リスクモデリングは、リスクを予測し、定量化するために統計技術とデータ分析を使用することを意味します。"
+    },
+    {
+        "word": "Risk Culture Assessment",
+        "description": "リスク文化評価は、組織内の既存のリスク文化を評価し、強みと改善のための領域を特定することを意味します。"
+    },
+    {
+        "word": "Risk Governance Framework",
+        "description": "リスク管理枠組みは、組織レベルでのリスクの管理と監督に対する構造化されたアプローチを提供します。"
+    },
+    {
+        "word": "Risk Metrics",
+        "description": "リスクメトリクスは、損失の可能性、波動性、または相関性などのリスクを評価し、評価するために使用される定量的な測定です。"
+    },
+    {
+        "word": "Risk Review",
+        "description": "リスク評価は、特定されたリスクを定期的に評価し、再評価し、その継続的な関連性と緩和戦略の有効性を確保する。"
+    },
+    {
+        "word": "Risk Culture Transformation",
+        "description": "リスク文化の変革とは、組織内の価値観、態度、行動を意図的に変え、より効果的なリスク文化を育成することです。"
+    },
+    {
+        "word": "Risk Register Management",
+        "description": "リスクレジストリの管理は、リスクレジストリを更新し、維持し、特定されたリスクの最新かつ正確な記録を維持することを意味します。"
+    },
+    {
+        "word": "Risk-Based Audit",
+        "description": "リスクベースの監査アプローチは、監査手続きの範囲、性質、タイミングを決定するための基盤として、リスクの評価と評価に焦点を当てています。"
+    },
+    {
+        "word": "Risk Identification Techniques",
+        "description": "リスク識別技術は、組織内の潜在的なリスクを体系的に識別し、文書化するために使用される方法またはツールです。"
+    },
+    {
+        "word": "Risk Heat Map",
+        "description": "リスクホットマップは、リスクの視覚的表現であり、それぞれのリスクの確率と影響がマトリックスに描かれている。"
+    },
+    {
+        "word": "Risk Culture Survey",
+        "description": "リスク文化調査は、組織内の既存のリスク文化に関する情報を収集するための構造化されたアンケートや評価ツールです。"
+    },
+    {
+        "word": "Risk-Based Pricing",
+        "description": "リスクベースの価格設定は、金融機関が借入者の認識されるリスクに基づいて価格と利率を設定するために使用する戦略です。"
+    },
+    {
+        "word": "Risk Committee",
+        "description": "リスク委員会は、組織内のリスク管理プロセスを監督し、指導する責任を持つ個人のグループです。"
+    },
+    {
+        "word": "Control Environment",
+        "description": "コントロール環境とは、内部コントロールに関する経営陣と従業員の全体的な態度、意識、行動を指します。"
+    },
+    {
+        "word": "Risk-Based Compliance",
+        "description": "リスクベースのコンプライアンスとは、特定されたリスクとコンプライアンスの取り組みを調和させ、リスクの最も高い分野に資源を集中させることです。"
+    },
+    {
+        "word": "Risk Transfer Pricing",
+        "description": "リスク転送価格は、リスクへの暴露に基づいて異なるビジネスユニットまたは製品にコストを割り当てる実践です。"
+    },
+    {
+        "word": "Risk",
+        "description": "リスクとは、組織の目標に影響を与える可能性のある不確実性や出来事から生じる損失または損害の可能性を指します。"
+    },
+    {
+        "word": "Control",
+        "description": "コントロールとは、リスクを最小化、監視、または管理するための措置または行動です。"
+    },
+    {
+        "word": "Mitigation",
+        "description": "緩和は、リスクイベントの影響または確率を減らすために取られた行動を指します。"
+    },
+    {
+        "word": "Residual Risk",
+        "description": "残留リスクとは、リスク緩和措置が実施された後に残るリスクです。"
+    },
+    {
+        "word": "Risk Aversion",
+        "description": "Risk Aversionとは、リスクを回避または最小限に抑える傾向を指します。"
+    },
+    {
+        "word": "Control Self-Assessment",
+        "description": "コントロール自己評価は、組織内のコントロールの有効性を内部の関係者が評価するプロセスです。"
+    },
+    {
+        "word": "Business Continuity",
+        "description": "ビジネス継続性とは、障害や災害の場合に重要なビジネス機能の継続的な運用を確保するための計画と準備を指します。"
+    },
+    {
+        "word": "Risk Framework",
+        "description": "Risk Frameworkは、リスク管理のための共通の言語と方法論を提供する構造化されたアプローチです。"
+    },
+    {
+        "word": "Reputation Risk",
+        "description": "評判リスクとは、組織の評判、ブランド、またはイメージに損害を与えるリスクです。"
+    },
+    {
+        "word": "Strategic Risk",
+        "description": "戦略的リスクとは、組織の戦略的決定や行動によって生じる損失のリスクである。"
+    },
+    {
+        "word": "Environmental Risk",
+        "description": "環境リスクとは、自然災害、気候変動、汚染などの環境要因による損失のリスクです。"
+    },
+    {
+        "word": "Operational Resilience",
+        "description": "Operational Resilience は、組織が重要なビジネス機能の提供を維持しながら、破壊的な出来事から耐え、回復する能力を指します。"
+    },
+    {
+        "word": "Risk Maturity",
+        "description": "リスク成熟度は、組織のリスク管理の実践における洗練と効率のレベルを指します。"
+    },
+    {
+        "word": "Risk Pooling",
+        "description": "Risk pooling は、個々のリスクを減らすために、グループ全体でリスクを集約し、共有する実践です。"
+    },
+    {
+        "word": "Risk Appetite Framework",
+        "description": "Risk Appetite Framework(リスク食欲枠組み)とは、組織のリスク食欲とリスク取組を管理する方針、手順、ガイドラインの包括的なセットです。"
+    },
+    {
+        "word": "Risk-Adjusted Return On Capital (Raroc)",
+        "description": "Risk-Adjusted Return on Capital(RAROC)は、金融機関が担うリスクレベルを考慮に入れる収益性の測定方法です。"
+    },
+    {
+        "word": "Risk Return Trade-Off",
+        "description": "Risk-Return Trade-Offは、より高いリスクレベルが通常、より高い潜在的な収益と関連しているという概念を指します。"
+    },
+    {
+        "word": "Risk Monitoring Framework",
+        "description": "Risk Monitoring Framework(リスクモニタリング枠組み)は、リスク指標、限度値、報告メカニズムの確立を含むリスクモニタリングに対する構造化されたアプローチです。"
+    },
+    {
+        "word": "Risk Universe",
+        "description": "Risk Universeは、組織が直面する可能性のあるすべての潜在的なリスクの包括的なリストまたは地図です。"
+    },
+    {
+        "word": "Risk Assessment Techniques",
+        "description": "リスク評価技術は、チェックリスト、面接、ワークショップ、および定量モデルなどのリスク評価を行うために使用される方法とツールです。"
+    },
+    {
+        "word": "Risk-Adjusted Performance",
+        "description": "リスク調整パフォーマンスは、リスクのレベルを考慮した投資パフォーマンスの測定です。"
+    },
+    {
+        "word": "Risk Maturity Model",
+        "description": "リスク成熟モデルは、組織のリスク管理の実践と能力を評価し、改善するためのツールまたは枠組みです。"
+    },
+    {
+        "word": "Risk Map",
+        "description": "リスクマップは、リスクの視覚的表現であり、リスクはその確率と影響に基づいて計画されています。"
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つニューラルネットワークに焦点を当てている機械学習のサブセットです。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、生物学的な脳の構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Activation Function",
+        "description": "アクティベーション関数は、ニューラルネットワークノードの出力を決定する数学的関数です。"
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagationは、接続の重量を調整することによってニューラルネットワークをトレーニングするための一般的な方法です。"
+    },
+    {
+        "word": "Convolution",
+        "description": "Convolution は、入力信号にフィルターを適用する操作であり、一般的に画像処理タスクのためのコヴリュレーション神経ネットワークで使用されます。"
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "Recurrent Neural Network (RNN) は、情報が持続することを可能にするループを持つ神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "LSTM(Long Short-Term Memory)は、長期にわたってメモリを保持できるRNNアーキテクチャの一種です。"
+    },
+    {
+        "word": "Gated Recurrent Unit",
+        "description": "Gated Recurrent Unit(GRU)は、情報の流れを制御するためのゲートメカニズムを使用する別のタイプの繰り返し神経ネットワークです。"
+    },
+    {
+        "word": "Autoencoder",
+        "description": "Autoencoder は、インプットをコードして解読することを学ぶ神経ネットワークの一種であり、しばしば監督されていない学習と次元性の削減に使用されます。"
+    },
+    {
+        "word": "Generative Adversarial Network",
+        "description": "Generative Adversarial Network (GAN) は、相互に競争する発電機と差別ネットワークで構成される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "転送学習は、事前に訓練されたモデルが新しいタスクの出発点として使用され、必要なトレーニングデータの量を減らす方法です。"
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation は、既存のデータにさまざまな変換を適用することによって、トレーニングデータセットのサイズを人工的に増やすためのテクニックです。"
+    },
+    {
+        "word": "Dropout",
+        "description": "Dropoutは、トレーニング中にノードを一時的に除去することによって過剰装備を防ぐためにニューラルネットワークで使用される規則化技術です。"
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "Batch Normalizationは、各層の入力を正常化し、神経ネットワークの訓練速度と安定性を向上させるために使用される技術です。"
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient Descent は、神経ネットワークにおける損失機能を最小限に抑えるために使用される最適化アルゴリズムです。"
+    },
+    {
+        "word": "Learning Rate",
+        "description": "学習率は、トレーニング中に神経ネットワークがどれだけ速く体重を調整するかを決定します。"
+    },
+    {
+        "word": "Loss Function",
+        "description": "A Loss Function は、機械学習モデルの性能を、その予測を実際の値と比較することによって測定します。"
+    },
+    {
+        "word": "Regularization",
+        "description": "規則化は、トレーニング中に神経ネットワークの重量に追加の制約を導入し、過剰装備を防ぐ深い学習の技術です。"
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "ハイパーパラメーターは、機械学習モデルを訓練する前に設定されるパラメーターであり、例えば学習率やニューラルネットワーク内の隠されたユニットの数です。"
+    },
+    {
+        "word": "Epoch",
+        "description": "Epoch は、トレーニングプロセス中にトレーニングデータセット全体を通過する完全なパスです。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "機械学習モデルでは、トレーニングデータでうまく行うが、新しい、目に見えないデータに一般化できない場合に過剰な組み合わせが起こります。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "機械学習モデルでは、トレーニングデータの基本的なパターンや関係をキャプチャできない場合に不具合が発生します。"
+    },
+    {
+        "word": "Vanishing Gradient Problem",
+        "description": "消えるグレーディングの問題は、グレーディングがバックプロパガンダの過程で膨大に小さくなり、遅い学習や調和につながる深いニューラルネットワークの訓練における課題です。"
+    },
+    {
+        "word": "Exploding Gradient Problem",
+        "description": "爆発性階段の問題は消滅性階段の問題とは反対の問題で、後ろ向きの過程で階段が非常に大きくなり、数的不安定性や学習困難を引き起こします。"
+    },
+    {
+        "word": "Relu",
+        "description": "ReLu, or Rectified Linear Unit, is an activation function that introduces non-linearity to a neural network. ReLu, or Rectified Linear Unit, is a activation function that introduces non-linearity to a neural network. ReLuは、神経ネットワークに非線形性を導入する機能です。"
+    },
+    {
+        "word": "Sigmoid",
+        "description": "Sigmoid は、ニューラルネットワークで一般的に使用されるアクティベーション関数で、入力値を 0 と 1 の間の値にマッピングし、非線形性を導入します。"
+    },
+    {
+        "word": "Softmax",
+        "description": "Softmax は、各クラスの確率を生成するために神経ネットワークの出力層でしばしば使用される活性化関数です。"
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "Convolutional Neural Network (CNN) は、画像認識と処理のために設計されたタイプのニューラルネットワークです。"
+    },
+    {
+        "word": "Kernel",
+        "description": "カーネルは、画像から機能を抽出するためにコンボルションで使用される小さなマトリックスです。"
+    },
+    {
+        "word": "Pooling",
+        "description": "パウリングは、最も重要な機能を選択することで、入力機能マップの空間的次元を減らすコンボリュレーションニューラルネットワークのダウンサンプリング操作です。"
+    },
+    {
+        "word": "Learning Rate Schedule",
+        "description": "学習率スケジュールは、訓練中に学習率を調整するために使用される技術であり、しばしば事前定義されたスケジュールまたはパフォーマンスメトリックに基づいています。"
+    },
+    {
+        "word": "Early Stopping",
+        "description": "Early Stopping は、検証セットのモデルのパフォーマンスが悪化し始めたときにトレーニングプロセスを停止することによって過剰装備を防止するために使用されるテクニックです。"
+    },
+    {
+        "word": "Optimizer",
+        "description": "最適化器は、トレーニング中に神経ネットワークのパラメータを調整するために使用されるアルゴリズムで、損失機能を最小限に抑える。"
+    },
+    {
+        "word": "Stochastic Gradient Descent",
+        "description": "Stochastic Gradient Descent (SGD) は、それぞれのイーテレーションのトレーニングデータのサブセットをランダムに選択するグレディントダウンの変異です。"
+    },
+    {
+        "word": "Mini-Batch Gradient Descent",
+        "description": "Mini-Batch Gradient Descentは、トレーニングデータの小さなサブセット、ミニバッチと呼ばれる重量を更新するグレディントダウンアルゴリズムのバリエーションです。"
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a metric used to measure the accuracy of a classifier, calculated as the number of true positives divided by the sum of true positives and false positives. 正確性は、真の陽性と偽の陽性の合計で計算された分類の正確性を測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "Recall",
+        "description": "Recall is a metric used to measure the completeness of a classifier, calculated as the number of true positives divided by the sum of true positives and false negatives. リコールは、分類の完全性を測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "F1 Score",
+        "description": "F1スコアは精度と回顧のバランスをとる指標であり、精度と回顧の調和的な平均として計算されます。"
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A confusion matrix is a table that summarizes the performance of a classification model by showing the counts of true positives, true negatives, false positives, and false negatives. 混乱マトリックスは、真のポジティブ、真のネガティブ、偽のポジティブ、偽のネガティブの数を示すことによって分類モデルのパフォーマンスをまとめるテーブルです。"
+    },
+    {
+        "word": "Roc Curve",
+        "description": "ROC(Receiver Operating Characteristic)曲線は、異なる分類値の下でバイナリ分類モデルのパフォーマンスをグラフィックで表します。"
+    },
+    {
+        "word": "Auc-Roc",
+        "description": "AUC-ROC (Area Under the ROC Curve) は、より良いパフォーマンスを示す高い値で、バイナリ分類モデルの全体的なパフォーマンスを測定するメトリックです。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning は機械学習の分野で、機械を教えることに焦点を当て、試行錯誤に基づいて決定を下す。"
+    },
+    {
+        "word": "Policy Gradient",
+        "description": "Policy Gradient は、環境を明示的にモデリングすることなく、自律的なエージェントのポリシーまたは行動を直接最適化することを学ぶ強化学習アルゴリズムのクラスです。"
+    },
+    {
+        "word": "Q-Learning",
+        "description": "Q-Learning は、各ステータスアクションのペアの値を推定することで最適なポリシーを学ぶ強化学習アルゴリズムです。"
+    },
+    {
+        "word": "Markov Decision Process",
+        "description": "マルコフ決断プロセス(Markov Decision Process, MDP)は、結果が行動とランダムな出来事の両方によって影響を受ける状況における意思決定のモデル化に使用される数学的枠組みです。"
+    },
+    {
+        "word": "Deep Q-Network",
+        "description": "Deep Q-Network(DQN)は、Q-Learningと深いニューラルネットワークを組み合わせ、複雑な環境のためのポリシーを学習する強化学習アルゴリズムの一種です。"
+    },
+    {
+        "word": "Actor-Critic",
+        "description": "Actor-Critic は、Q-Learning などの価値ベースの方法と Policy Gradient などのポリシーベースの方法の両方の利点を組み合わせた強化学習アルゴリズムです。"
+    },
+    {
+        "word": "Curriculum Learning",
+        "description": "Curriculum Learningは、神経ネットワークがより効果的に学ぶのを助けるために、トレーニング例の難しさが徐々に増加するトレーニング戦略です。"
+    },
+    {
+        "word": "Adversarial Examples",
+        "description": "Adversarial Examples は、深層学習モデルを騙し、脆弱性や潜在的なセキュリティ上の懸念を強調するためにわずかに変更された慎重に設計されたインプットです。"
+    },
+    {
+        "word": "One-Shot Learning",
+        "description": "One-Shot Learning は、モデルがクラスごとに単一のトレーニングサンプルからオブジェクトやパターンを認識するように訓練され、人間の学習能力を模する機械学習の種類です。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当て、コンピュータが自然言語を理解し、解釈し、生成することを可能にする研究分野です。"
+    },
+    {
+        "word": "Word Embedding",
+        "description": "Word Embeddingは、数字ベクターとしての単語を表し、それらのセマンティックな関係をキャプチャし、言語処理タスクを可能にする深い学習のテクニックです。"
+    },
+    {
+        "word": "Transformer",
+        "description": "トランスフォーマーは、独自の注意メカニズムを使用して、単語間の依存性を記録し、さまざまなNLPタスクで最先端のパフォーマンスを達成するニューラルネットワークアーキテクチャです。"
+    },
+    {
+        "word": "Bert",
+        "description": "BERT(Transformers Bidirectional Encoder Representations)は、幅広い NLP タスクに精密に調整され、最先端のパフォーマンスを達成した強力な事前訓練された言語モデルです。"
+    },
+    {
+        "word": "Named Entity Recognition",
+        "description": "Named Entity Recognition(NER)は、人、組織、場所など、テキストにおける名付けされたエンティティの識別と分類を含むNLPのサブタスクです。"
+    },
+    {
+        "word": "Text Classification",
+        "description": "テキスト分類は、事前に定義されたカテゴリまたはラベルをテキストの部分に割り当て、しばしば感情分析、トピック分類、およびスパム検出に使用されます。"
+    },
+    {
+        "word": "Machine Translation",
+        "description": "機械翻訳は、機械学習技術を用いて一つの言語から別の言語にテキストを自動的に翻訳する作業であり、通常はこの目的のためにニューラルネットワークを使用する。"
+    },
+    {
+        "word": "Sequence-To-Sequence",
+        "description": "Sequence-to-Sequenceは、入力シーケンスを出力シーケンスにマッピングするニューラルネットワークアーキテクチャであり、一般に機械翻訳や他のシーケンス生成タスクに使用されます。"
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "Convolutional Neural Network (CNN) は、構造化されたグリッドのようなデータを処理するために特別に設計された深層学習モデルであり、一般的に画像およびビデオ認識に使用されます。"
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "Recurrent Neural Network (RNN) は、内部メモリを持つ神経ネットワークの一種で、連続データを処理し、過去の情報を記憶することを可能にします。"
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "LSTM(Long Short-Term Memory)は、長期依存を学ぶことができるRNNの種類で、長期の連続で情報を効果的にキャプチャし、記憶する。"
+    },
+    {
+        "word": "Generative Adversarial Network (Gan)",
+        "description": "Generative Adversarial Network (GAN) は、現実的なデータを生成するために互いに競い合うジェネレーターと差別装置の2つのモデルで構成される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Optimization Algorithm",
+        "description": "An Optimization Algorithm determines how the weights of a neural network are updated during training to minimize the loss function, such as Stochastic Gradient Descent (SGD) and Adam. 最適化アルゴリズムは、トレーニング中に神経ネットワークの重量がどのように更新されるかを決定します。"
+    },
+    {
+        "word": "Sigmoid Function",
+        "description": "Sigmoid 関数は、入力値を 0 から 1 までの範囲にマッピングするアクティベーション関数の一種であり、しばしばバイナリ分類モデルの出力層で使用される。"
+    },
+    {
+        "word": "Softmax Function",
+        "description": "Softmax Function は、神経ネットワークの最後の層の出力をスケールしてクラス間の確率分布を表すアクティベーション機能です。"
+    },
+    {
+        "word": "Mini-Batch",
+        "description": "Mini-Batch は、トレーニングのそれぞれのイーテレーション中にグループとして処理されるトレーニングデータセットのサブセットで、計算効率とグレディント精度のバランスをとります。"
+    },
+    {
+        "word": "Bias",
+        "description": "偏見は、ニューロンにおける入力の重量の合計に追加された恒久的な用語を指し、神経ネットワークが複雑な関係を学び、モデル化することを可能にします。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、計算アルゴリズムを使用して人間の言語を分析し、理解し、感情分析や機械翻訳などのタスクを可能にします。"
+    },
+    {
+        "word": "Computer Vision",
+        "description": "コンピュータビジョンは、画像やビデオなどの現実世界の視覚データを解釈し理解するためにコンピュータを教えることに焦点を当てている学際的な分野です。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "監督学習は、特定のターゲット変数を予測することを目的として、ラベル化されたデータを使用してモデルを訓練する機械学習の種類です。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "無監督学習は、データの中に隠されたパターンや構造を発見することを目的として、ラベルのないデータを使用してモデルを訓練する機械学習の種類です。"
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning は、モデルがラベル化されたデータとラベル化されていないデータの組み合わせを使用して訓練され、両方の種類の情報を利用する機械学習の種類です。"
+    },
+    {
+        "word": "Reinforcement Signal",
+        "description": "報酬または罰として知られる強化信号は、エージェントの行動の望ましいまたは望ましくないことを示すために強化学習に使用される信号です。"
+    },
+    {
+        "word": "Object Detection",
+        "description": "オブジェクト検出は、画像やビデオ内のオブジェクトを識別し、位置づけることを含むコンピュータビジョンタスクであり、しばしばFaster R-CNNやYOLOなどの深層学習モデルを使用して実現します。"
+    },
+    {
+        "word": "Natural Language Generation (Nlg)",
+        "description": "Natural Language Generation(NLG)は、チャットボットや言語翻訳システムで頻繁に使用される人間のようなテキストやスピーチの生成に焦点を当てた人工知能の分野です。"
+    },
+    {
+        "word": "Attention Mechanism",
+        "description": "注意メカニズムは、ニューラルアーキテクチャで、入力の関連する部分に焦点を当てるために使用されるコンポーネントであり、モデルが選択的にデータの異なる部分を処理し、重量化することができます。"
+    },
+    {
+        "word": "Capsule Network",
+        "description": "CapsNetとも呼ばれるカプセルネットワークは、伝統的なニューラルネットワークの限界を克服することを目的とした神経ネットワークアーキテクチャの一種で、エンティティをカプセルとして表し、等級的な関係をキャプチャする。"
+    },
+    {
+        "word": "Natural Language Understanding (Nlu)",
+        "description": "自然言語理解(NLU)は、感情分析やエンティティ認識などのタスクを含む人間言語の理解と解釈に焦点を当てたAIの分野です。"
+    },
+    {
+        "word": "Common Neural Network Architectures",
+        "description": "共通のニューラルネットワークアーキテクチャは、Feedforward Neural Networks、Recurrent Neural Networks、Convolutional Neural Networksなどの神経ネットワークの一般的で広く使用される構造や設計を指します。"
+    },
+    {
+        "word": "Word2Vec",
+        "description": "Word2Vecは、大量のテキストデータから単語埋め込みを学ぶための一般的なアルゴリズムです。"
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning は、深いニューラルネットワークと強化学習アルゴリズムを組み合わせて、複雑な環境でエージェントが学び、意思決定を行うことを可能にします。"
+    },
+    {
+        "word": "Recurrent Neural Networks (Rnn)",
+        "description": "Recurrent Neural Networks (RNN) は、回復的な接続を使用して連続データを処理することができるニューラルネットワークのクラスで、ネットワークが過去の入力から情報を保存し、使用することを可能にします。"
+    },
+    {
+        "word": "Image Recognition",
+        "description": "画像認識は、デジタル画像内のオブジェクトやパターンを識別し、分類することを含むコンピュータビジョンの分野であり、しばしば深層学習モデルを使用する。"
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "データプレプロセッサは、クリーニング、スケーリング、機能エンジニアリングなどのタスクを含む機械学習モデルに供給する前に原始データの変換と正常化を指します。"
+    },
+    {
+        "word": "Data Labeling",
+        "description": "Data Labeling は、原始データインスタンスに事前に定義されたカテゴリ的または数値を割り当てるプロセスで、監督された機械学習モデルが学習し、予測を行うことを可能にします。"
+    },
+    {
+        "word": "Reinforcement Learning (Rl)",
+        "description": "Reinforcement Learning (RL) は機械学習パラダイムで、エージェントは環境と相互作用し、報酬や罰の形でフィードバックを受けることによって決定を下すことを学びます。"
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "モデル評価は、機械学習モデルのパフォーマンスと有効性を評価し、しばしば正確性、精度、リコール、F1スコアなどのメトリックを使用します。"
+    },
+    {
+        "word": "Data Imbalance",
+        "description": "データ不均衡は、機械学習モデルの訓練に使用されるデータが歪曲され、いくつかのクラスまたはカテゴリは他のクラスよりも顕著に少ないインスタンスを持っている状況を指します。"
+    },
+    {
+        "word": "Fine-Tuning",
+        "description": "Fine-Tuning は、事前に訓練された機械学習モデルを採用し、そのパラメータやアーキテクチャを特定のタスクまたはドメインに適応させるプロセスです。"
+    },
+    {
+        "word": "Learning Rate Scheduler",
+        "description": "Learning Rate Schedulerは、トレーニング中に学習率をダイナミックに調整し、 konvergence を向上させ、より良いパフォーマンスを達成する深い学習の技術です。"
+    },
+    {
+        "word": "Deep Belief Networks (Dbn)",
+        "description": "深い信念ネットワーク(DBN)は、非監督の学習を使用して機能抽出を実行する確率生成モデルであり、深いアーキテクチャを形成するために積み重ねることができます。"
+    },
+    {
+        "word": "Normalization",
+        "description": "正常化は、入力データをゼロ平均と単位変数にスケールする深い学習のプロセスであり、ニューラルネットワークが学習し、融合しやすくなります。"
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) は、ジェネレーターと差別ネットワークで構成される深層学習モデルのクラスです。"
+    },
+    {
+        "word": "Word Embeddings",
+        "description": "Word embeddings are dense vector representations of words that capture the semantic meaning. Word embeddings are dense vector representations of words that capture the semantic meaning. Word embeddings are dense vector representations of words that capture the semantic meaning. Word embeddings are dense vector representations of words that capture the semantic meaning."
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "人工ニューラルネットワーク(ANNs)は、生物学的な脳のニューロンにインスピレーションを与えられたコンピューティングシステムで、さまざまな機械学習タスクに使用されます。"
+    },
+    {
+        "word": "Receptive Field",
+        "description": "A Receptive Field refers to the region in the input space that a particular feature of a neural network is looking at. 受容フィールドは、神経ネットワークの特定の機能が視察している入力スペースの領域を指します。"
+    },
+    {
+        "word": "Dropconnect",
+        "description": "DropConnect は、神経ネットワーク内の完全な接続が削除される Dropout の拡張です。"
+    },
+    {
+        "word": "Activation Map",
+        "description": "アクティベーションマップは、神経ネットワークの特定の層のニューロンの出力の視覚的表現です。"
+    },
+    {
+        "word": "Reconstruction Loss",
+        "description": "Reconstruction Loss は、モデルをトレーニングするために使用される自動エンコーダーの入力と出力の違いを測定します。"
+    },
+    {
+        "word": "Learning Rate Decay",
+        "description": "Learning Rate Decay は、トレーニング中に学習率を徐々に減らすために使用される技術です。"
+    },
+    {
+        "word": "Perceptron",
+        "description": "Perceptronは、単一のニューロンで構成される人工神経ネットワークの最も単純な形です。"
+    },
+    {
+        "word": "Tensorflow",
+        "description": "TensorFlowは、Googleが開発したオープンソースの深層学習フレームワークです。"
+    },
+    {
+        "word": "Pytorch",
+        "description": "PyTorchは、FacebookのAI研究ラボが開発し、維持するオープンソースの深層学習フレームワークです。"
+    },
+    {
+        "word": "Keras",
+        "description": "Keras は Python で書かれた高レベルのニューラルネットワーク API で、TensorFlow、Theano、または CNTK の上に実行できます。"
+    },
+    {
+        "word": "Theano",
+        "description": "Theanoは、深層学習モデルを構築し、訓練するために使用できる数値計算のためのPythonライブラリです。"
+    },
+    {
+        "word": "One-Hot Encoding",
+        "description": "One-Hot Encoding は、カテゴリ変数をバイナリベクター表示に変換するプロセスです。"
+    },
+    {
+        "word": "Feedforward Neural Network",
+        "description": "Feedforward Neural Network は、情報が入力から出力までの1つの方向に流れるニューラルネットワークの最も単純な形式です。"
+    },
+    {
+        "word": "Hyperparameters",
+        "description": "ハイパーパラメーターは、トレーニング前に設定され、データから学べない機械学習モデルのパラメーターです。"
+    },
+    {
+        "word": "Validation Set",
+        "description": "Validation Set は、トレーニングプロセス中にモデルのパフォーマンスを評価するために使用されるトレーニングデータの一部です。"
+    },
+    {
+        "word": "Test Set",
+        "description": "テストセットは、トレーニングプロセス中に使用されず、モデルの最終的なパフォーマンスを評価するためにのみ使用されるデータの一部です。"
+    },
+    {
+        "word": "Dropout Rate",
+        "description": "Dropout Rate は、トレーニング中にノードの出力をゼロにランダムに設定する確率です。"
+    },
+    {
+        "word": "Memory Network",
+        "description": "メモリーネットワークは、外部のメモリコンポーネントを使用して情報を格納および取得する神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Word-Level Attention",
+        "description": "単語レベルの注意は、自然言語処理で使用される技術で、重要な単語またはセクションの一部を強調する。"
+    },
+    {
+        "word": "Batch Size",
+        "description": "Batch Size は、グレディエントダウンアルゴリズムの1回のイーテレーションで使用されたトレーニング例の数を指します。"
+    },
+    {
+        "word": "Gradient Explosion",
+        "description": "グラディエント爆発は、トレーニング中に、グラディエントの値が非常に大きくなったときに起こります。"
+    },
+    {
+        "word": "Max Pooling",
+        "description": "Max Pooling は、入力の各空間領域から最大値を返すコンボルチュアルニューラルネットワークで使用される集合操作です。"
+    },
+    {
+        "word": "Adam Optimizer",
+        "description": "Adam Optimizer は、トレーニング中にニューラルネットワーク内の重量を更新するために一般に使用される最適化アルゴリズムです。"
+    }
+]

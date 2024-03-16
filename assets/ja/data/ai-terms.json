@@ -1,0 +1,658 @@
+[
+    {
+        "word": "AI",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "ML",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "NN",
+        "description": "ニューラルネットワーク(NN)は、人間の脳の構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "DL",
+        "description": "Deep Learning(DL)は、多くの層を持つニューラルネットワークを使用する機械学習のサブセットです。"
+    },
+    {
+        "word": "NLP",
+        "description": "自然言語処理(NLP)とは、自然言語を用いたコンピュータと人間の相互作用を意味します。"
+    },
+    {
+        "word": "CV",
+        "description": "コンピュータビジョン(CV)は、コンピュータが視覚情報を解釈し理解できるようにすることに焦点を当てたAIの分野です。"
+    },
+    {
+        "word": "RL",
+        "description": "Reinforcement Learning(RL)は、エージェントが試行錯誤で意思決定を学ぶ機械学習の種類です。"
+    },
+    {
+        "word": "GAN",
+        "description": "Generative Adversarial Network(GAN)は、監督されていない機械学習に使用されるAIアルゴリズムのクラスです。"
+    },
+    {
+        "word": "AGI",
+        "description": "Artificial General Intelligence (AGI) は、あらゆる分野で知識を理解し、学習し、適用する能力を持つ仮想AIを指します。"
+    },
+    {
+        "word": "IoT",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、およびその他のテクノロジーで組み込まれた物理デバイスのネットワークを指します。"
+    },
+    {
+        "word": "AR",
+        "description": "拡張現実(AR)は、スマートフォンやARメガネなどのデバイスを通じて、デジタル情報を現実世界に覆う技術です。"
+    },
+    {
+        "word": "VR",
+        "description": "仮想現実(VR)は、現実世界と類似するか、または完全に異なるシミュレート体験です。"
+    },
+    {
+        "word": "AGI",
+        "description": "Artificial General Intelligence(AGI)は、人間の知性に類似するあらゆる分野の知識を理解し、学習し、適用できるタイプのAIです。"
+    },
+    {
+        "word": "API",
+        "description": "アプリケーションプログラミングインターフェイス(API)は、ソフトウェアアプリケーションの構築と相互作用のためのルールとプロトコルのセットです。"
+    },
+    {
+        "word": "ANN",
+        "description": "人工ニューラルネットワーク(ANN)は、生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "SVM",
+        "description": "サポートベクターマシン(SVM)は、分類と回帰分析に使用される監督された機械学習アルゴリズムです。"
+    },
+    {
+        "word": "CNN",
+        "description": "Convolutional Neural Network (CNN) は、画像認識と分類のタスクで一般的に使用される神経ネットワークの一種です。"
+    },
+    {
+        "word": "RNN",
+        "description": "Recurrent Neural Network (RNN) は、データの順序におけるパターンを認識するように設計された神経ネットワークの一種です。"
+    },
+    {
+        "word": "LSTM",
+        "description": "LSTM(Long Short-Term Memory)は、長期依存を学習する能力のある反復神経ネットワークの一種です。"
+    },
+    {
+        "word": "BERT",
+        "description": "BID(Bidirectional Encoder Representations from Transformers)は、Googleが開発した自然言語処理モデルです。"
+    },
+    {
+        "word": "GPT",
+        "description": "Generative Pre-Trained Transformer(GPT)は、人間のようなテキストを生成する能力で知られる深層学習モデルの一種です。"
+    },
+    {
+        "word": "TF",
+        "description": "TensorFlow(TF)は、Googleが開発したオープンソースの機械学習フレームワークです。"
+    },
+    {
+        "word": "PyTorch",
+        "description": "PyTorchは、FacebookのAI研究ラボによって開発されたオープンソースの機械学習ライブラリです。"
+    },
+    {
+        "word": "XAI",
+        "description": "説明可能な人工知能(XAI)は、人間が意思決定や行動を理解できるAIシステムを指します。"
+    },
+    {
+        "word": "MLaaS",
+        "description": "Machine Learning as a Service(MLaaS)とは、機械学習ツールとインフラを提供するクラウドベースのプラットフォームを指します。"
+    },
+    {
+        "word": "RPA",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットを使用して繰り返しのタスクやプロセスを自動化することを指します。"
+    },
+    {
+        "word": "CaaS",
+        "description": "Conversational AI as a Service(CaaS)とは、会話型AI機能を提供するクラウドベースのプラットフォームを指します。"
+    },
+    {
+        "word": "DNN",
+        "description": "Deep Neural Network(DNN)は、入力層と出力層の間の複数の層を持つニューラルネットワークです。"
+    },
+    {
+        "word": "IoMT",
+        "description": "医療機器のインターネット(IoMT)とは、インターネットを通じて医療のITシステムに接続された医療機器やアプリケーションを指します。"
+    },
+    {
+        "word": "IoP",
+        "description": "人々のインターネット(IoP)は、着用可能なデバイスや個人テクノロジーを通じて個人をインターネットに接続するという概念を指します。"
+    },
+    {
+        "word": "VA",
+        "description": "仮想アシスタント(VA)は、通常、音声コマンドを通じて、個人のためにタスクやサービスを実行できるAI駆動のソフトウェアプログラムです。"
+    },
+    {
+        "word": "Siri",
+        "description": "SiriはAppleが開発した仮想アシスタントで、自然言語処理と音声認識技術を使用しています。"
+    },
+    {
+        "word": "Alexa",
+        "description": "AlexaはAmazonが開発した仮想アシスタントで、Amazon Echoスマートスピーカーとの統合で知られています。"
+    },
+    {
+        "word": "Cortana",
+        "description": "Cortana は、Microsoft によって開発された仮想アシスタントで、さまざまな Microsoft 製品とプラットフォームで利用できます。"
+    },
+    {
+        "word": "Watson",
+        "description": "Watsonは、IBMが開発したAIシステムで、自然言語で質問に答える能力で知られています。"
+    },
+    {
+        "word": "Autonomous Vehicle",
+        "description": "自動運転車(AV)とは、人間の介入なしで航行・運転できる車両です。"
+    },
+    {
+        "word": "Deepfake",
+        "description": "ディープファイクは、既存の画像やビデオの1人が他人の似たものに置き換えられる合成メディアを作成するためのテクニックです。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録するために使用される分散型および分散型デジタルレジャー技術です。"
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "暗号通貨は、セキュリティのために暗号化を使用し、中央銀行から独立して動作するデジタルまたは仮想通貨です。"
+    },
+    {
+        "word": "Smart Contract",
+        "description": "スマート契約は、購入者と販売者間の契約の条項が直接コードで書かれた自発履行契約です。"
+    },
+    {
+        "word": "Quantum Computing",
+        "description": "量子コンピューティングは、量子粒子の量子状態を利用してデータ上の操作を実行するタイプのコンピューティングです。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、コンピューティングとデータストレージを必要な場所に近づける分散型コンピューティングパラダイムです。"
+    },
+    {
+        "word": "Federated Learning",
+        "description": "Federated Learningは、複数の分散型エッジデバイスまたはローカルデータサンプルを保有するサーバーでモデルを訓練する機械学習アプローチです。"
+    },
+    {
+        "word": "Explainability",
+        "description": "説明性とは、AIシステムが人間に理解できる方法で意思決定や行動を説明する能力を指します。"
+    },
+    {
+        "word": "Ethical AI",
+        "description": "倫理的なAIは、開発と使用を指します。"
+    },
+    {
+        "word": "Algorithm",
+        "description": "AIまたはMLシステムに与えられたルールまたは指示のセットで、データから学ぶのを助ける。"
+    },
+    {
+        "word": "ANN",
+        "description": "人工ニューラルネットワークは、複雑なデータ入力を処理するためのさまざまな機械学習アルゴリズムのフレームワークです。"
+    },
+    {
+        "word": "Backpropagation",
+        "description": "人工ニューラルネットワークで使用される方法は、データのバッチが処理された後、各ニューロンのエラーの貢献を計算する。"
+    },
+    {
+        "word": "Bias",
+        "description": "学習アルゴリズムの仮定による予測における体系的なエラー。"
+    },
+    {
+        "word": "Big Data",
+        "description": "パターン、トレンド、および関連を明らかにするために計算的に分析することができる非常に大きなデータセット。"
+    },
+    {
+        "word": "Classification",
+        "description": "出力がカテゴリである監督された学習技術。"
+    },
+    {
+        "word": "Clustering",
+        "description": "データで発見されたパターンがデータポイントをグループ化するために使用される監督されていない学習技術。"
+    },
+    {
+        "word": "CNN",
+        "description": "Convolutional Neural Network, a deep learning algorithm that can take in an input image, assign importance to various aspects/objects in the image. 入力画像を取ることができる深い学習アルゴリズムは、画像のさまざまな側面/オブジェクトに重要性を付与します。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "大量のデータからパターンや知識を発見するプロセス。"
+    },
+    {
+        "word": "Data Science",
+        "description": "科学的方法、プロセス、アルゴリズム、およびシステムを使用して、構造化されたおよび非構造化されたデータから知識と洞察を抽出する学際的な分野です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "人工知能における機械学習のサブセットで、非構造化またはラベル化されたデータから監督されない学習を可能にするネットワークがあります。"
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "description": "検討中のランダム変数の数を減らすプロセスで、主要変数のセットを得る。"
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "複数の機械学習アルゴリズムから得た予測を組み合わせて、個々のモデルよりも正確な予測を行う技術です。"
+    },
+    {
+        "word": "Feature",
+        "description": "観察されている現象の個々の測定可能な属性または特徴。"
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "ドメイン知識を使用して、原始データから機能を抽出するプロセス。"
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "原始データをモデルのトレーニングに使用できる機能のセットに変換するプロセス。"
+    },
+    {
+        "word": "GAN",
+        "description": "Generative Adversarial Networkは、2つのニューラルネットワークによって設計された機械学習フレームワークのクラスで、1つは候補者を生成し、もう1つはそれらを評価する。"
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "A optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. 最適化アルゴリズムは、階段のネガティブによって定義された最寄りの下落の方向に反復的に移動することによって、いくつかの機能を最小限にします。"
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "学習プロセスが始まる前に値を設定するパラメータ。"
+    },
+    {
+        "word": "Inference",
+        "description": "予測をするために訓練されたモデルを使用するプロセス。"
+    },
+    {
+        "word": "K-means",
+        "description": "機能の類似性に基づいてデータポイントのセットをkグループに分割する一般的なクラスターアルゴリズム。"
+    },
+    {
+        "word": "Labeled Data",
+        "description": "特定の属性またはカテゴリを識別する1つ以上のラベルでタグ付けされたデータ。"
+    },
+    {
+        "word": "Loss Function",
+        "description": "特定のアルゴリズムがデータをどのようによくモデリングするかを評価する方法。"
+    },
+    {
+        "word": "Machine Perception",
+        "description": "コンピュータシステムがデータを解釈する能力は、人間が周囲の世界と関係するために感覚を使用する方法に似ている。"
+    },
+    {
+        "word": "Model",
+        "description": "機械学習では、モデルは、AIシステムがトレーニングデータから学んだことを表しています。"
+    },
+    {
+        "word": "Natural Language Processing (NLP)",
+        "description": "人工知能の分野は、機械に人間の言語から読み、理解し、意味を引き出す能力を与える。"
+    },
+    {
+        "word": "Neuron",
+        "description": "ニューラルネットワークにおける計算の基本単位。"
+    },
+    {
+        "word": "Normalization",
+        "description": "ピクセルの強度値の範囲を変更するプロセス。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "機能がデータポイントの限られたセットにあまりにも密接に適合した場合に発生するモデリングエラー。"
+    },
+    {
+        "word": "Precision",
+        "description": "A measure of a classifier's accuracy. The higher the precision, the more accurate the classifier. 分類器の精度の測定です。"
+    },
+    {
+        "word": "Random Forest",
+        "description": "分類、回帰およびその他のタスクのための集合学習方法で、トレーニング時に多数の意思決定樹を構築することによって動作します。"
+    },
+    {
+        "word": "Recurrent Neural Network (RNN)",
+        "description": "ノード間の接続がタイムシーケンスに沿って指向グラフを形成する人工ニューラルネットワークのクラス。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "機械学習技術は、アルゴリズムが自分の行動や経験からのフィードバックを使用して試行錯誤を通じて学ぶことを可能にするタイプです。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "機械学習アルゴリズムの一種で、既知のデータセット(トレーニングデータセット)を使用して予測を行う。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "事前に訓練されたモデルを新しい問題に再利用し、その構造を調整したり、重量を細かく調整したりする練習。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "タグされていないデータからパターンを学ぶアルゴリズムの一種です。"
+    },
+    {
+        "word": "Validation Set",
+        "description": "予測関係の強さと有用性を評価するために使用されるデータのセット。"
+    },
+    {
+        "word": "Variance",
+        "description": "A measure of the variability of model prediction for a given data point. あるデータポイントのモデル予測の変動性の測定。"
+    },
+    {
+        "word": "Zero-shot Learning",
+        "description": "機械がこれまで見たことのない物体や活動を認識する能力。"
+    },
+    {
+        "word": "Autoencoder",
+        "description": "非ラベル化データの効率的なコーディングを学習するために使用される人工ニューラルネットワークの種類、典型的には次元性を減らす目的で使用される。"
+    },
+    {
+        "word": "Bayesian Networks",
+        "description": "確率計算用にベイエズ推定を用いる確率グラフィックモデル。"
+    },
+    {
+        "word": "Capsule Networks",
+        "description": "学習の効率性と精度を向上させることを目的とする人工ニューラルネットワークの種類で、特徴間の空間的階層を理解すること。"
+    },
+    {
+        "word": "Decision Trees",
+        "description": "木のようなグラフや決定モデルとその可能な結果を使用する意思決定サポートツール。"
+    },
+    {
+        "word": "Embedding",
+        "description": "A representation of data where elements with a similar meaning have a similar representation in vector space. 同じ意味を持つ要素がベクトル空間で似た表現を有するデータの表示。"
+    },
+    {
+        "word": "Evolutionary Algorithms",
+        "description": "再生、変異、再結合、選択などの生物学的進化にインスピレーションを与えたメカニズムを使用するアルゴリズム。"
+    },
+    {
+        "word": "Explainable AI (XAI)",
+        "description": "人工知能と機械学習技術は、その出力について人間が理解できる説明を提供する。"
+    },
+    {
+        "word": "Federated Learning",
+        "description": "モデルが複数の分散型デバイスまたはローカルデータサンプルを保有するサーバーでトレーニングされる機械学習設定で、それらを交換することなく。"
+    },
+    {
+        "word": "General Adversarial Networks (GANs)",
+        "description": "二つのニューラルネットワークを統合して設計された機械学習フレームワークのクラスで、トレーニングセットと同じ統計を用いて新しいデータを生成するために互いに競合する。"
+    },
+    {
+        "word": "Heuristics",
+        "description": "古典的な方法が遅すぎるときに問題をより速く解決するために設計された技術、または古典的な方法が正確な解決策を見つけることができなかったときに、およそ解決策を見つけるために設計された技術。"
+    },
+    {
+        "word": "Instance-based Learning",
+        "description": "明示的な一般化を行う代わりに、新しい問題のインスタンスをトレーニングで見たインスタンスと比較する学習アルゴリズムの家族です。"
+    },
+    {
+        "word": "Jaccard Index",
+        "description": "サンプルセットの類似性と多様性を測定するために使用される統計。"
+    },
+    {
+        "word": "Knowledge Graph",
+        "description": "Googleとそのサービスが、さまざまなソースから収集された情報で検索エンジンの結果を向上させるために使用する知識ベースです。"
+    },
+    {
+        "word": "Latent Variable",
+        "description": "直接観察されるものではなく、直接観察され、測定される他の変数から推定される。"
+    },
+    {
+        "word": "Markov Decision Processes (MDP)",
+        "description": "結果が部分的にランダムで部分的に決定者のコントロール下にある状況における意思決定のモデリングのための数学的枠組み。"
+    },
+    {
+        "word": "Natural Language Understanding (NLU)",
+        "description": "機械読み取り理解に焦点を当てた自然言語処理の分野。"
+    },
+    {
+        "word": "Optical Character Recognition (OCR)",
+        "description": "機械的または電子的に、印刷された、手書きまたは印刷されたテキストの画像を機械的に暗号化されたテキストに変換する。"
+    },
+    {
+        "word": "Principal Component Analysis (PCA)",
+        "description": "正方形変換を使用して、潜在的に関連する変数の観測のセットを、線形的に関連しない変数の値のセットに変換する統計的手順。"
+    },
+    {
+        "word": "Quantum Machine Learning",
+        "description": "量子物理学と機械学習の交差点にある新興の学際的な研究分野。"
+    },
+    {
+        "word": "Recurrent Neural Network (RNN)",
+        "description": "A class of artificial neural networks where connections between units form a directed graph along a sequence, allowing it to exhibit temporal dynamic behavior. 人工のニューラルネットワークのクラスで、ユニット間の接続が一連の序列に沿って指向されたグラフを形成し、時間的なダイナミックな行動を示すことができます。"
+    },
+    {
+        "word": "Semi-supervised Learning",
+        "description": "機械学習のタスクとテクニックのクラスで、トレーニングに非ラベル化データも使用する - 通常は、大量の非ラベル化データを含む小さな量のラベル化データです。"
+    },
+    {
+        "word": "Tokenization",
+        "description": "文字の連続をトークンの連続に変換するプロセス。"
+    },
+    {
+        "word": "Unstructured Data",
+        "description": "事前定義されたデータモデルがないか、または事前定義された方法で組織されていない情報。"
+    },
+    {
+        "word": "Variational Autoencoder (VAE)",
+        "description": "潜在空間における観測を記述する確率的な方法を提供する自動エンコーダの種類。"
+    },
+    {
+        "word": "Weak AI",
+        "description": "特定のタスクのために設計され訓練された人工知能。"
+    },
+    {
+        "word": "XGBoost",
+        "description": "高効率性、柔軟性、携帯性の高いように設計された最適化された分散型グレディエントブースライブラリ。"
+    },
+    {
+        "word": "Yield Prediction",
+        "description": "機械学習技術の応用は、作物の収穫、製造プロセス、またはその他の生産プロセスを予測する。"
+    },
+    {
+        "word": "Zero-shot Learning",
+        "description": "機械学習技術は、モデルが明示的に訓練されていないデータ内のオブジェクト、シーン、またはコンセプトを認識することができる。"
+    },
+    {
+        "word": "Active Learning",
+        "description": "機械学習のアプローチは、モデルが不確実であるか、または最も情報性があると考えるデータを識別し、ユーザーまたはオラクルにそれらをラベル化するよう要求する。"
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "人工ニューラルネットワークの速度、パフォーマンス、および安定性を改善するための技術は、各層の入力を正常化することによって。"
+    },
+    {
+        "word": "Curriculum Learning",
+        "description": "機械学習の方法論で、モデルが課題の難易度を徐々に高める方法で訓練される。"
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "トレーニングモデルのためのデータの多様性を増やすために使用された戦略で、実際には新しいデータを収集することなく。"
+    },
+    {
+        "word": "Embedding Layer",
+        "description": "ニューラルネットワークの層は、薄いカテゴリ的なデータを機械学習に適した密集した埋め込まれた表現に変換するために使用される。"
+    },
+    {
+        "word": "Feature Scaling",
+        "description": "独立変数またはデータの特性の範囲を正常化するために使用される方法。"
+    },
+    {
+        "word": "Genetic Algorithms",
+        "description": "自然選択のプロセスを模し、最適化と検索の問題に有用なソリューションを生成する検索エウリスティクス。"
+    },
+    {
+        "word": "Hierarchical Clustering",
+        "description": "クラスター分析の方法で、クラスターの階層を構築することを目指します。"
+    },
+    {
+        "word": "Imbalanced Learning",
+        "description": "一つのクラスが他のクラスと比較して大幅に不足しているデータセットに対処し、モデルトレーニングを挑戦させます。"
+    },
+    {
+        "word": "Joint Learning",
+        "description": "複数のタスクが同時に学習され、表現を共有する学習パラダイム。"
+    },
+    {
+        "word": "Knowledge Distillation",
+        "description": "小型モデルが、より大きな、事前訓練されたモデルを模するように訓練されるテクニックです。"
+    },
+    {
+        "word": "Long Short-Term Memory (LSTM)",
+        "description": "長期依存を学ぶことができる特別な種類のRNN。"
+    },
+    {
+        "word": "Model Compression",
+        "description": "機械学習モデルのサイズを大幅に減らすことなく減らすための技術。"
+    },
+    {
+        "word": "Noise Reduction",
+        "description": "データ前処理における信号からの騒音を取り除くプロセス。"
+    },
+    {
+        "word": "Outlier Detection",
+        "description": "ほとんどのデータと大きく異なるデータポイントを識別する。"
+    },
+    {
+        "word": "Pooling Layer",
+        "description": "ニューラルネットワーク内の層で、ニューラルクラスターの出力を組み合わせることによってデータの次元性を減らす。"
+    },
+    {
+        "word": "Quantization",
+        "description": "モデル圧縮で使用される数を表すビットの数を減らすプロセス。"
+    },
+    {
+        "word": "Reinforcement Learning Environment",
+        "description": "強化学習モデルが相互作用し、学習する文脈または設定。"
+    },
+    {
+        "word": "Sparse Representation",
+        "description": "ほとんどの要素がゼロであるマトリックス形式でデータを表す方法。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "既に学習した関連するタスクからの知識の転送を通じて、新しいタスクでの学習を改善する。"
+    },
+    {
+        "word": "Unsupervised Pre-training",
+        "description": "大規模な監督されていないデータセットでモデルを訓練して、下流のタスクに役立つ一般的な機能を学ぶことができます。"
+    },
+    {
+        "word": "Variance Reduction",
+        "description": "モデルの予測エラーの変数を減らすために使用される技術。"
+    },
+    {
+        "word": "Weight Initialization",
+        "description": "人工ニューラルネットワークの初期重量を設定する方法を選択する。"
+    },
+    {
+        "word": "XAI Techniques",
+        "description": "AIと機械学習モデルの結果を人間により理解できるようにするために説明可能な人工知能で使用される方法。"
+    },
+    {
+        "word": "Yielding Insights",
+        "description": "データ分析やモデル予測から実行可能かつ有意義な情報を得るプロセス。"
+    },
+    {
+        "word": "Zero-data Learning",
+        "description": "モデルが、関連するデータなしに、目に見えないカテゴリの性質を賢く推測できる学習の形態です。"
+    },
+    {
+        "word": "Adversarial Attack",
+        "description": "悪意のある入力を通じてモデルを騙すためのテクニックです。"
+    },
+    {
+        "word": "Belief Networks",
+        "description": "変数の集合間の確率関係を表すグラフィックモデル。"
+    },
+    {
+        "word": "Catastrophic Forgetting",
+        "description": "ニューラルネットワークの傾向は、新しい情報を学ぶときに以前から学んだ情報を忘れる傾向です。"
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "分散システムを研究するコンピュータサイエンスの分野です。"
+    },
+    {
+        "word": "Exponential Smoothing",
+        "description": "A rule of thumb technique for smoothing time series data, for recursively applying as many as three smoothing constants. タイムシリーズデータを平らげるために、特に3つの平らげる常数を繰り返し適用するために。"
+    },
+    {
+        "word": "Fine-tuning",
+        "description": "既存のモデルのパラメータを調整し、特定のタスクでより良いパフォーマンスを実現させるプロセス。"
+    },
+    {
+        "word": "Gradient Checking",
+        "description": "A procedure used to verify the correctness of the backpropagation process by comparing the gradient calculated using backpropagation against a numerically estimated gradient. バックプロパガンダプロセスの正しさを確認するための手順です。"
+    },
+    {
+        "word": "Hyperparameter Tuning",
+        "description": "機械学習モデルのトレーニングプロセスを支配するパラメータを最適化するプロセス。"
+    },
+    {
+        "word": "Imputation",
+        "description": "欠けているデータを置き換えた値に置き換えるプロセス。"
+    },
+    {
+        "word": "Jacobian Matrix",
+        "description": "A matrix of all first-order partial derivatives of a vector-valued function. Vector-valued function. Vector-valued function. Vector-valued function."
+    },
+    {
+        "word": "Kernel Methods",
+        "description": "パターン分析のためのアルゴリズムのクラスで、その最も有名なメンバーはサポートベクターマシンである。"
+    },
+    {
+        "word": "Learning Rate",
+        "description": "モデル重量を更新するたびに、推定エラーに応じてモデルをどれだけ変更するかを制御するハイパーパラメータ。"
+    },
+    {
+        "word": "Multilayer Perceptron (MLP)",
+        "description": "ANN(Feedforward Artificial Neural Network)とは、"
+    },
+    {
+        "word": "Normalization",
+        "description": "ピクセルの強度値の範囲を変更するプロセス。"
+    },
+    {
+        "word": "Objective Function",
+        "description": "モデルがトレーニングプロセス中に最小化または最大化することを目指す機能です。"
+    },
+    {
+        "word": "Partial Dependence Plot",
+        "description": "A graphical representation of the marginal effect of a variable on a response in a statistical model. 統計モデルの応答に対する変数の限界効果のグラフィカルな表現。"
+    },
+    {
+        "word": "Quantile Regression",
+        "description": "統計学およびエコノメトリックで使用される回帰分析の種類で、ユーザーが応答変数の条件平均または量子を推定することを可能にします。"
+    },
+    {
+        "word": "Regularization",
+        "description": "モデルの異なるパラメータに罰金を加えるプロセスで、モデルの自由度を減らすことによって装備が過剰になる。"
+    },
+    {
+        "word": "Stochastic Gradient Descent (SGD)",
+        "description": "Gradient descent optimizationのストーハスティックなアプローチと、深層学習モデルのトレーニングのための標準アルゴリズム。"
+    },
+    {
+        "word": "Temporal Difference Learning",
+        "description": "値関数の現在の推定からブートストラップして学ぶ予測方法。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "トレーニングデータをモデル化したり、新しいデータに一般化したりできないモデルです。"
+    },
+    {
+        "word": "Variational Inference",
+        "description": "バイエス機械学習のテクニックで、最適化を用いて、確率モデルの後方分布を比較する。"
+    },
+    {
+        "word": "Word Embedding",
+        "description": "密集ベクター表示を使用して単語や文書を表すためのアプローチのクラス。"
+    },
+    {
+        "word": "XOR Problem",
+        "description": "ニューラルネットワーク研究における問題であり、単一のレイヤーのperceptronによって解決できないため顕著である。"
+    },
+    {
+        "word": "Yielding Strategy",
+        "description": "変化する環境やフィードバックループに基づいて動的にアクションを調整できる機械学習モデルのアプローチ。"
+    },
+    {
+        "word": "Z-Score Normalization",
+        "description": "A technique used to normalize the features of a dataset by subtracting the mean and dividing by the standard deviation. データセットの特徴を平均と標準偏差で分割することによって正常化するためのテクニック。"
+    }
+]

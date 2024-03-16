@@ -1,0 +1,470 @@
+[
+    {
+        "word": "Social Media Analytics",
+        "description": "ソーシャルメディア分析とは、ソーシャルメディアプラットフォームからデータを収集し、分析し、解釈し、洞察を獲得し、明確な決定を下すことを指します。"
+    },
+    {
+        "word": "Sentiment Analysis",
+        "description": "Sentiment Analysis は、ソーシャルメディアの投稿や顧客レビューなどのテキストデータで表現される感情や感情を識別し分析するためのテクニックです。"
+    },
+    {
+        "word": "Social Listening",
+        "description": "Social Listeningは、特定のブランド、製品、または業界に関する洞察を得るためにソーシャルメディアプラットフォームを監視し分析するプロセスを指します。"
+    },
+    {
+        "word": "Engagement Rate",
+        "description": "関与率は、通常、パーセントとして表現されるソーシャルメディアコンテンツとの視聴者相互作用と関与のレベルを測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "Social Media Monitoring",
+        "description": "ソーシャルメディアモニタリングは、ソーシャルメディアプラットフォームを追跡し、聴く、特定のトピックやキーワードの言及を分析する継続的なプロセスです。"
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "影響力のあるマーケティングは、ソーシャルメディアで影響力のある人々と提携して、製品、サービス、またはブランドを彼らの観客に促進することを含む戦略です。"
+    },
+    {
+        "word": "Reach",
+        "description": "Reach は、特定のソーシャルメディア投稿または広告を閲覧したユニークなユーザーまたはアカウントの合計数を指します。"
+    },
+    {
+        "word": "Impressions",
+        "description": "インプレッションは、ソーシャルメディアの投稿や広告がユーザーの画面に表示された合計回数であり、クリックされたか否かに関係なく表示されます。"
+    },
+    {
+        "word": "Engagement",
+        "description": "関与とは、ソーシャルメディアの投稿への応答としてユーザーが行うあらゆるアクション、例えば、お気に入り、コメント、シェア、またはクリックを指します。"
+    },
+    {
+        "word": "Virality",
+        "description": "ウイルス性とは、ソーシャルメディアの投稿やコンテンツがプラットフォーム全体で迅速かつ広く広がる程度を指し、しばしば関与と共有の高いレベルの結果です。"
+    },
+    {
+        "word": "Click-Through Rate (Ctr)",
+        "description": "Click-Through Rate は、ソーシャルメディアの投稿や広告が受信するクリック数と表示回数の比率です。"
+    },
+    {
+        "word": "Conversion Rate",
+        "description": "コンバージョン率は、ソーシャルメディアの投稿や広告をクリックした後、購入やフォームの記入などの望ましいアクションを完了したユーザーの割合を測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "User-Generated Content (Ugc)",
+        "description": "ユーザー生成コンテンツとは、ユーザーがソーシャルメディアプラットフォーム上で作成し、共有するテキスト、画像、またはビデオなどのコンテンツのあらゆる形態です。"
+    },
+    {
+        "word": "Influence Score",
+        "description": "影響力スコアは、個人やアカウントがソーシャルメディアに持つ影響力のレベルを示す数値であり、しばしばフォロワー、関与、および範囲などの要因に基づいて計算されます。"
+    },
+    {
+        "word": "Hashtag",
+        "description": "ハッシュタグは、ソーシャルメディアプラットフォームで類別化し、類似のテーマやトピックを持つ投稿をグループ化するために使用される#シンボルに先立つ単語またはフレーズです。"
+    },
+    {
+        "word": "Trending Topics",
+        "description": "トレンドトピックは、ソーシャルメディアプラットフォーム上で一般的で広く議論されているトピックであり、しばしば特定の時間枠内で言及や関与の大幅な増加によって示されています。"
+    },
+    {
+        "word": "Geolocation",
+        "description": "地理位置は、個人、デバイス、またはソーシャルメディアの投稿の地理的位置を識別し、決定するプロセスを指します。"
+    },
+    {
+        "word": "Key Performance Indicators (Kpis)",
+        "description": "キーパフォーマンス指標は、ソーシャルメディアマーケティングキャンペーンのパフォーマンスと成功を測定するために使用される特定の指標です。"
+    },
+    {
+        "word": "Social Media Engagement",
+        "description": "ソーシャルメディア関与は、ユーザーがソーシャルメディアプラットフォーム上のブランドやコンテンツとどのように相互作用するかを測定する方法であり、典型的には、お気に入り、コメント、共有、クリックを通じてです。"
+    },
+    {
+        "word": "Share Of Voice",
+        "description": "声の割合は、特定のソーシャルメディア空間におけるその競争相手と比較してブランドまたは製品が受け取る会話または言及の割合を指します。"
+    },
+    {
+        "word": "Social Media Influence",
+        "description": "ソーシャルメディアの影響力とは、個人、ブランド、またはアカウントがソーシャルメディア上で他人の考え、意見、行動に説得したり影響を与える能力です。"
+    },
+    {
+        "word": "Reachability",
+        "description": "アクセシビリティは、ソーシャルメディアチャンネルを通じて視聴者に到達したり影響を与えることができる程度を測定するメトリックです。"
+    },
+    {
+        "word": "Engagement Rate Optimization",
+        "description": "関与率最適化は、関与レベルとソーシャルメディアコンテンツとのインタラクションレベルを高めるための戦略とテクニックを含み、より高い関与率につながります。"
+    },
+    {
+        "word": "Social Media Campaign",
+        "description": "ソーシャルメディアキャンペーンは、特定のビジネス目標を達成することを目的としたソーシャルメディアプラットフォーム上のマーケティング努力と活動の調整されたシリーズです。"
+    },
+    {
+        "word": "Social Media Listening Tools",
+        "description": "ソーシャルメディアの聴取ツールは、ソーシャルメディアの会話や言及から情報の監視、分析、抽出を可能にするソフトウェアまたはプラットフォームです。"
+    },
+    {
+        "word": "Social Media Sentiment Analysis",
+        "description": "ソーシャルメディアの感情分析は、ソーシャルメディアのデータを分析して、ブランド、製品、またはトピックに対する全体的な感情や意見を決定するプロセスです。"
+    },
+    {
+        "word": "Brand Advocacy",
+        "description": "Brand Advocacyは、ソーシャルメディア上の顧客やファンによるブランドまたは製品の促進とサポートを指します。"
+    },
+    {
+        "word": "Competitor Analysis",
+        "description": "競合相手分析とは、競合相手のソーシャルメディア活動と戦略を監視し、分析し、洞察を得、機会を特定し、パフォーマンスをベンチマークすることです。"
+    },
+    {
+        "word": "Social Media Metrics",
+        "description": "ソーシャルメディアメトリックは、ソーシャルメディアマーケティングキャンペーンのパフォーマンス、影響、および効果を測定する測定可能な値です。"
+    },
+    {
+        "word": "Social Media Listening Strategies",
+        "description": "ソーシャルメディアの聴取戦略は、モニタリング、分析、ソーシャルメディアの会話やブランド、業界、またはトピックに関連する言及から洞察を得るために使用される計画されたアプローチと戦術です。"
+    },
+    {
+        "word": "In-Platform Analytics",
+        "description": "プラットフォーム内アナリティクスとは、ソーシャルメディアプラットフォームが提供する組み込みの分析および測定機能を指し、ユーザーがプラットフォーム内で投稿またはコンテンツのパフォーマンスを追跡および分析することができます。"
+    },
+    {
+        "word": "Benchmarking",
+        "description": "Benchmarkingは、業界の基準、競争相手、または以前のキャンペーンに対して、ブランドのソーシャルメディア活動のパフォーマンスと成功を比較し、測定するプロセスです。"
+    },
+    {
+        "word": "Social Media Listening Dashboard",
+        "description": "ソーシャルメディア聴取ダッシュボードは、リアルタイムまたは歴史的なソーシャルメディアデータを視覚的に表示し、モニタリングと意思決定のための洞察と分析を提供します。"
+    },
+    {
+        "word": "Social Media Roi",
+        "description": "ソーシャルメディアのROI(Return on Investment)は、投資された資源と比較して得られた収益または利益を測定することによって、ソーシャルメディアキャンペーンの価値と収益性を評価するために使用されるメトリックです。"
+    },
+    {
+        "word": "Social Media Analytics Tools",
+        "description": "ソーシャルメディア分析ツールは、ソーシャルメディアデータの収集、監視、分析、報告のための機能を提供するソフトウェアまたはプラットフォームです。"
+    },
+    {
+        "word": "Audience Segmentation",
+        "description": "視聴者セグメントは、特定の特徴、行動、人口統計、または興味に基づいて、ターゲット視聴者を異なるグループに分割するプロセスです。"
+    },
+    {
+        "word": "Engagement Analytics",
+        "description": "Engagement Analytics は、ユーザーとブランドまたはソーシャルメディアアカウント間の相互作用、関与、コミュニケーションのレベルを測定し分析するプロセスです。"
+    },
+    {
+        "word": "Mentions",
+        "description": "メモは、ブランド、製品、またはキーワードが直接的または間接的にソーシャルメディアプラットフォームで参照または言及されている場合を指します。"
+    },
+    {
+        "word": "Conversation Analysis",
+        "description": "会話分析は、ソーシャルメディアの会話や議論を調査し分析し、洞察を得、パターン、感情、テーマを理解するプロセスです。"
+    },
+    {
+        "word": "Tagging",
+        "description": "タグ化は、ソーシャルメディアの投稿やコンテンツにキーワード、ハッシュタグ、またはメタデータをラベル化または追加し、それらをより発見可能にするか、特定のトピックに基づいてカテゴリ化するプロセスです。"
+    },
+    {
+        "word": "Social Media Listening Techniques",
+        "description": "Social Media Listening Techniquesは、ソーシャルメディアのデータを収集、分析、解釈する方法とアプローチで、洞察を獲得し、意思決定プロセスを通知します。"
+    },
+    {
+        "word": "Bounce Rate",
+        "description": "Bounce Rate は、ウェブサイトやターゲットページを訪問するユーザーの割合を測定するメトリックで、さらなるアクションを取ることなく、または他のページに移動することなく出発します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the representation of data and information in visual formats, such as charts, graphs, or infographics, to facilitate understanding, analysis, and communication. データビジュアル化とは、データや情報をグラフ、グラフ、またはインフォグラフィックスなどの視覚形式で表示し、理解、分析、およびコミュニケーションを促進することを意味します。"
+    },
+    {
+        "word": "Buzz Monitoring",
+        "description": "バズモニタリングは、オンラインでの会話を追跡し分析し、ブランド、製品、またはトピックについて言及し、それが生成するバズや注意のレベルを理解し、評価することを意味します。"
+    },
+    {
+        "word": "Competitive Benchmarking",
+        "description": "競争ベンチマークは、競争相手とのソーシャルメディアのパフォーマンスと指標を比較し、評価し、強み、弱み、改善の機会を特定するプロセスです。"
+    },
+    {
+        "word": "Social Media Advertising",
+        "description": "ソーシャルメディア広告は、特定のマーケティング目標を達成するために、ソーシャルメディアプラットフォーム上で有料広告を作成し、促進することを意味します。"
+    },
+    {
+        "word": "Facebook Insights",
+        "description": "Facebook Insightsは、Facebookが提供する組み込みの分析ツールで、ブランドのFacebookページのパフォーマンスに関する詳細な指標とデータを提供します。"
+    },
+    {
+        "word": "Instagram Analytics",
+        "description": "Instagram Analyticsは、インスタグラムアカウントのパフォーマンスに関するデータと洞察を提供し、関与率、到達率、印象、フォロワー成長などの指標を含みます。"
+    },
+    {
+        "word": "Twitter Analytics",
+        "description": "Twitter Analyticsは、Twitterが提供するプラットフォーム特有の分析ツールで、ブランドのTwitterアカウントと活動に関する貴重な洞察と指標を提供しています。"
+    },
+    {
+        "word": "Linkedin Analytics",
+        "description": "LinkedIn Analyticsは、フォロワーの人口統計、投稿関与、およびレベルを含むブランドのLinkedIn企業ページのパフォーマンスに関するデータと洞察を提供します。"
+    },
+    {
+        "word": "Youtube Analytics",
+        "description": "YouTube Analyticsは、YouTubeチャンネルとビデオのパフォーマンスに関するデータと洞察を提供し、ビュー、視聴時間、関与、視聴者人口統計などの指標を含みます。"
+    },
+    {
+        "word": "Pinterest Analytics",
+        "description": "Pinterest Analytics は、Pinterest アカウントまたはピンのパフォーマンスに関するデータと洞察を提供し、インパクト、クリック、保存、視聴者の関与などのメトリックを含みます。"
+    },
+    {
+        "word": "Social Media Insights",
+        "description": "ソーシャルメディアの洞察とは、ソーシャルメディアのデータとメトリクスを分析することで得られる知識、理解、行動可能な情報を指し、戦略的決定を推進し、ソーシャルメディア戦略を最適化する。"
+    },
+    {
+        "word": "Website Traffic",
+        "description": "ウェブサイトのトラフィックは、ウェブサイトを訪問する訪問者やユーザーの数を指し、通常はページビューやセッションの数として測定されます。"
+    },
+    {
+        "word": "Conversion Tracking",
+        "description": "コンバージョン・トラッキングは、ソーシャルメディアキャンペーンや努力の結果として、購入、サインアップ、またはダウンロードなどのコンバージョンの数を監視し、測定するプロセスです。"
+    },
+    {
+        "word": "Customer Sentiment",
+        "description": "顧客感覚とは、顧客がブランド、製品、またはサービスに対して表現する全体的な態度、意見、または感情を指します。"
+    },
+    {
+        "word": "Api (Application Programming Interface)",
+        "description": "APIは、さまざまなソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Audience Insights",
+        "description": "Audience Insights は、標的観客の特徴、行動、および好みに関する情報とデータを提供し、しばしばソーシャルメディアのデータから得られます。"
+    },
+    {
+        "word": "Clicks",
+        "description": "クリックは、ソーシャルメディアの投稿または広告内のリンクまたは行動要請がユーザーによってクリックされた回数を指します。"
+    },
+    {
+        "word": "Engagement Strategy",
+        "description": "コミットメント戦略は、ソーシャルメディアプラットフォームでのユーザーの関与を促進し、奨励するために使用される計画されたアプローチと戦術を概説します。"
+    },
+    {
+        "word": "Reach Analysis",
+        "description": "Reach Analysis は、投稿や広告などのソーシャルメディアコンテンツの範囲と曝露を分析し、評価し、キャンペーンの効果と影響を測定します。"
+    },
+    {
+        "word": "Social Media Crisis Management",
+        "description": "ソーシャルメディアの危機管理は、ソーシャルメディアプラットフォームで発生するネガティブな状況や問題に対応し、軽減し、解決し、ブランドの評判に悪影響を及ぼします。"
+    },
+    {
+        "word": "Social Media Listening Platforms",
+        "description": "ソーシャルメディアの聴取プラットフォームは、ソーシャルメディアの会話、言及、トレンドを監視、追跡、分析するための包括的なツールと機能を提供するソフトウェアまたはプラットフォームです。"
+    },
+    {
+        "word": "Twitter Impressions",
+        "description": "Twitter Impressionsは、ツイートがツイートタイムラインに表示される合計回数を指し、有機および有料の両方を含む。"
+    },
+    {
+        "word": "Share Of Conversation",
+        "description": "会話の割合は、ブランドやトピックが所有するソーシャルメディア上の総会話や言及の割合です。"
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "データベースの意思決定は、直感や主観的な判断に依存するのではなく、データ、分析、洞察に基づいて戦略的意思決定を行う実践です。"
+    },
+    {
+        "word": "Campaign Optimization",
+        "description": "キャンペーン最適化は、データ、洞察、およびパフォーマンス指標に基づいてソーシャルメディアキャンペーンの変更、調整、または改善を行い、結果を向上させ、目標を達成します。"
+    },
+    {
+        "word": "Social Media Engagement Strategies",
+        "description": "ソーシャルメディアの関与戦略は、ソーシャルメディアのコンテンツやブランドとのユーザーの関与、相互作用、関与を高めるために使用される計画的なアプローチと戦術です。"
+    },
+    {
+        "word": "Social Media Listening Metrics",
+        "description": "Social Media Listening Metricsは、ソーシャルメディアのキャンペーンや戦略の効果と影響を評価するための測定基準です。"
+    },
+    {
+        "word": "Influencer",
+        "description": "影響力のある人は、ソーシャルメディアで重要なフォロワーを持っており、視聴者の意見や行動に影響を与える力を持っている人です。"
+    },
+    {
+        "word": "Inbound Marketing",
+        "description": "Inbound Marketingは、ソーシャルメディア上の貴重なコンテンツや経験を通じて顧客を魅了し、関わらせることに焦点を当てている戦略です。"
+    },
+    {
+        "word": "Instagram Insights",
+        "description": "Instagram Insightsは、Instagramのビジネスアカウントに利用可能なアナリティクス機能で、投稿パフォーマンス、視聴者人口統計、関与指標に関するデータと分析を提供しています。"
+    },
+    {
+        "word": "Viral Marketing",
+        "description": "ウイルスマーケティングは、ブランドのメッセージやコンテンツをソーシャルメディアプラットフォームを通じて迅速に広めることを目指すマーケティング戦術であり、しばしば共有可能で魅力的なコンテンツを使用します。"
+    },
+    {
+        "word": "Sentiment Score",
+        "description": "Sentiment Score は、ソーシャルメディアの投稿や顧客レビューで表現された感情を定量化する数値であり、通常は陰性から肯定的なものまでです。"
+    },
+    {
+        "word": "Social Media Reach",
+        "description": "Social Media Reach は、すべてのソーシャルメディアプラットフォームでブランドのコンテンツに接触したユニークなユーザーの合計数を測定します。"
+    },
+    {
+        "word": "Content Calendar",
+        "description": "コンテンツカレンダーは、ソーシャルメディアプラットフォームで共有されるコンテンツの種類、フォーマット、タイミングを示すスケジュールまたはプランです。"
+    },
+    {
+        "word": "Social Media Sentiment",
+        "description": "ソーシャルメディアの感情とは、ユーザーがソーシャルメディアの投稿やブランドやトピックに関するコメントで表現するポジティブ、ネガティブ、または中立的な態度や感情を指します。"
+    },
+    {
+        "word": "Brand Awareness",
+        "description": "ブランド認識は、ターゲットの観客が特定のブランドやその特定の製品またはサービスに精通し、認識している程度です。"
+    },
+    {
+        "word": "Net Promoter Score (Nps)",
+        "description": "Net Promoter Score(NPS)は、顧客に0から10のスケールで、ブランドを他の人に推薦する確率を評価するように依頼することによって顧客の忠誠心と満足度を測定するためのメトリックです。"
+    },
+    {
+        "word": "Social Media Listening",
+        "description": "Social Media Listeningは、ソーシャルメディアプラットフォームをモニタリングし、分析し、ブランド、業界、または特定のトピックに関する洞察を得るプロセスです。"
+    },
+    {
+        "word": "Social Media Dashboards",
+        "description": "ソーシャルメディアダッシュボードは、複数のプラットフォームからリアルタイムのソーシャルメディア指標、分析、パフォーマンスデータを統合し、表示する統合されたプラットフォームまたはツールで、モニタリング、レポート、データベースの意思決定を容易にします。"
+    },
+    {
+        "word": "Hashtag Analytics",
+        "description": "Hashtag Analyticsは、特定のハッシュタグを含むソーシャルメディア投稿のパフォーマンス、到達、関与に関する洞察とデータを提供します。"
+    },
+    {
+        "word": "Reach And Frequency",
+        "description": "範囲と周波数は、アクセスしたユニークなユーザーの合計数と、ソーシャルメディアの投稿やキャンペーンに暴露された回数を分析するために使用される指標です。"
+    },
+    {
+        "word": "Competitive Analysis",
+        "description": "競争分析とは、特定の業界または市場内の競争相手の強みと弱みを調べ、評価するプロセスです。"
+    },
+    {
+        "word": "Social Media Influencer Marketing",
+        "description": "ソーシャルメディアの影響力マーケティングは、ソーシャルメディアで影響力のある個人と協力して製品、サービス、またはブランドを承認または促進することを含むマーケティング戦略です。"
+    },
+    {
+        "word": "Social Media Strategy",
+        "description": "ソーシャルメディア戦略は、マーケティング目標を達成するためにソーシャルメディアプラットフォームで使用する目標、ターゲット観客、コンテンツ、戦術を概説する包括的な計画です。"
+    },
+    {
+        "word": "Influence Marketing",
+        "description": "影響力マーケティングは、高い社会的影響力を持つ人々を活用したり、ブランドや製品を促進することを含むマーケティングの形態です。"
+    },
+    {
+        "word": "Post Reach",
+        "description": "Post reach は、特定のソーシャルメディア投稿に曝されたユニークなユーザーの数を測定します。"
+    },
+    {
+        "word": "Engagement Metrics",
+        "description": "Engagement Metrics は、コンテンツがソーシャルメディアで受信する相互作用、気に入り、コメント、共有のレベルを定量化し、評価するための測定方法です。"
+    },
+    {
+        "word": "Brand Reputation Management",
+        "description": "ブランド評判管理は、ソーシャルメディアプラットフォームでブランドがどのように認識され、発言されているかを監視し、影響する実践です。"
+    },
+    {
+        "word": "Community Management",
+        "description": "コミュニティマネジメントとは、ユーザーのオンラインコミュニティを構築し、育成し、ソーシャルメディアプラットフォーム上でそれらと関わることです。"
+    },
+    {
+        "word": "Reach And Impressions",
+        "description": "Reach と Impressions は、ソーシャルメディアの投稿やキャンペーンによって生成される潜在的な視聴者サイズと曝露を評価するために使用される指標です。"
+    },
+    {
+        "word": "Shareable Content",
+        "description": "共有可能なコンテンツとは、ユーザーがソーシャルメディアプラットフォーム上で自分のネットワークと共有できるほど興味深く、魅力的で、または興味深いコンテンツです。"
+    },
+    {
+        "word": "Social Media Influencers",
+        "description": "ソーシャルメディアの影響力者は、重要なフォロワー数を持っており、観客の意見や購入意思決定に影響を与える力を持っています。"
+    },
+    {
+        "word": "Return On Investment (Roi)",
+        "description": "投資収益率は、ソーシャルメディアのマーケティングキャンペーンなどの投資の収益性と効率性を測定するために使用されるメトリックで、収益や純利益をコストと比較することです。"
+    },
+    {
+        "word": "Social Media Engagement Rate",
+        "description": "Social Media Engagement Rate(ソーシャルメディア関与率)は、パーセントとして表現されるソーシャルメディアコンテンツとの観客の相互作用と参加レベルを測定するためのメトリックです。"
+    },
+    {
+        "word": "Dark Social",
+        "description": "ダークソーシャルとは、メッセージアプリや電子メールなどのプライベートチャンネルを通じてコンテンツやリンクを共有することを指し、共有コンテンツの源や起源を追跡することは困難になります。"
+    },
+    {
+        "word": "Social Media Follower Growth",
+        "description": "ソーシャルメディアのフォロワー成長率は、特定の期間にわたってソーシャルメディアプラットフォーム上のフォロワーまたはサブスクリプト数の増加を測定するものです。"
+    },
+    {
+        "word": "Social Media Listening Strategy",
+        "description": "ソーシャルメディアの聴取戦略は、ソーシャルメディアの会話とブランド、製品、または業界についての言及を監視、分析し、応答するための計画的なアプローチです。"
+    },
+    {
+        "word": "Reach And Frequency Analysis",
+        "description": "Reach and Frequency Analysis は、アクセスしたユニークなユーザーの数と、ソーシャルメディアの投稿やキャンペーンへの曝露の頻度を評価するプロセスです。"
+    },
+    {
+        "word": "Social Media Account Management",
+        "description": "ソーシャルメディアアカウント管理は、ブランドまたは組織の名義でのソーシャルメディアアカウントの管理、コンテンツ作成、および関与活動を含みます。"
+    },
+    {
+        "word": "Social Media Audit",
+        "description": "ソーシャルメディア監査は、ブランドまたは組織のソーシャルメディアアカウント、コンテンツ、および全体的なパフォーマンスの体系的な審査と評価です。"
+    },
+    {
+        "word": "Key Influencers",
+        "description": "主要な影響力者は、特定の観客や業界に重要かつ影響力のある影響力を及ぼすソーシャルメディアプラットフォーム上の個人またはアカウントです。"
+    },
+    {
+        "word": "Sentiment Analysis Tools",
+        "description": "Sentiment Analysis Tools は、テキストデータで表現される感情を分析し、決定するために自然言語処理と機械学習技術を適用するソフトウェアまたはプラットフォームです。"
+    },
+    {
+        "word": "Social Media Engagement Strategy",
+        "description": "ソーシャルメディア関与戦略は、さまざまな戦術とテクニックを使用して、視聴者の関与とソーシャルメディアコンテンツとの相互作用を高めるための計画的なアプローチです。"
+    },
+    {
+        "word": "Organic Reach",
+        "description": "Organic Reachは、ソーシャルメディアの投稿やコンテンツを有料のプロモーションや広告なしに閲覧したユニークなユーザーまたはアカウントの数を指します。"
+    },
+    {
+        "word": "Social Media Analytics Dashboard",
+        "description": "ソーシャルメディアアナリティクスダッシュボードは、ソーシャルメディアのデータを視覚的に表し、モニタリングと意思決定のための主要なパフォーマンス指標、トレンド、洞察を提供します。"
+    },
+    {
+        "word": "Social Media Engagement Metrics",
+        "description": "ソーシャルメディア関与指標は、ソーシャルメディアコンテンツとの観客のインタラクション、参加、関与のレベルを評価するために使用される特定の測定方法です。"
+    },
+    {
+        "word": "Social Media Hashtag Campaign",
+        "description": "ソーシャルメディアハッシュタグキャンペーンは、ユーザーがソーシャルメディアプラットフォーム上で特定のハッシュタグを使用してコンテンツを共有したり、会話に参加することを奨励するマーケティングイニシアチブです。"
+    },
+    {
+        "word": "Social Media Listening And Monitoring",
+        "description": "ソーシャルメディアの聴取とモニタリングは、ソーシャルメディアの会話とブランド、製品、またはトピックについての言及を追跡、分析し、応答するための組み合わせの実践です。"
+    },
+    {
+        "word": "Cross-Platform Social Media Analytics",
+        "description": "クロスプラットフォームソーシャルメディアアナリティクスは、複数のプラットフォームでソーシャルメディアデータの分析と測定を指し、ブランドまたは組織のオンライン存在の総合的な視点を提供します。"
+    },
+    {
+        "word": "Social Media Content Calendar",
+        "description": "ソーシャルメディアコンテンツカレンダーは、特定の期間中にソーシャルメディアプラットフォームで共有されるコンテンツの種類、フォーマット、タイミングを示すスケジュールまたはプランです。"
+    },
+    {
+        "word": "Social Media Listening And Engagement",
+        "description": "Social Media Listening and Engagementとは、ソーシャルメディアの会話を追跡し、分析し、ユーザーのインタラクションに積極的に参加し、応答するという組み合わせの実践を指します。"
+    },
+    {
+        "word": "Social Media Competitor Analysis",
+        "description": "ソーシャルメディアの競合者分析は、競合者のソーシャルメディア活動、戦略、およびパフォーマンスを監視し、評価し、洞察と競争優位性を得ることを意味します。"
+    },
+    {
+        "word": "Sentiment Analysis Algorithm",
+        "description": "感情分析アルゴリズムは、テキストデータ(例えば、ポジティブ、ネガティブ、または中立)で表現される感情または感情を決定するために使用される計算方法またはモデルです。"
+    },
+    {
+        "word": "Social Media Listening Campaign",
+        "description": "Social Media Listening Campaignは、ソーシャルメディアの会話を監視し、分析し、特定のトピック、イベント、またはキャンペーンを扱うための集中的な取り組みです。"
+    },
+    {
+        "word": "Social Media Analytics Platform",
+        "description": "ソーシャルメディア分析プラットフォームは、ソーシャルメディアデータとパフォーマンス指標の収集、分析、報告のためのツールと機能を提供するソフトウェアまたはオンラインサービスです。"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "word": "Edtech",
+        "description": "Edtechは、教育コンテンツ、ツール、リソースを提供するためのテクノロジーの使用です。"
+    },
+    {
+        "word": "Lms",
+        "description": "学習管理システム(LMS)は、オンライン学習の提供、追跡、管理に使用されるソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Mooc",
+        "description": "大規模オープンオンラインコース(MOOC)は、大規模な参加と教育資源へのオープンアクセスを目的としたオンラインコースです。"
+    },
+    {
+        "word": "Gamification",
+        "description": "Gamificationは、ゲーム要素と機械を教育体験に統合し、関与と動機づけを高めることを意味します。"
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "データベースの意思決定は、データと分析を使用して意思決定プロセスを情報化し、指導することを意味します。"
+    },
+    {
+        "word": "Educational Data Mining",
+        "description": "教育データマイニングは、教育的文脈に関連するパターンや洞察を発見するために大規模なデータセットを分析するプロセスです。"
+    },
+    {
+        "word": "Learning Management System",
+        "description": "Learning Management System(LMS)は、オンラインコースやトレーニングプログラムの管理、追跡、配信を可能にするソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Microlearning",
+        "description": "Microlearningは、通常、ビデオ、クイズ、またはインタラクティブなモジュールの形で、焦点を当てた学習コンテンツの短い爆発を提供することを意味します。"
+    },
+    {
+        "word": "Byod",
+        "description": "Bring Your Own Device (BYOD) は、学生や教師がラップトップやスマートフォンなどの個人用電子機器を使用することを可能にする方針です。"
+    },
+    {
+        "word": "Online Assessment",
+        "description": "オンライン評価は、オンライン学習環境における学習者の知識、スキル、パフォーマンスを評価し評価するためのデジタルツールとテクノロジーの使用を含みます。"
+    },
+    {
+        "word": "Social Learning",
+        "description": "ソーシャル学習は、ソーシャルメディアやオンラインコミュニティによってしばしば促進される観察、コラボレーション、インタラクションを通じて他者から学ぶプロセスです。"
+    },
+    {
+        "word": "Digital Storytelling",
+        "description": "デジタルストーリーは、デジタルツールを使用して物語やストーリーを共有し、しばしばマルチメディア要素を組み込みます。"
+    },
+    {
+        "word": "Adaptive Learning",
+        "description": "適応型学習とは、個々の学習者のユニークなニーズに適応し、個人的な学習体験を提供する教育システムと技術を指します。"
+    },
+    {
+        "word": "Blended Learning",
+        "description": "Blended Learningは、オンライン学習活動と伝統的な対面指導を組み合わせ、両方のアプローチの利点を活用します。"
+    },
+    {
+        "word": "Synchronous Learning",
+        "description": "同期学習は、リアルタイムで起こるオンライン学習活動を指し、学習者とインストラクターが同時に存在することを必要とする。"
+    },
+    {
+        "word": "Asynchronous Learning",
+        "description": "非同期学習は、異なる時間に起こるオンライン学習活動を指し、学習者が自分のペースでコースの材料にアクセスし、関わることができます。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、コンピュータテクノロジーを使用して作成された現実世界と類似または完全に異なるシミュレート体験です。"
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality(AR)は、音声、ビデオ、グラフィックス、GPSデータなどのコンピュータ生成情報によって現実世界のオブジェクトが強化されるインタラクティブな体験です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学び、予測をしたり、明示的にプログラミングされずに行動を起こすようにすることに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、コンピュータが意味のある方法で人間の言語を理解し、解釈し、反応することを可能にするAIの分野です。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analyticsは、洞察を発見し、結論を出し、意思決定をサポートするためにデータを調べるプロセスを指します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "データ視覚化は、データを視覚的またはグラフィック形式で表示し、理解し、分析し、コミュニケーションを容易にします。"
+    },
+    {
+        "word": "Personalized Learning",
+        "description": "パーソナライズされた学習は、各学習者の個々のニーズ、興味、学習スタイルを満たすための教育経験のカスタマイズを指します。"
+    },
+    {
+        "word": "Adaptive Assessment",
+        "description": "適応評価は、学習者の以前の回答に基づいて質問の難しさと内容を調整し、適切な挑戦レベルを確保する評価の形式です。"
+    },
+    {
+        "word": "Learning Analytics",
+        "description": "Learning Analyticsは、学習者とその文脈に関するデータの測定、収集、分析、報告を含み、学習と教育の成果を最適化することを目的としています。"
+    },
+    {
+        "word": "Digital Citizenship",
+        "description": "デジタル市民権は、デジタル文学、オンラインセキュリティ、適切なオンライン行動などの側面を含む技術の責任ある倫理的な使用を指します。"
+    },
+    {
+        "word": "Online Collaboration",
+        "description": "オンラインコラボレーションは、地理的距離に関係なく、デジタルツールやテクノロジーを使用してタスクやプロジェクトに協力するプロセスです。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーは、個人の個人情報を保護し、プライバシー規制に従って安全に収集、処理、保管することを保証することに関連しています。"
+    },
+    {
+        "word": "Accessibility",
+        "description": "edtechのアクセシビリティとは、すべての学習者にとって有用かつ包括的なテクノロジーと学習体験を設計し、開発することを指します。"
+    },
+    {
+        "word": "Digital Divide",
+        "description": "デジタルギャップとは、デジタルテクノロジーにアクセスし、効果的に使用する個人やコミュニティと、そうでない者との間のギャップを指し、不平等を生み出す。"
+    },
+    {
+        "word": "Online Proctoring",
+        "description": "Online Proctoring は、オンライン試験をリモートで監視し監視する方法で、誠実性を確保し、詐欺を妨げる方法です。"
+    },
+    {
+        "word": "Flipped Classroom",
+        "description": "Flipped Classroomは、教育コンテンツがオンラインで提供され、個人的なクラス時間は議論、コラボレーション、知識の適用に使用される教育モデルです。"
+    },
+    {
+        "word": "Open Educational Resources",
+        "description": "オープン教育リソース(OER)は、教育者や学習者によって使用、リミックス、共有することができる自由にアクセス可能で開放的にライセンスを受けた教育材料です。"
+    },
+    {
+        "word": "Digital Literacy",
+        "description": "デジタル文法は、さまざまな形式のデジタル情報やコンテンツを見つける、評価、使用、作成、および伝達する能力を指します。"
+    },
+    {
+        "word": "E-Learning",
+        "description": "電子学習とも呼ばれる電子学習は、電子機器やインターネットを通じて教育コンテンツやトレーニングの提供を指します。"
+    },
+    {
+        "word": "Remote Learning",
+        "description": "遠隔学習は、地理的に散らばっている学生に教育と教育活動を提供し、しばしばオンラインリソースやツールを使用することを指します。"
+    },
+    {
+        "word": "Student Information System",
+        "description": "学生情報システム(SIS)は、学生関連のデータを管理するソフトウェアアプリケーションで、登録、評価、出席率を含む。"
+    },
+    {
+        "word": "Virtual Classroom",
+        "description": "Virtual Classroomは、インストラクターと学習者間のリアルタイムの相互作用と協力を可能にするオンライン学習環境で、しばしばビデオ会議ツールを使用しています。"
+    },
+    {
+        "word": "Learning Objectives",
+        "description": "学習目標は、学習経験を完了した後、学習者が知り、理解するか、またはできることを明確に記述する声明です。"
+    },
+    {
+        "word": "Learning Outcomes",
+        "description": "学習結果は、学習経験の結果として学習者が達成することを説明する具体的で測定可能な声明です。"
+    },
+    {
+        "word": "Formative Assessment",
+        "description": "Formative Assessmentは、フィードバックとガイドの指導を提供するために学習プロセス中に実施される評価の種類です。"
+    },
+    {
+        "word": "Summative Assessment",
+        "description": "総合評価は、コース、ユニット、またはプログラムの終了時に学習者の成果とコンテンツのマスターを評価し、測定する評価の種類です。"
+    },
+    {
+        "word": "Instructional Design",
+        "description": "インストラクションデザインは、分析、設計、開発、実装、評価を含む効果的で魅力的な学習体験を作成するための体系的なプロセスです。"
+    },
+    {
+        "word": "Online Tutoring",
+        "description": "オンラインチュータリングは、オンラインプラットフォームやツールを通じてチュータによる学術的サポート、指導、指導の提供です。"
+    },
+    {
+        "word": "Digital Assessment",
+        "description": "デジタル評価は、デジタルツールとテクノロジーを使用して評価を管理、スコア、分析し、より効率的で詳細なフィードバックを提供します。"
+    },
+    {
+        "word": "Pbl",
+        "description": "プロジェクトベースの学習(PBL)は、学生が現実世界の問題を解決したり、批判的思考と協力を促進し、真のプロジェクトを完了することに携わる教育方法です。"
+    },
+    {
+        "word": "Active Learning",
+        "description": "アクティブな学習は、学習者を積極的に参加し、協力し、学習に反省することを必要とする活動や課題に巻き込むアプローチです。"
+    },
+    {
+        "word": "Mobile Learning",
+        "description": "Mobile Learning, or mLearning, refers to learning that takes place using mobile devices, such as smartphones or tablets, allowing learners to access educational content anytime, anywhere. モバイル学習は、スマートフォンやタブレットなどのモバイルデバイスを使用して行われ、学習者がいつでも、どこでも教育コンテンツにアクセスすることができます。"
+    },
+    {
+        "word": "Learning Styles",
+        "description": "学習スタイルは、個人が視覚的、聴覚的、または動態学的ように学ぶことを好むさまざまな方法であり、彼らがどのように知覚し、処理し、情報を保持するかを影響します。"
+    },
+    {
+        "word": "Competency-Based Education",
+        "description": "スキルベースの教育(CBE)は、伝統的なトピックベースのカリキュラムではなく、特定のスキルや能力の掌握に焦点を当てた教育と学習のアプローチです。"
+    },
+    {
+        "word": "Online Discussion Forum",
+        "description": "オンラインディスカッションフォーラムは、学習者とインストラクターが非同期的な議論に参加し、アイデアを共有し、質問をし、フィードバックを提供できる仮想空間です。"
+    },
+    {
+        "word": "Remote Proctoring",
+        "description": "Remote Proctoring は、オンライン試験をリモートで監視し監視する方法であり、ウェブカメラやスクリーン録画などのテクノロジーの使用を通じて完全性を確保します。"
+    },
+    {
+        "word": "Elementary Education",
+        "description": "初等教育は、通常、5歳から11歳までの子供をカバーする教育の段階を指し、基本的な学術的、社会的、および人生のスキルを開発することに焦点を当てています。"
+    },
+    {
+        "word": "Secondary Education",
+        "description": "中等教育は、通常、11歳から18歳までの青少年をカバーする教育の段階を指し、より専門的で深い学習経験を提供します。"
+    },
+    {
+        "word": "Higher Education",
+        "description": "高等教育は、大学、大学、その他の機関が提供する高校後の教育を指し、学位、文書、高度な学習の機会を提供します。"
+    },
+    {
+        "word": "Professional Development",
+        "description": "教育の文脈における職業開発は、教育者の知識、スキル、効果を向上させることを目的とする活動やプログラムを指します。"
+    },
+    {
+        "word": "Instructional Technology",
+        "description": "教育技術は、教育と学習の経験を向上させるための技術的ツールとリソースの設計、開発、使用を含みます。"
+    },
+    {
+        "word": "Curriculum Design",
+        "description": "Curriculum Designは、教育コースやプログラムのコンテンツ、活動、評価を計画し、組織するプロセスです。"
+    },
+    {
+        "word": "It Integration",
+        "description": "IT統合は、教室でテクノロジーの効果的な統合と使用を指し、それが教育目標と一致し、学習経験を向上させることを保証します。"
+    },
+    {
+        "word": "Remote Teaching",
+        "description": "遠隔教育は、インストラクターから地理的に分離されている学生への指導の提供を指します、しばしばオンラインプラットフォームやツールを使用します。"
+    },
+    {
+        "word": "Parental Engagement",
+        "description": "親の関与とは、親または介護者の子どもの教育への関与を指し、子どもの学習経験をサポートし、強化します。"
+    },
+    {
+        "word": "Student Engagement",
+        "description": "学生の関心は、学生が学習活動や教育経験で示す関心、注意、参加、動機づけのレベルを指します。"
+    },
+    {
+        "word": "E-Portfolio",
+        "description": "電子ポートフォリオ(Electronic Portfolio)は、個人の学習、スキル、業績、成長を示す、本物でコレクションされた文物のデジタルコレクションです。"
+    },
+    {
+        "word": "Digital Classroom",
+        "description": "デジタル教室は、デジタルツール、リソース、テクノロジーを使用して教育と学習が起こる物理的な空間またはオンライン環境を指します。"
+    },
+    {
+        "word": "Stem Education",
+        "description": "STEM Educationは、科学、技術、工学、数学の教育と学習に焦点を当て、批判的思考、問題解決、イノベーションを強調しています。"
+    },
+    {
+        "word": "Steam Education",
+        "description": "STEAM Educationは、アートをカリキュラムに組み込み、創造性、デザイン思考、学際的な接続を促進することによってSTEM Educationを拡大しています。"
+    },
+    {
+        "word": "Assessment",
+        "description": "評価は、証拠を集め、学習とパフォーマンスに関する判断をするプロセスです。"
+    },
+    {
+        "word": "Knowledge Base",
+        "description": "A knowledge base is a database or repository that stores and organizes information, resources, and expertise for easy access and retrieval. 情報、リソース、および専門知識を簡単にアクセスし、検索するためのデータベースまたはリポジトリです。"
+    },
+    {
+        "word": "User Experience",
+        "description": "ユーザー体験(UX)とは、学習者が教育技術やプラットフォームと相互作用する際に持つ全体的な経験と満足度を指します。"
+    },
+    {
+        "word": "User Interface",
+        "description": "ユーザーインターフェイス(UI)とは、ユーザーが相互作用する教育技術やプラットフォームのビジュアル要素、デザイン、およびレイアウトを指します。"
+    },
+    {
+        "word": "Stem",
+        "description": "STEMは科学、技術、工学、数学の略であり、これらの分野における教育に対する学際的なアプローチを指します。"
+    },
+    {
+        "word": "Peer Assessment",
+        "description": "ピア評価は、学生が互いの仕事について評価し、フィードバックを提供し、建設的な批判と協力を促進することを含みます。"
+    },
+    {
+        "word": "Content Management System",
+        "description": "コンテンツ管理システム(CMS)は、デジタルコンテンツの作成、管理、出版に使用されるソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Video-Based Learning",
+        "description": "ビデオベースの学習は、教育的コンテンツと指導の提供の主なモードとしてビデオを使用することを意味します。"
+    },
+    {
+        "word": "Podcasts",
+        "description": "Podcastは、ダウンロードまたはストリーミングできるオーディオレコーディングまたはエピソードであり、しばしば教育目的で使用されます。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、サーバー、アプリケーションなどのコンピューティングサービスのインターネット上の提供です。"
+    },
+    {
+        "word": "Personal Learning Environment",
+        "description": "個人学習環境(PLE)とは、個人が自分自身の学習体験をカスタマイズし、管理できるシステムまたは環境です。"
+    },
+    {
+        "word": "Edutainment",
+        "description": "Edutainmentは、教育と楽の要素を組み合わせ、学習者を巻き込んで、学習をより楽しいかつ魅力的なものにします。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、トランザクションとデータの安全で不変な記録を可能にする分散型で透明なデジタルリーガ技術です。"
+    },
+    {
+        "word": "Simulations",
+        "description": "シミュレーションは、実世界のシナリオのコンピュータベースのモデルまたは表現であり、経験的な学習を可能にするための教育目的で使用される。"
+    },
+    {
+        "word": "Chatbots",
+        "description": "チャットボットは、AI駆動プログラムで、ユーザーとの会話と相互作用をシミュレートし、一般的に自動サポートとサポートに使用されます。"
+    },
+    {
+        "word": "Content Curation",
+        "description": "コンテンツコーチングとは、関連性のある質の高い教育コンテンツの発見、選択、組織、プレゼンテーションのプロセスを指します。"
+    },
+    {
+        "word": "Collaborative Tools",
+        "description": "コラボレーションツールは、複数のユーザーが一緒に作業し、アイデアを共有し、プロジェクトで協力できるデジタルアプリケーションやプラットフォームです。"
+    },
+    {
+        "word": "Learning Ecosystem",
+        "description": "学習生態系とは、生涯学習と教育をサポートする個人のネットワーク、リソース、技術を指します。"
+    },
+    {
+        "word": "Instructional Videos",
+        "description": "インストラクションビデオは、学習と理解をサポートするためのステップごとに指示、デモ、または説明を提供するビデオです。"
+    },
+    {
+        "word": "Digital Badges",
+        "description": "デジタルバッジは、デジタル学習環境における業績または業績を表す視覚的表現です。"
+    },
+    {
+        "word": "Competency-Based Learning",
+        "description": "スキルベースの学習は、学習者が特定の知識、スキル、能力を習得し、伝統的な評価システムではなく、実証されたマスターリングに基づいて進歩することに焦点を当てています。"
+    }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "word": "Virtual Reality",
+        "description": "Virtual Reality (VR) refers to the use of computer technology to create a simulated environment that can replicate an actual or imaginary place."
+    },
+    {
+        "word": "Headset",
+        "description": "A headset is a wearable device that is worn on the head to provide a virtual reality or augmented reality experience."
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "Haptic feedback is the use of tactile sensations or vibrations to create the sense of touch in a virtual environment."
+    },
+    {
+        "word": "Tracking",
+        "description": "Tracking in VR involves accurately determining the position and movement of a user's head, body, and hand controllers to enable realistic interactions within the virtual environment."
+    },
+    {
+        "word": "Six Degrees Of Freedom",
+        "description": "Six Degrees of Freedom (6DoF) refers to the ability to move freely in the virtual environment along three axes of translation (forward/backward, up/down, left/right) and three axes of rotation (pitch, yaw, roll)."
+    },
+    {
+        "word": "Field Of View",
+        "description": "Field of View (FoV) in VR denotes the extent of the visible environment that a headset can display to a user, affecting the level of immersion and realism."
+    },
+    {
+        "word": "Latency",
+        "description": "Latency, also known as lag, refers to the delay between a user's action and the corresponding reaction or feedback in a virtual reality system."
+    },
+    {
+        "word": "Motion Sickness",
+        "description": "Motion sickness, or VR sickness, is a feeling of discomfort or nausea that some users may experience when using VR due to a mismatch between perceived motion and actual motion."
+    },
+    {
+        "word": "Room-Scale",
+        "description": "Room-scale VR allows users to physically move and interact within a larger physical space that is mapped to the virtual environment, providing a more immersive and natural experience."
+    },
+    {
+        "word": "Teleportation",
+        "description": "Teleportation is a common method of locomotion in VR that allows users to instantaneously move from one location to another within the virtual environment, reducing the risk of discomfort or motion sickness."
+    },
+    {
+        "word": "Rendering",
+        "description": "Rendering in VR refers to the process of generating and displaying the visual and auditory elements of a virtual environment, including geometry, textures, lighting, and sound effects."
+    },
+    {
+        "word": "Frame Rate",
+        "description": "Frame rate in VR represents the number of individual images or frames displayed per second, with higher frame rates generally resulting in smoother and more realistic visual experiences."
+    },
+    {
+        "word": "Resolution",
+        "description": "Resolution in VR describes the number of pixels used to display an image, typically measured as the total number of pixels in the width and height of a virtual display."
+    },
+    {
+        "word": "Stereoscopic 3D",
+        "description": "Stereoscopic 3D in VR refers to the technique of displaying separate images to each eye to create a 3D visual perception, enhancing depth and realism."
+    },
+    {
+        "word": "Presence",
+        "description": "Presence refers to the feeling of truly being present in a virtual environment, despite knowing it is a computer-generated simulation."
+    },
+    {
+        "word": "Immersive",
+        "description": "Immersive VR experiences fully engage the user's senses and create a feeling of being surrounded by and actively participating in a virtual world."
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) combines virtual elements with the real world, overlaying computer-generated visuals onto the user's view of the physical environment."
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "Mixed Reality (MR) blends virtual and real-world elements in a way that allows digital objects to interact with and appear to exist within the physical environment."
+    },
+    {
+        "word": "360-Degree Video",
+        "description": "360-degree video is a video recording that captures a scene in a full 360-degree view, allowing viewers to explore the surroundings by changing their viewing perspective."
+    },
+    {
+        "word": "Simulator Sickness",
+        "description": "Simulator sickness is a condition similar to motion sickness that occurs when using simulators or virtual reality systems."
+    },
+    {
+        "word": "Vr Arcade",
+        "description": "A VR Arcade is a physical location where users can go to experience VR by renting time with VR equipment and playing VR games or engaging in other VR activities."
+    },
+    {
+        "word": "Virtuix Omni",
+        "description": "The Virtuix Omni is a virtual reality treadmill that enables users to walk, run, and jump in VR games by translating their physical movements into in-game actions."
+    },
+    {
+        "word": "Hand Presence",
+        "description": "Hand presence is the perception of having virtual hands that accurately mirror a user's real hands, achieved through motion tracking and controller input."
+    },
+    {
+        "word": "Eye Tracking",
+        "description": "Eye tracking technology in VR monitors the movement and position of the user's eyes, allowing for more realistic and interactive experiences by enabling foveated rendering and gaze-based interactions."
+    },
+    {
+        "word": "Motion Capture",
+        "description": "Motion capture technology in VR records and tracks the movement of a user's body or specific body parts, allowing for real-time or post-processing animation of virtual avatars or objects."
+    },
+    {
+        "word": "Lighthouse Tracking",
+        "description": "Lighthouse tracking is a positional tracking system used by some VR headsets, employing infrared signals emitted by base stations to precisely determine the location and orientation of the headset and controllers."
+    },
+    {
+        "word": "Room-Scale Tracking",
+        "description": "Room-scale tracking in VR enables the tracking of a user's physical movement in a defined play area, allowing for more immersive and interactive experiences."
+    },
+    {
+        "word": "Hand Controllers",
+        "description": "Hand controllers in VR are handheld input devices that enable users to interact with the virtual environment, providing an interface for actions such as pointing, grabbing, and manipulating objects."
+    },
+    {
+        "word": "Tethered",
+        "description": "Tethered VR refers to a setup where the VR headset is connected to a host device, such as a computer or game console, via a cable, providing the necessary processing power and data transmission."
+    },
+    {
+        "word": "Wireless",
+        "description": "Wireless VR eliminates the need for cables by using wireless technologies to transmit data and power to the headset, allowing for greater freedom of movement and reducing physical constraints."
+    },
+    {
+        "word": "Immersive Theater",
+        "description": "Immersive theater in VR involves the use of VR technology to create interactive and immersive experiences within a theatrical performance, blending virtual and real-world elements."
+    },
+    {
+        "word": "Virtual Reality Cinema",
+        "description": "A virtual reality cinema offers a dedicated space where multiple users can simultaneously watch VR films or experiences through individual VR headsets."
+    },
+    {
+        "word": "Virtual Sculpting",
+        "description": "Virtual sculpting in VR provides artists with a digital medium to sculpt and create 3D models and sculptures using virtual tools and techniques."
+    },
+    {
+        "word": "Virtual Training",
+        "description": "Virtual training involves the use of VR simulations to provide realistic and immersive training experiences, particularly applicable in fields such as medicine, aviation, and military."
+    },
+    {
+        "word": "Virtual Travel",
+        "description": "Virtual travel allows users to explore and experience different locations and environments in VR, providing a means to virtually visit distant places or engage in virtual tourism."
+    },
+    {
+        "word": "Virtual Socializing",
+        "description": "Virtual socializing in VR enables users to interact and engage with others in a virtual environment, simulating real-world social interactions and creating opportunities for social experiences."
+    },
+    {
+        "word": "Virtual Showrooms",
+        "description": "Virtual showrooms leverage VR to provide immersive and interactive experiences for showcasing and demonstrating products, allowing users to explore and interact with virtual representations of physical products."
+    },
+    {
+        "word": "Virtual Prototyping",
+        "description": "Virtual prototyping in VR allows designers and engineers to create and test virtual prototypes of products or environments, saving time and resources compared to traditional physical prototyping."
+    },
+    {
+        "word": "Virtual Rehabilitation",
+        "description": "Virtual rehabilitation uses VR simulations to assist in physical and cognitive therapy, providing interactive and engaging rehabilitation activities to aid in recovery and rehabilitation."
+    },
+    {
+        "word": "Vr Motion Platform",
+        "description": "A VR motion platform is a mechanical system that provides physical motion and vibrations synchronized with a user's movements and actions in VR, enhancing realism and immersion."
+    },
+    {
+        "word": "Vr Content Creation",
+        "description": "VR content creation involves the production and development of virtual reality experiences, including designing, modeling, animating, and programming elements for VR applications and games."
+    },
+    {
+        "word": "Vr Collaboration",
+        "description": "VR collaboration platforms enable users in different locations to meet and work together in a shared virtual environment, enhancing remote collaboration and communication."
+    },
+    {
+        "word": "Vr Education",
+        "description": "VR education utilizes virtual reality technology to create immersive and interactive educational experiences, enhancing learning by providing realistic and engaging virtual environments."
+    },
+    {
+        "word": "Vr Architecture",
+        "description": "VR architecture allows architects and designers to create virtual representations of buildings and spaces, enabling clients and stakeholders to experience and explore designs before construction."
+    },
+    {
+        "word": "Vr Therapy",
+        "description": "VR therapy utilizes VR simulations and environments to provide therapeutic interventions for mental health conditions or phobias, offering a safe and controlled environment for exposure-based therapy."
+    },
+    {
+        "word": "Vr For Ptsd",
+        "description": "VR for Post-Traumatic Stress Disorder (PTSD) involves the use of VR therapy techniques to assist individuals in confronting and processing traumatic events in a safe and controlled manner."
+    },
+    {
+        "word": "Vr Gaming",
+        "description": "VR gaming refers to the use of VR technology in gaming, allowing players to experience games in a more immersive and interactive way by placing them directly within the game world."
+    },
+    {
+        "word": "Vr Esports",
+        "description": "VR eSports involves competitive gaming using VR technology, with players competing against each other in VR games and experiences to achieve the highest scores or complete specific objectives."
+    },
+    {
+        "word": "Vr Painting",
+        "description": "VR painting allows artists to create digital artwork in VR using virtual brushes, colors, and tools, providing a new way to express creativity and explore artistic possibilities."
+    },
+    {
+        "word": "Vr Meditation",
+        "description": "VR meditation offers guided relaxation and mindfulness experiences in virtual environments, providing a serene and immersive space for relaxation and stress reduction."
+    },
+    {
+        "word": "Vr Tourism",
+        "description": "VR tourism allows users to experience and explore travel destinations in VR, offering a virtual alternative to traditional travel and providing unique and immersive virtual travel experiences."
+    },
+    {
+        "word": "Vr Journalism",
+        "description": "VR journalism utilizes VR technology to create immersive and interactive news experiences, allowing users to explore and engage with news stories in a more immersive and engaging way."
+    },
+    {
+        "word": "Vr Healthcare",
+        "description": "VR healthcare involves the use of VR technology in healthcare settings, such as pain management, cognitive therapy, or providing immersive experiences for patients during medical procedures."
+    },
+    {
+        "word": "Vr Retail",
+        "description": "VR retail experiences enable users to virtually browse and shop for products in immersive virtual environments, providing a unique and engaging shopping experience."
+    },
+    {
+        "word": "Vr Fitness",
+        "description": "VR fitness combines VR technology with physical exercise, offering interactive and immersive fitness experiences that make workouts more engaging and enjoyable."
+    },
+    {
+        "word": "Vr Cinematics",
+        "description": "VR cinematics create narrative storytelling experiences in VR, allowing users to be immersed in the story and interact with the virtual characters and environments."
+    },
+    {
+        "word": "Vr Music",
+        "description": "VR music experiences allow users to interact with and explore music in virtual environments, providing immersive and interactive music creation and performance platforms."
+    },
+    {
+        "word": "Vr Therapy For Autism",
+        "description": "VR therapy techniques are used to assist individuals on the autism spectrum in developing social and communication skills, providing a safe and controlled environment for practice and learning."
+    },
+    {
+        "word": "Vr",
+        "description": "Virtual Reality (VR) refers to a computer-generated simulation in which a person can interact with an artificial three-dimensional environment."
+    },
+    {
+        "word": "Ar",
+        "description": "Augmented Reality (AR) is a technology that overlays digital information, such as images or videos, onto the real world."
+    },
+    {
+        "word": "Immersive Experience",
+        "description": "An immersive experience is one that completely surrounds the user's senses, creating the illusion of being physically present in a different environment."
+    },
+    {
+        "word": "Field Of View (Fov)",
+        "description": "Field of View (FOV) refers to the extent of the observable world that is visible through a virtual reality headset."
+    },
+    {
+        "word": "Motion Tracking",
+        "description": "Motion tracking is the technology used to track the movement of a user's head or body in virtual reality, allowing their virtual avatar to move accordingly."
+    },
+    {
+        "word": "Simulation Sickness",
+        "description": "Simulation sickness is a condition similar to motion sickness that occurs when using virtual reality or other virtual environments."
+    },
+    {
+        "word": "Telepresence",
+        "description": "Telepresence is the feeling of being present in a remote location, brought about by the use of virtual reality or other technologies."
+    },
+    {
+        "word": "Virtual Environment",
+        "description": "A virtual environment is a simulated, computer-generated environment that can be interacted with by a user."
+    },
+    {
+        "word": "Avatar",
+        "description": "An avatar is a digital representation of a user in a virtual reality or augmented reality environment."
+    },
+    {
+        "word": "Gestural Interaction",
+        "description": "Gestural interaction is a method of controlling virtual reality or augmented reality systems using hand or body movements."
+    },
+    {
+        "word": "Replication Fidelity",
+        "description": "Replication fidelity refers to the accuracy with which a virtual reality system can reproduce the real world."
+    },
+    {
+        "word": "Real-Time Rendering",
+        "description": "Real-time rendering is the process of generating and displaying computer graphics in real-time, allowing for immediate interaction and response."
+    },
+    {
+        "word": "Stereoscopic Display",
+        "description": "A stereoscopic display is a display technology that presents separate images to each eye, creating a three-dimensional effect."
+    },
+    {
+        "word": "Lag",
+        "description": "Lag, also known as latency, refers to the delay between a user's action and the corresponding reaction or feedback in a virtual reality system."
+    },
+    {
+        "word": "Persistence Of Vision",
+        "description": "Persistence of vision is the phenomenon where the human eye retains an image for a brief moment after it has disappeared, allowing for smooth perception of motion in film or animation."
+    },
+    {
+        "word": "Hmd",
+        "description": "Head-Mounted Display (HMD) is a wearable device that is worn on the head to provide a virtual reality or augmented reality experience."
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "Gesture recognition is the technology that allows a computer or system to interpret and respond to human gestures, such as hand movements."
+    },
+    {
+        "word": "Tethered System",
+        "description": "A tethered system is a virtual reality system that requires a physical connection, such as a cable, to a computer or console."
+    },
+    {
+        "word": "Room-Scale Vr",
+        "description": "Room-scale virtual reality refers to a virtual reality experience that allows users to move and interact within a defined physical space."
+    },
+    {
+        "word": "Holography",
+        "description": "Holography is a technique that creates three-dimensional images using laser light interference patterns."
+    },
+    {
+        "word": "Gesture-Based Interaction",
+        "description": "Gesture-based interaction refers to the use of body movements, hand gestures, or other non-verbal cues to interact with virtual reality or augmented reality systems."
+    },
+    {
+        "word": "Cybersickness",
+        "description": "Cybersickness is a type of motion sickness induced by virtual reality or other immersive technologies, resulting in discomfort or nausea."
+    },
+    {
+        "word": "Field Of Depth (Fod)",
+        "description": "Field of Depth (FOD) refers to the distance range of perceived depth, or the space between the nearest and farthest objects that appear in a virtual reality scene."
+    },
+    {
+        "word": "Holographic Display",
+        "description": "A holographic display is a display technology that creates the illusion of three-dimensional images by projecting light in a way that simulates the wavefronts of real light."
+    },
+    {
+        "word": "Oculus Rift",
+        "description": "Oculus Rift is a virtual reality headset developed by Oculus VR that provides a high-quality virtual reality experience."
+    },
+    {
+        "word": "Mixed Reality (Mr)",
+        "description": "Mixed Reality (MR) is a combination of virtual reality and augmented reality, blending the real and virtual worlds."
+    },
+    {
+        "word": "Haptic Technology",
+        "description": "Haptic technology is the use of touch-based feedback, such as vibrations or resistance, to enhance the sense of touch in virtual reality or other digital environments."
+    },
+    {
+        "word": "Augmented Virtuality (Av)",
+        "description": "Augmented Virtuality (AV) is a concept in which virtual reality or computer-generated elements are incorporated into real-world environments."
+    },
+    {
+        "word": "Virtual Reality Sickness",
+        "description": "Virtual reality sickness is a type of motion sickness induced by virtual reality experiences, resulting in discomfort or nausea."
+    },
+    {
+        "word": "Positional Tracking",
+        "description": "Positional tracking is the technology that tracks the position and movement of a user's head or body in virtual reality, allowing for more realistic immersion."
+    },
+    {
+        "word": "Oculus Quest",
+        "description": "Oculus Quest is a standalone virtual reality headset developed by Oculus VR that provides a wireless and portable virtual reality experience."
+    },
+    {
+        "word": "Spatial Audio",
+        "description": "Spatial audio is a technology that creates a three-dimensional sound experience, allowing virtual reality users to perceive sounds coming from different directions."
+    },
+    {
+        "word": "Lens Distortion",
+        "description": "Lens distortion is an optical aberration that causes straight lines to appear curved in virtual reality or augmented reality headsets."
+    },
+    {
+        "word": "Oculus Go",
+        "description": "Oculus Go is a standalone virtual reality headset developed by Oculus VR that provides an affordable and accessible virtual reality experience."
+    },
+    {
+        "word": "Vr Sickness",
+        "description": "VR sickness, also known as virtual reality sickness, is a type of motion sickness induced by virtual reality experiences, resulting in discomfort or nausea."
+    },
+    {
+        "word": "Hand-Held Controller",
+        "description": "A hand-held controller is a handheld input device used to interact with virtual reality or augmented reality systems."
+    },
+    {
+        "word": "Oculus Link",
+        "description": "Oculus Link is a software feature that allows the Oculus Quest standalone headset to be connected to a PC, enabling PC-based virtual reality experiences."
+    },
+    {
+        "word": "Screen-Door Effect",
+        "description": "The screen-door effect is a visual artifact in virtual reality displays where the gaps between pixels are visible, resembling a screen door."
+    },
+    {
+        "word": "360-Degree Photo",
+        "description": "A 360-degree photo is a photograph that captures a scene in a full 360-degree view, allowing viewers to explore the surroundings by changing their viewing perspective."
+    },
+    {
+        "word": "Augmented Sound",
+        "description": "Augmented sound is a technology that enhances or adds virtual audio elements to real-world environments."
+    },
+    {
+        "word": "Holographic Projection",
+        "description": "Holographic projection is a technique that creates three-dimensional images by projecting light in a way that simulates the wavefronts of real light."
+    },
+    {
+        "word": "Tetherless System",
+        "description": "A tetherless system is a virtual reality system that does not require a physical connection, such as a cable, to a computer or console."
+    },
+    {
+        "word": "Virtual Motion Sickness",
+        "description": "Virtual motion sickness is a type of motion sickness induced by virtual reality experiences, resulting in discomfort or nausea."
+    },
+    {
+        "word": "Oculus Touch",
+        "description": "Oculus Touch is a pair of handheld controllers developed by Oculus VR that provide hand presence and intuitive interaction in virtual reality."
+    },
+    {
+        "word": "Retinal Display",
+        "description": "A retinal display is a display technology that aims to present visuals at a resolution and clarity similar to what the human eye can perceive."
+    },
+    {
+        "word": "Spatial Computing",
+        "description": "Spatial computing is a concept that combines virtual reality, augmented reality, and mixed reality to create immersive and interactive virtual environments."
+    },
+    {
+        "word": "Oculus Store",
+        "description": "The Oculus Store is a digital distribution platform for virtual reality games, apps, and experiences, accessible through Oculus VR headsets."
+    },
+    {
+        "word": "Simulator",
+        "description": "A simulator is a device or system that replicates or emulates real-world situations, environments, or processes for training, education, or entertainment purposes."
+    }
+]

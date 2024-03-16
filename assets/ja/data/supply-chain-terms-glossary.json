@@ -1,0 +1,450 @@
+[
+    {
+        "word": "Supply Chain",
+        "description": "Supply chain refers to the entire process involved in getting a product or service from the supplier to the end customer."
+    },
+    {
+        "word": "Logistics",
+        "description": "Logistics involves the planning, implementation, and control of the efficient flow and storage of goods, services, and related information."
+    },
+    {
+        "word": "Inventory Management",
+        "description": "Inventory Management involves maintaining the right quantity and quality of products in stock."
+    },
+    {
+        "word": "Demand Forecasting",
+        "description": "Demand forecasting involves estimating future customer demand for a product or service."
+    },
+    {
+        "word": "Procurement",
+        "description": "Procurement is the process of acquiring goods, services, or works from an external source."
+    },
+    {
+        "word": "Warehouse Management",
+        "description": "Warehouse management includes the control and optimization of warehouse operations, such as receiving, storing, and picking."
+    },
+    {
+        "word": "Transportation Management",
+        "description": "Transportation Management involves the planning and optimization of transportation activities."
+    },
+    {
+        "word": "Distribution Network Design",
+        "description": "Distribution Network Design is the process of determining the optimal configuration and locations of facilities in a supply chain network."
+    },
+    {
+        "word": "Supplier Relationship Management",
+        "description": "Supplier Relationship Management focuses on managing interactions and relationships with suppliers."
+    },
+    {
+        "word": "Sourcing",
+        "description": "Sourcing involves identifying and selecting suppliers to meet the needs of a company."
+    },
+    {
+        "word": "Reverse Logistics",
+        "description": "Reverse logistics refers to the process of managing the return of products from the end customer back to the manufacturer or retailer."
+    },
+    {
+        "word": "Lean Manufacturing",
+        "description": "Lean manufacturing is a systematic approach to minimizing waste and maximizing value in the production process."
+    },
+    {
+        "word": "Six Sigma",
+        "description": "Six Sigma is a disciplined approach to process improvement that aims to reduce defects and variation in manufacturing and service processes."
+    },
+    {
+        "word": "Demand Management",
+        "description": "Demand Management involves the forecasting and management of customer demand."
+    },
+    {
+        "word": "Forecast Accuracy",
+        "description": "Forecast Accuracy is a measure of how well actual demand aligns with forecasted demand."
+    },
+    {
+        "word": "Safety Stock",
+        "description": "Safety stock is extra inventory held as a buffer to mitigate the risk of stockouts and meet unexpected demand."
+    },
+    {
+        "word": "Lead Time",
+        "description": "Lead time is the time it takes for an order to be fulfilled from the moment it is placed."
+    },
+    {
+        "word": "Order Fulfillment",
+        "description": "Order Fulfillment is the process of receiving, processing, and delivering customer orders."
+    },
+    {
+        "word": "Demand-Supply Balancing",
+        "description": "Demand-Supply Balancing involves matching supply with demand to ensure optimal inventory levels."
+    },
+    {
+        "word": "Bill Of Materials (Bom)",
+        "description": "A BOM is a comprehensive list of all the materials, components, and assemblies required to manufacture a product."
+    },
+    {
+        "word": "Material Requirements Planning (Mrp)",
+        "description": "MRP is a production planning and inventory control system that manages the scheduling and ordering of materials."
+    },
+    {
+        "word": "Just-In-Time (Jit)",
+        "description": "JIT is a production and inventory system that aims to have the right materials and products delivered at the right time."
+    },
+    {
+        "word": "Cross-Docking",
+        "description": "Cross-Docking is a logistics practice where products are transferred directly from inbound to outbound transportation without being stored in a warehouse."
+    },
+    {
+        "word": "Economic Order Quantity (Eoq)",
+        "description": "Economic Order Quantity (EOQ) is the optimal order quantity that minimizes the total cost of ordering and holding inventory."
+    },
+    {
+        "word": "Batch Processing",
+        "description": "Batch Processing is a method of processing transactions in large groups, rather than individually."
+    },
+    {
+        "word": "Radio Frequency Identification (Rfid)",
+        "description": "Radio Frequency Identification (RFID) is a technology that uses radio waves to identify and track objects."
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "IoT refers to the network of physical devices, vehicles, and other objects embedded with sensors and software that enable them to connect and exchange data."
+    },
+    {
+        "word": "Total Cost Of Ownership (Tco)",
+        "description": "TCO is a financial estimate that considers the direct and indirect costs associated with owning and using a product or service over its entire life cycle."
+    },
+    {
+        "word": "Kanban",
+        "description": "Kanban is a visual system for managing work as it moves through a process, using cards or other signals to indicate the status and progress of tasks."
+    },
+    {
+        "word": "Supplier Performance Metrics",
+        "description": "Supplier Performance Metrics are measures used to assess a supplier's performance in terms of quality, delivery, and cost."
+    },
+    {
+        "word": "Key Performance Indicators (Kpis)",
+        "description": "KPIs are measurable values that indicate the performance of a company or a specific process."
+    },
+    {
+        "word": "Order Cycle Time",
+        "description": "Order Cycle Time is the time taken from when a customer places an order to when they receive the goods."
+    },
+    {
+        "word": "Make-To-Stock (Mts)",
+        "description": "Make-to-Stock (MTS) is a manufacturing process where products are produced in anticipation of customer demand."
+    },
+    {
+        "word": "Make-To-Order (Mto)",
+        "description": "Make-to-Order (MTO) is a manufacturing process where products are only produced after receiving customer orders."
+    },
+    {
+        "word": "Engineer-To-Order (Eto)",
+        "description": "Engineer-to-Order (ETO) is a production strategy where products are designed and manufactured to meet specific customer requirements."
+    },
+    {
+        "word": "Supply Chain Visibility",
+        "description": "Supply chain visibility refers to the ability to track and monitor products, shipments, and inventory throughout the supply chain."
+    },
+    {
+        "word": "Demand-Side Platform (Dsp)",
+        "description": "Demand-Side Platform (DSP) is a technology platform that enables advertisers to manage multiple ad exchange and data exchange accounts through a single interface."
+    },
+    {
+        "word": "Supplier Diversity",
+        "description": "Supplier diversity refers to the intentional inclusion of diverse suppliers in a company's supply chain."
+    },
+    {
+        "word": "Last Mile Delivery",
+        "description": "Last Mile Delivery is the final step in the delivery process, from a distribution center or transportation hub to the end customer's location."
+    },
+    {
+        "word": "Order Management System (Oms)",
+        "description": "Order Management System (OMS) is a software solution that helps businesses manage and track customer orders throughout the order lifecycle, from initiation to fulfillment."
+    },
+    {
+        "word": "Transportation Optimization",
+        "description": "Transportation Optimization involves finding the most efficient routes and modes of transportation to minimize costs, reduce lead times, and improve service levels."
+    },
+    {
+        "word": "Supplier Collaboration",
+        "description": "Supplier Collaboration involves working closely with suppliers to improve performance and achieve mutual goals."
+    },
+    {
+        "word": "Carbon Footprint",
+        "description": "Carbon Footprint is the total amount of greenhouse gases emitted directly or indirectly by an individual, organization, event, product, or service."
+    },
+    {
+        "word": "Sustainable Packaging",
+        "description": "Sustainable Packaging refers to the use of environmentally friendly materials and design concepts to minimize environmental impact throughout the packaging lifecycle."
+    },
+    {
+        "word": "Supply Chain Risk Management",
+        "description": "Supply chain risk management involves identifying, assessing, and mitigating risks that may disrupt the supply chain."
+    },
+    {
+        "word": "Capacity Planning",
+        "description": "Capacity planning involves determining the production capacity needed to meet current and future demand."
+    },
+    {
+        "word": "Supplier Onboarding",
+        "description": "Supplier Onboarding is the process of bringing new suppliers into a supply chain and establishing their capabilities."
+    },
+    {
+        "word": "Inventory Turns",
+        "description": "Inventory Turns is a measure of how quickly inventory is sold and replaced over a given period, indicating the efficiency of inventory management."
+    },
+    {
+        "word": "Batch Tracking",
+        "description": "Batch Tracking is the ability to trace and track the movement of goods within a supply chain based on specific batch or lot numbers."
+    },
+    {
+        "word": "Supplier Auditing",
+        "description": "Supplier Auditing involves evaluating and verifying suppliers' compliance with quality, social, environmental, and ethical standards through various assessment methods."
+    },
+    {
+        "word": "Supply Chain Analytics",
+        "description": "Supply chain analytics involves the use of data analysis and modeling techniques to gain insights and make data-driven decisions in supply chain management."
+    },
+    {
+        "word": "Demand Segmentation",
+        "description": "Demand Segmentation is the process of dividing a market or customer base into distinct groups based on similar demand characteristics, preferences, or behaviors."
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "A Service Level Agreement (SLA) is a contract between a service provider and a customer that defines the level of service expected."
+    },
+    {
+        "word": "Collaborative Planning, Forecasting, And Replenishment (Cpfr)",
+        "description": "Collaborative Planning, Forecasting, and Replenishment (CPFR) is a business process where trading partners collaborate to optimize the flow of products from supplier to end customer."
+    },
+    {
+        "word": "Supply Chain Resilience",
+        "description": "Supply Chain Resilience is the ability of a supply chain to quickly recover from disruptions, adapt to changes, and maintain or restore normal operations."
+    },
+    {
+        "word": "Warehousing",
+        "description": "Warehousing refers to the storage of goods in a centralized location before distribution."
+    },
+    {
+        "word": "Distribution Network",
+        "description": "A Distribution Network is the infrastructure that connects suppliers and customers in the supply chain."
+    },
+    {
+        "word": "Supplier Performance Management",
+        "description": "Supplier Performance Management focuses on measuring and improving supplier performance."
+    },
+    {
+        "word": "Order Management",
+        "description": "Order management refers to the process of receiving, processing, and fulfilling customer orders."
+    },
+    {
+        "word": "Demand Planning",
+        "description": "Demand Planning is the process of estimating future customer demand for products or services."
+    },
+    {
+        "word": "Quality Control",
+        "description": "Quality control involves ensuring that products or services meet specified requirements and satisfy customer expectations."
+    },
+    {
+        "word": "Continuous Improvement",
+        "description": "Continuous improvement is an ongoing effort to enhance products, services, or processes to increase efficiency and effectiveness."
+    },
+    {
+        "word": "Demand Variability",
+        "description": "Demand Variability refers to the fluctuation in demand for a product or service."
+    },
+    {
+        "word": "Supplier Evaluation",
+        "description": "Supplier Evaluation involves assessing and selecting suppliers based on predetermined criteria."
+    },
+    {
+        "word": "Supply Chain Integration",
+        "description": "Supply Chain Integration is the coordination and collaboration of various entities in the supply chain to achieve common goals."
+    },
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce refers to the buying and selling of goods or services over the internet."
+    },
+    {
+        "word": "Value Stream Mapping",
+        "description": "Value Stream Mapping is a visual tool used to analyze and improve the flow of materials and information in a process."
+    },
+    {
+        "word": "Bullwhip Effect",
+        "description": "The Bullwhip Effect is the phenomenon of demand variability increasing as it moves up the supply chain."
+    },
+    {
+        "word": "Dynamic Pricing",
+        "description": "Dynamic Pricing is a pricing strategy that adjusts prices in real-time based on factors such as demand and competition."
+    },
+    {
+        "word": "Order Picking",
+        "description": "Order Picking is the process of selecting and retrieving items from inventory to fulfill customer orders."
+    },
+    {
+        "word": "Outsourcing",
+        "description": "Outsourcing is the practice of utilizing external suppliers or service providers to perform certain business functions."
+    },
+    {
+        "word": "Supplier Development",
+        "description": "Supplier Development involves working with suppliers to improve their capabilities and performance."
+    },
+    {
+        "word": "Quality Assurance",
+        "description": "Quality Assurance refers to the processes and activities implemented to ensure that products or services meet quality standards."
+    },
+    {
+        "word": "Sourcing Strategy",
+        "description": "A Sourcing Strategy is a plan for identifying and selecting suppliers to meet an organization's needs."
+    },
+    {
+        "word": "Third-Party Logistics (3Pl)",
+        "description": "Third-Party Logistics (3PL) refers to the outsourcing of logistics activities to a third-party provider."
+    },
+    {
+        "word": "Incoterms",
+        "description": "Incoterms are a set of international rules that define the responsibilities and liabilities of buyers and sellers in international trade."
+    },
+    {
+        "word": "Landed Cost",
+        "description": "Landed Cost is the total cost of a product, including the purchase price and all associated costs such as transportation and customs duties."
+    },
+    {
+        "word": "Supplier Negotiation",
+        "description": "Supplier Negotiation involves bargaining with suppliers to agree on favorable terms and conditions."
+    },
+    {
+        "word": "Batch Size",
+        "description": "Batch Size refers to the quantity of products produced or processed in one production run."
+    },
+    {
+        "word": "Inventory Turnover",
+        "description": "Inventory Turnover is a measure of how quickly inventory is sold or used in a given period."
+    },
+    {
+        "word": "Cash-To-Cash Cycle Time (C2C)",
+        "description": "Cash-to-Cash Cycle Time (C2C) is the time it takes for a company to convert its investments in inventory and other resources into cash."
+    },
+    {
+        "word": "Demand-Supply Matching",
+        "description": "Demand-supply matching involves aligning customer demand with the supply of goods or services."
+    },
+    {
+        "word": "Postponement",
+        "description": "Postponement is a strategy of delaying the customization or finalization of a product until a customer order is received."
+    },
+    {
+        "word": "Inventory",
+        "description": "Inventory refers to the stock of goods a company holds to meet customer demand."
+    },
+    {
+        "word": "Supplier",
+        "description": "A supplier is an individual or organization that provides goods or services to a company."
+    },
+    {
+        "word": "Supplier Relationship Management (Srm)",
+        "description": "SRM involves building and maintaining positive relationships with suppliers to optimize value and minimize risks."
+    },
+    {
+        "word": "Make-Or-Buy Decision",
+        "description": "The make-or-buy decision involves deciding whether to produce an item internally or purchase it from an external supplier."
+    },
+    {
+        "word": "Purchase Order",
+        "description": "A purchase order is a legally binding document that confirms the details of a purchase between a buyer and a supplier."
+    },
+    {
+        "word": "Distribution",
+        "description": "Distribution involves the movement of finished goods from the manufacturer to the end customer."
+    },
+    {
+        "word": "Transportation",
+        "description": "Transportation refers to the movement of goods or people from one place to another."
+    },
+    {
+        "word": "Third-Party Logistics Provider (3Pl)",
+        "description": "A 3PL is a company that provides logistics services to other companies, including transportation, warehousing, and distribution."
+    },
+    {
+        "word": "Last-Mile Delivery",
+        "description": "Last-mile delivery is the final stage of the delivery process, from the distribution center to the end customer."
+    },
+    {
+        "word": "Supply Chain Network",
+        "description": "A supply chain network is the interconnected system of suppliers, manufacturers, warehouses, distribution centers, and retailers."
+    },
+    {
+        "word": "Batch Ordering",
+        "description": "Batch ordering involves purchasing a larger quantity of goods at one time, usually to benefit from economies of scale."
+    },
+    {
+        "word": "Manufacturing Resource Planning (Mrp Ii)",
+        "description": "MRP II is an integrated information system used for planning and managing manufacturing operations."
+    },
+    {
+        "word": "Closed-Loop Supply Chain",
+        "description": "A closed-loop supply chain incorporates the return of products, components, or materials back into the supply chain."
+    },
+    {
+        "word": "Green Supply Chain",
+        "description": "A green supply chain focuses on incorporating environmentally friendly practices and minimizing the environmental impact of logistics and operations."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a distributed ledger technology that allows secure and transparent recording of transactions across multiple entities."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "AI refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "ML is a subset of AI that focuses on getting machines to learn from data and improve their performance over time."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive analytics involves using historical and real-time data to forecast future events or predict outcomes."
+    },
+    {
+        "word": "Optimization",
+        "description": "Optimization involves finding the best possible solution or decision given a set of constraints and objectives."
+    },
+    {
+        "word": "Supply Chain Collaboration",
+        "description": "Supply chain collaboration involves working closely with partners, suppliers, and customers to achieve mutual benefits."
+    },
+    {
+        "word": "Total Quality Management (Tqm)",
+        "description": "TQM is a management framework focused on continuous improvement and customer satisfaction through process excellence."
+    },
+    {
+        "word": "Supply Chain Sustainability",
+        "description": "Supply chain sustainability involves integrating environmental, social, and economic considerations into supply chain practices."
+    },
+    {
+        "word": "Omni-Channel Retailing",
+        "description": "Omni-channel retailing provides customers with a seamless shopping experience across multiple channels, such as physical stores, websites, and mobile apps."
+    },
+    {
+        "word": "Demand-Side Platforms (Dsp)",
+        "description": "DSPs are software platforms used by advertisers and agencies to manage and optimize programmatic advertising campaigns."
+    },
+    {
+        "word": "Blockchain In Supply Chain",
+        "description": "Blockchain technology can be used in supply chain management to provide increased transparency, traceability, and security."
+    },
+    {
+        "word": "Robotics Process Automation (Rpa)",
+        "description": "RPA involves automating repetitive tasks and processes using software robots or bots."
+    },
+    {
+        "word": "Vendor-Managed Inventory (Vmi)",
+        "description": "VMI is a inventory management approach where the supplier is responsible for monitoring and replenishing the customer's inventory."
+    },
+    {
+        "word": "Capacity Utilization",
+        "description": "Capacity utilization is the extent to which available production capacity is being used."
+    },
+    {
+        "word": "Digital Twin",
+        "description": "A digital twin is a virtual replica or simulation of a physical product, process, or system that can be used for analysis and optimization."
+    }
+]

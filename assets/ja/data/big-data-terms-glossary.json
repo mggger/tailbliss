@@ -1,0 +1,414 @@
+[
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理ツールを使用して簡単に処理できない大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analyticsは、有用な洞察を発見し、結論を出すためにデータを調べ、変換し、組織化するプロセスです。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、統計的方法と機械学習技術を使用して、大規模なデータセットからパターン、トレンド、洞察を発見するプロセスです。"
+    },
+    {
+        "word": "Data Warehousing",
+        "description": "Data Warehousing は、ビジネスインテリジェンスとレポート活動をサポートするために、さまざまなソースからデータを収集、保存、管理するプロセスです。"
+    },
+    {
+        "word": "Data Cleansing",
+        "description": "Data Cleansing または Data Scrubbing または Data Cleansing とも呼ばれるデータクリーニングは、データセットのエラー、不一致、不正確さを識別し、修正または削除するプロセスです。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、異なるソースやシステムからのデータを統合して一貫した視点に組み合わせるプロセスです。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the graphical representation of data and information, using visual elements such as charts, graphs, and maps to enable better understanding and analysis. データビジュアル化は、データや情報のグラフィック的表現であり、図、グラフ、マップなどの視覚的要素を使用して、より良い理解と分析を可能にします。"
+    },
+    {
+        "word": "Data Governance",
+        "description": "データガバナンスとは、組織内のデータの全体的な管理と制御、データ管理のポリシー、手順、基準を含む。"
+    },
+    {
+        "word": "Hadoop",
+        "description": "Hadoopは、大規模なデータセットの分散処理とストレージを商品ハードウェアのクラスターで可能にするオープンソースフレームワークです。"
+    },
+    {
+        "word": "Spark",
+        "description": "Sparkは、ビッグデータ分析のためのメモリ内処理能力を提供する高速で一般的なクラスターコンピューティングシステムです。"
+    },
+    {
+        "word": "Nosql",
+        "description": "NoSQL、または「SQLだけでなく」は、非構造化および半構造化データの保存および取得に柔軟かつスケーラブルなアプローチを提供するデータベース管理システムの一種です。"
+    },
+    {
+        "word": "Etl",
+        "description": "ETLは「Extract, Transform, and Load」の略で、さまざまなソースからデータを抽出し、ターゲットシステムに適合するように変換し、データ倉庫またはその他のストレージシステムにロードするプロセスを指します。"
+    },
+    {
+        "word": "Scalability",
+        "description": "スケーラビリティとは、システム、アプリケーション、またはインフラストラクチャが、パフォーマンスや応答性を損なうことなく、データ、ユーザー、およびワークロードの増加を処理する能力です。"
+    },
+    {
+        "word": "Real-Time Analytics",
+        "description": "リアルタイムアナリティクスとは、データが利用可能になる直後にデータを分析し、最新の情報に基づいて即時的な洞察や行動を可能にすることを指します。"
+    },
+    {
+        "word": "Mapreduce",
+        "description": "MapReduce は、大規模なデータセットを分散型のコンピュータクラスターで並行して処理および分析するためのプログラミングモデルおよびフレームワークです。"
+    },
+    {
+        "word": "Data Lake",
+        "description": "Data Lake は、必要になるまで、原始形式で大量の原始データと非構造化データを保管するストレージです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、歴史的およびリアルタイムのデータを使用して、将来の出来事や結果についての予測や予測を行うための実践です。"
+    },
+    {
+        "word": "Data Engineer",
+        "description": "データエンジニアは、ビッグデータの保存、処理、分析に使用されるインフラストラクチャとシステムを設計、構築、管理するプロフェッショナルです。"
+    },
+    {
+        "word": "Data Scientist",
+        "description": "データサイエンティストは、データから洞察と知識を抽出し、複雑な問題を解決するために科学的な方法、アルゴリズム、およびデータ分析ツールを使用する専門家です。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、機密データと個人データの保護を意味し、それらが安全かつ機密的に収集、保存、使用されることを保証します。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、不正なアクセス、使用、開示、干渉、変更、または破壊からデータを保護することを指します。"
+    },
+    {
+        "word": "Data Storage",
+        "description": "Data Storage は、データベース、データ倉庫、またはクラウドストレージシステムなどのさまざまな形でデータを保存するプロセスです。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、アルゴリズムと統計モデルの使用に焦点を当て、コンピュータがデータから学び、予測や決定を下すことを可能にする研究分野です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つ人工ニューラルネットワークを使用して、複雑なデータから高レベルの表現とパターンを抽出する機械学習のサブセットです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、人間の言語とコンピュータの相互作用を扱うAIの分野であり、機械が人間の言語を理解し、解釈し、生成することを可能にします。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、およびアプリケーションを含むコンピューティングサービスのインターネット上の提供です。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネットは、センサー、ソフトウェア、および接続性で組み込まれた物理デバイス、車両、機器、その他のオブジェクトのネットワークを指し、データを収集、交換、分析することができます。"
+    },
+    {
+        "word": "Structured Data",
+        "description": "構造化されたデータとは、テーブルなどの固定フォーマットで、事前定義されたスケジュールを備え、簡単な保存、検索、分析を可能にするデータを指します。"
+    },
+    {
+        "word": "Unstructured Data",
+        "description": "非構造化データとは、テキスト文書、画像、ビデオ、ソーシャルメディアの投稿などの事前定義された形式や組織を持たないデータを指し、分析のための特別な処理技術を必要とする。"
+    },
+    {
+        "word": "Semi-Structured Data",
+        "description": "半構造化データとは、いくつかの組織構造を持つデータを指しますが、従来のリレーショナルデータベースや構造化された形式にきれいに適合しません、しばしばタグ、ラベル、または属性が含まれています。"
+    },
+    {
+        "word": "Data Architecture",
+        "description": "データアーキテクチャとは、データシステム内のデータの設計、構造、組織、データモデル、スケジュール、およびストレージ戦略を含む。"
+    },
+    {
+        "word": "Data Mart",
+        "description": "Data Mart は、特定の部門、機能、またはビジネス領域に焦点を当てたデータ倉庫のサブセットであり、カスタマイズされたデータおよび分析機能を提供します。"
+    },
+    {
+        "word": "Data Federation",
+        "description": "Data Federation は、複数のソースからのデータをリアルタイムまたはほぼリアルタイムで統合し、統合し、分析およびレポートの目的のために仮想ビューを作成するプロセスです。"
+    },
+    {
+        "word": "Data Replication",
+        "description": "Data Replication は、データの複数のコピーを異なる場所やシステムで作成し、維持するプロセスで、多余性とデータの可用性を確保します。"
+    },
+    {
+        "word": "Data Stream Processing",
+        "description": "データストリーム処理は、継続的なデータストリームのリアルタイム処理であり、最新の情報に基づいて即時的な分析と意思決定を可能にします。"
+    },
+    {
+        "word": "Data Lake Architecture",
+        "description": "Data Lake Architecture は、データの保存、処理、アクセス方法を含むデータ湖の設計と組織を指します。"
+    },
+    {
+        "word": "Data Virtualization",
+        "description": "データ仮想化は、さまざまなソースやフォーマットからのデータにリアルタイムでアクセスし、統合することを可能にし、物理的統合や複製を必要としません。"
+    },
+    {
+        "word": "Data Catalog",
+        "description": "データカタログは、組織内のデータ資産の集中的な記録またはインデックスで、利用可能なデータセットに関するメタデータと情報を提供します。"
+    },
+    {
+        "word": "Data Access Control",
+        "description": "データアクセス制御とは、データへのアクセスを規制し、制御するためのメカニズムとポリシーを指し、権限のあるユーザーのみがデータを閲覧または使用できるようにします。"
+    },
+    {
+        "word": "Data Lake Governance",
+        "description": "Data Lake Governance は、データ湖内のデータの管理と使用のためのポリシー、コントロール、および基準を確立するプロセスです。"
+    },
+    {
+        "word": "Data Lineage",
+        "description": "Data Lineage は、データの動きと変換の記録または歴史であり、その起源、変換、そしてそれが使用または消費される場所を示します。"
+    },
+    {
+        "word": "Data Masking",
+        "description": "データマッキングとは、機密性あるいは機密性のあるデータを現実的だが、仮想的あるいは混乱したデータに置き換えるプロセスで、機密性のある情報を不正アクセスや暴露から保護する。"
+    },
+    {
+        "word": "Data Center",
+        "description": "データセンターは、コンピュータシステム、サーバー、ネットワーク、ストレージ、およびその他のITリソースを収集し、処理し、大量のデータを管理するための施設です。"
+    },
+    {
+        "word": "Data Compression",
+        "description": "データ圧縮は、データのサイズを減らして空間や帯域幅を節約し、その重要な情報を維持するプロセスです。"
+    },
+    {
+        "word": "Data Backup",
+        "description": "データバックアップは、データの損失、破損、またはシステムの故障から保護するためにデータのコピーまたは複製を作成するプロセスです。"
+    },
+    {
+        "word": "Data Retention",
+        "description": "データ保存は、法的、規制的、およびビジネス要件に基づいてデータの保存、アーカイブ、および削除を規制するポリシーと慣行を指します。"
+    },
+    {
+        "word": "Data Anonymization",
+        "description": "データ匿名化とは、プライバシーの保護とデータ保護規制の遵守を確保するために、データセットから個人を識別できる情報を変更または削除することです。"
+    },
+    {
+        "word": "Data De-Identification",
+        "description": "Data De-Identificationとは、プライバシーの保護とデータ保護規制の遵守を確保するために、データセットから個人を識別できる情報を削除または変更するプロセスです。"
+    },
+    {
+        "word": "Data Silo",
+        "description": "データシロとは、データが孤立したシステムや部門に保存され、管理され、データの共有、統合、および協力を妨げる状況を指します。"
+    },
+    {
+        "word": "Data Transfer",
+        "description": "データ転送とは、ある場所またはシステムから別の場所へのデータの移動または転送を指し、しばしば大規模なデータセットまたはネットワーク転送を含む。"
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data Fusionは、複数のソースからのデータを統合し、統合されたデータセットに統合し、包括的な分析と意思決定を可能にするプロセスです。"
+    },
+    {
+        "word": "Data Breach",
+        "description": "データ侵害は、機密性、機密性、または保護されたデータが許可なくアクセスまたは開示される事件です。"
+    },
+    {
+        "word": "Data Loss Prevention",
+        "description": "データ損失防止とは、機密データの不当または意図的な損失、盗難、または暴露を防ぐために使用される戦略、技術、および実践を指します。"
+    },
+    {
+        "word": "Data Quality",
+        "description": "データの品質は、データの正確性、完全性、一貫性、信頼性を指し、その目的の使用に適していることを保証します。"
+    },
+    {
+        "word": "Data Profiling",
+        "description": "データプロファイリングは、データの品質、完全性、正確性、一貫性を分析し、評価するプロセスであり、しばしばデータ統合または移行のための準備をしています。"
+    },
+    {
+        "word": "Data Sovereignty",
+        "description": "データ主権とは、データが居住または保管されている国の法律、規制、および管轄の対象であるという概念を指します。"
+    },
+    {
+        "word": "Data Classification",
+        "description": "データ分類は、データの敏感性、価値、および重要性に基づいてデータを分類し、適切なデータ保護およびアクセス制御を可能にするプロセスです。"
+    },
+    {
+        "word": "Data Strategy",
+        "description": "データ戦略は、組織の目標、目標、原則、およびデータの管理、統治、利用に関連するプロセスを概説する包括的な計画です。"
+    },
+    {
+        "word": "Data Pipeline",
+        "description": "データパイプラインは、複数のソースからデータを分析またはストレージの目的地に移動するために使用されるプロセス、ツール、技術のセットです。"
+    },
+    {
+        "word": "Data Owner",
+        "description": "データ所有者は、組織内の特定のデータセットの全体的な管理と責任を負う個人または団体です。"
+    },
+    {
+        "word": "Data Steward",
+        "description": "データ管理者は、組織内のデータ資産の品質、完全性、およびコンプライアンスを確保する責任を持つ個人またはチームです。"
+    },
+    {
+        "word": "Data Breach Response",
+        "description": "データ侵害対応とは、調査、通知、回復を含むデータ侵害の影響を解決し、軽減するための行動とプロセスを指します。"
+    },
+    {
+        "word": "Data Privacy Impact Assessment",
+        "description": "データプライバシー影響評価は、データ処理活動が個人のプライバシーの権利と自由に及ぼす潜在的なリスクと影響を体系的に評価するものです。"
+    },
+    {
+        "word": "Data Encryption",
+        "description": "データ暗号化は、データの機密性を確保し、解読キーなしに読めないフォーマットにデータを変換するプロセスです。"
+    },
+    {
+        "word": "Data Loss",
+        "description": "データの損失とは、データの偶然的または意図的な破壊、破壊、または削除を意味し、その永久的または部分的な不利用または回復性をもたらします。"
+    },
+    {
+        "word": "Data Warehouse",
+        "description": "Data Warehouseは、レポートおよび分析の目的のためにさまざまなソースからのデータを格納する大規模で集中的なリポジトリです。"
+    },
+    {
+        "word": "Business Intelligence",
+        "description": "ビジネスインテリジェンス(BI)は、データを分析するために使用されるテクノロジー、アプリケーション、および実践を指します。"
+    },
+    {
+        "word": "Data Migration",
+        "description": "データ移転は、あるシステムまたはストレージの場所から別の場所にデータを転送するプロセスです。"
+    },
+    {
+        "word": "Data Scalability",
+        "description": "データのスケーラビリティとは、システムやアーキテクチャがパフォーマンスを犠牲にすることなく増大する量のデータを処理する能力を指します。"
+    },
+    {
+        "word": "Data Governance Framework",
+        "description": "データガバナンス・フレームワークは、組織内のデータガバナンスを確立し、維持し、役割、責任、プロセスを定義するための構造的で組織化されたアプローチです。"
+    },
+    {
+        "word": "Data Bias",
+        "description": "データ偏差とは、データの分析や機械学習モデルの結果や結果に影響を及ぼす可能性のあるシステム的な誤りや偏見の存在を指します。"
+    },
+    {
+        "word": "Data Governance Council",
+        "description": "データガバナンス評議会は、データガバナンスのポリシー、手順、および基準の定義と実施を担当する組織内の個人グループです。"
+    },
+    {
+        "word": "Data Mining Algorithms",
+        "description": "データマイニングアルゴリズムは、大規模なデータセット内のパターン、関係、クラスターを識別、分類、分析するために使用される数学的または計算方法です。"
+    },
+    {
+        "word": "Data Governance Officer",
+        "description": "データガバナンスオフィシャルは、組織内のデータガバナンスポリシーと慣行の実施と遵守を監督する役割です。"
+    },
+    {
+        "word": "Performance Tuning",
+        "description": "パフォーマンス調節は、データ処理システムまたはアプリケーションのパフォーマンスと効率性を最適化し、その速度、スケーラビリティ、および応答性を向上させます。"
+    },
+    {
+        "word": "Real-Time Data",
+        "description": "リアルタイムデータとは、収集時に直ちに、またはほぼ直ちに受信、処理、分析されるデータを指します。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および接続性で組み込まれた物理デバイス、車両、機器、その他のオブジェクトのネットワークを指し、データを収集し交換することを可能にします。"
+    },
+    {
+        "word": "Data Science",
+        "description": "データサイエンスは、科学的な方法、プロセス、アルゴリズム、およびシステムを組み合わせて、構造化されたデータと非構造化されたデータから知識と洞察を抽出する学際的な分野です。"
+    },
+    {
+        "word": "Data Governance Policy",
+        "description": "データガバナンスポリシーは、組織内のデータの管理と使用のためのルール、原則、ガイドラインを概説する文書です。"
+    },
+    {
+        "word": "Sql",
+        "description": "SQL, or Structured Query Language, is a standard language for managing relational databases, used for storing, manipulating, and retrieving data. SQLは、構造化されたクエリ言語であり、データを保存、操作、および取得するための標準言語です。"
+    },
+    {
+        "word": "Streaming Data",
+        "description": "ストリーミングデータとは、さまざまなソースからのデータの継続的かつリアルタイムの流れを指し、直ちに処理、分析、反応を可能にします。"
+    },
+    {
+        "word": "Data Archiving",
+        "description": "データアーカイブは、データをアクティブなストレージシステムから、保存およびコンプライアンスの目的のために長期的に分離したストレージに移動するプロセスです。"
+    },
+    {
+        "word": "Data Stewardship",
+        "description": "データ管理は、データの最適な使用、セキュリティ、および完全性を確保するためのポリシーとプロセスの計画、実装、監視を含みます。"
+    },
+    {
+        "word": "Data-Driven Decision Making",
+        "description": "データベースの意思決定は、直感や個人的な判断に依存するのではなく、データ分析に基づいて明確な意思決定を行うプロセスを指します。"
+    },
+    {
+        "word": "Data Analyst",
+        "description": "データアナリストは、トレンド、パターン、洞察を特定するための統計技術とツールを使用して、大規模なデータセットを収集、分析、解釈するプロフェッショナルです。"
+    },
+    {
+        "word": "Data Transformation",
+        "description": "データ変換は、データを1つの形式または構造から別の形式または構造に変換またはマッピングするプロセスを指し、しばしばターゲットシステムに統合またはロードする目的のために。"
+    },
+    {
+        "word": "Data Silos",
+        "description": "データシロは、組織内のデータ共有、統合、およびコラボレーションを妨げる孤立的かつ別々のデータリポジトリまたはシステムを指します。"
+    },
+    {
+        "word": "Data Transformation Tools",
+        "description": "データ変換ツールは、データを1つの形式または構造から別の構造に変換するプロセスを自動化し、簡素化するためのソフトウェアアプリケーションまたはプラットフォームです。"
+    },
+    {
+        "word": "Data Mining Techniques",
+        "description": "Data Mining Techniques は、大規模なデータセットからパターン、関係、洞察を発見するために使用されるアルゴリズム、方法、アプローチを指します。"
+    },
+    {
+        "word": "Data Warehouse Architecture",
+        "description": "Data Warehouse Architecture は、データ倉庫の設計と構造、データの組織、ストレージ、および取得方法を含む。"
+    },
+    {
+        "word": "Data Lake Analytics",
+        "description": "Data Lake Analytics は、データ湖に保存されているデータから情報を処理、分析、および導入するために使用される技術とツールを指します。"
+    },
+    {
+        "word": "Data Profiling Tools",
+        "description": "データプロフィールツールとは、データの品質と特徴を分析し評価するプロセスを自動化するためのソフトウェアアプリケーションまたはプラットフォームです。"
+    },
+    {
+        "word": "Data Modeling",
+        "description": "データモデリングとは、データの概念的、論理的、あるいは物理的表現を作成するプロセスで、図、スケジュール、またはその他のモデリングテクニックを使用します。"
+    },
+    {
+        "word": "Data Privacy Regulations",
+        "description": "データプライバシー規則は、個人および機密データの収集、保管、処理、共有を規制する法的枠組みとガイドラインです。"
+    },
+    {
+        "word": "Data Ingestion",
+        "description": "Data Ingestion は、さまざまなソースからのデータをストレージまたは処理システムにインポート、収集、ロードするプロセスを指します。"
+    },
+    {
+        "word": "Data Deduplication",
+        "description": "Data Deduplication is the process of identifying and removing duplicate or redundant data entries or records within a data set. データデダプリケーションは、データセット内の二重または過剰なデータ入力またはレコードを識別し、削除するプロセスです。"
+    },
+    {
+        "word": "Data Lake Security",
+        "description": "データ湖セキュリティとは、データ湖内に保存されているデータを、不正アクセス、誤用、または侵害から保護するためのセキュリティ、コントロール、および措置を導入することです。"
+    },
+    {
+        "word": "Data Lake Governance Tools",
+        "description": "Data Lake Governance Tools は、データ湖内のデータガバナンスポリシー、プロセス、およびコントロールを実行するために使用されるソフトウェアアプリケーションまたはプラットフォームです。"
+    },
+    {
+        "word": "Data Mart Architecture",
+        "description": "Data Mart Architecture は、データマーチのソースデータ、データモデル、およびストレージ方法を含むデータマーチの設計と構造を指します。"
+    },
+    {
+        "word": "Data Warehouse Modeling",
+        "description": "Data Warehouse Modeling は、データ倉庫内の構造、スケジュール、および関係を設計し、効果的なデータの保存と回収をサポートするプロセスです。"
+    },
+    {
+        "word": "Data Cleansing Tools",
+        "description": "Data Cleansing Tools は、データセットのエラーや不一致を特定し修正するプロセスを自動化し、簡素化するためのソフトウェアアプリケーションまたはプラットフォームです。"
+    },
+    {
+        "word": "Data Warehouse Governance",
+        "description": "Data Warehouse Governanceとは、データ倉庫内のデータの品質、完全性、およびセキュリティを確保するために使用される慣行、ポリシー、プロセスを指します。"
+    },
+    {
+        "word": "Data Lake Management",
+        "description": "Data Lake Management は、データ湖の管理、最適化、およびメンテナンス、データの吸収、組織、アクセス制御を含む。"
+    }
+]

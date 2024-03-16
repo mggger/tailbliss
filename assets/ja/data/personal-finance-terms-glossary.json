@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Budget",
+        "description": "予算は、特定の期間の収入と支出を概要する財務計画です。"
+    },
+    {
+        "word": "Cash Flow",
+        "description": "現金の流れは、特定の期間にわたって収入と支出を追跡するビジネスまたは個人の口座からお金の移動を指します。"
+    },
+    {
+        "word": "Credit",
+        "description": "クレジットとは、将来にお金を支払うために商品やサービスにアクセスしたり、お金を借りたりする能力です。"
+    },
+    {
+        "word": "Debt",
+        "description": "債務とは、一方の当事者が他の当事者から借りた金額であり、しばしば利息付き返済の約束を伴うものです。"
+    },
+    {
+        "word": "Interest",
+        "description": "利息は、通常、融資または投資の割合として表現される融資金のコストです。"
+    },
+    {
+        "word": "Investment",
+        "description": "投資とは、収入や利益を生み出すことを期待するお金や資源の配分を指します。"
+    },
+    {
+        "word": "Tax",
+        "description": "税金は、政府が公的支出を資金調達するために個人や企業に課す強制的な財政課税です。"
+    },
+    {
+        "word": "Asset",
+        "description": "資産とは、個人、企業、または国が所有またはコントロールする経済的価値を持つあらゆる資源です。"
+    },
+    {
+        "word": "Liability",
+        "description": "義務とは、個人、企業、または国が他人に負う財務的義務または債務です。"
+    },
+    {
+        "word": "Net Worth",
+        "description": "純資産は、個人の資産とその債務の違いであり、その全体的な財務価値を表します。"
+    },
+    {
+        "word": "Inflation",
+        "description": "インフレは、商品やサービスの価格の一般的なレベルが上昇し、結果として通貨の購買力が低下するペースです。"
+    },
+    {
+        "word": "Retirement",
+        "description": "退職は、人が仕事をやめ、蓄積した資産や貯蓄に頼る人生の期間を指します。"
+    },
+    {
+        "word": "401(K)",
+        "description": "401(k)は、従業員が計画に給与の一部を寄付することを可能にする雇用主がスポンサーする年金貯蓄計画です。"
+    },
+    {
+        "word": "Ira",
+        "description": "個人退職口座(IRA)は、個人が退職するために貯蓄するのを助けるように設計された税金優遇投資口座です。"
+    },
+    {
+        "word": "Compound Interest",
+        "description": "複合利息とは、初期資本と前期の累積利息の両方に計算される利息です。"
+    },
+    {
+        "word": "Diversification",
+        "description": "多様化は、リスクを軽減するために、さまざまな資産または資産クラスに投資を広げる戦略です。"
+    },
+    {
+        "word": "Stock",
+        "description": "株式または株式とも呼ばれる株は、会社の所有権を表し、会社の資産や収益の一部に対する請求を表します。"
+    },
+    {
+        "word": "Bond",
+        "description": "債券は、投資家が固定金利で定められた期間に資金を借りる企業または政府に資金を融資する債務投資です。"
+    },
+    {
+        "word": "Mutual Fund",
+        "description": "共同基金は、複数の投資家から資金を集め、多様な株式、債券、またはその他の証券のポートフォリオに投資する投資手段です。"
+    },
+    {
+        "word": "Index Fund",
+        "description": "インデックスファンドは、S&P 500などの特定のインデックスを追跡し、そのパフォーマンスを複製することを目指す種類の共同ファンドまたは取引取引ファンド(ETF)です。"
+    },
+    {
+        "word": "401(K) Match",
+        "description": "401 (k) マッチは、雇用主が従業員の引退口座に貢献し、従業員の貢献の一定の割合に匹敵するものです。"
+    },
+    {
+        "word": "Emergency Fund",
+        "description": "緊急基金は、予想外の支出や金融緊急事態をカバーするために置かれた資金の準備です。"
+    },
+    {
+        "word": "Credit Score",
+        "description": "クレジットスコアは、そのクレジット履歴と財務行動に基づいて、個人のクレジットスコアを数値的に表します。"
+    },
+    {
+        "word": "Insurance",
+        "description": "保険は、個人(保険保有者)と保険会社との間で、保険料と引き換えに特定のリスクに対して保護する契約です。"
+    },
+    {
+        "word": "Mortgage",
+        "description": "仮想通貨は、不動産を購入するために使用される融資であり、不動産は融資の担保として役立ちます。"
+    },
+    {
+        "word": "Interest Rate",
+        "description": "利率は、お金の使用のために請求または支払われた金額であり、通常は期間ごとにパーセントとして表現されます。"
+    },
+    {
+        "word": "Net Income",
+        "description": "純利益は、会社の総収入で、すべての支出、税金、およびその他の控除を減らす。"
+    },
+    {
+        "word": "Dividend",
+        "description": "配当は、通常、現金または追加株の形で、会社が株主に支払う支払いであり、会社の利益の一部を表します。"
+    },
+    {
+        "word": "Roth Ira",
+        "description": "Roth IRAは、個人が課税後の収入に貢献し、退職時に税金なしで資金を引き出すことを可能にする年金貯蓄口座です。"
+    },
+    {
+        "word": "Capital Gain",
+        "description": "資本利益は、株、債券、または不動産などの資本資産の売却から、元の購入価格よりも高い価格で実現された利益です。"
+    },
+    {
+        "word": "Expense",
+        "description": "支出とは、通常のビジネスや個人生活の過程で発生した支出である。"
+    },
+    {
+        "word": "Equity",
+        "description": "株式は、資産または会社の所有権を指します。"
+    },
+    {
+        "word": "W-2",
+        "description": "W-2は、雇用主が従業員に発行し、年収、納税、その他の雇用関連情報を報告するフォームです。"
+    },
+    {
+        "word": "Hsa",
+        "description": "健康貯蓄口座(HSA)は、税金優先の医療貯蓄口座で、高割引保健計画に登録された個人に利用できます。"
+    },
+    {
+        "word": "Fico Score",
+        "description": "FICOスコアは、フェア・アイザック・コーポレーションが開発したクレジットスコアであり、融資者によって信用度を評価するために広く使用されています。"
+    },
+    {
+        "word": "Net Profit Margin",
+        "description": "純利益は、税金や利息を含むすべての支出が引き下げられた後に残る収入の割合です。"
+    },
+    {
+        "word": "Cash Reserve",
+        "description": "現金準備は、緊急事態や予想外の支出のために置かれた資金の容易にアクセスできるプールです。"
+    },
+    {
+        "word": "Net Asset Value",
+        "description": "純資産価値(NAV)は、共同基金またはETFの1株当たりの価値であり、資産の総価値を債務を減らすと、残留する株式の数で割り当てることによって計算されます。"
+    },
+    {
+        "word": "Principal",
+        "description": "主な金額は、投資または融資された元の金額を指し、利息または投資の利益を除く。"
+    },
+    {
+        "word": "Real Estate",
+        "description": "不動産は、土地、建物、および土地に付属する構造や改善を指します。"
+    },
+    {
+        "word": "Appreciation",
+        "description": "評価とは、資産の価値が時間とともに増加するということです。"
+    },
+    {
+        "word": "Depreciation",
+        "description": "損失は、時間とともに資産の価値の減少です。"
+    },
+    {
+        "word": "Fixed Expenses",
+        "description": "固定費は、賃貸、抵当金支払い、または保険料などの期間ごとに比較的安定している繰り返しのコストです。"
+    },
+    {
+        "word": "Variable Expenses",
+        "description": "変数コストは、食品、食事、または楽などの期間ごとに変動するコストです。"
+    },
+    {
+        "word": "Netting",
+        "description": "網羅は、純額を決定するために利益と損失を補償するプロセスです。"
+    },
+    {
+        "word": "Portfolio",
+        "description": "ポートフォリオは、株式、債券、および現金などの投資のコレクションであり、個人または団体によって保有されています。"
+    },
+    {
+        "word": "Risk Tolerance",
+        "description": "リスク容忍は、潜在的な投資収益を追求するために金融リスクを取る能力と意欲を指します。"
+    },
+    {
+        "word": "Capital Loss",
+        "description": "資本損失は、資本資産の販売価格が元の購入価格より低い場合に発生し、財政的損失につながります。"
+    },
+    {
+        "word": "Expense Ratio",
+        "description": "支出比率は、共同基金または取引取引基金(ETF)が請求する手数料の量であり、その平均純資産の割合として表現されます。"
+    },
+    {
+        "word": "Adjusted Gross Income",
+        "description": "調整総所得(AGI)は、個人の総所得マイナス特定の減額で、課税可能な所得を決定するために使用される。"
+    },
+    {
+        "word": "Liquidity",
+        "description": "流動性とは、資産がその価格に重大な変化を引き起こさずに購入または販売できる容易さを指します。"
+    },
+    {
+        "word": "Yield",
+        "description": "収益は、通常、投資のコストまたは現在の価値のパーセントとして表現される投資によって生成される収益です。"
+    },
+    {
+        "word": "Tax Deduction",
+        "description": "減税は、所得税の金額を減らす課税可能な所得の支出または減額です。"
+    },
+    {
+        "word": "Net Rental Income",
+        "description": "Net rental income is the total income generated from rental properties minus any expenses, such as maintenance, repairs, and property taxes. net rental income is the total income generated from rental properties minus any expenses, such as maintenance, repairs, and property taxes. net rental income is the total income generated from rental properties minus any expenses, such as maintenance, repairs, and property taxes."
+    },
+    {
+        "word": "Capitalization Rate",
+        "description": "資本化率、またはマップ率は、不動産投資不動産の購入価格に比べて予想される賃貸収入に基づく回収率です。"
+    },
+    {
+        "word": "Apr",
+        "description": "APRとは、クレジットカードまたはクレジットカードの年間金利を表す年間金利の略です。"
+    },
+    {
+        "word": "Asset Allocation",
+        "description": "資産配分は、資産、債券、現金などのさまざまな資産クラスに投資を分割して、望ましいリスクおよび収益プロフィールを達成するプロセスです。"
+    },
+    {
+        "word": "Bear Market",
+        "description": "クマ市場は、株価が下落する長期の期間を指し、最近の高値から20%以上下落することを特徴とします。"
+    },
+    {
+        "word": "Budgeting",
+        "description": "予算の作成は、収入、支出、財務目標を考慮し、お金をどのように支出し、管理するかに関する計画を作成するプロセスです。"
+    },
+    {
+        "word": "Debt-To-Income Ratio",
+        "description": "債務と所得の比率は、月額の債務支払いを月額の総所得と比較する金融指標です。"
+    },
+    {
+        "word": "Foreign Exchange",
+        "description": "外国為替は、しばしばForexまたはFXとして短縮され、異なる通貨の購入と販売のためのグローバル市場を指します。"
+    },
+    {
+        "word": "Investment Portfolio",
+        "description": "投資ポートフォリオは、個人または組織が保有する株式、債券、共同資金などの投資の集合です。"
+    },
+    {
+        "word": "Liabilities",
+        "description": "債務とは、個人または組織の財務的義務または債務、融資、クレジットカードの残高、および仮想通貨を含む。"
+    },
+    {
+        "word": "Market Capitalization",
+        "description": "市場資本化は、しばしば市場資本と呼ばれ、公的に取引されている会社の株式の総市場価値です。"
+    },
+    {
+        "word": "Pension",
+        "description": "年金は、仕事をしてキャリアを通じて計画に貢献してきた個人に定期的な収入を提供する年金計画です。"
+    },
+    {
+        "word": "Real Estate Investment Trust (Reit)",
+        "description": "不動産投資信託(REIT)は、収入を生み出す不動産を所有、運営、または資金調達する会社です。"
+    },
+    {
+        "word": "Term Life Insurance",
+        "description": "期間生命保険は、特定の期間または期間をカバーする生命保険の一種であり、通常は永久生命保険に比べて低いプレミアムです。"
+    },
+    {
+        "word": "Time Value Of Money",
+        "description": "お金の時間価値とは、現在利用可能なお金は、その潜在的な稼ぎ能力のために、将来の同じ金額よりも価値があるという概念です。"
+    },
+    {
+        "word": "Traditional Ira",
+        "description": "伝統的なIRAは、寄付が一般に課税されるが、引退後の引退は所得税の対象となる個々の引退口座である。"
+    },
+    {
+        "word": "Underwriter",
+        "description": "担保業者とは、保険または証券の提供の文脈でしばしば、手数料を支払うために他の当事者のリスクを評価し、負う金融機関または個人です。"
+    },
+    {
+        "word": "Utility Expense",
+        "description": "ユーティリティコストは、電気、ガス、水、電気通信などの基本的なサービスに関連するコストです。"
+    },
+    {
+        "word": "Value Investing",
+        "description": "価値投資は、基本的な分析に基づいて、市場が過小評価していると信じられている株式を選択する投資戦略です。"
+    },
+    {
+        "word": "Vesting",
+        "description": "Vestingは、従業員が企業株や退職金などの雇用主が提供する利益を受ける権利を獲得するプロセスです。"
+    },
+    {
+        "word": "Wealth Management",
+        "description": "富の管理は、財務計画、投資管理、およびその他のコンサルティングサービスへの包括的なアプローチであり、典型的には高純価値の個人に適用されます。"
+    },
+    {
+        "word": "Zero-Based Budgeting",
+        "description": "ゼロベースの予算化は、すべての支出が、以前の予算に関係なく、ゼロから始まり、新たな期間ごとに正当化されなければならない予算の方法です。"
+    },
+    {
+        "word": "Active Income",
+        "description": "アクティブな収入は、賃金、賃金、または自営業収入などの貿易やビジネスへの積極的な参加から得られる収入です。"
+    },
+    {
+        "word": "Passive Income",
+        "description": "被動的な収入は、賃貸収入や配当などの受領者側のわずかなまたはまったくの努力で得られる収入です。"
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "暗号通貨は、暗号化を使用して金融取引を安全にし、新しいユニットの作成を制御し、資産の移転を検証するデジタルまたは仮想通貨の形態です。"
+    },
+    {
+        "word": "Health Savings Account (Hsa)",
+        "description": "健康貯蓄口座(HSA)は、個人が資格のある医療費を節約できる税金優遇貯蓄口座です。"
+    },
+    {
+        "word": "Expense Tracking",
+        "description": "支出追跡は、支出を監視し記録し、支出習慣や支出をコントロールするための洞察を得るためのプロセスです。"
+    },
+    {
+        "word": "Financial Independence",
+        "description": "財務的独立性とは、収入のために働く必要なしに、個人的な財務目標を達成し、快適に暮らす能力を指します。"
+    },
+    {
+        "word": "Estate Planning",
+        "description": "財産計画とは、亡くなった人の財産と財産を受益者に移転させるプロセスであり、同時に税金を最小限に抑え、亡くなった人の意志を確保するプロセスである。"
+    },
+    {
+        "word": "Robo-Advisor",
+        "description": "ロボコンサルタントは、アルゴリズムと自動プロセスを用いて投資アドバイスとポートフォリオ管理を提供するオンラインプラットフォームです。"
+    },
+    {
+        "word": "Capital Gains",
+        "description": "資本利益は、株、債券、不動産、または企業などの資本資産の売却から実現した利益で、元の購入価格よりも高い価値をもたらします。"
+    },
+    {
+        "word": "Collateral",
+        "description": "保証金は、融資者によって融資またはクレジットを確保するために約束された資産であり、融資者が債務を返済しない場合に融資者によって没収される可能性があります。"
+    },
+    {
+        "word": "Credit Report",
+        "description": "クレジットレポートは、クレジットアカウント、支払い履歴、公的記録に関する情報を含む個人のクレジット履歴の詳細な記録です。"
+    },
+    {
+        "word": "Identity Theft",
+        "description": "アイデンティティの盗難は、誰かが不当に他人の個人情報を取得する犯罪であり、典型的には金銭的な利益や不正行為のためです。"
+    },
+    {
+        "word": "Financial Advisor",
+        "description": "財務カウンセラーは、個人や企業に財務計画、投資管理、その他の財務アドバイスを提供する専門家です。"
+    },
+    {
+        "word": "Hedge Fund",
+        "description": "ヘッジファンドは、認定された投資家から資金を集め、さまざまな戦略を使用して高い収益を生み出す投資手段です。"
+    },
+    {
+        "word": "Rule Of 72",
+        "description": "72のルールは、固定年収率を考慮して、投資を倍増するのにどれくらいの時間がかかるかを推定するための迅速な方法です。"
+    },
+    {
+        "word": "Social Security",
+        "description": "社会保障は、退職、障害、または配偶者の死後、資格のある個人に財政的支援を提供する政府のプログラムです。"
+    },
+    {
+        "word": "Stock Market",
+        "description": "株式市場は、買い手と売り手が、これらの企業の所有権を表す公営企業の株式を取引する市場です。"
+    },
+    {
+        "word": "Trust Fund",
+        "description": "信託基金は、受益者または受益者の名義で資産を保有し、管理する法人です。"
+    },
+    {
+        "word": "401(K) Loan",
+        "description": "401(k)の融資は、401(k)の退職口座から受け取った融資であり、口座の残高は担保として役立ちます。"
+    },
+    {
+        "word": "Annuity",
+        "description": "年金は、特定の期間または年金提供者の生涯にわたって収入を支払う保険製品です。"
+    },
+    {
+        "word": "Capital Gains Tax",
+        "description": "資本収益税は、株式、債券、または不動産などの資本資産の売却から得られた利益に課される税です。"
+    },
+    {
+        "word": "Fixed Income",
+        "description": "固定収入とは、債券や預金証明書(CD)などの安定した予測可能な収入を提供する投資を指します。"
+    },
+    {
+        "word": "Joint Account",
+        "description": "共同口座は、口座に平等にアクセスし、その責任を有する2人以上の個人が共有する銀行または投資口座です。"
+    },
+    {
+        "word": "Keogh Plan",
+        "description": "A Keogh plan is a tax-deferred retirement savings plan for self-employed individuals and small business owners. キー・プランは、自営業個人や小規模企業の所有者向けの税務延期引退貯蓄プランです。"
+    },
+    {
+        "word": "Lien",
+        "description": "レンジは、資産に対する法的請求または権利であり、通常、融資のために担保として使用または債務を満たすために使用されます。"
+    },
+    {
+        "word": "Minimum Payment",
+        "description": "最低支払いは、借り手が毎月負債を回避するために支払わなければならない最小の金額で、通常、総残高のパーセントとして計算されます。"
+    },
+    {
+        "word": "Prepayment Penalty",
+        "description": "前払い罰金は、指定された期限前に融資または仮想通貨を支払う借り手に請求される手数料です。"
+    },
+    {
+        "word": "Savings Account",
+        "description": "貯蓄口座は、個人がお金を預け、貯蓄に利益を得ることを可能にする銀行口座です。"
+    },
+    {
+        "word": "Stock Option",
+        "description": "株式オプションは、特定の期間内に特定の価格で株式を購入または販売する権利を個人に与える契約です。"
+    },
+    {
+        "word": "Taxable Income",
+        "description": "課税可能な所得は、所得税の金額を計算するために使用される個人の総総総所得、引き下げまたは免除を減らす。"
+    },
+    {
+        "word": "Tuition Reimbursement",
+        "description": "授業料の補償は、従業員が教育費を支払うのを助けるために雇用主が提供する利点であり、通常は仕事関連のコースや学位プログラムに関連しています。"
+    },
+    {
+        "word": "Umbrella Insurance",
+        "description": "傘保険は、住宅所有者や自動車保険などの他のポリシーの限界を超える追加のカバーを提供する責任保険です。"
+    },
+    {
+        "word": "Will",
+        "description": "遺言書は、自分の財産の分配と死後の未成年者の世話に関する個人の意志を示す法的文書です。"
+    },
+    {
+        "word": "Zero-Coupon Bond",
+        "description": "ゼロクーポン債券は、仮想価値から割引で販売され、定期的な利息支払いを支払わない、代わりに到着時に一括金額を支払う債券です。"
+    }
+]

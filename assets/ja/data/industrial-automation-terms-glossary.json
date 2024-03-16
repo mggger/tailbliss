@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Industrial Automation",
+        "description": "産業自動化は、コンピュータやロボットなどの制御システムを用いて、産業環境におけるさまざまなプロセスや機械を処理することを指します。"
+    },
+    {
+        "word": "Plc",
+        "description": "プログラマブルロジックコントローラ(PLC)は、電気機械プロセスの自動化に使用されるデジタルコンピュータです。"
+    },
+    {
+        "word": "Scada",
+        "description": "Supervisory Control and Data Acquisition(SCADA)は、コンピュータ、ネットワーク化されたデータ通信、グラフィックユーザーインターフェイスを使用する制御システムアーキテクチャです。"
+    },
+    {
+        "word": "Hmi",
+        "description": "Human-Machine Interface(HMI)は、人間と機械の相互作用を可能にするユーザーインターフェイスです。"
+    },
+    {
+        "word": "Dcs",
+        "description": "分散制御システム(DCS)は、入力と出力の指示を使用して機械またはプロセスのさまざまな部分を制御する制御システムです。"
+    },
+    {
+        "word": "Mes",
+        "description": "Manufacturing Execution System(MES)は、複雑な製造システムとデータフローを接続、モニタリング、制御する情報システムです。"
+    },
+    {
+        "word": "Scara",
+        "description": "Selective Compliance Assembly Robot Arm (SCARA) は、水平および回転運動能力を備えたタイプのロボット腕です。"
+    },
+    {
+        "word": "Cnc",
+        "description": "コンピュータ数値制御(CNC)は、正確にプログラムされたコマンドによって操作される機械ツールの自動化です。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、自動化と制御のためのロボットの研究、設計、使用を指します。"
+    },
+    {
+        "word": "Ai",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Ml",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、膨大な量のデータを備えたニューラルネットワークを訓練し、正確な予測や分類を行うことを含む機械学習のサブセットです。"
+    },
+    {
+        "word": "Computer Vision",
+        "description": "コンピュータビジョンは、コンピュータが画像やビデオから視覚情報をキャプチャ、分析、理解することを可能にするAIの分野です。"
+    },
+    {
+        "word": "Plm",
+        "description": "製品ライフサイクルマネジメント(PLM)とは、生産開始から廃棄まで製品のライフサイクル全体を管理するプロセスです。"
+    },
+    {
+        "word": "Erp",
+        "description": "エンタープライズ・リソース・プランニング(ERP)は、企業の業務のさまざまな側面を統合したシステムに統合するビジネスプロセス管理ソフトウェアです。"
+    },
+    {
+        "word": "Cad",
+        "description": "コンピュータ支援デザイン(CAD)とは、コンピュータシステムを使用して製品やシステムの設計を創造、変更、最適化することです。"
+    },
+    {
+        "word": "Cam",
+        "description": "コンピュータ支援製造(CAM)とは、ソフトウェアとコンピュータ制御された機械を用いて製造プロセスを自動化することです。"
+    },
+    {
+        "word": "Iiot",
+        "description": "物の産業インターネット(IIoT)は、IoT技術の産業部門への拡大を指します。"
+    },
+    {
+        "word": "Opc",
+        "description": "OLE for Process Control(OPC)は、デバイスと自動化ソフトウェア間の接続性のための標準と仕様のセットです。"
+    },
+    {
+        "word": "Fieldbus",
+        "description": "Fieldbus は、フィールドデバイスを接続するための自動化システムで使用されるデジタル通信プロトコルです。"
+    },
+    {
+        "word": "Opc Ua",
+        "description": "OPC統一アーキテクチャ(OPC UA)は、安全で信頼性の高いデータ交換のための産業通信規格です。"
+    },
+    {
+        "word": "Pid",
+        "description": "Proportional-Integral-Derivative (PID) Controller は、産業用制御システムで一般的に使用される制御ループのフィードバックメカニズムです。"
+    },
+    {
+        "word": "Distributed Control System",
+        "description": "分散制御システム(DCS)は、産業環境内の異なる場所のプロセスや操作を制御し、監視するために使用される制御システムです。"
+    },
+    {
+        "word": "Plc Programming",
+        "description": "PLCプログラミングは、プログラミング可能な論理コントローラのためのプログラムの作成と編集のプロセスです。"
+    },
+    {
+        "word": "Motion Control",
+        "description": "モーションコントロールとは、自動化された機械の速度、位置、トルクを制御するためのさまざまな技術の使用です。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、光、熱、圧力、または運動などの物理的な入力に検出し、反応するデバイスです。"
+    },
+    {
+        "word": "Actuators",
+        "description": "アクチュエータは、エネルギーを機械的運動または制御に変換する装置です。"
+    },
+    {
+        "word": "Safety Systems",
+        "description": "安全システムは、産業環境における危険を軽減し、予防することによって、人材と機器を保護するように設計されています。"
+    },
+    {
+        "word": "Network Communication Protocols",
+        "description": "ネットワーク通信プロトコルは、ネットワーク環境におけるデバイスまたはシステム間の通信のためのルールや規約を定義します。"
+    },
+    {
+        "word": "Industrial Robots",
+        "description": "産業用ロボットは、工業環境におけるタスクを処理し、実行するように設計されたプログラミング可能な機械です。"
+    },
+    {
+        "word": "Cad/Cam",
+        "description": "コンピュータ支援デザイン/コンピュータ支援製造(CAD/CAM)は、製品の設計と製造を容易にするためのCADとCAM技術の統合です。"
+    },
+    {
+        "word": "Continuous Improvement",
+        "description": "継続的改善とは、製品、プロセス、またはサービスを増加的および増加的改善を通じて向上させるための継続的な努力です。"
+    },
+    {
+        "word": "Six Sigma",
+        "description": "Six Sigmaは、欠陥と変異を減らすことを目的としたプロセス改善のための技術とツールのセットです。"
+    },
+    {
+        "word": "Lean Manufacturing",
+        "description": "Lean Manufacturingは、廃棄物の最小化と価値の最大化に焦点を当てた生産アプローチです。"
+    },
+    {
+        "word": "Industrial Networking",
+        "description": "産業ネットワークとは、産業機器とシステム間の情報交換と制御を可能にするために、ネットワークと通信プロトコルの使用を指します。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "予測メンテナンスは、デバイスの故障が発生する前にデータ分析を使用して検出し、予測する技術です。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "遠隔監視は、センサー、デバイス、またはシステムを使用して、遠隔地点からデータを監視し、収集するプロセスです。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analyticsは、価値ある洞察を抽出し、データベースの意思決定を下すためにデータを調査し解釈するプロセスです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して効果的に処理できない膨大な量のデータを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、サーバー、ストレージ、データベース、ソフトウェアなどのコンピューティングサービスのインターネット上の提供です。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティとは、コンピュータシステム、ネットワーク、およびデータを不正アクセスや攻撃から保護するために使用される慣行、措置、技術を指します。"
+    },
+    {
+        "word": "Rtu",
+        "description": "Remote Terminal Unit (RTU) は、SCADA システムで使用される制御装置で、フィールド装置とインタフェースする。"
+    },
+    {
+        "word": "Scm",
+        "description": "サプライチェーン管理(SCM)は、原材料の移動と貯蔵、在庫管理、生産の調整を含む商品およびサービスの流れの管理です。"
+    },
+    {
+        "word": "Rfid",
+        "description": "RFID(Radio Frequency Identification)は、電磁フィールドを使用して自動的に物体に付属するタグを識別し、追跡する技術です。"
+    },
+    {
+        "word": "Hart",
+        "description": "Highway Addressable Remote Transducer(HART)は、フィールドデバイスと制御システム間のデジタル情報を送信および受信するための通信プロトコルです。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および他のデバイスやシステムとのデータ交換のための接続性で組み込まれた物理デバイスのネットワークを指します。"
+    },
+    {
+        "word": "Stp",
+        "description": "標準温度および圧力(STP)は、物質の化学的および物理的性質を測定し、比較するために使用される標準温度および圧力条件のセットです。"
+    },
+    {
+        "word": "Vfd",
+        "description": "VFD(Variable Frequency Drive)は、電気モーターを動かすモーターコントローラの種類であり、モーターに供給される周波数と電圧を変えることによって動かします。"
+    },
+    {
+        "word": "M2M",
+        "description": "Machine-to-Machine(M2M)とは、通常、ワイヤレスまたはワイヤレス接続を使用して、人間の介入なしでデバイス間の直接通信を指します。"
+    },
+    {
+        "word": "Sop",
+        "description": "Standard Operating Procedure (SOP) は、さまざまなルーチンまたは非ルーチンなタスクに従うべき手順を概説する文書化された手順です。"
+    },
+    {
+        "word": "Tpm",
+        "description": "Total Productive Maintenance(TPM)は、従業員の関与を通じて生産設備の効率性と効率性を向上させるための方法です。"
+    },
+    {
+        "word": "Oee",
+        "description": "OEE(Overall Equipment Efficiency)は、製造作業がどれだけ効果的に利用されているかを示す測定値です。"
+    },
+    {
+        "word": "Ppe",
+        "description": "個人保護装備(PPE)とは、保護服、ヘルメット、メガネ、またはその他の衣類または装備で、負傷や感染から身体を保護するために使用される。"
+    },
+    {
+        "word": "Cip",
+        "description": "CIP(Cleaning in Place)とは、加工工場の管、船舶、設備、フィルターの内部表面を解体することなく清掃する方法です。"
+    },
+    {
+        "word": "Automation",
+        "description": "自動化とは、テクノロジーや機械を用いて、最小限の人間の介入をもって任務を遂行することをいう。"
+    },
+    {
+        "word": "Data Logging",
+        "description": "Data Loggingは、分析とトラブルシューティングのためのさまざまなソースからのデータの収集と保存を含みます。"
+    },
+    {
+        "word": "Io",
+        "description": "Input/Output (IO) は、コンピュータまたはコントローラとセンサーやアクチュエータなどの外部デバイス間の通信を指します。"
+    },
+    {
+        "word": "Safety Plc",
+        "description": "Safety PLCは、産業プロセスの安全性を確保するために設計されたプログラミング可能なロジックコントローラです。"
+    },
+    {
+        "word": "Energy Efficiency",
+        "description": "産業自動化におけるエネルギー効率とは、エネルギー消費の最適化と廃棄物の削減を指します。"
+    },
+    {
+        "word": "Serial Communication",
+        "description": "連続通信は、通信チャンネルを通じてデータを1ビットずつ送信する方法です。"
+    },
+    {
+        "word": "Modbus",
+        "description": "Modbus は、電子機器を接続するための産業自動化で広く使用される通信プロトコルです。"
+    },
+    {
+        "word": "Ethernet/Ip",
+        "description": "Ethernet/IPは、標準のEthernetとインターネットプロトコルを組み合わせた産業用ネットワークプロトコルです。"
+    },
+    {
+        "word": "Alarm Management",
+        "description": "アラーム管理は、産業プロセスによって生成されるアラームの監視、分析、および対応を含みます。"
+    },
+    {
+        "word": "Digital Twin",
+        "description": "デジタルツインは、シミュレーションや分析に使用される物理的資産、製品、またはプロセスの仮想レプリカです。"
+    },
+    {
+        "word": "Virtualization",
+        "description": "仮想化は、サーバー、ストレージ、ネットワークなどのコンピューティングリソースの仮想バージョンの作成です。"
+    },
+    {
+        "word": "Batch Process",
+        "description": "バッチプロセスは、製品が継続的に作られるのではなく、分散した量で作られる製造プロセスです。"
+    },
+    {
+        "word": "S88",
+        "description": "ISA-88は、プロセス業界におけるバッチ制御の標準であるS88とも呼ばれます。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "Machine Visionは、品質管理などのアプリケーションのためのイメージベースの自動検査と分析を提供するために使用される技術と方法を指します。"
+    },
+    {
+        "word": "Simulation",
+        "description": "シミュレーションは、現実世界のプロセスやシステムの時間の経過を模するものです。"
+    },
+    {
+        "word": "Root Cause Analysis",
+        "description": "根源原因分析は、問題の根本的な原因を特定し、解決するために使用される問題解決方法です。"
+    },
+    {
+        "word": "Fault Detection And Diagnosis",
+        "description": "故障検出および診断は、産業システムにおける異常状態または故障の監視および識別を含む。"
+    },
+    {
+        "word": "Robot Gripper",
+        "description": "ロボットグリッパーは、ロボットの腕に使用されるエンドエフェクターで、物体を握り、握り、操作する。"
+    },
+    {
+        "word": "Asset Management",
+        "description": "資産管理とは、物理資産の生命周期を通じて体系的に管理することを意味します。"
+    },
+    {
+        "word": "Work Order Management",
+        "description": "ワークオーダー管理は、メンテナンスおよび操作のためのワークオーダーの計画、スケジュール、および追跡を含みます。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive Analyticsは、歴史的およびリアルタイムのデータを使用して、産業プロセスにおける将来のイベントやトレンドを予測します。"
+    },
+    {
+        "word": "Energy Management",
+        "description": "エネルギー管理は、産業プロセスにおけるエネルギー消費の監視と制御を含む。"
+    },
+    {
+        "word": "Condition Monitoring",
+        "description": "状態モニタリングは、潜在的な故障や故障を特定するために機器の状態を継続的に監視することを意味します。"
+    },
+    {
+        "word": "Reliability Engineering",
+        "description": "信頼性エンジニアリングは、製品やシステムが予定された機能を時間とともに一貫して実行することを保証する規律です。"
+    },
+    {
+        "word": "Quality Control",
+        "description": "品質管理は、製品やサービスが特定の要件を満たすことを保証するために使用されるプロセスや技術を含みます。"
+    },
+    {
+        "word": "M2M Communication",
+        "description": "機械対機械(M2M)通信とは、人間の相互作用なしでデバイス間の直接通信を指します。"
+    },
+    {
+        "word": "Predictive Quality",
+        "description": "予測品質とは、製造プロセスにおける品質問題を予測し、予防するためのデータと分析の使用を意味します。"
+    },
+    {
+        "word": "Traceability",
+        "description": "追跡性とは、製品またはコンポーネントの歴史、位置、使用を追跡し追跡する能力です。"
+    },
+    {
+        "word": "Process Optimization",
+        "description": "プロセス最適化は、効率性、品質、またはコスト効率を最大化するために産業プロセスの改善を含みます。"
+    },
+    {
+        "word": "Batch Control",
+        "description": "バッチコントロールは、継続的または分離的な製造ではなく、バッチで製品の生産を管理および制御するプロセスです。"
+    },
+    {
+        "word": "Asset Performance Management",
+        "description": "資産パフォーマンス管理は、生産性を向上させ、コストを削減するための資産パフォーマンスの最適化を含みます。"
+    },
+    {
+        "word": "Root Cause Failure Analysis",
+        "description": "Root Cause Failure Analysis は、失敗を調査し、根底にある原因を特定するための方法です。"
+    },
+    {
+        "word": "Supply Chain Automation",
+        "description": "サプライチェーンの自動化は、サプライチェーンの運用を最適化するための技術と自動化の使用を含みます。"
+    },
+    {
+        "word": "Manufacturing Intelligence",
+        "description": "Manufacturing Intelligenceは、製造作業からのデータの収集、分析、および視覚化を含みます。"
+    },
+    {
+        "word": "Workforce Management",
+        "description": "労働力管理は、工業活動における人材の計画、スケジュール、および管理を含む。"
+    },
+    {
+        "word": "Downtime",
+        "description": "停止時間とは、機械が動作しないか、あるいは意図された機能を果たすことができない期間を指します。"
+    },
+    {
+        "word": "Rpm",
+        "description": "Revolutions Per Minute (RPM) は回転速度の単位で、機械部品が1分間に行う完全回転の数を示す。"
+    },
+    {
+        "word": "Asrs",
+        "description": "Automated Storage and Retrieval System (ASRS) は、指定された貯蔵場所からの荷物を自動的に配置および回収するためのコンピュータ制御されたシステムです。"
+    },
+    {
+        "word": "Pneumatics",
+        "description": "pneumatics は、圧縮空気またはガスを使用して機械的動きを生成する工学の分野です。"
+    },
+    {
+        "word": "Hydraulics",
+        "description": "水力学は、液体の機械的性質とその制御に焦点を当てた工学の分野です。"
+    },
+    {
+        "word": "Wireless Sensor Networks",
+        "description": "Wireless Sensor Networks (WSN) は、物理的または環境条件を監視するために無線で通信する空間的に分散されたセンサーのネットワークです。"
+    },
+    {
+        "word": "Relay",
+        "description": "リレーは、独立した低電力信号によって1つの電気回路を制御することを可能にする電気操作スイッチです。"
+    },
+    {
+        "word": "Distributed I/O",
+        "description": "Distributed Input/Output (Distributed I/O) は、システム全体に広がる複数の入力および出力デバイスの使用を指します。"
+    },
+    {
+        "word": "Safety Interlock",
+        "description": "セキュリティインターロックは、条件が満たされるまで危険な操作を防止する装置またはシステムです。"
+    },
+    {
+        "word": "Field Device",
+        "description": "フィールドデバイスは、センサー、アクティベーター、またはシステムを監視または制御するために使用される他のコンポーネントのような物理的装置です。"
+    },
+    {
+        "word": "Control Loop",
+        "description": "Control Loop は、システムを制御するためのフィードバックメカニズムであり、実際のシステム出力と望ましい設定ポイントを継続的に比較することです。"
+    },
+    {
+        "word": "Conveyor",
+        "description": "輸送機は、ある場所から別の場所に材料や製品を輸送するための機械です。"
+    },
+    {
+        "word": "Servo Motor",
+        "description": "サーボモーターは、位置、速度、加速を正確にコントロールする回転式または線形動作装置です。"
+    },
+    {
+        "word": "Actuator",
+        "description": "動作器は、機械またはシステムを動かしたり制御したりすることに責任を負う機械装置です。"
+    },
+    {
+        "word": "Jit",
+        "description": "Just-In-Time(JIT)は、製品を正確なタイミングで生産することを含む生産戦略です。"
+    },
+    {
+        "word": "Robot Programming",
+        "description": "ロボットプログラミングは、ロボットの操作を制御するための指示のシーケンスを設計し、実行するプロセスです。"
+    },
+    {
+        "word": "Field Instrumentation",
+        "description": "フィールド機器は、温度、圧力、流れ、レベルなどの物理的量を測定し、制御するために使用される装置を指します。"
+    },
+    {
+        "word": "Hart Protocol",
+        "description": "HART(Highway Addressable Remote Transducer)プロトコルは、プロセス自動化フィールド装置で使用される通信プロトコルです。"
+    },
+    {
+        "word": "Supervisory Control",
+        "description": "監視コントロールとは、上位レベルのコンピュータからシステムまたはプロセスを監視および制御するプロセスである。"
+    },
+    {
+        "word": "Data Historian",
+        "description": "Data Historian は、時間連続データをアーカイブおよび取得するソフトウェアプログラムまたはデバイスです。"
+    }
+]

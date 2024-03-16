@@ -1,0 +1,478 @@
+[
+    {
+        "word": "Crm",
+        "description": "顧客関係管理(CRM)とは、企業が顧客の旅を通じて顧客のインタラクションとデータを管理し、分析するために使用する戦略、テクノロジー、および実践を指します。"
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "顧客セグメントは、共通の特徴、行動、または好みに基づいて顧客ベースをグループに分割する実践です。"
+    },
+    {
+        "word": "Lead",
+        "description": "リードは、企業の製品またはサービスに興味を示した潜在的な顧客です。"
+    },
+    {
+        "word": "Prospect",
+        "description": "見通しは、顧客として潜在的であることを熟練し、決意したリードです。"
+    },
+    {
+        "word": "Sales Funnel",
+        "description": "販売フィンネルは、会社との最初の接触から購入までの買い手の旅を表しています。"
+    },
+    {
+        "word": "Marketing Automation",
+        "description": "マーケティング自動化は、マーケティングタスクとワークフローを自動化するためのソフトウェアツールやプラットフォームの使用を指します。"
+    },
+    {
+        "word": "Customer Acquisition",
+        "description": "顧客獲得は、潜在的な顧客を誘致し、製品やサービスを購入することを説得するプロセスです。"
+    },
+    {
+        "word": "Customer Retention",
+        "description": "CRMにおける顧客維持とは、既存の顧客を維持し、製品やサービスを購入し続けることを保証するために企業が行った努力を指します。"
+    },
+    {
+        "word": "Churn",
+        "description": "クライアントの削減または売上高とも呼ばれるチャーンは、クライアントが会社とビジネスをやめるレートを指します。"
+    },
+    {
+        "word": "Upselling",
+        "description": "Upsellingは、顧客が製品またはアドオンアイテムのより高価なバージョンを購入するよう説得する戦略です。"
+    },
+    {
+        "word": "Cross-Selling",
+        "description": "クロスセールスとは、既存の顧客に追加の製品やサービスを販売することです。"
+    },
+    {
+        "word": "Customer Lifetime Value",
+        "description": "Customer Lifetime Value (CLV) は、顧客との将来の関係全体に割り当てられる予測された純利益です。"
+    },
+    {
+        "word": "Touchpoint",
+        "description": "タッチポイントは、顧客が会社と、電話、電子メール、ウェブサイト訪問、またはソーシャルメディアの相互作用などのあらゆる相互作用です。"
+    },
+    {
+        "word": "Customer Journey",
+        "description": "顧客の旅は、顧客が会社と相互作用する際に、初期意識から購入後のサポートまで、顧客が経験するプロセスです。"
+    },
+    {
+        "word": "Crm Software",
+        "description": "CRMソフトウェアは、企業が顧客のインタラクション、データ、および関係を管理し、分析するのに役立つ技術ソリューションです。"
+    },
+    {
+        "word": "Salesforce Automation",
+        "description": "Salesforce Automation (SFA) は、テクノロジー、ソフトウェア、ツールを使用して販売活動とプロセスを簡素化し、自動化します。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "CRMにおけるデータアナリティクスは、価値ある洞察とパターンを発見するためにデータの抽出、変換、分析を含み、組織がデータベースの意思決定を下し、顧客体験を改善し、ビジネスパフォーマンスを向上させるのに役立ちます。"
+    },
+    {
+        "word": "Key Performance Indicators",
+        "description": "キーパフォーマンス指標(KPI)は、企業がその目標や目標をどれだけうまく達成しているかを示す測定可能な値です。"
+    },
+    {
+        "word": "Customer Satisfaction",
+        "description": "顧客満足度は、製品またはサービスが顧客の期待をどれだけ満たしているか、あるいは超えているかを測定するものです。"
+    },
+    {
+        "word": "Customer Loyalty",
+        "description": "CRMにおける顧客忠誠度は、顧客が特定の会社やブランドとビジネスを続ける傾向を測定することを指します。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "CRMにおける予測分析は、統計アルゴリズムとモデリング技術を使用して、過去の顧客データに基づいて将来の結果と行動を予測することにより、潜在的な機会、リスク、顧客の好みを特定するのに役立ちます。"
+    },
+    {
+        "word": "Lead Scoring",
+        "description": "Lead Scoringは、リードを顧客に変換する確率に基づいてランキングし、優先するための方法です。"
+    },
+    {
+        "word": "Customer Service",
+        "description": "顧客サービスとは、製品またはサービスの購入前、期間中、および後に顧客に提供されるサポートとサポートです。"
+    },
+    {
+        "word": "Social Crm",
+        "description": "ソーシャルCRMは、ソーシャルメディアプラットフォームとデータを使用して顧客と関わり、関係を構築し、パーソナライズされた体験を提供する実践です。"
+    },
+    {
+        "word": "Crm Integration",
+        "description": "CRM統合は、マーケティング自動化、販売、または顧客サポートツールなどの他のシステムやアプリケーションとCRMシステムを接続し同期するプロセスを指します。"
+    },
+    {
+        "word": "Data Cleansing",
+        "description": "データクリーニングは、データベースから不正確、不完全、または無関係なデータを識別し、訂正または削除するプロセスです。"
+    },
+    {
+        "word": "Personalization",
+        "description": "パーソナライズは、個々の顧客の好み、ニーズ、または特徴に製品、サービス、または体験をカスタマイズする実践です。"
+    },
+    {
+        "word": "Omnichannel",
+        "description": "Omnichannelは、オンライン、オフライン、モバイル、ソーシャルメディアなどの複数のチャンネルでシームレスで一貫した顧客体験を提供する実践を指します。"
+    },
+    {
+        "word": "Collaborative Crm",
+        "description": "Collaborative CRMは、従業員、部門、および外部パートナー間のコミュニケーション、コラボレーション、情報共有を促進し、顧客関係を改善することに焦点を当てています。"
+    },
+    {
+        "word": "360-Degree View",
+        "description": "顧客の360度の視点は、すべてのタッチポイントで顧客の相互作用、好み、および歴史の包括的かつ包括的な理解を指します。"
+    },
+    {
+        "word": "Customer Analytics",
+        "description": "CRMにおけるクライアントアナリティクスは、顧客のデータ、行動、および相互作用を分析し、洞察を得、意思決定を明確にするのに役立ち、顧客体験とビジネス結果を改善するためのトレンド、好み、機会を特定するのに役立ちます。"
+    },
+    {
+        "word": "Customer Engagement",
+        "description": "CRMにおける顧客関与とは、顧客と企業の相互作用、コミュニケーション、関与のレベルを指します。"
+    },
+    {
+        "word": "Marketing Campaign",
+        "description": "マーケティングキャンペーンは、製品、サービス、またはブランドを促進するための計画された活動と戦術のセットであり、通常、特定の目標または目標を考慮に入れている。"
+    },
+    {
+        "word": "Customer Feedback",
+        "description": "顧客のフィードバックは、顧客が製品、サービス、または会社との経験について提供する情報です。"
+    },
+    {
+        "word": "Social Listening",
+        "description": "ソーシャルアウトは、ブランドや業界に関連する言及や会話のためのソーシャルメディアプラットフォームを監視し分析するプロセスです。"
+    },
+    {
+        "word": "Automated Reporting",
+        "description": "自動レポートとは、ソフトウェアやツールを使用して自動的にレポートを生成し、配布し、意思決定のために適時かつ正確な情報を提供するプロセスです。"
+    },
+    {
+        "word": "Customer Support",
+        "description": "顧客サービスまたはヘルプデスクとも呼ばれる顧客サポートは、顧客の問題、質問、または懸念に対する支援、ガイダンス、および解決を提供することを意味します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization is the presentation of data in a visual and graphical format, such as charts, graphs, and interactive dashboards, to facilitate understanding and analysis. データの表示は、図、グラフ、およびインタラクティブなダッシュボードなどの視覚的およびグラフィック形式で、理解と分析を容易にする。"
+    },
+    {
+        "word": "Customer Onboarding",
+        "description": "CRMにおけるクライアントオンボードは、新規顧客が企業の製品やサービスを採用し、使用し始めるときに指導し、サポートするプロセスを指します。"
+    },
+    {
+        "word": "Sales Forecasting",
+        "description": "売上予測は、過去のデータ、市場の傾向、その他の関連要因に基づいて、将来の売上を推定するプロセスです。"
+    },
+    {
+        "word": "Customer Equity",
+        "description": "顧客資本は、企業とのすべての現在および潜在的な将来の顧客関係の合計合計価値であり、しばしば財務的または生涯価値指標を使用して測定されます。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革は、デジタル技術と戦略を活用してビジネスモデル、プロセス、顧客体験を根本的に変えるプロセスです。"
+    },
+    {
+        "word": "Customer Advocacy",
+        "description": "CRMにおける顧客擁護とは、顧客が積極的に企業の製品やサービスを他の人に促進または推奨することを意味し、満足度、忠誠心、信頼の高いレベルを示し、顧客の獲得と保持に貢献することができます。"
+    },
+    {
+        "word": "Lead Management",
+        "description": "リーディングマネジメントは、リーディングをキャプチャし、追跡し、熟練した見通しや顧客に変換するプロセスです。"
+    },
+    {
+        "word": "Net Promoter Score",
+        "description": "Net Promoter Score(NPS)は、顧客の忠誠度を測定し、顧客が他の人に会社を推薦する確率を評価するために使用される指標です。"
+    },
+    {
+        "word": "Customer Engagement Platform",
+        "description": "顧客関与プラットフォームは、複数のチャネル、ツール、機能を組み合わせ、顧客との相互作用、コミュニケーション、関係を促進する技術ソリューションです。"
+    },
+    {
+        "word": "Customer Success",
+        "description": "CRMにおける顧客成功とは、顧客が望ましい結果を達成し、企業の製品やサービスから価値を生み出すことを保証する積極的なアプローチを指します。"
+    },
+    {
+        "word": "Customer Self-Service",
+        "description": "顧客の自己サービスとは、顧客が答えを見つけ、情報にアクセスし、顧客サポートエージェントの助けを必要とせずに問題を自分で解決する能力を指します。"
+    },
+    {
+        "word": "Crm Strategy",
+        "description": "CRM戦略は、企業が顧客中心の目標や目標を達成するためにCRMの原則、プロセス、技術をどのように使用するかを示す計画と枠組みです。"
+    },
+    {
+        "word": "Social Media Engagement",
+        "description": "ソーシャルメディアへの関与は、インタラクションのレベル、気に入り、共有、コメントを測定し、ソーシャルメディアプラットフォームで企業やブランドを受け取ることを言及します。"
+    },
+    {
+        "word": "Customer Experience",
+        "description": "CRMにおける顧客体験(CX)とは、顧客が企業との関係を通して持っているすべての相互作用、タッチポイント、経験の合計を指します。"
+    },
+    {
+        "word": "Customer Data Management",
+        "description": "顧客データ管理は、顧客データの正確かつ最新の収集、組織、維持のプロセスであり、その品質、完全性、アクセシビリティを確保する。"
+    },
+    {
+        "word": "Crm Analytics",
+        "description": "CRMアナリティクスは、CRMデータ、顧客インタラクション、パターンを分析し、洞察を得、トレンドを特定し、マーケティング、販売、サービスのためのデータベースの意思決定を下します。"
+    },
+    {
+        "word": "Mobile Crm",
+        "description": "モバイルCRMは、スマートフォンやタブレットなどのモバイルデバイスを使用して、顧客関係データにアクセスして管理することを指します。"
+    },
+    {
+        "word": "Email Marketing",
+        "description": "電子メールマーケティングは、製品、サービス、またはイベントを顧客または見込み客に促進するために電子メールを使用する実践です。"
+    },
+    {
+        "word": "Sales Pipeline",
+        "description": "販売パイプラインは、販売プロセスと販売機会が最初の資格から閉鎖までの段階を視覚的に表しています。"
+    },
+    {
+        "word": "Customer Privacy",
+        "description": "顧客プライバシーとは、顧客のデータ、情報、および好みの保護と適切な取り扱いを意味し、機密性、セキュリティ、およびコンプライアンスを確保する。"
+    },
+    {
+        "word": "Crm Training",
+        "description": "CRMトレーニングは、CRMシステム、ツール、およびプロセスを効果的に使用するために必要なスキル、知識、およびガイドラインを従業員に教育し、提供することを含みます。"
+    },
+    {
+        "word": "Lead Generation",
+        "description": "リーブ生成は、潜在的な顧客の関心と連絡先情報を引き寄せ、キャプチャするプロセスであり、しばしばさまざまなマーケティングおよび広告戦略を通じて行われます。"
+    },
+    {
+        "word": "Customer Relationship",
+        "description": "顧客関係とは、顧客と企業の間で確立された接続、相互作用、関係を指し、しばしば信頼、満足、忠誠心に基づいています。"
+    },
+    {
+        "word": "Data-Driven Marketing",
+        "description": "データ主導のマーケティングとは、顧客データ、洞察力、および分析を使用して、マーケティングの決定、戦略、およびキャンペーンを通知し、指導することを指します。"
+    },
+    {
+        "word": "Customer Journey Mapping",
+        "description": "CRMにおける顧客の旅のマッピングは、顧客が会社との旅の途中で持っているさまざまな接触点、相互作用、経験を視覚化し、理解するプロセスです。"
+    },
+    {
+        "word": "Customer Persona",
+        "description": "クライアント・パーソナ(Customer Persona)は、市場調査と実際の顧客データに基づく、理想の顧客の半幻想的な表現です。"
+    },
+    {
+        "word": "Pipeline",
+        "description": "パイプラインは、販売プロセスの視覚的表現であり、顧客になる前に見込み客が通過するさまざまな段階を示します。"
+    },
+    {
+        "word": "Opportunity",
+        "description": "機会は、売却を終了したり、ビジネスを勝ち取ったりする可能性がある段階に進んだ見通しです。"
+    },
+    {
+        "word": "Contact Management",
+        "description": "連絡先管理は、連絡先、相互作用、および好みを含む顧客および将来の情報の組織および追跡を指します。"
+    },
+    {
+        "word": "Account Management",
+        "description": "アカウント管理は、確立された顧客または重要なアカウントとの関係を管理し、忠誠心を促進し、ビジネス成長を推進します。"
+    },
+    {
+        "word": "Customer Lifecycle",
+        "description": "CRMにおける顧客ライフサイクルは、顧客が最初の認識と取得から保持と擁護に至るまで、顧客が通過するさまざまな段階を表しています。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、異なるソースまたはシステムからのデータを組み合わせ、統合されたビューを作成することを意味します。"
+    },
+    {
+        "word": "Salesforce",
+        "description": "Salesforce は、企業に顧客関係、販売、マーケティング、サービスを管理するためのツールと機能のセットを提供する人気のあるクラウドベースの CRM プラットフォームです。"
+    },
+    {
+        "word": "Zoho Crm",
+        "description": "Zoho CRMは、顧客関係、販売、マーケティング、サポートを管理するための幅広い機能を提供するWebベースのCRMプラットフォームです。"
+    },
+    {
+        "word": "Campaign Management",
+        "description": "キャンペーン管理は、特定のビジネス目標を達成するためにマーケティングキャンペーンの計画、実行、および追跡を含みます。"
+    },
+    {
+        "word": "Call Center",
+        "description": "コールセンターは、通常、顧客サービス、販売、または技術サポートのために、顧客の通話が処理される集中的なオフィスまたは施設です。"
+    },
+    {
+        "word": "Key Performance Indicators (Kpis)",
+        "description": "CRMのキーパフォーマンス指標(KPI)は、顧客関係管理のさまざまな側面の成功とパフォーマンスを評価するために使用される測定可能な指標です。"
+    },
+    {
+        "word": "Multi-Channel Communication",
+        "description": "CRMにおけるマルチチャンネルコミュニケーションは、電子メール、電話、チャット、ソーシャルメディア、および個人的なインタラクションなどの複数のチャンネルを使用して、顧客とコミュニケーションし、関わることができます。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "CRMにおけるデータマイニングは、大量のデータからパターン、洞察、情報を発見するプロセスを含み、さまざまな統計学習技術と機械学習技術を使用して、隠された関係や機会を発見します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人情報を保護し、個人がデータがどのように収集され、使用され、共有されるかをコントロールすることを指します。"
+    },
+    {
+        "word": "Feedback Management",
+        "description": "CRMにおけるフィードバック管理は、顧客のフィードバックを収集し、分析し、応答するために使用されるプロセスとシステムを指します。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "CRMにおける人工知能(AI)は、コンピュータシステムとアルゴリズムを使用して、人間の知能をシミュレートし、タスクを自動化し、予測や推奨を行います。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "CRMにおける機械学習(ML)は、コンピュータシステムが明示的にプログラミングされずに体験から自動的に学び、改善できるようにすることに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Cloud Crm",
+        "description": "SaaS CRMとも呼ばれるクラウドCRMは、クラウドにホストされ、インターネットを通じてアクセスされるCRMソフトウェアを指します。"
+    },
+    {
+        "word": "Real-Time Analytics",
+        "description": "CRMにおけるリアルタイムアナリティクスは、生成または受信するデータの分析と処理を含み、即時的な洞察と行動を可能にします。"
+    },
+    {
+        "word": "Customer Service Level",
+        "description": "CRMにおける顧客サービスレベルは、顧客に提供されるサポートとサポートの質と効率を指し、応答時間、解決時間、顧客満足度などのメトリックを含み、顧客の期待を満たすか超えることを目指しています。"
+    },
+    {
+        "word": "Knowledge Management",
+        "description": "CRMにおける知識管理とは、組織内の知識と情報を収集し、組織化し、拡散するために使用されるプロセスとシステムを指すものであり、従業員が顧客をよりよくサービスするために正確で最新の情報にアクセスできるようにします。"
+    },
+    {
+        "word": "Customer Portal",
+        "description": "Customer Portal または Self-Service Portal とも呼ばれるクライアント ポータルは、顧客がアカウントにアクセスし、管理し、サポート リソースと相互作用し、情報を見つけることを可能にするセキュアなオンラインプラットフォームです。"
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "サービスレベルの合意(SLA)は、企業と顧客との間の契約または合意で、サービスとサポートの期待レベルを定義します。"
+    },
+    {
+        "word": "Enterprise Resource Planning (Erp)",
+        "description": "CRMにおけるエンタープライズ・リソース・プランニング(ERP)は、CRM、金融、サプライチェーン、および人材を含むさまざまなビジネスプロセスを処理する統合されたソフトウェアシステムを指します。"
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "CRMにおける仮想アシスタントは、顧客と相互作用し、クエリに回答し、自然言語処理を使用してタスクを実行するAI駆動のソフトウェアプログラムを指します。"
+    },
+    {
+        "word": "Workflow Automation",
+        "description": "ワークフローの自動化は、繰り返しのタスクを自動化し、ビジネスプロセスを簡素化するためのテクノロジーの使用です。"
+    },
+    {
+        "word": "Sales Enablement",
+        "description": "CRMにおけるセールスエンパイアメントとは、リーダーを効果的に関与し、変換するために必要なツール、リソース、情報を販売チームに提供することです。"
+    },
+    {
+        "word": "Customer Personas",
+        "description": "Customer Personas in CRM は、理想的な顧客セグメントまたはタイプの仮想的、一般化された表現であり、特定の顧客グループをよりよく理解し、ターゲット化するために、研究、データ、分析に基づいて作成されます。"
+    },
+    {
+        "word": "Customer Lifetime Value (Clv)",
+        "description": "Customer Lifetime Value (CLV) in CRM は、顧客がその関係全体を通じて企業に生み出す予想される総収入を表すメトリックです。"
+    },
+    {
+        "word": "Gamification",
+        "description": "ゲーム化とは、競争、報酬、挑戦などのゲーム要素をゲーム以外のコンテキストに適用し、ユーザーを動機づけること。"
+    },
+    {
+        "word": "E-Commerce",
+        "description": "電子商取引とは、商品やサービスをオンラインで購入し、販売することを意味します。CRMでは、電子商取引の統合は、顧客データ、注文、およびCRMシステムと電子商取引プラットフォーム間の相互作用を接続し、同期することを意味します。"
+    },
+    {
+        "word": "Customer Relationship Management",
+        "description": "顧客関係管理(CRM)は、企業が顧客の相互作用とデータを管理し分析するために使用する慣行、戦略、技術を指します。"
+    },
+    {
+        "word": "Pipeline Management",
+        "description": "パイプライン管理には、販売パイプラインの監視と制御が含まれており、見通しが効果的に段階を通過していることを保証します。"
+    },
+    {
+        "word": "Crm System",
+        "description": "CRMシステムは、企業が顧客関係を管理し、販売を追跡し、プロセスを簡素化するのに役立つ技術プラットフォームです。"
+    },
+    {
+        "word": "Database",
+        "description": "データベースは、しばしばデジタル形式のデータの構造化されたコレクションであり、アクセスし、管理し、更新することができます。"
+    },
+    {
+        "word": "Data Migration",
+        "description": "データ移行は、あるシステムまたはデータベースから別のシステムにデータを転送するプロセスです。"
+    },
+    {
+        "word": "Analytics",
+        "description": "アナリティクスは、データから有意義なパターンの発見、解釈、およびコミュニケーションを含みます。"
+    },
+    {
+        "word": "Business Intelligence",
+        "description": "ビジネスインテリジェンス(BI)は、ビジネス情報の収集、分析、プレゼンテーションに使用されるツール、テクノロジー、プロセスを指します。"
+    },
+    {
+        "word": "Key Performance Indicator",
+        "description": "キーパフォーマンス指標(KPI)は、企業がそのビジネス目標をどれだけうまく達成しているかを示す測定可能な値です。"
+    },
+    {
+        "word": "Retention",
+        "description": "保留とは、企業が一定の期間にわたり顧客を保有する能力です。"
+    },
+    {
+        "word": "Service Level Agreement",
+        "description": "サービスレベル合意(SLA)は、顧客がプロバイダーから期待できるサービスレベル、対応時間と解決目標を含む契約です。"
+    },
+    {
+        "word": "Ticketing System",
+        "description": "チケットシステムは、顧客サポートのリクエストや問題を追跡、優先順位付け、管理するためのソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Knowledge Base",
+        "description": "知識ベースは、顧客と従業員のための自営業サポートを提供する情報の集中的なリポジトリです。"
+    },
+    {
+        "word": "Case Management",
+        "description": "ケースマネジメントは、クライアントの質問、問題、または苦情を作成から解決まで管理し、追跡するプロセスです。"
+    },
+    {
+        "word": "Integration",
+        "description": "統合は、効率性を向上させ、プロセスを簡素化するために、異なるシステムやアプリケーション間でデータを接続し、共有することを意味します。"
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboardingは、新しい顧客、従業員、またはパートナーを会社の製品、サービス、または文化に統合し、認識するプロセスです。"
+    },
+    {
+        "word": "Drip Campaign",
+        "description": "Dripキャンペーンは、リードや顧客を育成するために一連のスケジュールされた自動メッセージを送信することを含むマーケティング戦略です。"
+    },
+    {
+        "word": "Compliance",
+        "description": "コンプライアンスとは、法律、規制、業界基準、または内部ポリシーおよび手続きの遵守を指します。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティは、不正なアクセス、開示、変更、または破壊からデータを保護する実践です。"
+    },
+    {
+        "word": "User Adoption",
+        "description": "ユーザーの採用とは、ユーザーが新しいシステム、プロセス、またはテクノロジーを受け入れ、積極的に使用する程度を指します。"
+    },
+    {
+        "word": "Training",
+        "description": "トレーニングは、個人やチームに知識やスキルを提供し、そのパフォーマンスやシステムまたはプロセスを使用する能力を向上させることを意味します。"
+    },
+    {
+        "word": "User Interface",
+        "description": "ユーザインターフェイスは、ユーザが相互作用するソフトウェアアプリケーションまたはシステムの視覚的かつインタラクティブな部分です。"
+    },
+    {
+        "word": "User Experience",
+        "description": "ユーザーエクスペリエンスとは、ユーザーが製品、ウェブサイト、またはサービスと相互作用する際に持つ全体的な経験と満足度を指します。"
+    },
+    {
+        "word": "Dashboard",
+        "description": "ダッシュボードは、重要なデータ、メトリクス、またはパフォーマンス指標の視覚的な表示であり、しばしば監視および意思決定のために使用されます。"
+    },
+    {
+        "word": "Ai",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Ml",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    }
+]

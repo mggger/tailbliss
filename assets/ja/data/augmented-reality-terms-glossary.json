@@ -1,0 +1,574 @@
+[
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality(AR)は、コンピュータで生成されたコンテンツを現実世界に強化し、ユーザーの認識と環境との相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、ユーザーを完全に仮想環境に浸透させ、しばしば現実世界を完全にブロックする技術です。"
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "混合現実(MR)はARとVRの両方を含むスペクトルで、仮想世界と現実世界の要素がシームレスに統合され、互いに相互作用する。"
+    },
+    {
+        "word": "Holography",
+        "description": "ホログラフィーは3D画像を生成する技術であり、ホログラムと呼ばれるもので、差異を用いて物体の光フィールドを記録し、再構築する。"
+    },
+    {
+        "word": "Marker-Based Ar",
+        "description": "マーカーベースのARは、デジタルコンテンツを重ねるARシステムのリファレンスポイントとして物理的なマーカーや画像を使用することを意味します。"
+    },
+    {
+        "word": "Markerless Ar",
+        "description": "場所ベースのARとも呼ばれるMarkerless ARは、物理的なマーカーや参照点を必要とせずに、仮想オブジェクトを現実世界に置くことを可能にします。"
+    },
+    {
+        "word": "Slam",
+        "description": "Simultaneous Localization and Mapping (SLAM) は、AR で使用されるテクニックで、物理環境の地図を作成し、その内のユーザーの位置を追跡します。"
+    },
+    {
+        "word": "Pose Estimation",
+        "description": "ARのポーズ評価は、現実世界の環境内のオブジェクトまたはユーザーの正確な位置と方向性を決定することを意味します。"
+    },
+    {
+        "word": "Image Recognition",
+        "description": "ARのイメージ認識は、デバイスのカメラを使用してリアルタイムでオブジェクトやパターンを識別し、分類するプロセスです。"
+    },
+    {
+        "word": "Computer-Generated Imagery (Cgi)",
+        "description": "コンピュータ生成画像(CGI)とは、コンピュータグラフィックを使用して視覚コンテンツを作成することを指します。"
+    },
+    {
+        "word": "3D Modeling",
+        "description": "3Dモデリングは、専門のソフトウェアまたはスキャン技術を使用して物体またはシーンの3次元表示を作成するプロセスです。"
+    },
+    {
+        "word": "Lidar",
+        "description": "Lidarは、レーザーを使用して距離を測定し、ARアプリケーションで頻繁に使用される環境の非常に正確な3D表示を作成するリモートセンサー技術です。"
+    },
+    {
+        "word": "Depth Sensing",
+        "description": "ARの深度検出は、デバイスのカメラと現実世界のオブジェクトとの距離を測定し、より正確な仮想オブジェクトの配置を可能にします。"
+    },
+    {
+        "word": "Geolocation",
+        "description": "地理位置は、デバイスまたはユーザーの現実世界における正確な地理的位置を決定するプロセスです。"
+    },
+    {
+        "word": "Virtual Object",
+        "description": "仮想オブジェクトは、ARで現実世界に覆われたコンピュータ生成の3Dモデルまたは要素です。"
+    },
+    {
+        "word": "Real-Time Rendering",
+        "description": "ARのリアルタイムレンダリングは、ユーザーの相互作用や現実世界の変化に応じて仮想コンテンツを生成および表示することを意味します。"
+    },
+    {
+        "word": "Spatial Mapping",
+        "description": "ARの空間マッピングは、物理環境の3D表示を作成するプロセスで、仮想オブジェクトが現実世界と相互作用することを可能にします。"
+    },
+    {
+        "word": "Hand Tracking",
+        "description": "ARにおけるハンドトラッキングは、ユーザーの手の動きの検出と追跡を含み、手の手の手の手の手の手の手の手を用いて仮想オブジェクトとの相互作用を可能にします。"
+    },
+    {
+        "word": "Gaze Tracking",
+        "description": "Gaze trackingは、ユーザーの視線の方向を検出し、追跡する技術であり、しばしば拡張現実体験におけるインタラクションとユーザーインターフェイス制御に使用されます。"
+    },
+    {
+        "word": "Haptic Feedback",
+        "description": "ヘプティックフィードバックは、拡張現実アプリケーションにおけるタッチ感覚や振動を提供するためにデバイスによって作成された感覚や振動を指します。"
+    },
+    {
+        "word": "Reflection Mapping",
+        "description": "反射マッピングは、物体の表面に環境をマッピングすることによって反射表面の外観をシミュレートするためにコンピュータグラフィックスで使用される技術です。"
+    },
+    {
+        "word": "Physics Simulation",
+        "description": "物理シミュレーションは、仮想環境で重力、衝突、動きなどの現実世界の物理的行動を模するプロセスです。"
+    },
+    {
+        "word": "Pseudo Haptics",
+        "description": "偽ハプティクスは、実体接触なしに物理的なフィードバックや抵抗の幻想を作成するために、拡張現実で使用される技術です。"
+    },
+    {
+        "word": "Field Of View (Fov)",
+        "description": "ビジョンフィールド(FOV)とは、ARヘッドセットやカメラなどのデバイスを通じていつでも見ることができる視覚世界の範囲を指します。"
+    },
+    {
+        "word": "Calibration",
+        "description": "校正は、拡張現実システムにおける正確な測定および追跡を確保するためにデバイスまたはセンサーを調節および調節するプロセスです。"
+    },
+    {
+        "word": "Rendering Pipeline",
+        "description": "レンダリングパイプラインとは、地理的データを視覚的出力に変換する段階とプロセスの順序を指し、vertex processing、rasterization、shading、 and output を含む。"
+    },
+    {
+        "word": "Head-Mounted Display (Hmd)",
+        "description": "ヘッドモンテッドディスプレイ(HMD)は、しばしばメガネやメガネの形で頭上に着用されるデバイスで、仮想現実または拡張現実体験を提供します。"
+    },
+    {
+        "word": "Optical See-Through (Ost)",
+        "description": "光学透視(OST)は、ユーザーがコンピュータ生成のデジタルコンテンツを重ねながら、直接現実世界を見ることができるディスプレイ技術を指します。"
+    },
+    {
+        "word": "Video Pass-Through",
+        "description": "Video Pass-throughは、デバイスのカメラからディスプレイにリアルタイムのビデオを転送するために、拡張現実で使用される技術で、ユーザーがそれを拡張しながら現実世界を見ることができます。"
+    },
+    {
+        "word": "Real-World Occlusion",
+        "description": "現実世界の遮断は、拡張現実システムが、現実世界のオブジェクトの背後に仮想オブジェクトを正確に隠し、仮想世界と現実世界のシームレスな混合を作成する能力です。"
+    },
+    {
+        "word": "Inertial Measurement Unit (Imu)",
+        "description": "Inertial Measurement Unit (IMU) は、デバイスの加速、方向、および角度速度を測定し、報告するセンサー装置です。"
+    },
+    {
+        "word": "Computer Vision",
+        "description": "ARにおけるコンピュータビジョンは、デバイスが現実世界の視覚情報を理解し解釈するためのアルゴリズムと技術の使用を含みます。"
+    },
+    {
+        "word": "Handheld Ar",
+        "description": "ハンドヘッドARとは、スマートフォンやタブレットなどのハンドヘッドデバイスを使用して視聴され、相互作用するAR体験を指します。"
+    },
+    {
+        "word": "Projected Ar",
+        "description": "プロジェクトARは、デジタルコンテンツを物理的表面やオブジェクトにプロジェクトし、専門のメガネやヘッドセットを必要とせずに拡張現実体験を作成します。"
+    },
+    {
+        "word": "Retinal Projection",
+        "description": "網膜投影は、レーザーやその他のディスプレイ技術を使用して、画像や情報を視聴者の網膜に直接投影し、ユーザーの視野内の仮想ディスプレイを作成する技術です。"
+    },
+    {
+        "word": "Visual Odometry",
+        "description": "ビジュアルオドメトリーは、拡張現実システムで使用される方法で、カメラ画像などのビジュアルセンサーデータの変化を分析することによって、デバイスまたはユーザーの動きと位置を追跡する。"
+    },
+    {
+        "word": "Hand Gesture Recognition",
+        "description": "手のジェスチャー認識は、ユーザの手によって行われるジェスチャーの検出と解釈のプロセスであり、しばしば拡張現実アプリケーションにおける相互作用と制御に使用されます。"
+    },
+    {
+        "word": "Avatar",
+        "description": "アバターは、しばしば3Dモデルまたはキャラクターの形で、他者と対話したり、拡張現実の仮想環境をナビゲートするために使用されるユーザーのデジタル表示です。"
+    },
+    {
+        "word": "Eyeglass-Based Ar",
+        "description": "眼鏡ベースのARは、スマートメガネとも呼ばれ、着用可能なメガネやメガネを通して見られる拡張現実体験を指します。"
+    },
+    {
+        "word": "Image Registration",
+        "description": "画像登録は、複合または拡張ビューを作成するために、さまざまなソースや時間帯から収集された画像またはデータを調和および重ねるプロセスです。"
+    },
+    {
+        "word": "Natural Feature Tracking",
+        "description": "Natural feature tracking (NFT) は、拡張現実で使用される技術で、現実世界の特徴やオブジェクトを認識し、追跡し、仮想オブジェクトの調和と配置を可能にします。"
+    },
+    {
+        "word": "Field-Of-View Expansion",
+        "description": "視野拡張は、拡張現実で使用される技術で、しばしば画像処理や光学的トリックを使用して、デバイスの物理的視野を超えるユーザーの視覚感覚を拡張する。"
+    },
+    {
+        "word": "Virtual Retinal Display",
+        "description": "仮想網膜ディスプレイは、スキャンレーザーライトを使用して視聴者の網膜上に直接画像を作成し、ユーザーの視野内の仮想ディスプレイを生成するディスプレイ技術です。"
+    },
+    {
+        "word": "Augmented Reality Browser",
+        "description": "拡張現実ブラウザは、デジタル情報をデバイスのカメラを通じて現実世界に表し、ユーザーの位置に基づいて関連するコンテンツを表示するアプリケーションまたはソフトウェアです。"
+    },
+    {
+        "word": "Context-Aware Computing",
+        "description": "コンテキスト意識コンピューティングとは、システムやアプリケーションが、ユーザーの状況、場所、時間、環境、またはユーザーの好みに基づいて動的に行動やプレゼンテーションを調整することを指します。"
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "ARにおけるセンサー融合は、加速計、ジロスコープ、カメラなどの複数のセンサーからのデータを組み合わせ、追跡の精度とパフォーマンスを向上させます。"
+    },
+    {
+        "word": "Smartglasses",
+        "description": "スマートグラスは、拡張現実メガネとも呼ばれ、デジタル情報を現実世界に表し、ユーザが仮想オブジェクトを見ることができるようにする軽量の着用可能なデバイスです。"
+    },
+    {
+        "word": "Virtual Marker",
+        "description": "仮想マーカーとは、拡張現実システムによって認識されるデジタルマーカーまたはトリガーを指し、物理マーカーを必要とせずにデジタル情報を現実世界に圧倒する。"
+    },
+    {
+        "word": "Image-Based Tracking",
+        "description": "イメージベースのトラッキングは、拡張現実で使用される技術で、参考画像またはパターンに匹敵することによって、オブジェクトまたはデバイスの位置と動きを追跡します。"
+    },
+    {
+        "word": "Sensor Augmentation",
+        "description": "センサー拡張は、デバイス内の既存のセンサーの能力を強化または拡張するプロセスであり、それらを追加のセンサーまたは外部データソースと結合することである。"
+    },
+    {
+        "word": "Perspective Distortion",
+        "description": "視点歪曲とは、映像やビデオの物体の形状やサイズの変化を、投影や視点の角度の変化によって意味する。"
+    },
+    {
+        "word": "Illumination Estimation",
+        "description": "照明評価は、拡張現実シーンにおける照明条件と周囲の光の色と強度を評価するプロセスであり、しばしばより現実的なレンダリングとオブジェクトの相互作用のために使用されます。"
+    },
+    {
+        "word": "Spatial Computing",
+        "description": "空間コンピューティングは、拡張現実、仮想現実、混合現実の要素を組み込む、リアルタイムで物理世界との理解と相互作用に焦点を当てたコンピューティングパラダイムです。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、計算機が明確なプログラミングなしに学び、予測や決定を下すことを可能にするアルゴリズムやモデルの開発に焦点を当てた人工知能(AI)のサブセットです。"
+    },
+    {
+        "word": "Handheld Virtual Reality",
+        "description": "ハンドル仮想現実とは、スマートフォンやVRヘッドセットなどのハンドルデバイスを通じて視聴できる仮想現実体験を指します。"
+    },
+    {
+        "word": "Simulated Environment",
+        "description": "シミュレート環境とは、仮想現実や仮想世界のデジタルまたは仮想表示を指し、しばしば仮想現実やシミュレーションアプリケーションで使用される。"
+    },
+    {
+        "word": "Spatial Sound",
+        "description": "Spatial Soundは、仮想現実または拡張現実で3次元のサウンド体験を作成するオーディオ技術です。"
+    },
+    {
+        "word": "Surface Detection",
+        "description": "ARにおける表面検出は、現実世界の環境における平らな表面を識別し、検出し、仮想オブジェクトがその表面に置かれるか、それらと相互作用することを可能にします。"
+    },
+    {
+        "word": "Object Recognition",
+        "description": "オブジェクト認識は、コンピュータビジョンシステムが画像やビデオの特定のオブジェクトやインスタンスを識別し、分類する能力です。"
+    },
+    {
+        "word": "Geospatial Ar",
+        "description": "Geospatial ARは、地理データ、地図、関心地点、またはリアルタイムの位置情報などに基づくデジタルコンテンツで現実世界を拡大することを意味します。"
+    },
+    {
+        "word": "Depth Perception",
+        "description": "ARにおける深さ感知は、実際の世界における物体の距離や深さを感知する能力を含み、しばしば深さ感知やステレオ視覚技術を通じて達成されます。"
+    },
+    {
+        "word": "Holographic Display",
+        "description": "ホログラフィックディスプレイは、ホログラフィック技術を使用して、物体の3次元の視覚的表現を提示します。"
+    },
+    {
+        "word": "Markerless Tracking",
+        "description": "Markerless Tracking は、物体やデバイスを物理的なマーカーやセンサーを必要とせずに追跡する方法です。"
+    },
+    {
+        "word": "Marker-Based Tracking",
+        "description": "マーカーベースのトラッキングは、物理的なマーカーやセンサーを使用して物体やデバイスを追跡する方法です。"
+    },
+    {
+        "word": "Field Of View",
+        "description": "ARの視野フィールド(FOV)は、ユーザーがARデバイスを通じて見ることができる物理的または仮想環境の範囲または範囲を指します。"
+    },
+    {
+        "word": "Head-Mounted Display",
+        "description": "ヘッドマウントディスプレイ(HMD)は、デジタルコンテンツをユーザーの視野に覆うことによって、仮想で immersive 体験を提供する頭上に着用されるデバイスです。"
+    },
+    {
+        "word": "Gestures",
+        "description": "拡張現実におけるジェスチャーは、ユーザーが仮想オブジェクトやインターフェイスと相互作用するために行う物理的な動きや行動を指します。"
+    },
+    {
+        "word": "Simultaneous Localization And Mapping",
+        "description": "Simultaneous Localization and Mapping (SLAM) は、拡張現実で使用される技術で、リアルタイムで環境をマッピングし、ナビゲートします。"
+    },
+    {
+        "word": "Marker",
+        "description": "拡張現実では、マッカーは、デバイスによって検出された場合に仮想コンテンツの表示を引き起こす物理的なオブジェクトまたはパターンです。"
+    },
+    {
+        "word": "Haptics",
+        "description": "ヘプティクスは、タッチ感覚と、仮想および拡張現実体験におけるタッチフィードバックの使用を指します。"
+    },
+    {
+        "word": "Image Overlay",
+        "description": "ARにおける画像重ねは、デジタル画像またはグラフィックをデバイスのカメラによってキャプチャされた現実世界のビューに重ねることを意味します。"
+    },
+    {
+        "word": "Persistent Ar",
+        "description": "Persistent Augmented Reality (AR) は、時間の経過とともに保存され、物理世界の特定の場所に固められるAR体験を指します。"
+    },
+    {
+        "word": "Ar Cloud",
+        "description": "AR Cloudは、複数の拡張現実アプリケーションとデバイスの共通の参考として使用される現実世界の仮想3Dマップです。"
+    },
+    {
+        "word": "Social Ar",
+        "description": "ソーシャルARとは、ユーザーがリアルタイムでインタラクションやコンテンツを共有できる拡張現実体験を指します。"
+    },
+    {
+        "word": "Smart Glasses",
+        "description": "スマートメガネは、接続性、センサー、およびコンピューティング機能などの機能を持つディスプレイを組み合わせる着用可能なARデバイスの一種です。"
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencing は、GPS または RFID を使用して、ユーザーが特定のエリアに入るか出るときに仮想の境界線を作成したり、アクションを引き起こしたりする場所ベースのテクノロジです。"
+    },
+    {
+        "word": "Inside-Out Tracking",
+        "description": "Inside-out Tracking は、外部のセンサーやマーカーを必要とせずに、拡張現実のデバイスまたはユーザーの位置と動きを追跡する方法です。"
+    },
+    {
+        "word": "Outside-In Tracking",
+        "description": "Outside-in Tracking は、外部のセンサーやマーカーを使用して、拡張現実のデバイスまたはユーザーの位置と動きを追跡する方法です。"
+    },
+    {
+        "word": "Registration",
+        "description": "ARでの登録は、リアルな環境と仮想コンテンツを調和または登録し、正確な調和とポジションを確保することを意味します。"
+    },
+    {
+        "word": "Real-Time Collaboration",
+        "description": "拡張現実におけるリアルタイムのコラボレーションにより、複数のユーザーが共有仮想環境またはプロジェクトで相互作用し、共同作業することができます。"
+    },
+    {
+        "word": "Projection Mapping",
+        "description": "プロジェクションマッピングは、拡張現実で使用される技術で、物理的な物体や表面にデジタルコンテンツをプロジェクトし、浸透した視覚体験を作成します。"
+    },
+    {
+        "word": "Telepresence",
+        "description": "テレプレセンスは、ユーザーが存在しているか、または遠隔地点に物理的に存在しているかのように感じることを可能にする技術であり、しばしば拡張現実を使用します。"
+    },
+    {
+        "word": "Context Awareness",
+        "description": "拡張現実におけるコンテキスト意識とは、システムまたはデバイスのユーザの環境を理解し、それに応じて仮想コンテンツを調整する能力を指します。"
+    },
+    {
+        "word": "Occlusion",
+        "description": "ARでは、閉鎖は、仮想オブジェクトが現実世界のオブジェクトによって閉ざされ、隠され、より現実的で浸透した体験を生み出す能力を指します。"
+    },
+    {
+        "word": "Tracking",
+        "description": "ARのトラッキングは、ユーザーのデバイスの位置と方向を継続的に検出し、決定するプロセスを指します。"
+    },
+    {
+        "word": "Cloud Anchors",
+        "description": "クラウドアンカーは、仮想オブジェクトを特定の場所に配置し、持続的にアンカーすることを可能にする拡張現実プラットフォームの機能です。"
+    },
+    {
+        "word": "Visual Slam",
+        "description": "Visual SLAM (Simultaneous Localization and Mapping) は、主にナビゲーションとマッピングのためのビジュアル情報に依存するSLAMのバージョンです。"
+    },
+    {
+        "word": "Viewer Tracking",
+        "description": "Viewer Trackingは、ユーザの位置と動きを検出し、追跡するデバイスを可能にする技術で、しばしば拡張現実で使用されます。"
+    },
+    {
+        "word": "Motion Tracking",
+        "description": "Motion Trackingは、拡張現実アプリケーションで物体や人間の動きを正確に追跡できる技術です。"
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "ARにおけるジェスチャー認識は、デバイスがユーザーの手や体の動きを解釈し、理解する能力を意味します。"
+    },
+    {
+        "word": "Environmental Integration",
+        "description": "拡張現実における環境統合とは、仮想コンテンツがユーザーの現実環境とシームレスに融合し、信頼性と浸透性を高めることを指します。"
+    },
+    {
+        "word": "Slam Mapping",
+        "description": "SLAMマッピングは、拡張現実アプリケーションでSLAMテクニックを使用して、リアルタイムで環境のマップを生成し更新するプロセスです。"
+    },
+    {
+        "word": "Virtual Try-On",
+        "description": "Virtual Try-On は、ユーザーが購入決定をする前に製品やアイテムを実際に試し、視覚化することを可能にするテクノロジーであり、しばしば小売やファッション業界で使用されます。"
+    },
+    {
+        "word": "Remote Assistance",
+        "description": "ARにおけるリモートアシスタントは、別の物理的な場所にあるユーザーにリアルタイムのガイドやサポートを提供するためのARテクノロジーの使用を含みます。"
+    },
+    {
+        "word": "Motion Parallax",
+        "description": "Motion Parallax は、拡張現実で使用される深度キューで、より近いオブジェクトは、ユーザーが頭や視点を動かすと、より遠くにあるオブジェクトよりも速く移動するように見えます。"
+    },
+    {
+        "word": "Virtual Collaboration",
+        "description": "仮想コラボレーションは、複数のユーザーが、拡張現実によってしばしば可能な共有仮想環境で相互作用し、コミュニケーションし、一緒に作業する能力を指します。"
+    },
+    {
+        "word": "Semantic Tracking",
+        "description": "セマンティック・トラッキングは、拡張現実におけるオブジェクトや機能を、それらのセマンティックな意味に基づいて追跡し、より正確で文脈的な視覚化を可能にする方法です。"
+    },
+    {
+        "word": "Virtual Tourism",
+        "description": "仮想観光は、拡張現実を使用して仮想旅行体験を提供し、ユーザーが現実世界の場所の仮想表現と探索し、相互作用することを可能にします。"
+    },
+    {
+        "word": "Ar",
+        "description": "拡張現実(AR)とは、デジタル情報をリアルタイムでリアル世界と統合することを指します。"
+    },
+    {
+        "word": "Ar Marker",
+        "description": "ARマークは、ARシステムがデジタルコンテンツを覆うための参照点として使用する物理的なオブジェクトまたはパターンです。"
+    },
+    {
+        "word": "Hologram",
+        "description": "ホログラムは、空中で浮いているように見える3D仮想画像であり、ARデバイスによって感知することができます。"
+    },
+    {
+        "word": "Augmented Reality Glasses",
+        "description": "Augmented Reality (AR) メガネは、仮想コンテンツを現実世界に表し、ユーザーが両方を同時に見ることができるヘッドマウントディスプレイの一種です。"
+    },
+    {
+        "word": "Augmented World",
+        "description": "拡張ワールドとは、ARにおける現実世界と仮想コンテンツの組み合わせを指し、強化されたインタラクティブな環境を作成します。"
+    },
+    {
+        "word": "Overlay",
+        "description": "ARでは、オーバーレイは、仮想コンテンツを現実世界に圧倒し、仮想と物理の要素を組み合わせる行為を指します。"
+    },
+    {
+        "word": "Simulation",
+        "description": "ARのシミュレーションは、トレーニング、教育、またはエンターテイメントの目的のために現実世界の仮想表現または模の作成を指します。"
+    },
+    {
+        "word": "Projection-Based Ar",
+        "description": "プロジェクションベースのARは、拡張された体験を作成するために、仮想コンテンツを現実世界の表面にプロジェクトすることを意味します。"
+    },
+    {
+        "word": "Field-Of-Depth",
+        "description": "Field-of-Deep (FoD) は、AR デバイスが仮想オブジェクトを現実世界に正確に表すことができる距離の範囲を指します。"
+    },
+    {
+        "word": "Application Programming Interface",
+        "description": "アプリケーションプログラミングインターフェイス(API)は、さまざまなソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "User Interface",
+        "description": "ARのユーザーインターフェイス(UI)は、ユーザーが仮想コンテンツと相互作用し、コントロールするグラフィック要素またはコントロールを指します。"
+    },
+    {
+        "word": "Motion Capture",
+        "description": "ARにおけるモーションキャプチャは、デジタル表示やアニメーションを生成するために物体や個人の動きを記録し、追跡することを意味します。"
+    },
+    {
+        "word": "Augmented Audio",
+        "description": "ARの拡張オーディオは、仮想またはデジタル音を追加することによって、実際の世界のユーザの聴覚感覚を強化または変更することを意味します。"
+    },
+    {
+        "word": "Marker Tracking",
+        "description": "ARにおけるマーカー追跡は、現実世界における物理マーカーの位置と方向を継続的に検出し、識別し、追跡することを意味します。"
+    },
+    {
+        "word": "Optical See-Through",
+        "description": "ARにおける光学的透明性は、ユーザーが透明なパネルを通じて直接現実世界を見ることを可能にするディスプレイ技術を指します。"
+    },
+    {
+        "word": "Inertial Measurement Unit",
+        "description": "Inertial Measurement Unit (IMU) は、加速計とジロスコープの組み合わせを使用して線形および角度の動きを測定し報告する装置です。"
+    },
+    {
+        "word": "Remote Collaboration",
+        "description": "ARにおけるリモートコラボレーションは、物理的な場所に関係なく、共有仮想空間で複数のユーザーが相互作用し、一緒に作業することを意味します。"
+    },
+    {
+        "word": "Aerial Ar",
+        "description": "Aerial AR は、ユーザの空中視野の文脈における仮想コンテンツまたは情報の表示を含み、しばしばドローンまたは航空機を主なプラットフォームとして使用します。"
+    },
+    {
+        "word": "Screen-Based Ar",
+        "description": "スクリーンベースのARは、スマートフォン、タブレット、またはコンピュータのディスプレイなどの画面に仮想コンテンツを覆い、ユーザーの視覚体験を向上させます。"
+    },
+    {
+        "word": "Tracked Area",
+        "description": "ARのトラッキングエリアは、ユーザーが移動し、仮想オブジェクトと相互作用できる定義された空間または環境を指し、通常は特定のトラッキング技術を必要とする。"
+    },
+    {
+        "word": "Enhanced Reality",
+        "description": "拡張現実 (ER) は、追加の情報や文脈を提供することによって、ユーザーの現実環境の認識を強化または豊かにするARの形態を指します。"
+    },
+    {
+        "word": "Field Of Vision",
+        "description": "ビジョンフィールドとは、ユーザーが周辺視力を含む自然視を通じて観察できる全体の領域または範囲を指します。"
+    },
+    {
+        "word": "Wireless Tracking",
+        "description": "AR でのワイヤレストラッキングは、Bluetooth または Wi-Fi などのワイヤレステクノロジーを使用して、AR デバイスやオブジェクトの位置と動きを追跡します。"
+    },
+    {
+        "word": "360-Degree Ar",
+        "description": "360度のARは、ユーザーを完全な360度の視点で囲むAR体験を作成し、あらゆる角度から仮想コンテンツを探索し、相互作用することを可能にします。"
+    },
+    {
+        "word": "Contextual Information",
+        "description": "ARにおける文脈情報は、現実世界に覆われ、関連する情報を提供したり、周囲の理解を向上させる追加のデータやコンテンツを指します。"
+    },
+    {
+        "word": "Collaborative Ar",
+        "description": "コラボレーションARは、複数のユーザーが同時に、しばしば共有された物理的または仮想の空間で、ARコンテンツと相互作用し、体験することを意味します。"
+    },
+    {
+        "word": "Physical Environment",
+        "description": "ARの物理環境は、現実世界の環境や存在し、仮想コンテンツと相互作用するオブジェクトを指します。"
+    },
+    {
+        "word": "Environmental Understanding",
+        "description": "ARにおける環境理解は、現実世界の環境を認識し、理解するARシステムの能力を含み、オブジェクト認識、シーン理解、および文脈意識を含む。"
+    },
+    {
+        "word": "Spatial Audio",
+        "description": "ARの空間オーディオは、拡張空間内の特定の方向や場所から来る音の感覚を与える方法で音を再生することを意味します。"
+    },
+    {
+        "word": "Multi-User Ar",
+        "description": "Multi-user AR は、複数のユーザーが同時に AR コンテンツを体験し、相互作用することを含み、しばしば共有の仮想空間または物理空間で使用します。"
+    },
+    {
+        "word": "Real-World Interaction",
+        "description": "ARにおける現実世界の相互作用は、ユーザーが仮想オブジェクトやコンテンツと物理的に相互作用する能力を含み、しばしば手順、タッチ、またはその他の入力メソッドを使用します。"
+    },
+    {
+        "word": "Ambient Light Estimation",
+        "description": "ARにおける環境光の推定は、現実世界の照明条件を測定し、推定し、仮想オブジェクトをより現実的に表示することを可能にします。"
+    },
+    {
+        "word": "Geolocation Ar",
+        "description": "Geolocation ARは、特定の地理的位置に特有の仮想コンテンツまたは情報で現実世界の環境を拡大することを意味します。"
+    },
+    {
+        "word": "3D Model",
+        "description": "3Dモデルは、物理的なオブジェクトまたはシーンのデジタル表示であり、しばしばARで仮想オブジェクトまたは環境を作成するために使用されます。"
+    },
+    {
+        "word": "Virtual Content",
+        "description": "ARの仮想コンテンツは、画像、ビデオ、3Dモデル、または現実世界の環境に覆われた情報などのデジタル要素を指します。"
+    },
+    {
+        "word": "Real-Time Mapping",
+        "description": "ARのリアルタイムマッピングは、地図のダイナミックな作成と更新、または現実世界の環境の表現を含み、仮想オブジェクトが環境と相互作用することを可能にします。"
+    },
+    {
+        "word": "Gesture-Based Interaction",
+        "description": "ARにおけるジェスチャーベースの相互作用は、手や体の動きを使用して、仮想オブジェクトやコンテンツとコントロールし、相互作用することを意味します。"
+    },
+    {
+        "word": "Virtual Shopping",
+        "description": "AR での仮想ショッピングは、シミュレートまたは拡張ショッピング環境で仮想製品やアイテムとブラウジングし、相互作用する能力を意味します。"
+    },
+    {
+        "word": "Manufacturing",
+        "description": "ARの文脈では、製造は、組み立て、メンテナンス、または品質管理などの製造プロセスにおけるAR技術の応用を指します。"
+    },
+    {
+        "word": "Training And Simulation",
+        "description": "ARでのトレーニングとシミュレーションは、リアルでインタラクティブなトレーニング体験を提供するためのAR技術の使用を含み、しばしば現実世界のシナリオやタスクをシミュレートします。"
+    },
+    {
+        "word": "Education",
+        "description": "ARの分野では、教育は、インタラクティブで浸透した教育コンテンツを提供することによって、教育や学習体験を強化するためのAR技術の使用を指します。"
+    },
+    {
+        "word": "Entertainment",
+        "description": "ARエンターテイメントは、ゲーム、映画、または他の形式のデジタルエンターテイメントのためのインタラクティブで魅力的な体験を作成するためのARテクノロジーの使用を含みます。"
+    },
+    {
+        "word": "Advertising",
+        "description": "ARでは、広告はARテクノロジーを使用してインタラクティブで浸透的な広告キャンペーンを作成し、ユーザーが仮想の文脈で製品やサービスを体験できるようにします。"
+    },
+    {
+        "word": "Navigation",
+        "description": "ARでは、ナビゲーションは、リアルタイムの指針、情報、またはガイドラインを提供するためのAR技術の使用を指し、しばしばデジタルコンテンツを現実世界の視点に覆う。"
+    },
+    {
+        "word": "Healthcare",
+        "description": "ARの文脈では、ヘルスケアは、医療診断、手術、リハビリテーション、または患者ケアにおけるARテクノロジーの応用を指し、医療の実践と結果を向上させます。"
+    }
+]

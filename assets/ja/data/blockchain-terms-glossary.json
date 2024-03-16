@@ -1,0 +1,438 @@
+[
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録する分散型、分散型の帳簿技術です。"
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "暗号通貨は、セキュリティのために暗号化を使用するデジタルまたは仮想通貨の形態です。"
+    },
+    {
+        "word": "Smart Contract",
+        "description": "スマートコントラクトは、ブロックチェーンに保存されたコードに直接書かれた契約の条項を持つ自己執行契約です。"
+    },
+    {
+        "word": "Decentralization",
+        "description": "分散化とは、中央機関または組織から支配または権限の分配を指します。"
+    },
+    {
+        "word": "Node",
+        "description": "ノードは、ブロックチェーンのコピーを保持し、合意のルールに従うブロックチェーンネットワークの参加者です。"
+    },
+    {
+        "word": "Consensus",
+        "description": "コンセンサスとは、ブロックチェーンネットワークの参加者間で、取引の有効性と、それらが帳簿に追加される順序に関する合意です。"
+    },
+    {
+        "word": "Mining",
+        "description": "マイニングは、トランザクションを検証し、コンピュータのパズルの解決を通じてブロックチェーンにそれらを追加するプロセスであり、しばしば作業の証拠コンセンサスアルゴリズムと関連しています。"
+    },
+    {
+        "word": "Immutable",
+        "description": "Immutableとは、ブロックチェーンに何かが記録されると、それを変えたり変えたりすることはできないことを意味します。"
+    },
+    {
+        "word": "Token",
+        "description": "トークンは、混合可能または非混合可能なデジタル資産であり、しばしばブロックチェーンシステム内の所有権、アクセス権、またはユーティリティを表すために使用されます。"
+    },
+    {
+        "word": "Fork",
+        "description": "ブロックチェーンでは、プロトコルに差異が発生し、ブロックチェーンの2つ以上の異なるバージョンが発生する場合にフォークが発生します。"
+    },
+    {
+        "word": "Hash Function",
+        "description": "ハッシュ関数は、入力を取って固定サイズの文字列を生成する数学的なアルゴリズムであり、これは通常、ブロックチェーンにおけるデータ整合性の検証に使用されます。"
+    },
+    {
+        "word": "Wallet",
+        "description": "財布は、暗号通貨などのデジタル資産を保存、管理、および相互作用するために使用されるソフトウェアアプリケーションまたは物理デバイスです。"
+    },
+    {
+        "word": "Address",
+        "description": "アドレスは、ブロックチェーン上で暗号通貨を受信または送信するために使用されるユニークな識別子です。"
+    },
+    {
+        "word": "Proof Of Work",
+        "description": "Proof of Workは、トランザクションを検証するために、参加者が計算パズルを解決することを要求するコンセンサスアルゴリズムです。"
+    },
+    {
+        "word": "Proof Of Stake",
+        "description": "Proof of Stakeは、彼らが保有する仮想通貨の量に基づいて検証者を選択するコンセンサスアルゴリズムです。"
+    },
+    {
+        "word": "Dapp",
+        "description": "Decentralized Application は、ブロックチェーンプラットフォームに構築されたアプリケーションを指します。"
+    },
+    {
+        "word": "Private Key",
+        "description": "プライベートキーは、デジタル資産の所有権と制御へのアクセスを可能にする、ランダムに生成された文字列です。"
+    },
+    {
+        "word": "Public Key",
+        "description": "公開鍵はプライベートキーから引き出され、ブロックチェーン上のトランザクションの受信と検証に使用されます。"
+    },
+    {
+        "word": "Consensus Algorithm",
+        "description": "ブロックチェーンネットワークで合意がどのように達成されるかを決定するルールまたはプロトコルのセットです。"
+    },
+    {
+        "word": "Transaction",
+        "description": "ブロックチェーンに保存されている情報の状態を変更するアクションまたはイベントです。"
+    },
+    {
+        "word": "Block Height",
+        "description": "ブロックの高さは、生成ブロックからブロックに追加されたブロックの数を指します。"
+    },
+    {
+        "word": "Genesis Block",
+        "description": "ブロックチェーンの最初のブロックは、しばしば特殊な属性でハードコードされています。"
+    },
+    {
+        "word": "Timestamp",
+        "description": "ブロックチェーン上で取引またはイベントが発生する日付と時間を記録するユニークな識別子です。"
+    },
+    {
+        "word": "Gas",
+        "description": "ガスは、Ethereumブロックチェーン上の操作または契約を実行するために必要な計算努力を測定するために使用される単位です。"
+    },
+    {
+        "word": "Oracle",
+        "description": "オラクルは、ブロックチェーンネットワーク上のスマート契約に情報を提供できる信頼できる外部データ源です。"
+    },
+    {
+        "word": "Permissionless",
+        "description": "Permissionless は、誰もが許可や承認を必要とせずにネットワークに参加できるブロックチェーンシステムを指します。"
+    },
+    {
+        "word": "Permissioned",
+        "description": "Permissioned は、参加者がネットワーク内でアクセスし、運用するために特定の許可や資格を持っていることを要求するブロックチェーンシステムを指します。"
+    },
+    {
+        "word": "Interoperability",
+        "description": "相互運用性とは、異なるブロックチェーンネットワークやシステムが相互に通信し、相互作用する能力を指します。"
+    },
+    {
+        "word": "Cold Storage",
+        "description": "ハッキングのリスクを軽減するために、セキュアでオフラインストレージデバイスで仮想通貨をオフラインに保つ実践。"
+    },
+    {
+        "word": "Hot Wallet",
+        "description": "インターネットに接続され、頻繁な取引に使用されるソフトウェアベースの暗号通貨ウォレット。"
+    },
+    {
+        "word": "Multi-Signature",
+        "description": "複数の署名を必要とするデジタル署名システムで、ブロックチェーン上の取引を承認する。"
+    },
+    {
+        "word": "Double Spending",
+        "description": "二重支出は、同じ量の暗号通貨が2回使われるデジタル通貨における潜在的な問題です。"
+    },
+    {
+        "word": "Private Blockchain",
+        "description": "プライベートブロックチェーンは、特定の参加者グループに限定され、アクセスおよび参加の許可を必要とするブロックチェーンです。"
+    },
+    {
+        "word": "Public Blockchain",
+        "description": "公共ブロックチェーンは、誰にでも開かれ、誰でもネットワークに参加し、取引を閲覧し、検証することができます。"
+    },
+    {
+        "word": "Sidechain",
+        "description": "サイドチェーンは、主ブロックチェーンと相互運用可能な別々のブロックチェーンで、両連鎖間の資産転送を可能にします。"
+    },
+    {
+        "word": "Scalability",
+        "description": "スケーラビリティは、ブロックチェーンシステムが、パフォーマンスに影響を及ぼさずに、トランザクションの量とユーザーの需要の増加に対処する能力を指します。"
+    },
+    {
+        "word": "Fungibility",
+        "description": "機能性とは、特定の資産または通貨の個々の単位の相互交換性を指します。"
+    },
+    {
+        "word": "Blockchain Explorer",
+        "description": "ブロックチェーン・エクスプレーヤーは、ユーザーがブロックチェーンネットワーク上の活動を表示および分析できるツールです。"
+    },
+    {
+        "word": "Gas Limit",
+        "description": "ブロック内で、ブロックチェーン上で取引を実行するために使用できる最大量のガス。"
+    },
+    {
+        "word": "Hyperledger",
+        "description": "業界間ブロックチェーン技術の開発に焦点を当てたオープンソースのコラボレーションプロジェクト。"
+    },
+    {
+        "word": "Smart Property",
+        "description": "スマートプロパティとは、ブロックチェーン上のスマート契約を通じて制御される物理的またはデジタル資産を指します。"
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenizationは、ブロックチェーン上で現実世界の資産をデジタルトークンに変換するプロセスです。"
+    },
+    {
+        "word": "Merkle Tree",
+        "description": "Merkle Treeは、大量のデータの完全性を効率的に検証するためにブロックチェーン技術で使用されるデータ構造です。"
+    },
+    {
+        "word": "Initial Coin Offering",
+        "description": "新しい暗号通貨またはトークンが、プロジェクトまたは起業を資金調達するために投資家に販売される資金調達方法です。"
+    },
+    {
+        "word": "Stablecoin",
+        "description": "Stablecoinは、安定した価値を維持するように設計された暗号通貨の一種であり、しばしば米ドルのような法定通貨に結びついている。"
+    },
+    {
+        "word": "Sharding",
+        "description": "Shardingは、スケーラビリティを向上させるために、ブロックチェーンのデータを小さい部分に分割するための技術です。"
+    },
+    {
+        "word": "Atomic Swap",
+        "description": "原子交換は、異なるブロックチェーンネットワークを介して、中間者や集中的な交換が必要なことなく、直接のピアツーピアの仮想通貨交換です。"
+    },
+    {
+        "word": "Decentralized Autonomous Organization",
+        "description": "スマートコントラクトによって支配され、中央権限のないブロックチェーンで実行されています。"
+    },
+    {
+        "word": "Zero-Knowledge Proof",
+        "description": "ゼロ知識の証明は、一方の当事者が他の当事者に、追加の情報を明らかにすることなく、声明の有効性を証明することを可能にする暗号化方法です。"
+    },
+    {
+        "word": "Distributed Ledger Technology",
+        "description": "ブロックチェーンに基づく技術は、複数のエンティティのデータの記録、共有、および同期を可能にします。"
+    },
+    {
+        "word": "Token Economy",
+        "description": "エコシステムと経済システムは、デジタルトークンの使用と交換を中心に構築されています。"
+    },
+    {
+        "word": "Cross-Chain",
+        "description": "クロスチェーンとは、2つ以上の異なるブロックチェーンネットワーク間で資産やデータを転送する能力を指します。"
+    },
+    {
+        "word": "Transaction Fee",
+        "description": "マイナーや検証者に支払われた手数料は、ブロックチェーンネットワーク上のトランザクションを処理し優先するためです。"
+    },
+    {
+        "word": "Bitcoin",
+        "description": "ビットコインは、最初で最も有名な暗号通貨であり、サトシ・ナカモトという名前の匿名の個人またはグループによって作成されました。"
+    },
+    {
+        "word": "Ethereum",
+        "description": "Ethereumは、スマート契約と分散型アプリケーション(dApps)の開発を可能にする分散型、オープンソースのブロックチェーンプラットフォームです。"
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "Distributed ledger は、ネットワーク内の複数のノードで共有、複製、および同期されるデータベースの種類です。"
+    },
+    {
+        "word": "Hash Rate",
+        "description": "ハッシュレートは、仮想通貨の採掘とブロックチェーンネットワークのセキュリティに使用される計算能力を指します。"
+    },
+    {
+        "word": "Block",
+        "description": "ブロックは、ブロックチェーンに保存され、取引のリストを含むデータのコレクションです。"
+    },
+    {
+        "word": "Fungible",
+        "description": "Fungibleとは、資産または通貨の個々の単位が同一であり、1対1で交換できることを意味します。"
+    },
+    {
+        "word": "Non-Fungible",
+        "description": "ユニークで、別の同一の資産またはトークンに置き換えられない資産またはトークン。"
+    },
+    {
+        "word": "Oracles",
+        "description": "Oraclesは、ブロックチェーン上でスマート契約に使用される外部データを提供する第三者サービスです。"
+    },
+    {
+        "word": "51% Attack",
+        "description": "ネットワーク内のコンピューティングパワーの半分以上が単一のエンティティによって制御され、トランザクションを制御し、ブロックチェーンを破壊する可能性がある可能性のある攻撃です。"
+    },
+    {
+        "word": "Permissioned Blockchain",
+        "description": "参加者がネットワークにアクセスし、参加する許可を必要とするブロックチェーンネットワーク。"
+    },
+    {
+        "word": "Permissionless Blockchain",
+        "description": "ブロックチェーンネットワークは、誰もが許可を必要とせずにネットワークに参加することを可能にします。"
+    },
+    {
+        "word": "Cryptographic Hash",
+        "description": "ハッシュ関数によって生成された固定サイズの文字列で、データの完全性とセキュリティを確認するために使用されます。"
+    },
+    {
+        "word": "Hybrid Blockchain",
+        "description": "公的および民間のブロックチェーンの組み合わせで、特定の使用例に基づいて透明性とプライバシーを提供します。"
+    },
+    {
+        "word": "Hard Fork",
+        "description": "ハードフォークは、バックアップ互換性がない主要なプロトコルのアップグレードまたは変更で、ブロックチェーンの以前のバージョンとの永久的な差異を引き起こします。"
+    },
+    {
+        "word": "Soft Fork",
+        "description": "ソフトフォークは、以前有効だったブロックやトランザクションがブロックチェーンの新しいバージョンで有効なままの、後方互換性のあるプロトコルのアップグレードまたは変更です。"
+    },
+    {
+        "word": "Supply Chain Management",
+        "description": "商品、製品、または材料の管理とモニタリングは、サプライヤーから最終消費者に移動し、しばしばブロックチェーン技術を使用して透明性と追跡性を確保します。"
+    },
+    {
+        "word": "Initial Coin Offering (Ico)",
+        "description": "Initial Coin Offering (ICO) は、企業または個人が資金調達のためにトークンを発行し、売却する資金調達方法であり、ブロックチェーンスタートアップによってしばしば使用されます。"
+    },
+    {
+        "word": "Digital Identity",
+        "description": "デジタルアイデンティティとは、ブロックチェーンネットワーク上の相互作用のために検証され、使用できる個人、組織、またはエンティティのオンライン表示を指します。"
+    },
+    {
+        "word": "Block Explorer",
+        "description": "ユーザーが取引、アドレス、ブロック情報を含むブロックチェーンのコンテンツを検索し、探求することを可能にするツールまたはウェブサイト。"
+    },
+    {
+        "word": "Immutable Ledger",
+        "description": "データの完全性と透明性を確保するために、変更、改変、または削除することができないレギュラーまたはレコード。"
+    },
+    {
+        "word": "Consensus Mechanism",
+        "description": "ブロックチェーンネットワークで使用されるプロセスまたはアルゴリズムは、トランザクションの有効性と、それらがブロックチェーンに追加される順序に関する参加者間の合意に達するために使用されます。"
+    },
+    {
+        "word": "Defi",
+        "description": "Decentralized Financeは、ブロックチェーン技術と暗号通貨を使用して、分散型の方法で伝統的な金融システムとサービスを再構築することを指します。"
+    },
+    {
+        "word": "Gas Fees",
+        "description": "トランザクションの実行、スマート契約の実行、またはブロックチェーンネットワーク上のリソースを使用するためにユーザーが支払う手数料。"
+    },
+    {
+        "word": "Off-Chain",
+        "description": "オフチェーンとは、ブロックチェーンネットワークの外に発生する、または保存されているアクション、取引、またはデータを指します。"
+    },
+    {
+        "word": "On-Chain",
+        "description": "オンチェーンとは、ブロックチェーンネットワーク上に直接発生し、または保存されているアクション、取引、またはデータを指します。"
+    },
+    {
+        "word": "Tokenomics",
+        "description": "ブロックチェーンプロジェクトまたは暗号通貨の経済的および財務的側面、トークンの配布、作成、価値を含む。"
+    },
+    {
+        "word": "Governance",
+        "description": "ガバナンスは、ブロックチェーンネットワークまたは組織内で意思決定が行われ、実施されるプロセスと構造を指します。"
+    },
+    {
+        "word": "Cross-Border Payments",
+        "description": "資金や価値の異なる国や管轄区域間の移転は、効率性とコスト削減のためにブロックチェーン技術によってしばしば促進される。"
+    },
+    {
+        "word": "Orphan Block",
+        "description": "主要なブロックチェーンに含まれていないが、あまりにも遅く採掘されたか、または他の長いチェーンと衝突したため有効なブロックです。"
+    },
+    {
+        "word": "Hash",
+        "description": "ハッシュは、データをユニークに識別するための暗号化アルゴリズムによって生成される固定サイズの文字列です。"
+    },
+    {
+        "word": "Cryptographic Puzzle",
+        "description": "暗号化パズルは、ブロックチェーンネットワークを保護するために使用される計算上の問題です。"
+    },
+    {
+        "word": "Cryptography",
+        "description": "暗号化は、情報を読めないフォーマットに変換することによってコミュニケーションを確保する実践です。"
+    },
+    {
+        "word": "Decentralized Application (Dapp)",
+        "description": "分散型アプリケーションは、ブロックチェーンなどの分散型ネットワーク上で実行されるアプリケーションです。"
+    },
+    {
+        "word": "Privacy",
+        "description": "プライバシーとは、機密情報の保護と、その開示を制御する能力です。"
+    },
+    {
+        "word": "Token Swap",
+        "description": "トークン交換は、しばしば異なるブロックチェーンネットワーク上で、別のタイプのトークンを交換するプロセスです。"
+    },
+    {
+        "word": "Blockchain-As-A-Service (Baas)",
+        "description": "Blockchain-as-a-Service(BaaS)は、企業や個人がクラウドベースのサービスを使用して独自のブロックチェーンネットワークを作成、ホスト、および運営することを可能にします。"
+    },
+    {
+        "word": "Timestamping",
+        "description": "Timestampingは、ブロックチェーン上で特定のイベントまたは取引の日付と時間を安全に記録するプロセスです。"
+    },
+    {
+        "word": "Multisig",
+        "description": "Multisig、またはマルチサインは、ブロックチェーン上の取引を承認するために複数の署名を必要とすることを指します。"
+    },
+    {
+        "word": "Off-Chain Scaling",
+        "description": "オフチェーンのスケーリングは、主要なブロックチェーンネットワークに直接負荷を加えることなくトランザクションの通過量を増やすことを可能にするソリューションを指します。"
+    },
+    {
+        "word": "On-Chain Scaling",
+        "description": "On-chain scaling は、主要なブロックチェーンネットワークのトランザクション能力を直接増やすソリューションを指します。"
+    },
+    {
+        "word": "Tokenomic",
+        "description": "トークノミクスは、トークン主導の生態系の基本的な経済的および奨励設計原則の研究です。"
+    },
+    {
+        "word": "Proof-Of-Stake (Pos)",
+        "description": "Proof-of-Stake(PoS)は、新しいブロックの作成者が、ネットワークにおける所有権の割合に基づいて、決定的な方法で選択されるコンセンサスアルゴリズムです。"
+    },
+    {
+        "word": "Byzantine Fault Tolerance",
+        "description": "Byzantine Fault Tolerance(BFT)とは、分散システムが故障あるいは悪意のあるノードの存在にもかかわらず合意に達する能力です。"
+    },
+    {
+        "word": "Smart Grid",
+        "description": "スマートグリッドは、より効率的で安全なエネルギー取引を可能にするブロックチェーン技術を統合する電気グリッドです。"
+    },
+    {
+        "word": "Proof-Of-Work (Pow)",
+        "description": "Proof-of-Work(PoW)は、参加者が新しいブロックを作成し、ネットワークを保護するためにコンピュータ密集したパズルを解決しなければならない合意アルゴリズムです。"
+    },
+    {
+        "word": "Non-Fungible Token (Nft)",
+        "description": "Non-Fungible Token (NFT) は、ユニークで不可分なものを表し、同様の基盤で交換することはできません。"
+    },
+    {
+        "word": "Zero Confirmation Transaction",
+        "description": "ゼロ確認トランザクションは、ネットワークに放送されたが、まだブロックに含まれていないトランザクションです。"
+    },
+    {
+        "word": "Merklized Abstract Syntax Tree (Mast)",
+        "description": "Merklized Abstract Syntax Tree(MAST)は、ブロックチェーン上で複雑なスマート契約の保存と検証を最適化するための技術です。"
+    },
+    {
+        "word": "Poison Pill Attack",
+        "description": "毒薬攻撃は、攻撃者が故意に悪意のあるコードやデータをブロックチェーンに追加し、その完全性やパフォーマンスを損なうサイバー攻撃の種類です。"
+    },
+    {
+        "word": "Centralized Exchange",
+        "description": "集中交換は、暗号通貨またはデジタル資産の購入、販売、取引を容易にするプラットフォームまたは組織です。"
+    },
+    {
+        "word": "Decentralized Exchange (Dex)",
+        "description": "分散型取引所(DEX)は、中央当局や第三者の仲介者を必要とせずに、ピアツーピアの暗号通貨取引を可能にするプラットフォームです。"
+    },
+    {
+        "word": "Multi-Signature (Multi-Sig)",
+        "description": "複数の署名(multi-sig)は、トランザクションが実行される前に複数の当事者がサインアウトすることを必要とする機能で、セキュリティの追加層を追加します。"
+    },
+    {
+        "word": "Zero-Knowledge Succinct Non-Interactive Argument Of Knowledge (Zk-Snark)",
+        "description": "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge(zk-SNARK)は、潜在的なデータを明らかにせずに情報の検証を可能にする暗号化方法です。"
+    },
+    {
+        "word": "Privacy Coin",
+        "description": "プライバシーコインは、ユーザーのアイデンティティとトランザクションを保護するために強化されたプライバシーと匿名性の機能を強調し、提供する暗号通貨です。"
+    },
+    {
+        "word": "Central Bank Digital Currency (Cbdc)",
+        "description": "中央銀行デジタル通貨(CBDC)とは、国の中央銀行が発行し、規制するデジタル通貨の形式です。"
+    },
+    {
+        "word": "Cross-Chain Atomic Swap",
+        "description": "クロスチェーン原子交換は、ブロックチェーンネットワーク間の暗号通貨の直接交換を可能にする信頼できないメカニズムであり、中間者や集中的な交換の必要はありません。"
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "word": "Genomics",
+        "description": "ゲノミクスは、生きた生物におけるゲノムの構造、機能、およびマッピングの研究です。"
+    },
+    {
+        "word": "Dna",
+        "description": "デオキシリボヌクレ酸(DNA)は、あらゆる既知の生物と多くのウイルスの発達、機能、成長、繁殖のための遺伝的指示を運ぶ分子です。"
+    },
+    {
+        "word": "Gene",
+        "description": "遺伝子は、DNAまたはRNAの序列であり、生物体内で機能を有する分子を構築するための指示をコードする。"
+    },
+    {
+        "word": "Sequence",
+        "description": "A sequence refers to the order of nucleotides (A, T, C, G) in a DNA or RNA molecule. A sequence refers to the order of nucleotides (A, T, C, G) in a DNA or RNA molecule. A sequence refers to the order of nucleotides (A, T, C, G) in a DNA or RNA molecule."
+    },
+    {
+        "word": "Nucleotide",
+        "description": "ヌクレオチドはDNAまたはRNAのビルドブロックで、砂糖分子、フォスファイトグループ、窒素ベースから構成されています。"
+    },
+    {
+        "word": "Genome",
+        "description": "遺伝子は、生物体内に存在する遺伝子の完全なセットです。"
+    },
+    {
+        "word": "Mutation",
+        "description": "突然変異は、遺伝子または染色体のDNA序列の永続的な変化です。"
+    },
+    {
+        "word": "Genotype",
+        "description": "遺伝子型とは、遺伝子構造または遺伝子のセットを指します。"
+    },
+    {
+        "word": "Phenotype",
+        "description": "フェノタイプとは、遺伝子型の環境との相互作用から生じる有機体の観察可能な特性または特性である。"
+    },
+    {
+        "word": "Genetic Variation",
+        "description": "遺伝的変異とは、一種の人口内の遺伝的材料の多様性を指し、変異、遺伝的再結合、その他のプロセスの結果である。"
+    },
+    {
+        "word": "Gene Expression",
+        "description": "遺伝子発現は、遺伝子からの情報がタンパク質のような機能的な遺伝子製品を作成するために使用されるプロセスです。"
+    },
+    {
+        "word": "Transcription",
+        "description": "トランスクリプションは、DNAを補完的なRNAシグナルにコピーするプロセスです。"
+    },
+    {
+        "word": "Translation",
+        "description": "翻訳は、RNA分子からタンパク質を合成するプロセスです。"
+    },
+    {
+        "word": "Protein",
+        "description": "タンパク質は、生物の中でさまざまな機能を果たすアミノ酸から構成される大きな複雑な分子です。"
+    },
+    {
+        "word": "Epigenetics",
+        "description": "エピジェネティクスは、根底にあるDNA序列の変化を伴わない遺伝子表現または細胞現象型の変化の研究です。"
+    },
+    {
+        "word": "Genomic Medicine",
+        "description": "ゲノム医学は、個人の遺伝情報を使用して医学的意思決定を導くことを含む新興の医学分野です。"
+    },
+    {
+        "word": "Genetic Testing",
+        "description": "遺伝子検査は、DNA、RNA、染色体、タンパク質、または代謝物の分析で、遺伝的状態に関連する可能性のある変化や変異を検出する。"
+    },
+    {
+        "word": "Dna Sequencing",
+        "description": "DNA Sequencing は、DNA分子内の核酸素の正確な順序を決定するプロセスです。"
+    },
+    {
+        "word": "Whole Genome Sequencing",
+        "description": "全ゲノム順序は、生物体の全ゲノムの完全な順序です。"
+    },
+    {
+        "word": "Variant Calling",
+        "description": "変数呼び出しは、参照ゲノムからの遺伝的変数または違いを識別するプロセスです。"
+    },
+    {
+        "word": "Pharmacogenomics",
+        "description": "薬理学は、個人の遺伝子構造が薬物への反応にどのように影響するかを研究するものです。"
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "遺伝子工学は、生物の遺伝子の直接的な操作で、その特徴を変更するためのバイオテクノロジー技術を使用します。"
+    },
+    {
+        "word": "Crispr-Cas9",
+        "description": "CRISPR-Cas9は、科学者が高精度と精度で遺伝子を編集できる遺伝子編集技術です。"
+    },
+    {
+        "word": "Bioinformatics",
+        "description": "生物情報学は、生物学、コンピュータサイエンス、情報技術を組み合わせて、生物データを理解し分析する科学の分野です。"
+    },
+    {
+        "word": "Genome Assembly",
+        "description": "ゲノムアセンブリは、分断型DNAのセクションから生物のゲノムの完全なDNAシーケンスを再構築するプロセスです。"
+    },
+    {
+        "word": "Gene Ontology",
+        "description": "遺伝子オントロジーは、関連する生物学的プロセス、分子機能、および細胞部品の点で遺伝子製品を記述する標準化されたシステムである。"
+    },
+    {
+        "word": "Comparative Genomics",
+        "description": "比較ゲノミクスは、異なる種間のゲノム構造と遺伝子コンテンツの類似性と違いの研究です。"
+    },
+    {
+        "word": "Phylogenetics",
+        "description": "フィロゲネティクスは、遺伝物質の類似性と違いに基づく生物間の進化関係の研究です。"
+    },
+    {
+        "word": "Metagenomics",
+        "description": "メタジェノミクスは、個々の生物の隔離や栽培を必要とせずに、環境サンプルから直接回収された遺伝材料の研究です。"
+    },
+    {
+        "word": "Genomic Selection",
+        "description": "ゲノム選択は、遺伝的マーカーが選択のための個人のパフォーマンスまたは特徴を予測するために使用される繁殖戦略です。"
+    },
+    {
+        "word": "Single Nucleotide Polymorphism (Snp)",
+        "description": "Single nucleotide polymorphism (SNP) は、DNA序列の単一位置の変異であり、人口の少なくとも1%で発生する。"
+    },
+    {
+        "word": "Copy Number Variation (Cnv)",
+        "description": "コピー番号変数(CNV)とは、個体間でDNAセグメントまたは遺伝子の変数の存在を指します。"
+    },
+    {
+        "word": "Genome-Wide Association Study (Gwas)",
+        "description": "ゲノム全体の関連研究(GWAS)は、ゲノム全体の遺伝子変異と特定の特徴や病気との関係を評価する観察研究です。"
+    },
+    {
+        "word": "Polygenic Risk Score (Prs)",
+        "description": "多原性リスクスコア(PRS)は、複数の遺伝的変異の組み合わせに基づいて、特定の特性または病気に対する個人の遺伝的リスクの数値概要です。"
+    },
+    {
+        "word": "Transcriptomics",
+        "description": "トランスクリプトミクスは、細胞内のすべてのRNA分子の研究であり、その構成、豊富さ、機能を含む。"
+    },
+    {
+        "word": "Epigenome",
+        "description": "エピゲノムは、遺伝子発現と細胞のアイデンティティを決定するのに役立つDNA分子の化学的修正のセットです。"
+    },
+    {
+        "word": "Proteomics",
+        "description": "タンパク質学は、その構造、機能、相互作用を含むタンパク質の大規模な研究です。"
+    },
+    {
+        "word": "Metabolomics",
+        "description": "代謝学は、細胞、組織、または生物学的液体に存在する小さな分子、代謝物と呼ばれる分子の研究です。"
+    },
+    {
+        "word": "Dna Methylation",
+        "description": "DNAメチル化は、DNA分子にメチルグループを追加することを含む生化学的プロセスであり、遺伝子発現に影響を与え、細胞プロセスを規制することができます。"
+    },
+    {
+        "word": "Chromatin",
+        "description": "クロマチンは、細胞の核内の染色体を構成するDNA、タンパク質、およびRNAの複合体です。"
+    },
+    {
+        "word": "Functional Genomics",
+        "description": "機能ゲノミクスは、個々の遺伝子の機能が細胞や生物の構造と行動にどのように貢献するかを研究するものです。"
+    },
+    {
+        "word": "Gene Regulation",
+        "description": "遺伝子規制は、環境刺激や発達信号に応じて遺伝子をオンまたはオフにするプロセスです。"
+    },
+    {
+        "word": "Metabolic Pathway",
+        "description": "代謝経路は、細胞内で起こる化学反応の連続で、特定の分子の生産または分解につながる。"
+    },
+    {
+        "word": "Gene Therapy",
+        "description": "遺伝子療法は、人の細胞内に遺伝子を導入または変更することによって病気を治療または予防するために遺伝子を使用する実験的な技術です。"
+    },
+    {
+        "word": "Phylogenetic Tree",
+        "description": "フィロゲネティックツリーは、遺伝的類似性と違いに基づいて異なる生物の間の進化関係を示す分岐図です。"
+    },
+    {
+        "word": "Gene Expression Profiling",
+        "description": "遺伝子表現プロファイリングは、数千の遺伝子の活動を同時に測定し、細胞機能のグローバルなイメージを作成します。"
+    },
+    {
+        "word": "Protein-Protein Interaction",
+        "description": "タンパク質とタンパク質の相互作用は、2つ以上のタンパク質の物理的相互作用を指し、しばしば様々な細胞プロセスにとって重要である。"
+    },
+    {
+        "word": "Protein Structure Prediction",
+        "description": "タンパク質構造予測は、そのアミノ酸順序に基づくタンパク質の3次元構造の計算モデリングです。"
+    },
+    {
+        "word": "Gene Knockout",
+        "description": "遺伝子ノックアウトは、遺伝子の正常な機能を妨げるために使用される遺伝子テクニックです。"
+    },
+    {
+        "word": "Gene Expression Quantification",
+        "description": "遺伝子表現の定量化は、特定の遺伝子から生成されるRNAまたはタンパク質の量の測定です。"
+    },
+    {
+        "word": "Gene Silencing",
+        "description": "遺伝子沈黙は、しばしばDNAまたはRNA分子の化学的修正を通じて、遺伝子の表現をオフにするプロセスです。"
+    },
+    {
+        "word": "Genetic Counseling",
+        "description": "遺伝カウンセリングは、個人や家族が健康や病気への遺伝的貢献の医学的、心理的、家族的影響を理解し、適応するのを助けるプロセスです。"
+    },
+    {
+        "word": "Precision Medicine",
+        "description": "精密医学は、病気の予防、診断、治療のための遺伝子、環境、ライフスタイルの個々の変異性を考慮する医療のアプローチです。"
+    },
+    {
+        "word": "Genetic Algorithm",
+        "description": "遺伝アルゴリズムは、自然選択のプロセスにインスピレーションを与えた検索ヘウリズムであり、しばしば最適化や機械学習に使用されます。"
+    },
+    {
+        "word": "Coding Sequence",
+        "description": "コード シーケンスは、タンパク質を構築するための指示を含む遺伝子またはDNAシーケンスの部分です。"
+    },
+    {
+        "word": "Microarray",
+        "description": "マイクロアレイは、何千もの遺伝子の表現レベルを同時に検出し、測定するための実験室のツールです。"
+    },
+    {
+        "word": "Proteome",
+        "description": "タンパク質は、ゲノム、細胞、組織、または有機体によって表現されるタンパク質の全体のセットを指します。"
+    },
+    {
+        "word": "Population Genetics",
+        "description": "人口遺伝学は、人口の内部と間の遺伝的変異とその分布と時間の経過に変化する要因の研究です。"
+    },
+    {
+        "word": "Gene Expression Regulation",
+        "description": "遺伝子発現規制とは、遺伝子の活動をコントロールして、正しい細胞で、正しい時間に、正しい量で遺伝子を表現することを保証することを指します。"
+    },
+    {
+        "word": "Gene Family",
+        "description": "遺伝子ファミリーは、共通の祖先の起源を共有し、通常、類似の機能を持っている遺伝子のグループです。"
+    },
+    {
+        "word": "Genomic Instability",
+        "description": "ゲノム不安定性とは、遺伝子素材が変異または変化を起こし、ゲノム変異を引き起こす傾向を指します。"
+    },
+    {
+        "word": "Alternative Splicing",
+        "description": "Alternative splicing is a mechanism by which different combinations of exons in a pre-mRNA can be joined together during RNA processing, generating multiple mRNA transcripts from a single gene. 異なる組み合わせのエクソンがRNA処理中に結合され、単一の遺伝子から複数のmRNAトランスクリプトを生成することができる。"
+    },
+    {
+        "word": "Gene Expression Atlas",
+        "description": "A gene expression atlas is a collection of gene expression data across different tissues, developmental stages, or conditions, providing insights into gene function. 遺伝子表現アトラスは、異なる組織、発達段階、または条件をカバーした遺伝子表現データの収集であり、遺伝子機能への洞察を提供します。"
+    },
+    {
+        "word": "Phenome",
+        "description": "現象は、観察可能な現象特性(例えば、物理的特性、行動、生理学的特性)の集合を指します。"
+    },
+    {
+        "word": "Genomic Imprinting",
+        "description": "Genomic imprinting is an epigenetic phenomenon where certain genes are expressed in a parent-of-origin-specific way. ゲノム印刷は、特定の遺伝子が親の起源特有の方法で表現されるエピジェネティック現象です。"
+    },
+    {
+        "word": "Gene Flow",
+        "description": "遺伝子の流れは、移住と交代を通じて一つの人口から他の人口への遺伝子の移転です。"
+    },
+    {
+        "word": "Rna",
+        "description": "リボノクレー酸(RNA)は、遺伝子発現、タンパク質合成、規制を含むさまざまな生物学的プロセスに関与する分子です。"
+    },
+    {
+        "word": "Mitochondrial Dna (Mtdna)",
+        "description": "ミトコンドリアDNA(mtDNA)は、細胞内でエネルギーを生成する責任を持つミトコンドリアに存在する小さな円形ゲノムです。"
+    },
+    {
+        "word": "Long Noncoding Rna (Lncrna)",
+        "description": "長い非コードRNA(lncRNA)とは、タンパク質をコードしないが、遺伝子表現におけるさまざまな規制機能を有する200個を超えるNucleotideのRNA分子を指します。"
+    },
+    {
+        "word": "Exome Sequencing",
+        "description": "Exome Sequencing は、ゲノム内の遺伝子のエクソン(コード領域)を選択的にセクエンシングし、分析するための方法です。"
+    },
+    {
+        "word": "Metabolic Network",
+        "description": "A metabolic network is a collection of interconnected metabolic pathways that allows the flow and transformation of metabolites in an organism. 代謝ネットワークは、生物体内の代謝の流れと変換を可能にする相互接続された代謝経路の集合です。"
+    },
+    {
+        "word": "Sequencing",
+        "description": "Sequencing は、DNAまたはRNA分子内の核酸素の正確な順序を決定するプロセスです。"
+    },
+    {
+        "word": "Next-Generation Sequencing",
+        "description": "Next-Generation Sequencing(NGS)は、数百万個のDNAの断片を同時に分析することを可能にする、高流量DNAの断片方法です。"
+    },
+    {
+        "word": "Pcr",
+        "description": "ポリメラゼ連鎖反応(PCR)は、特定のDNAシーケンスを強化するための技術です。"
+    },
+    {
+        "word": "Annotation",
+        "description": "ゲノム注釈は、ゲノム内の遺伝子、規制要素、およびその他の機能要素を識別し、ラベル化するプロセスです。"
+    },
+    {
+        "word": "Variant",
+        "description": "A variant refers to a difference in DNA sequence when compared to a reference genome. 変異は、参考ゲノムと比べてDNAの順序の違いを指します。"
+    },
+    {
+        "word": "Snp",
+        "description": "Single Nucleotide Polymorphism (SNP) は、個体間で単一のヌクレオチドが異なる場合に起こるDNAの順序変異です。"
+    },
+    {
+        "word": "Crispr",
+        "description": "CRISPRテクノロジーは、研究者がDNAの順序や遺伝子機能を容易に変更できる革命的な遺伝子編集技術です。"
+    },
+    {
+        "word": "Dna Repair",
+        "description": "DNA修理は、細胞がそのDNA分子の損傷を識別し、修正するプロセスを指します。"
+    },
+    {
+        "word": "Genome-Wide Association Study",
+        "description": "ゲノム全体の関連研究(GWAS)は、特定の特性や病気に関連する特定の変異かどうかを決定するために、ゲノム全体の遺伝子変異を調べる研究です。"
+    },
+    {
+        "word": "Genetic Counselor",
+        "description": "遺伝子カウンセラーは、遺伝子の状態について個人や家族が理解し、意思決定を下すのを助ける医学遺伝学とカウンセリングの専門教育と訓練を持つ健康専門家です。"
+    },
+    {
+        "word": "Personalized Medicine",
+        "description": "パーソナライズされた医学は、予防、診断、治療戦略をカスタマイズするために、個人の遺伝情報、環境、ライフスタイルを使用する医療へのアプローチです。"
+    },
+    {
+        "word": "Genome Editing",
+        "description": "ゲノム編集は、CRISPR-Cas9のようなエンジニアリングされた核酸を用いて、有機体のDNA序列に特定の変更を行うプロセスです。"
+    },
+    {
+        "word": "Transposon",
+        "description": "ジャンプ遺伝子とも呼ばれるトランスポゾンは、ゲノム内の位置を変えることができるDNAのシーケンスです。"
+    },
+    {
+        "word": "Genetic Screening",
+        "description": "遺伝子スクリーニングは、症状が存在する前に特定の遺伝的状態または遺伝的障害への敏感性を探るためのテストの使用です。"
+    },
+    {
+        "word": "Polygenic Trait",
+        "description": "ポリゲン特性は、単一の遺伝子とは異なり、複数の遺伝子によって影響される特性です。"
+    },
+    {
+        "word": "Gene Duplication",
+        "description": "遺伝子の複製は、遺伝子内で遺伝子の複製を生成するプロセスです。"
+    },
+    {
+        "word": "Genetic Drift",
+        "description": "遺伝的流動は、ランダムサンプル採取による一種の遺伝子変異(アレル)の周波数の変化である。"
+    },
+    {
+        "word": "Hardy-Weinberg Equilibrium",
+        "description": "ハーディ・ワインバーグ均衡は、進化の変化を経験していない人口における期待される遺伝的変異を記述する原理です。"
+    },
+    {
+        "word": "Ortholog",
+        "description": "orthologist は、共通の祖先遺伝子から進化した異なる種に存在する遺伝子です。"
+    },
+    {
+        "word": "Paralog",
+        "description": "パラログとは、同じ生物体内の他の遺伝子と遺伝子の複製を通じて関連する遺伝子である。"
+    },
+    {
+        "word": "Isoform",
+        "description": "イソフォームとは、同じタンパク質のいくつかの異なる形態のいずれか、異なる遺伝子によってコードされるか、あるいは同じ遺伝子の代替合併によって生成される。"
+    },
+    {
+        "word": "Genome-Wide Association Mapping",
+        "description": "ゲノム全体の関連マッピングは、多数の個人からのデータを分析することで、特性や病気に関連する遺伝的変異を特定するための統計的方法です。"
+    },
+    {
+        "word": "Functional Annotation",
+        "description": "Functional annotation is the process of assigning biological functions to genes based on their sequence, structure, or similarity to known genes. 機能的な注釈は、遺伝子に生物学的機能を配分するプロセスであり、遺伝子の順序、構造、または既知の遺伝子との類似性に基づいています。"
+    },
+    {
+        "word": "Phylogenomics",
+        "description": "フィロゲノミクスは、異なる種間のゲノム全体の進化関係の研究であり、計算方法を使用してゲノムデータを分析する。"
+    },
+    {
+        "word": "Methylome",
+        "description": "メチロームは、細胞または生物体内のDNAメチル化パターンの完全なセットです。"
+    },
+    {
+        "word": "Copy Number Variation",
+        "description": "コピー番号変異(CNV)は、DNAのセグメントの削除または複製を伴う遺伝子の構造変異の一種です。"
+    },
+    {
+        "word": "Genome-Wide Selective Sweeps",
+        "description": "Genome-wide selective sweeps は、ポジティブな選択によって有益な遺伝子変異が頻度を急速に増加させたゲノム領域です。"
+    },
+    {
+        "word": "Haplotype",
+        "description": "ハプロタイプは、同じ染色体上で共に相続する遺伝子の変異、またはアレルの集合です。"
+    },
+    {
+        "word": "Long Non-Coding Rna",
+        "description": "長い非コードRNA(lncRNA)は、遺伝子から転写されるが、タンパク質を暗号化しないRNA分子の一種である。"
+    },
+    {
+        "word": "Phasing",
+        "description": "段階化は、個人のゲノム内の染色体沿いの遺伝子変異の順序を決定するプロセスです。"
+    }
+]

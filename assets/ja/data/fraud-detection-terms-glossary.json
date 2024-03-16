@@ -1,0 +1,562 @@
+[
+    {
+        "word": "Fraud",
+        "description": "詐欺とは、個人的または財政的な利益のために他者を意図的に欺く行為です。"
+    },
+    {
+        "word": "Detection",
+        "description": "検出は、不正行為、取引、または行動を特定するプロセスです。"
+    },
+    {
+        "word": "Risk",
+        "description": "リスクとは、不正行為によって生じる財政的損失または損害の可能性である。"
+    },
+    {
+        "word": "Anomaly",
+        "description": "異常とは、期待されるまたは正常な行動から逸脱または不規則性を指し、詐欺の存在を示す可能性があります。"
+    },
+    {
+        "word": "Data Analysis",
+        "description": "データ分析は、詐欺検出のための有用な情報、パターン、洞察を発見するために、データを検査、クリーニング、変換することです。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は人工知能(AI)のサブセットであり、機械が明示的にプログラミングされずにデータから学び、改善できるようにすることに焦点を当てています。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Predictive Modeling",
+        "description": "予測モデリングは、過去のデータに基づいて将来の結果を予測するための数学モデルを作成するプロセスです。"
+    },
+    {
+        "word": "Supervised Learning",
+        "description": "監督学習は、モデルが事前定義された結果を含むラベル化されたデータに訓練され、予測や分類を行うことを可能にする機械学習の種類です。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "無監督学習は、モデルがラベルのないデータから学び、事前に定義された結果なしにパターンや構造を識別する機械学習の一種です。"
+    },
+    {
+        "word": "Fraudulent Transaction",
+        "description": "詐欺的な取引とは、財政的損害を引き起こすことを目的とする意図的に欺瞞的または誤解的な取引または活動を指します。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、大規模なデータセットからパターンを発見するプロセスです。"
+    },
+    {
+        "word": "Behavioral Analytics",
+        "description": "Behavioral Analyticsは、ユーザーの行動のパターンや異常を分析し、検出し、潜在的な詐欺や悪意のある活動を特定するための技術です。"
+    },
+    {
+        "word": "Identity Theft",
+        "description": "アイデンティティ盗難は、個人の個人または財務情報をその同意なしに盗み、アカウントにアクセスしたり、許可されていない取引を行うなどの違法な目的で使用される詐欺の一種です。"
+    },
+    {
+        "word": "Digital Forensics",
+        "description": "デジタル法学は、電子的な証拠の収集、分析、保存のプロセスで、サイバー犯罪を調査し、詐欺を含む防止する。"
+    },
+    {
+        "word": "Fraud Prevention",
+        "description": "詐欺防止は、詐欺行為が発生する前に、積極的に特定、軽減、抑制するための戦略、技術、措置を含みます。"
+    },
+    {
+        "word": "Authentication",
+        "description": "認証は、ユーザーまたはエンティティのアイデンティティを確認するプロセスです。"
+    },
+    {
+        "word": "Transaction Monitoring",
+        "description": "トランザクションモニタリングは、金融機関が顧客の取引や活動を検証し、分析し、潜在的に疑わしいまたは詐欺的な行動を評価し、規制要件の遵守を確保するために使用するプロセスです。"
+    },
+    {
+        "word": "Biometrics",
+        "description": "バイオメトリックは、指紋、音声パターン、または認証または識別目的で使用される個人の独自の身体的または行動的特徴を指します。"
+    },
+    {
+        "word": "Pattern Recognition",
+        "description": "パターン認識は、データにおけるパターンまたは規則性を自動的に識別し、しばしば異常な活動を識別するために詐欺検出に使用されます。"
+    },
+    {
+        "word": "False Positive",
+        "description": "偽ポジティブとは、正当な取引または活動が誤って詐欺行為として標識された状況を記述するために使用される用語です。"
+    },
+    {
+        "word": "False Negative",
+        "description": "False Negative は、詐欺的な取引または活動が正当なものとして誤って分類された状況を記述するために使用される用語です。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "データ視覚化は、図やグラフなどの視覚形式でデータを提示し、詐欺関連のデータのより良い理解と分析を促進するプロセスです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して容易に管理または分析できない大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Machine Learning Algorithms",
+        "description": "機械学習アルゴリズムは、機械学習で使用される数学的モデルや技術で、データから自動学習を可能にし、正確な予測や分類を行う。"
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "機能エンジニアリングは、機械学習モデルのパフォーマンスを向上させるために、利用可能なデータから関連する機能を選択、変換、作成のプロセスです。"
+    },
+    {
+        "word": "Advanced Analytics",
+        "description": "高度な分析は、機械学習やデータマイニングなどの高度な技術やアルゴリズムを用いて、詐欺の検出のために複雑なデータセットから洞察を分析し、抽出することを指します。"
+    },
+    {
+        "word": "Credit Card Fraud",
+        "description": "クレジットカード詐欺は、誰かが他人のクレジットカードまたはカードの詳細をその許可なしに不正な取引を行うために使用する金融詐欺の一種です。"
+    },
+    {
+        "word": "Data Leakage",
+        "description": "データ漏洩とは、機密情報または機密情報の不正または偶然の転送を意味し、身元盗難またはその他の不正行為につながる可能性があります。"
+    },
+    {
+        "word": "Knowledge-Based Systems",
+        "description": "知識ベースのシステムとは、詐欺検出などの特定の分野における意思決定や推奨を下すために専門知識やルールを活用するAIシステムです。"
+    },
+    {
+        "word": "Neural Networks",
+        "description": "ニューラルネットワークは、人間の脳の構造と機能にインスピレーションを与えたコンピュータモデルであり、機械学習では、詐欺検出のためのデータにおける複雑なパターンと関係を認識するために使用されます。"
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering は、類似のインスタンスをその特徴に基づいて、事前に定義されたクラスラベルなしにグループ化する監督されていない学習テクニックです。"
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "データの前処理は、分析に使用される前にデータを清掃、変換、準備し、その品質と詐欺検出アルゴリズムとの互換性を確保することです。"
+    },
+    {
+        "word": "Fraudulent Applications",
+        "description": "詐欺申請とは、クレジットカード申請や保険請求などのアプリケーションで提供された偽りあるいは誤った情報を、詐欺の意図で指します。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、複数のソースまたはシステムからデータを組み合わせ、分析および詐欺検出のための統一的な視点を作成するプロセスです。"
+    },
+    {
+        "word": "Feature Selection",
+        "description": "Feature Selection は、機械学習モデルで使用するデータセットから最も関連する機能を識別し、選択するプロセスです。"
+    },
+    {
+        "word": "Transaction Fraud",
+        "description": "取引詐欺は、クレジットカードの不正使用、マネーロンダリング、または取引記録の偽造などの金融取引中に行われた詐欺的な活動を含みます。"
+    },
+    {
+        "word": "Real-Time Monitoring",
+        "description": "リアルタイムモニタリングは、イベントや活動の発生時に継続的かつ直ちに観察し、詐欺行為の迅速な検出と対応を可能にします。"
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "モデル評価は、機械学習モデルのパフォーマンスと有効性をさまざまなメトリクスとテクニックを使用して評価するプロセスです。"
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "機能抽出は、テキストや画像などの原始データを機械学習モデルに適したフォーマットに変換するプロセスです。"
+    },
+    {
+        "word": "Fraud Rings",
+        "description": "詐欺指輪とは、組織化されたグループまたは個人ネットワークを指し、詐欺行為を行うために協力し、しばしば検出を回避するために洗練された方法を使用する。"
+    },
+    {
+        "word": "Data Imputation",
+        "description": "Data imputation is the process of filling in missing values or replacing inaccurate data with estimated or calculated values to ensure the integrity and completeness of data used in fraud detection. 欠落した値を記入するか、不正確なデータを推定または計算された値に置き換えること。"
+    },
+    {
+        "word": "Fraudulent Claims",
+        "description": "詐欺主張は、個人や団体が保険会社を欺くために金銭的な利益を得ようとする、偽りのあるいは誇張された保険主張を指します。"
+    },
+    {
+        "word": "Decision Trees",
+        "description": "Decision trees は木のようなモデルで、ノードや分支の階層構造を使用して、入力データに基づいて決定や分類を行い、しばしば集合方法の一部として詐欺検出に使用されます。"
+    },
+    {
+        "word": "Model Training",
+        "description": "モデルトレーニングは、ラベル化されたデータを使用して機械学習モデルをトレーニングし、パターンを学び、詐欺検出における正確な予測や分類を行うプロセスです。"
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble Learning は、分類者や回帰者などの複数のモデルを組み合わせて、精度と一般化を向上させた予測を行うテクニックです。"
+    },
+    {
+        "word": "Feature Importance",
+        "description": "機能の重要性は、詐欺検出のための機械学習モデルの各機能または変数の相対的な重要性または貢献の測定です。"
+    },
+    {
+        "word": "Fraud Analytics",
+        "description": "詐欺分析は、不正行為を特定し、防止するために統計技術とデータ分析を使用することを意味します。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfitting は、機械学習モデルがトレーニングデータで非常にうまく行うが、新しいまたは目に見えないデータに良く一般化できない状況を指します。"
+    },
+    {
+        "word": "Model Deployment",
+        "description": "モデル展開は、既存のシステムやアプリケーションに機械学習モデルを統合し、実行し、詐欺検出のためのリアルタイムの予測や分類を行うプロセスです。"
+    },
+    {
+        "word": "Fraud Detection Rules",
+        "description": "詐欺検出規則は、特定のパターンや行動に基づいて潜在的に詐欺的な取引や活動を明記または識別するために使用される事前定義の基準または条件です。"
+    },
+    {
+        "word": "Model Validation",
+        "description": "モデル検証は、独立したテストデータを使用して詐欺検出のための機械学習モデルのパフォーマンス、精度、一般化性を検証し、評価することを意味します。"
+    },
+    {
+        "word": "Fraud Intelligence",
+        "description": "詐欺情報とは、詐欺関連データの分析から得られた情報、洞察、知識を指し、新たな詐欺パターンを特定し、検出戦略を改善するために使用することができる。"
+    },
+    {
+        "word": "Imbalanced Data",
+        "description": "不均衡データとは、詐欺検出のためのデータセットのクラスが均等に代表されていない状況を指し、正確なモデルトレーニングと少数派クラスの検出(詐欺事例)に挑戦する。"
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "異常検出は、規範や予想される行動とは大きく異なるパターンやデータポイントを識別するためのテクニックです。"
+    },
+    {
+        "word": "Social Engineering",
+        "description": "ソーシャルエンジニアリングは、攻撃者が個人を操作したり、敏感な情報を明らかにしたり、悪意のある目的で利用できるアクションを実行したりするための方法です。"
+    },
+    {
+        "word": "Model Optimization",
+        "description": "モデル最適化は、しばしばハイパーパラメータ調節またはアルゴリズム選択を通じて、詐欺検出におけるパフォーマンスと精度を向上させるために機械学習モデルを細かく調節するプロセスです。"
+    },
+    {
+        "word": "Fraud Detection System",
+        "description": "詐欺検出システムとは、さまざまな技術やアルゴリズムを使用して、リアルタイムまたは取引後の分析で詐欺行為を自動的に識別し、防止するソフトウェアまたはシステムです。"
+    },
+    {
+        "word": "Fraudster",
+        "description": "詐欺師とは、詐欺活動に従事する個人または団体です。"
+    },
+    {
+        "word": "Transaction",
+        "description": "取引は、商品、サービス、または資金の交換または移転です。"
+    },
+    {
+        "word": "Alert",
+        "description": "警告は、潜在的な詐欺事件を示す通知または信号です。"
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "リスク評価とは、詐欺活動に関連する潜在的なリスクの評価です。"
+    },
+    {
+        "word": "Suspicious Activity",
+        "description": "疑わしい活動とは、潜在的な詐欺を示す行動や行動を指します。"
+    },
+    {
+        "word": "Risk Score",
+        "description": "リスクスコアは、取引が詐欺的である確率を評価する数値です。"
+    },
+    {
+        "word": "Chargeback",
+        "description": "返金は、顧客が取引を議論し、金額が顧客に返還される場合に発生します。"
+    },
+    {
+        "word": "Blacklist",
+        "description": "ブラックリストは、疑わしいまたはリスクが高いとみなされる個人、団体、または活動のリストです。"
+    },
+    {
+        "word": "Forensic Analysis",
+        "description": "法医学的分析は、詐欺活動を発見するための証拠の調査と分析を含む。"
+    },
+    {
+        "word": "Payment Card Fraud",
+        "description": "クレジットカード詐欺とは、他人のクレジットカード情報を不正に使用することです。"
+    },
+    {
+        "word": "Phishing",
+        "description": "フィッシングは、攻撃者が正当な団体や組織を偽装し、ユーザーを機密情報を明らかにしたり、悪意のある行動を起こしたりする詐欺行為です。"
+    },
+    {
+        "word": "Money Laundering",
+        "description": "お金の洗浄は、違法に得られた収入を合法的に見せるプロセスです。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステムやネットワークを不正アクセスやデジタル攻撃から保護することです。"
+    },
+    {
+        "word": "Fraud Awareness",
+        "description": "詐欺意識とは、さまざまな種類の詐欺の知識と理解、そしてそれらを防ぐ方法を指します。"
+    },
+    {
+        "word": "Fraud Investigator",
+        "description": "詐欺捜査官とは、詐欺事件の調査と解決の責任を有する個人です。"
+    },
+    {
+        "word": "Customer Due Diligence",
+        "description": "顧客の due diligence は、詐欺やマネーロンダリングを防止するために顧客のアイデンティティを確認するプロセスです。"
+    },
+    {
+        "word": "Data Breach",
+        "description": "データ侵害は、許可されていない個人が機密または機密情報にアクセスし、しばしばその盗難、暴露、または不正利用につながるセキュリティ事件です。"
+    },
+    {
+        "word": "Multi-Factor Authentication",
+        "description": "複数の要因認証は、ユーザーがシステムまたはサービスにアクセスするために複数の形態の識別を提供することを要求するセキュリティシステムです。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録するデジタルリーグであり、高度にセキュアでバッテリー抵抗性があります。"
+    },
+    {
+        "word": "Encryption",
+        "description": "暗号化は、権限のある当事者にのみアクセスまたは理解できる形式に情報を変換するプロセスであり、不正なアクセスを防止する。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネットとは、インターネットに接続された物理的なデバイスのネットワークを指し、データを収集し、交換することができます。"
+    },
+    {
+        "word": "Privacy Laws",
+        "description": "プライバシー法は、個人データの収集、使用、保護を規制する規制です。"
+    },
+    {
+        "word": "Fraudulent Insurance Claims",
+        "description": "詐欺的な保険請求は、金融利益のための虚偽または誇張した請求を提出することです。"
+    },
+    {
+        "word": "Aml (Anti-Money Laundering)",
+        "description": "AMLとは、違法な活動を通じて収入を生み出すのを防ぐために実施される規制、政策、手続きのセットです。"
+    },
+    {
+        "word": "Pci Dss (Payment Card Industry Data Security Standard)",
+        "description": "PCI DSSは、クレジットカード情報の安全な取り扱いを確保するために設計された、広く認められたセキュリティ基準です。"
+    },
+    {
+        "word": "Insider Threat",
+        "description": "インサイダーの脅威とは、現在あるいは元従業員が詐欺行為を行うために彼らのアクセスを利用することを指します。"
+    },
+    {
+        "word": "Biometric Authentication",
+        "description": "バイオメトリック認証は、指紋、顔認識、アイリスススキャンなどのユニークな生物学的特性を使用して、個人のアイデンティティを検証するセキュリティメソッドです。"
+    },
+    {
+        "word": "E-Commerce Fraud",
+        "description": "電子商取引詐欺は、オンライン小売プラットフォームおよび取引を特定的にターゲットとする詐欺行為を含みます。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データ分析は、大規模なデータセットを分析して、詐欺を防止するために使用できるパターン、相関関係、洞察を発見することを意味します。"
+    },
+    {
+        "word": "Fraud Risk Management",
+        "description": "詐欺リスク管理は、組織内の詐欺リスクを特定し、軽減するプロセスです。"
+    },
+    {
+        "word": "Data Validation",
+        "description": "データ検証は、システムに入力またはインポートされたデータが正確で、完全で、特定のルールに準拠していることを保証するプロセスです。"
+    },
+    {
+        "word": "Fraud Triangle",
+        "description": "詐欺三角形は、詐欺行為に貢献する3つの要因:機会、圧力、合理化を分析するための枠組みです。"
+    },
+    {
+        "word": "Stolen Identity",
+        "description": "盗まれたアイデンティティとは、詐欺や詐欺を犯すために他人の個人情報を不正に使用することです。"
+    },
+    {
+        "word": "Risk Mitigation",
+        "description": "リスク軽減とは、詐欺活動の可能性や影響を減らすための戦略を実施することです。"
+    },
+    {
+        "word": "Insurance Fraud",
+        "description": "保険詐欺とは、偽りの主張をすることや、保険料を得るために誤った情報を提供することです。"
+    },
+    {
+        "word": "Know Your Customer (Kyc)",
+        "description": "KYCは、クライアントのアイデンティティを検証し、詐欺活動、マネーロンダリング、テロリズム資金調達を防止するプロセスです。"
+    },
+    {
+        "word": "Data Integrity",
+        "description": "データの完全性とは、データの正確性、一貫性、信頼性を指し、そのライフサイクルを通じて変更されず、完全であることを保証します。"
+    },
+    {
+        "word": "Penetration Testing",
+        "description": "侵入テスト、または倫理的なハッキングは、システムのセキュリティの脆弱性や弱点を特定するためにサイバー攻撃をシミュレートすることを意味します。"
+    },
+    {
+        "word": "Insider Trading",
+        "description": "インサイダー取引は、個人が非公開の情報に基づいて株式や他の証券を取引するときに起こります。"
+    },
+    {
+        "word": "Fraud Risk Assessment",
+        "description": "詐欺リスク評価は、組織内の詐欺活動に対する潜在的なリスクと脆弱性を評価するプロセスです。"
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "詐欺検出は、詐欺行為を特定し、防止するプロセスです。"
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "Semi-Supervised Learning は、モデルがラベル化されたデータとラベル化されていないデータの組み合わせに訓練され、両方の種類の情報を活用する機械学習の種類です。"
+    },
+    {
+        "word": "Precision",
+        "description": "Precision is a metric used to measure the proportion of correctly predicted positive instances out of the total predicted positive instances by a model. 正確性は、モデルによって予測された正しい正しいインスタンスの合計の割合を測定するために使用されるメトリックです。"
+    },
+    {
+        "word": "Recall",
+        "description": "Recall は、データセット内の実際の正しいインスタンスの合計から正確に予測された正しいインスタンスの割合を測定するためのメトリックです。"
+    },
+    {
+        "word": "F1 Score",
+        "description": "F1 Score は、この2つのメトリックの重量平均として計算されたモデルの精度と回顧の間の調和されたバランスを評価するために使用されるメトリックです。"
+    },
+    {
+        "word": "Roc Curve",
+        "description": "ROC Curve (Receiver Operating Characteristic Curve) は、さまざまな分類範囲におけるバイナリ分類モデルのパフォーマンスのグラフィック表示です。"
+    },
+    {
+        "word": "Auc",
+        "description": "AUC (Area Under the ROC Curve) は、ROC Curveの下の領域を表すバイナリ分類モデルの全体的なパフォーマンスを評価するためのメトリックです。"
+    },
+    {
+        "word": "Decision Tree",
+        "description": "Decision Tree は、分類および回帰タスクに使用される監督学習アルゴリズムで、モデルは、特徴条件に基づいて意思決定を行うための木のような構造を作成します。"
+    },
+    {
+        "word": "Random Forest",
+        "description": "ランダム・フォースト(Random Forest)は、複数の意思決定ツリーを組み合わせて予測を行い、精度と強度を向上させます。"
+    },
+    {
+        "word": "Logistic Regression",
+        "description": "Logistic Regression is a statistical algorithm used for binary classification problems by estimating the probability of an input belonging to a certain class. 論理的回帰は、特定のクラスに属する入力の確率を推定することによってバイナリ分類の問題に使用される統計的アルゴリズムです。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、人間の脳の構造と機能にインスピレーションを与えた機械学習モデルで、相互接続されたノード(ニューロン)と層から構成されています。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層の人工ニューラルネットワークを使用してデータにおける高レベルの抽象をモデリングし、学習することに焦点を当てている機械学習のサブセットです。"
+    },
+    {
+        "word": "K-Means",
+        "description": "K-means は、各点からそのクラスターの中心点までの平方距離のクラスター内の合計を最小化することによって、データをKクラスターに分割する人気のあるクラスターアルゴリズムです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、機械が人間の言語を理解し、解釈し、生成することを可能にすることに焦点を当てた人工知能の分野です。"
+    },
+    {
+        "word": "Text Classification",
+        "description": "テキスト分類は、テキスト文書を事前定義されたクラスまたはカテゴリに分類することを含む自然言語処理(NLP)のタスクです。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting は、機械学習モデルがあまりにも単純で、トレーニングデータの基本的なパターンや関係をキャプチャできない状況を指します。"
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "クロス認証は、データを複数のサブセットに分割することによって機械学習モデルのパフォーマンスと一般化能力を評価するために使用される再サンプリング技術です。"
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "ハイパーパラメーターは、機械学習モデルの外で定義されたパラメーターで、その行動、設定、または構造を決定し、しばしば学習プロセスが始まる前に設定されます。"
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization は、損失関数に罰則を加え、複雑または極端なモデルパラメータ値を抑制することによって、過剰装備を防止または減らすために機械学習で使用されるテクニックです。"
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient Descent は、機械学習で使用される最適化アルゴリズムで、損失機能を最小限に抑え、モデルパラメータの最適な値を見つけることで、最下位の方向で更新します。"
+    },
+    {
+        "word": "Anomaly Score",
+        "description": "Anomaly Score は、各データポイントまたはインスタンスに割り当てられた数値またはメトリックで、正常または予想される行動からその偏差の程度を示します。"
+    },
+    {
+        "word": "Black Box Model",
+        "description": "ブラックボックスモデルとは、予測や結果を提供する機械学習モデルまたはアルゴリズムで、それらの予測の背後にある内部機能や理由を明らかにすることなく。"
+    },
+    {
+        "word": "Gray Box Model",
+        "description": "グレーボックスモデルは、予測プロセスで使用される内部操作または中間表示にいくつかの洞察または制限されたアクセスを提供する機械学習モデルまたはアルゴリズムです。"
+    },
+    {
+        "word": "White Box Model",
+        "description": "ホワイトボックスモデルは、予測の裏にある内部の機能、構造、推論が完全に透明で、完全な可視性と制御を可能にする機械学習モデルまたはアルゴリズムです。"
+    },
+    {
+        "word": "Bias",
+        "description": "機械学習における偏見とは、過度に単純化されたまたは不十分に代表的なモデルによって引き起こされる、実際の価値や結果から予測の体系的な誤りまたは偏差を指します。"
+    },
+    {
+        "word": "Variance",
+        "description": "機械学習における変数とは、さまざまなインスタンスまたはデータセットにわたる予測の変数または拡散を指し、しばしば過度に複雑または過剰なモデルによって引き起こされる。"
+    },
+    {
+        "word": "Imbalanced Dataset",
+        "description": "バランスの取れないデータセットとは、クラスの分布が不平等または歪んだデータセットで、クラスが他のクラスよりも大幅に複数のインスタンスを有することを指します。"
+    },
+    {
+        "word": "Oversampling",
+        "description": "Oversampling は、マイノリティクラスのインスタンス数を人工的に増やすことによって、機械学習におけるクラス不均衡の問題を緩和するためのテクニックです。"
+    },
+    {
+        "word": "Undersampling",
+        "description": "Undersampling は、多数決クラスのインスタンス数を減らすことによって、機械学習におけるクラス不均衡の問題を軽減するために使用されるテクニックです。"
+    },
+    {
+        "word": "Smote",
+        "description": "SMOTE(Synthetic Minority Over-Sampleing Technique)は、既存のインスタンスに基づいて少数クラスの合成インスタンスを生成することによってクラス不均衡の問題を解決するための一般的なアルゴリズムです。"
+    },
+    {
+        "word": "Validation Set",
+        "description": "Validation Set は、トレーニング中に機械学習モデルのパフォーマンスを評価するために使用されるデータのサブセットで、しばしばハイパーパラメータを調節するために使用されます。"
+    },
+    {
+        "word": "Holdout Set",
+        "description": "Holdout Set は、トレーニングとモデル選択の後の機械学習モデルの最終的な評価に使用されるデータのサブセットであり、そのパフォーマンスの公正な測定を提供します。"
+    },
+    {
+        "word": "Cross-Site Scripting",
+        "description": "Cross-Site Scripting(XSS)は、悪意のあるスクリプトがユーザーが閲覧するウェブページに注入され、攻撃者がセキュリティメカニズムを回避し、被害者のブラウザで悪意のあるコードを実行することを可能にするセキュリティ脆弱性の一種です。"
+    },
+    {
+        "word": "Payment Card Skimming",
+        "description": "Payment Card Skimmingは、攻撃者が売り場(POS)システムやATMに悪意のあるデバイスやソフトウェアをインストールすることによって、クレジットカードやデビットカード情報を盗むために使用するテクニックです。"
+    },
+    {
+        "word": "Tokenization",
+        "description": "Tokenizationは、クレジットカード番号や社会保障番号などの機密データを、意味のある情報がないユニークに生成されたトークンに置き換えるプロセスであり、データ曝露のリスクを減らす。"
+    },
+    {
+        "word": "Two-Factor Authentication",
+        "description": "Two-Factor Authentication(2FA)は、ユーザーがアカウントまたはシステムにアクセスするために、通常、パスワードとモバイルデバイスに送信されたユニークなコードの2つの異なる形式の認証を提供することを要求するセキュリティメカニズムです。"
+    },
+    {
+        "word": "Audit Trail",
+        "description": "Audit Trailは、システムまたはプロセスに関連する活動、変更、またはイベントを記録し、分析および調査のための包括的な歴史を提供する記録です。"
+    },
+    {
+        "word": "Token Authentication",
+        "description": "Token Authentication は、信頼できる第三者によって生成されるユニークなトークンを用いて、ユーザーの認証と認証を行い、機密性の高い認証情報の曝露を減らすセキュリティメソッドです。"
+    },
+    {
+        "word": "Anti-Money Laundering",
+        "description": "AMLとは、金融機関が資金洗浄、テロリズム資金調達、またはその他の違法資金調達に関連する活動を防止または検出するための規制、ポリシー、および手続きを指します。"
+    },
+    {
+        "word": "Know Your Customer",
+        "description": "KYC(Know Your Customer)とは、金融機関が顧客のアイデンティティ、リスクレベル、および金融サービスの適合性を評価するために、顧客に関する関連情報を検証し、収集するプロセスです。"
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "規制コンプライアンスとは、政府機関や業界特有の機関によって定められた法律、規制、ガイドラインに従って、組織の業務の合法性、安全性、倫理的基準を確保することを指します。"
+    },
+    {
+        "word": "Suspicious Activity Report",
+        "description": "疑わしい活動報告(SAR)とは、金融機関が資金洗浄やテロリズム資金調達などの潜在的に違法または疑わしい活動を疑う場合に当該当局に提出する報告です。"
+    }
+]

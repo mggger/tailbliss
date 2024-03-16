@@ -1,0 +1,442 @@
+[
+    {
+        "word": "Seo",
+        "description": "検索エンジン最適化(SEO)は、ウェブサイトの可視性と検索エンジン結果ページのランキングを改善するための最適化の実践です。"
+    },
+    {
+        "word": "Ppc",
+        "description": "Pay-Per-Click(PPC)とは、広告主がユーザーが広告をクリックするたびに支払うオンライン広告モデルです。"
+    },
+    {
+        "word": "Ctr",
+        "description": "Click-Through Rate(CTR)は、特定のリンクをクリックするユーザーの割合と、リンクを閲覧するユーザーの合計数を測定するメトリックです。"
+    },
+    {
+        "word": "Cpc",
+        "description": "CPC(Cost-per-Click)とは、広告主がPPCキャンペーンの各クリックで支払う金額です。"
+    },
+    {
+        "word": "Cpm",
+        "description": "コスト・パー・マイル(CPM)とは、広告主が広告の1000回の表示に対して支払う価格モデルです。"
+    },
+    {
+        "word": "Roas",
+        "description": "ROAS(Return on Advertising Spend)は、広告に費やされた1ドルの収益を計測する指標です。"
+    },
+    {
+        "word": "Crm",
+        "description": "顧客関係管理(CRM)は、企業が顧客の相互作用を管理し分析するために使用する慣行、戦略、技術を指します。"
+    },
+    {
+        "word": "Cta",
+        "description": "Call to Action(CTA)とは、コンテンツの一部に含まれる要素を指すマーケティング用語で、観客が特定の行動をとるよう促すものです。"
+    },
+    {
+        "word": "Ltv",
+        "description": "LTVとは、顧客の生涯価値の略で、顧客との将来の関係全体に割り当てられる予測された純利益です。"
+    },
+    {
+        "word": "Kpi",
+        "description": "キーパフォーマンス指標(KPI)は、企業が主要な目標や目標をどれだけ効果的に達成しているかを示す測定可能な値です。"
+    },
+    {
+        "word": "Roi",
+        "description": "投資収益率(ROI)は、投資の効率性または収益性を評価するための測定方法です。"
+    },
+    {
+        "word": "Sem",
+        "description": "検索エンジンマーケティング(SEM)は、検索エンジンでの有料広告を通じてウェブサイトを促進することを含むデジタルマーケティング戦略です。"
+    },
+    {
+        "word": "Serp",
+        "description": "SERPとは、検索エンジン結果ページの略で、特定の検索クエリの結果をリストする検索エンジンが表示するページを指します。"
+    },
+    {
+        "word": "B2B",
+        "description": "Business-to-Business(B2B)とは、製造業者や卸売業者などの企業間の貿易取引を指します。"
+    },
+    {
+        "word": "B2C",
+        "description": "Business-to-Consumer(B2C)とは、小売業者と顧客などの企業と個人消費者の間の商業取引を指します。"
+    },
+    {
+        "word": "A/B Testing",
+        "description": "A/Bテストは、ウェブページやアプリの2つのバージョンを比較して、どちらのバージョンがよりよく動作するかを判断する方法です。"
+    },
+    {
+        "word": "Conversion Rate",
+        "description": "コンバージョン率は、購入やフォームの記入などの望ましいアクションを完了したユーザーの割合です。"
+    },
+    {
+        "word": "Funnel",
+        "description": "Funnelは、顧客の旅の視覚的表現であり、顧客が購入する前に通過する段階を表します。"
+    },
+    {
+        "word": "Lead Generation",
+        "description": "Lead Generation は、起業家を誘致し、興味のある人材に変換するプロセスです。"
+    },
+    {
+        "word": "Content Marketing",
+        "description": "コンテンツマーケティングは、価値ある、関連性のある、一貫したコンテンツの作成と配布に焦点を当てた戦略的マーケティングアプローチで、定義された観客を引き寄せ、保持する。"
+    },
+    {
+        "word": "Inbound Marketing",
+        "description": "インバウンドマーケティングは、顧客を引き付けることによって価値のあるコンテンツや経験を作成することを含むマーケティング戦略です。"
+    },
+    {
+        "word": "Outbound Marketing",
+        "description": "Outbound Marketingは、大量の広告やプロモーションを通じて多くの潜在的な顧客に到達することを含む伝統的なマーケティング方法です。"
+    },
+    {
+        "word": "Social Media Marketing",
+        "description": "ソーシャルメディアマーケティングは、ソーシャルメディアプラットフォームを活用して製品やサービスを促進し、ターゲットの観客と関わるプロセスです。"
+    },
+    {
+        "word": "Content Calendar",
+        "description": "コンテンツカレンダーは、予定されているコンテンツの作成と出版のためのトピック、メディア、および配信チャンネルを概要するスケジュールです。"
+    },
+    {
+        "word": "Keyword Research",
+        "description": "キーワード研究は、人々がコンテンツを最適化し、検索エンジンランキングを改善するために検索エンジンで使用する一般的な単語やフレーズを特定するプロセスです。"
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "インフルエンサーマーケティングは、潜在的な顧客に影響を与える重要な個人を巻き込むことに焦点を当てたマーケティングの一種です。"
+    },
+    {
+        "word": "User-Generated Content",
+        "description": "ユーザー生成コンテンツとは、レビュー、レビュー、ソーシャルメディアの投稿など、ブランドのユーザーまたは顧客によって作成されたコンテンツのあらゆる形態を指します。"
+    },
+    {
+        "word": "Landing Page",
+        "description": "ランディングページは、マーケティングまたは広告キャンペーンのために特別に作成された独立したウェブページです。"
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive Designは、ウェブサイトが幅広いデバイスやスクリーンサイズで最適な閲覧体験を提供することを保証するWebデザインのアプローチです。"
+    },
+    {
+        "word": "Conversion Funnel",
+        "description": "Conversion Funnel は、ユーザーがウェブサイトまたはアプリで望ましいアクションを完了する際に通過する段階の視覚化です。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、ユーザーとテキストまたは音声の相互作用を通じて会話を行うコンピュータプログラムまたはソフトウェアです。"
+    },
+    {
+        "word": "Remarketing",
+        "description": "リマーケティングは、以前、ウェブサイトまたは製品に興味を示した人々に広告をターゲットにすることに関連するデジタル広告戦略です。"
+    },
+    {
+        "word": "Affiliate Marketing",
+        "description": "アフィリエイトマーケティングは、個人や企業が他人の製品やサービスを促進するためにコマンドを稼ぐマーケティングモデルです。"
+    },
+    {
+        "word": "Email Marketing",
+        "description": "電子メールマーケティングは、製品やサービスを促進するために個人グループにターゲットメールを送ることを含むデジタルマーケティング戦略です。"
+    },
+    {
+        "word": "Segmentation",
+        "description": "セグメントは、共有する特徴や行動に基づいて、ターゲット市場をより小さく、より管理可能なグループに分割するプロセスを指します。"
+    },
+    {
+        "word": "Lead Nurturing",
+        "description": "Lead Nurturingは、彼らが購入する準備が整うまで、潜在的な顧客との関係を構築するプロセスです。"
+    },
+    {
+        "word": "Marketing Automation",
+        "description": "マーケティング自動化は、マーケティングタスクとワークフローを自動化するためのソフトウェアプラットフォームとテクノロジーの使用を指します。"
+    },
+    {
+        "word": "Mobile Optimization",
+        "description": "モバイル最適化は、ウェブサイトがモバイルデバイス上で容易にアクセスし、機能するように設計され、フォーマットされることを保証するプロセスを指します。"
+    },
+    {
+        "word": "Heatmap",
+        "description": "ヒートマップは、値が異なる色で表されるデータの視覚的表示であり、しばしばウェブサイト上のユーザーの行動を分析するために使用されます。"
+    },
+    {
+        "word": "Conversion Tracking",
+        "description": "コンバージョン・トラッキングは、マーケティングキャンペーンまたは戦略の成功を決定するためにウェブサイト訪問者が行う行動を監視し、測定するプロセスです。"
+    },
+    {
+        "word": "White Hat Seo",
+        "description": "ホワイトハットSEOは、検索エンジンのガイドラインに沿って、人間のユーザーに価値を提供することに焦点を当てているSEOの実践を指します。"
+    },
+    {
+        "word": "Black Hat Seo",
+        "description": "Black Hat SEOは、検索エンジンガイドラインに違反し、検索エンジンランキングを操作しようとするSEO実践を指します。"
+    },
+    {
+        "word": "Local Seo",
+        "description": "ローカルSEOは、ウェブサイトまたはオンラインの存在を最適化して、場所ベースの検索の可視性を高めるための実践です。"
+    },
+    {
+        "word": "Domain Authority",
+        "description": "ドメイン権限(Domain Authority)はMozが開発したメトリックで、ウェブサイトが検索エンジンの結果ページにどれだけ順位を置くかを予測します。"
+    },
+    {
+        "word": "Backlink",
+        "description": "バックリンクは、一つのウェブページから他のウェブページへのハイパーリンクであり、通常、ウェブサイトの重要性または人気の測定として使用されます。"
+    },
+    {
+        "word": "Social Listening",
+        "description": "ソーシャル・メディア・モニタリングとも呼ばれるソーシャル・ルーティングは、ブランド、製品、または業界に関するオンライン会話を追跡するプロセスです。"
+    },
+    {
+        "word": "Responsive Email Design",
+        "description": "Responsive Email Designは、デバイス間で最適な閲覧体験を提供するために、そのレイアウトとフォーマットを自動的に調整する電子メールテンプレートの作成です。"
+    },
+    {
+        "word": "Chatbot Marketing",
+        "description": "チャットボットマーケティングは、マーケティングキャンペーンのチャットボットの使用で、ユーザーと関わり、質問に答え、パーソナライズされた推奨を提供します。"
+    },
+    {
+        "word": "Lead Scoring",
+        "description": "Lead Scoring は、リードの評価プロセスであり、リードの価値または顧客になる可能性に基づいて、販売およびマーケティングチームが彼らの努力を優先することを可能にします。"
+    },
+    {
+        "word": "Social Proof",
+        "description": "社会的証拠は、人々が特定の状況における正しい行動を反映するために、他人の行動や選択を仮定する心理的現象です。"
+    },
+    {
+        "word": "Click Fraud",
+        "description": "クリック詐欺とは、違法な収入を生み出したり、競合相手に害を及ぼす意図をもってプラット-per-クリック広告をクリックする詐欺的な慣行を指します。"
+    },
+    {
+        "word": "Algorithm",
+        "description": "アルゴリズムは、特定の問題を解決するために設計されたルールまたは指示のセットです。"
+    },
+    {
+        "word": "Chat Support",
+        "description": "チャットサポートは、顧客がチャットインターフェイスを介してリアルタイムでサポート担当者とコミュニケーションすることを可能にする顧客サービス機能です。"
+    },
+    {
+        "word": "Impressions",
+        "description": "表示は、広告またはコンテンツの一部がクリックされたか否かに関係なく、何回表示されているかを指します。"
+    },
+    {
+        "word": "Segment",
+        "description": "セグメントは、特定の特徴や行動を共有する広範な観客内のユーザーまたは顧客のサブグループです。"
+    },
+    {
+        "word": "Tagging",
+        "description": "タグ化は、組織や検索を容易にするために、ウェブページ、画像、または記事などのデジタル資産にタグやメタデータを追加するプロセスです。"
+    },
+    {
+        "word": "Long-Tail Keywords",
+        "description": "長尾のキーワードは、非常に具体的で、より一般的に検索されるキーワードやキーフレーズであり、しばしばより低い検索ボリュームと関連付けられていますが、より高い変換率です。"
+    },
+    {
+        "word": "Marketing Funnel",
+        "description": "マーケティング・フォンネルは、顧客の旅の視覚的な表現であり、顧客意識から顧客になるための前向きなステップを示しています。"
+    },
+    {
+        "word": "Pay Per Impression",
+        "description": "PPI(Pay Per Impression)とは、広告主がクリック数に関係なく、広告が表示される1000回ごとに料金を支払う広告モデルです。"
+    },
+    {
+        "word": "Serp Ranking",
+        "description": "SERPランキングは、特定のキーワードまたはクエリの検索エンジンの結果ページにウェブページが表示される位置を指します。"
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "デジタルマーケティングは、ウェブサイト、ソーシャルメディア、検索エンジン、電子メールなどのデジタルチャンネルを使用して製品やサービスを促進する実践を指します。"
+    },
+    {
+        "word": "Cro",
+        "description": "コンバージョン率最適化(CRO)は、望ましいアクションを完了するウェブサイト訪問者の割合を増やすプロセスです。"
+    },
+    {
+        "word": "Ugc",
+        "description": "ユーザー生成コンテンツ(UGC)とは、テキスト、画像、ビデオなど、製品またはサービスのユーザーによって作成されたコンテンツのあらゆる形態を指します。"
+    },
+    {
+        "word": "Smm",
+        "description": "ソーシャルメディアマーケティング(SMM)は、ソーシャルメディアプラットフォームを活用して製品やサービスを促進し、ターゲット観客と関わるプロセスです。"
+    },
+    {
+        "word": "Ctv",
+        "description": "Connected TV (CTV) は、インターネットに接続され、オンラインストリーミングコンテンツにアクセスできるテレビセット、ストリーミングデバイス、またはゲームコンソールを指します。"
+    },
+    {
+        "word": "Qr Code",
+        "description": "Quick Response(QR)コードは、スマートフォンやQRコードリーダーを使用してスキャンできる2次元バーコードで、情報やウェブサイトに迅速にアクセスできます。"
+    },
+    {
+        "word": "Crm Integration",
+        "description": "CRM統合とは、顧客関係管理(CRM)システムを他のシステムやプラットフォームと接続し、データを簡素化し、効率性を向上させるプロセスです。"
+    },
+    {
+        "word": "Bounce Rate",
+        "description": "Bounce Rate は、一ページだけを見た後、ウェブサイトを離れる訪問者の割合を測るウェブ分析メトリックです。"
+    },
+    {
+        "word": "Dmp",
+        "description": "データ管理プラットフォーム(DMP)は、マーケティング目的で大規模なデータセットを収集、分析、管理するための集中型プラットフォームです。"
+    },
+    {
+        "word": "Mql",
+        "description": "Marketing Qualified Lead(MQL)とは、特定の基準や行動に基づいて顧客になる可能性が高いと考えられたリーダーを指します。"
+    },
+    {
+        "word": "Gdn",
+        "description": "Google Display Network(GDN)は、広告主が広告を表示して潜在的な顧客に届けることができるウェブサイトのネットワークです。"
+    },
+    {
+        "word": "Ctt",
+        "description": "Click-to-Tweet(CTT)は、ユーザーがリンクまたはボタンをクリックして事前の人口化されたツイートを簡単に共有できる機能です。"
+    },
+    {
+        "word": "Churn Rate",
+        "description": "クライアントの削減率とも呼ばれるChurn Rateは、顧客が特定の期間にわたって会社との関係を停止するレートです。"
+    },
+    {
+        "word": "Geo-Targeting",
+        "description": "地理的ターゲティングは、その地理的位置に基づいて特定の観客にコンテンツまたは広告を提供する実践です。"
+    },
+    {
+        "word": "Drip Campaign",
+        "description": "Dripキャンペーンは、特定の期間にわたってリードまたは顧客に送信される自動化されたマーケティングメッセージまたは電子メールのシリーズです。"
+    },
+    {
+        "word": "Customer Persona",
+        "description": "クライアント・パーソナは、特定の観客部門を理解し、ターゲット化するのに役立つ典型的なクライアントの仮想的な表現です。"
+    },
+    {
+        "word": "Omnichannel Marketing",
+        "description": "オムニチャネルマーケティングは、複数のチャンネルとデバイスでシームレスで統合された顧客体験を提供するアプローチです。"
+    },
+    {
+        "word": "Customer Retention",
+        "description": "顧客維持とは、既存顧客を維持し、ビジネスを繰り返すことを奨励するための戦略と行動を指します。"
+    },
+    {
+        "word": "Social Media Analytics",
+        "description": "ソーシャルメディアアナリティクスは、ソーシャルメディアプラットフォームからデータを収集し、分析し、知的マーケティング意思決定を行うことを指します。"
+    },
+    {
+        "word": "Programmatic Advertising",
+        "description": "プログラム広告は、アルゴリズムとリアルタイムのオファーを使用してオンライン広告の自動購入と販売です。"
+    },
+    {
+        "word": "Website Analytics",
+        "description": "ウェブサイトアナリティクスは、ウェブサイトのデータの測定、収集、分析、報告を目的として、その使用を理解し、最適化します。"
+    },
+    {
+        "word": "Competitor Analysis",
+        "description": "競合者分析とは、同じ業界の競合者の戦略、強み、弱点、マーケティング活動を評価し、監視するプロセスです。"
+    },
+    {
+        "word": "Ai In Marketing",
+        "description": "AI in Marketingは、マーケティング戦略、パーソナライゼーション、および自動化を改善するために機械学習などの人工知能技術の使用を指します。"
+    },
+    {
+        "word": "Cms",
+        "description": "CMSはコンテンツ管理システムの略で、ユーザーがデジタルコンテンツを作成、管理、出版することを可能にするソフトウェアソリューションです。"
+    },
+    {
+        "word": "Ui",
+        "description": "UIはユーザインターフェイスを意味し、ユーザーが相互作用するウェブサイト、アプリケーション、またはデジタル製品の視覚的要素、デザイン、およびレイアウトを指します。"
+    },
+    {
+        "word": "Ux",
+        "description": "UXはユーザ体験の略で、ユーザーがウェブサイト、アプリケーション、またはデジタル製品と相互作用する際に持っている全体的な経験を指します。"
+    },
+    {
+        "word": "Br",
+        "description": "BRはBounce Rateの略で、他のページに移動することなくウェブサイトを離れる訪問者の割合を測定するメトリックです。"
+    },
+    {
+        "word": "Cpa",
+        "description": "CPA(Cost Per Acquisition)とは、広告主が自分のデジタルマーケティングキャンペーンの結果として、売却やリードなどの望ましいアクションごとに支払う金額です。"
+    },
+    {
+        "word": "Conversion",
+        "description": "変換は、購入やフォームの記入などのユーザーの望ましいアクションの完了を指します。"
+    },
+    {
+        "word": "Keyword",
+        "description": "キーワードは、特定の検索クエリのためにウェブページを最適化するために検索エンジン最適化で使用される単語またはフレーズです。"
+    },
+    {
+        "word": "Mobile Marketing",
+        "description": "モバイルマーケティングは、スマートフォンやタブレットなどのモバイルデバイスを通じてターゲット観客と関わることに焦点を当てたマーケティング戦略です。"
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) は、ユーザーがウェブサイト、アプリケーション、または製品と相互作用する際に持っている全体的な経験を指します。"
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) は、ユーザーが相互作用するウェブサイト、アプリケーション、または製品の視覚的要素、デザイン、およびレイアウトを指します。"
+    },
+    {
+        "word": "Google Ads",
+        "description": "Google AdsはGoogleが開発したオンライン広告プラットフォームで、広告主はさまざまなGoogleプロパティやパートナーウェブサイトで広告を表示することができます。"
+    },
+    {
+        "word": "Facebook Ads",
+        "description": "Facebook AdsはFacebookが開発したオンライン広告プラットフォームで、広告主がFacebookプラットフォーム上で広告キャンペーンを作成し、管理することができます。"
+    },
+    {
+        "word": "Instagram Ads",
+        "description": "Instagram AdsはInstagramが開発したオンライン広告プラットフォームで、広告主がInstagramプラットフォーム上で広告を作成して実行することができます。"
+    },
+    {
+        "word": "Linkedin Ads",
+        "description": "LinkedIn AdsはLinkedInが開発したオンライン広告プラットフォームで、広告主がLinkedInプラットフォーム上で広告キャンペーンを作成および管理することができます。"
+    },
+    {
+        "word": "Snapchat Ads",
+        "description": "Snapchat AdsはSnapchatが開発したオンライン広告プラットフォームで、広告主がSnapchatプラットフォーム上で広告を作成して実行することができます。"
+    },
+    {
+        "word": "Web Analytics",
+        "description": "Web Analyticsとは、ウェブサイトのデータの測定、収集、分析、報告を目的として、その使用を理解し、最適化します。"
+    },
+    {
+        "word": "Customer Lifetime Value (Cltv)",
+        "description": "Customer Lifetime Value(CLTV)とは、顧客との関係全体を通して生み出される予想された純利益です。"
+    },
+    {
+        "word": "Brand Awareness",
+        "description": "ブランド認識は、市場における特定のブランドの消費者の認識と知識のレベルです。"
+    },
+    {
+        "word": "Customer Engagement",
+        "description": "顧客関与とは、顧客がブランドと持つ相互作用、経験、関係を指します。"
+    },
+    {
+        "word": "Geotargeting",
+        "description": "地理ターゲティングとは、地理的位置に基づいてユーザーにターゲット化されたコンテンツや広告を提供する実践です。"
+    },
+    {
+        "word": "Inbound Link",
+        "description": "Inbound Link または Backlink とも呼ばれる Inbound Link は、ユーザーを別の Web サイトにリダイレクトする Web サイト上のハイパーリンクです。"
+    },
+    {
+        "word": "Influencer",
+        "description": "影響力のある人は、権威、知識、地位、または視聴者との関係のために他人の購入決定に影響を与える力を持っている人です。"
+    },
+    {
+        "word": "Abm",
+        "description": "アカウントベースのマーケティング(ABM)は、個々のリードではなく、高価値のアカウントをターゲットにし、関わることに焦点を当てている戦略的アプローチです。"
+    },
+    {
+        "word": "Retargeting",
+        "description": "リターゲティングは、以前に興味を示した人やブランドとの相互作用を示した人に広告をターゲットにすることに関わるデジタル広告戦略です。"
+    },
+    {
+        "word": "Google Analytics",
+        "description": "Google Analyticsは、Googleが提供するウェブ分析サービスで、ウェブサイトのトラフィックとユーザー行動を追跡し報告します。"
+    },
+    {
+        "word": "Remarketing Lists For Search Ads (Rlsa)",
+        "description": "Search Ads Remarketing Lists (RLSA) は、Google Ads で、広告主が検索広告で以前のウェブサイト訪問者をターゲットにすることができる機能です。"
+    },
+    {
+        "word": "Power Bi",
+        "description": "Power BI は、ユーザーがインタラクティブなダッシュボードやレポートを使用してデータを視覚化および分析できる Microsoft が提供するビジネス分析サービスです。"
+    }
+]

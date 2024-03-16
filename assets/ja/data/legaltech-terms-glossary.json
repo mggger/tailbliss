@@ -1,0 +1,442 @@
+[
+    {
+        "word": "Legaltech",
+        "description": "Legaltechとは、法的プロセスやサービスを簡素化し、強化するための技術とソフトウェアの使用を指します。"
+    },
+    {
+        "word": "Document Automation",
+        "description": "ドキュメント自動化とは、自動的に法律文書を作成、管理、生成するためのソフトウェアの使用です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、自然言語を使用して人間とコンピュータの相互作用を扱うAIの分野です。"
+    },
+    {
+        "word": "Chatbots",
+        "description": "チャットボットはAI駆動の仮想アシスタントで、ユーザーと自然言語で対話することができます。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics は、データセットを調べ、結論を出し、明確な意思決定をするプロセスです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、過去のデータや統計アルゴリズムを使用して、将来の結果や傾向を予測することを意味します。"
+    },
+    {
+        "word": "Legal Research",
+        "description": "法的研究は、法的意思決定と事例戦略をサポートするための法的情報と先例の発見と分析のプロセスです。"
+    },
+    {
+        "word": "Legal Database",
+        "description": "法的データベースは、法令、規則、裁判所、および法的コメントを含む法的情報のコレクションであり、効率的なアクセスのために組織され、検索可能である。"
+    },
+    {
+        "word": "Ediscovery",
+        "description": "eDiscovery、または電子発見は、法的手続きのために電子的に保存された情報(ESI)の識別、収集、生成のプロセスです。"
+    },
+    {
+        "word": "Contract Management",
+        "description": "契約管理は、契約の作成、交渉、履行、およびそのライフサイクルを通して追跡を含む。"
+    },
+    {
+        "word": "Document Management System",
+        "description": "ドキュメント管理システム(DMS)は、ドキュメントの保存、管理、組織のための集中的なリポジトリを提供するソフトウェアソリューションです。"
+    },
+    {
+        "word": "Legal Project Management",
+        "description": "法的プロジェクト管理は、効率性と結果を向上させるための法的プロジェクトの計画、組織、管理に焦点を当てています。"
+    },
+    {
+        "word": "Legal Workflow Automation",
+        "description": "法的ワークフロー・オートメーションは、法的ワークフローとプロセスを自動化し、最適化するためのテクノロジーを使用することです。"
+    },
+    {
+        "word": "Legal Operations",
+        "description": "法律業務は、法務部門または法律事務所の管理のビジネスおよび行政の側面をカバーします。"
+    },
+    {
+        "word": "Virtual Data Room",
+        "description": "仮想データ室(VDR)は、適切な監査、M&A取引、およびその他の類似のプロセス中に機密法文書を保存および共有するためのセキュアなオンラインレポジトリです。"
+    },
+    {
+        "word": "Legal Compliance",
+        "description": "法的コンプライアンスとは、企業や組織が関連する法律や規制に従って活動することを保証することです。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録する分散型で分散型のデジタルリーガです。"
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "スマートコントラクトとは、契約の条項が直接コードで書かれている自発的に履行される契約です。"
+    },
+    {
+        "word": "Legal Operations Software",
+        "description": "法務操作ソフトウェアは、事項管理、請求書、報告などの法務操作機能をサポートするために特別に設計されたソフトウェアソリューションを指します。"
+    },
+    {
+        "word": "Legal Analytics",
+        "description": "法的分析とは、データ分析技術を法的データに適用して洞察を獲得し、意思決定を伝えることを意味します。"
+    },
+    {
+        "word": "Legal Chatbot",
+        "description": "法的チャットボットは、法律的な問い合わせをサポートし、法的な情報を提供するために特別に設計されたチャットボットです。"
+    },
+    {
+        "word": "Legal Document Review",
+        "description": "法的文書レビューは、法的手続きの際、特に発見段階において、法的文書の関連性、特権、および反応性を調べるプロセスです。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、データベース、ソフトウェア、および分析を含むコンピューティングサービスのインターネット上の提供です。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステムやネットワークを不正アクセス、使用、開示、干渉、変更、または破壊から保護することに焦点を当てています。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人識別情報(PII)の保護、およびデータの合法的な取り扱いおよび保存を指します。"
+    },
+    {
+        "word": "Legal Document Automation",
+        "description": "法文書自動化は、テンプレートとルールを使用して法文書の作成と生成を自動化します。"
+    },
+    {
+        "word": "Legal Hold",
+        "description": "法的保有は、法的訴訟や捜査に関連する可能性のある電子情報を保存するプロセスです。"
+    },
+    {
+        "word": "Legal Research Software",
+        "description": "法的研究ソフトウェアとは、法的データベースやツールへのアクセスを提供することによって法的研究を支援するコンピュータプログラムを指します。"
+    },
+    {
+        "word": "Legal Practice Management",
+        "description": "法律実践管理は、弁護士事務所の運営と管理に使用されるソフトウェアとツールを指します。"
+    },
+    {
+        "word": "Cybersecurity Incident Response",
+        "description": "Cybersecurity Incident Responseは、サイバーセキュリティ侵害または事件の結果を解決し、管理するプロセスです。"
+    },
+    {
+        "word": "Legal Technology",
+        "description": "法律技術は、しばしばLegaltechとして短縮され、法律サービス、プロセス、および操作を改善するための技術の使用を指します。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革とは、デジタル技術を組織のあらゆる側面に統合し、事業を改善し、顧客に価値を提供することです。"
+    },
+    {
+        "word": "Legal Innovation",
+        "description": "法律革新とは、法律や法律サービスの実践を改善するための新しい方法、技術、アプローチの開発と実施を指します。"
+    },
+    {
+        "word": "Knowledge Management",
+        "description": "知識管理は、組織内の知識と専門知識のキャプチャ、組織、共有を含みます。"
+    },
+    {
+        "word": "Online Dispute Resolution",
+        "description": "オンライン紛争解決(ODR)とは、オンラインプラットフォームやプロセスを通じて当事者間の紛争解決を容易にするための技術の使用です。"
+    },
+    {
+        "word": "Legal Marketing",
+        "description": "法的マーケティングとは、弁護士事務所や法律専門家が顧客を獲得し、保持するために行うプロモーションおよびブランド活動を指します。"
+    },
+    {
+        "word": "Legal Tech Startup",
+        "description": "Legal Tech Startupは、法律業界に特化した革新的な技術ソリューションを開発し、提供する新設の会社です。"
+    },
+    {
+        "word": "Legal Compliance Software",
+        "description": "法的コンプライアンスソフトウェアとは、コンプライアンス管理タスクを自動化し、簡素化し、法的および規制要件の遵守を確保するように設計されたソフトウェアソリューションを指します。"
+    },
+    {
+        "word": "Legal Document Management",
+        "description": "法的文書管理は、法的文書の組織化された保存、取得、バージョン制御、および共有を含む。"
+    },
+    {
+        "word": "Legal Entity Management",
+        "description": "法人の管理には、企業やパートナーシップなどの法人の管理と遵守が含まれます。"
+    },
+    {
+        "word": "Legal Service Delivery",
+        "description": "法律サービスの提供は、従来の弁護士事務所、内部の法務部門、および代替法務サービスプロバイダーなどのさまざまなモデルを含む顧客に法律サービスを提供する方法を指します。"
+    },
+    {
+        "word": "Legal Process Outsourcing",
+        "description": "法的プロセスアウトソーシング(LPO)は、特定の法的タスクまたはプロセスを、しばしば異なる管轄区域に位置する外部サービスプロバイダーに委託することを意味します。"
+    },
+    {
+        "word": "Legal Billing Software",
+        "description": "法的請求ソフトウェアは、法的サービスの請求および請求プロセスを自動化し、管理します。"
+    },
+    {
+        "word": "Legal Document Collaboration",
+        "description": "法文書協力は、複数の当事者が法文書に協力し、同時に編集、コメント、バージョン制御を行うことを可能にします。"
+    },
+    {
+        "word": "Legal Research Platform",
+        "description": "法的研究プラットフォームは、法的研究リソースやツールへのアクセスを提供するソフトウェアアプリケーションまたはオンラインサービスです。"
+    },
+    {
+        "word": "Electronic Signatures",
+        "description": "電子署名、電子署名とも呼ばれる電子署名は、文書の内容に同意する意思または同意する意図の電子的な指示です。"
+    },
+    {
+        "word": "Legal Assisted Intelligence (Lai)",
+        "description": "Legal Assisted Intelligence(LAI)とは、AIやその他の先進的なテクノロジーを使用して、法律専門家の能力を向上させ、彼らに仕事を改善するためのツールや洞察力を提供することを指します。"
+    },
+    {
+        "word": "Legal Process Automation",
+        "description": "法的プロセス自動化は、法的プロセスにおける繰り返しの手動のタスクを自動化し、コストを削減し、効率性を向上させ、エラーを最小限に抑えるための技術を使用することです。"
+    },
+    {
+        "word": "Legal Case Management",
+        "description": "法的ケース管理は、法的ケースの進行と詳細を管理するために使用されるツールとプロセスを指します。"
+    },
+    {
+        "word": "Legal Data Analytics",
+        "description": "Legal Data Analytics は、法的データの抽出、分析、および視覚化を含み、法的問題における洞察を獲得し、意思決定を改善します。"
+    },
+    {
+        "word": "Legal Knowledge Management",
+        "description": "法律知識の管理は、法律事務所または法務部門内の法律知識と専門知識をキャプチャ、組織し、共有することを意味します。"
+    },
+    {
+        "word": "Legal Practice Automation",
+        "description": "法律実践の自動化は、技術とソフトウェアのツールを使用して、通常の法的タスクを自動化し、弁護士がより高価値の仕事に焦点を当てることを可能にします。"
+    },
+    {
+        "word": "Legal Research Service",
+        "description": "法律研究サービスは、法的訴訟法、立法、法的コメントを含む法律研究リソースの包括的なコレクションへのアクセスを提供するサブスクリプションベースのサービスです。"
+    },
+    {
+        "word": "Legal Technology Consultant",
+        "description": "法律技術コンサルタントは、法律業界における技術の効果的な使用に関する専門知識と指導を提供し、法律技術ソリューションの実装における企業や組織を支援する専門家です。"
+    },
+    {
+        "word": "Legal Drafting Software",
+        "description": "Legal Drafting Softwareは、弁護士や法律専門家が法律文書を作成し、編集するのに役立つ専門のソフトウェアツールで、正確性、一貫性、効率性を確保します。"
+    },
+    {
+        "word": "Legal Operations Manager",
+        "description": "法律業務マネージャーは、効率性、コスト効率性、戦略的調和に焦点を当てた法律部門の行政および運用機能を監督し、最適化する責任を負います。"
+    },
+    {
+        "word": "Legal Research And Analytics Software",
+        "description": "法的研究と分析ソフトウェアは、高度なデータ分析ツールと法的研究能力を組み合わせ、弁護士が関連する法的情報を検索し、大量の法的データから洞察を得ることができます。"
+    },
+    {
+        "word": "Legal Practice Management Software",
+        "description": "法律実践管理ソフトウェアは、顧客および事項管理、タイミング管理、請求、レポートを含む実践のすべての側面を管理するために法律事務所や法律専門家をサポートするように設計された包括的なソフトウェアソリューションです。"
+    },
+    {
+        "word": "E-Discovery",
+        "description": "E-Discoveryは、法的手続きのための電子的に保存された情報(ESI)の識別、収集、生成のプロセスです。"
+    },
+    {
+        "word": "Electronic Billing",
+        "description": "電子請求は、法的サービスのための電子的な請求書の生成および送信のプロセスです。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、3次元環境のコンピュータ生成シミュレーションで、ユーザーが相互作用し、探求することができる。"
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality(AR)は、画像、ビデオ、または3Dモデルなどのデジタル情報を現実世界に表します。"
+    },
+    {
+        "word": "Data Analysis",
+        "description": "データ分析は、パターン、洞察、およびトレンドを発見するためにデータを調べ、解釈することを意味します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization involves presenting data in visual formats such as charts, graphs, and maps to facilitate understanding and analysis. データビジュアル化は、図、グラフ、マップなどの視覚的な形式でデータを提示し、理解と分析を促進します。"
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットを使用して繰り返しのタスクやプロセスを自動化します。"
+    },
+    {
+        "word": "Compliance Management",
+        "description": "コンプライアンスマネジメントとは、組織内の法律、規制、および内部ポリシーの遵守を確保することです。"
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "クラウドストレージは、インターネットを介してリモートサーバーにデータを保存し、アクセスすることを可能にするサービスです。"
+    },
+    {
+        "word": "Data Extraction",
+        "description": "データ抽出は、構造化されたおよび非構造化されたデータソースから特定の情報を取得することです。"
+    },
+    {
+        "word": "Technology Assisted Review",
+        "description": "技術支援レビュー(TAR)は、法的レビューのための文書の優先順位と分類にソフトウェアアルゴリズムを使用します。"
+    },
+    {
+        "word": "Case Management",
+        "description": "ケース管理は、タスク、文書、期限を含む法的ケースの組織と追跡を含む。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティは、不正なアクセス、使用、開示、干渉、変更、または破壊からデータを保護することに焦点を当てています。"
+    },
+    {
+        "word": "Regulatory Compliance",
+        "description": "規制コンプライアンスとは、組織が適用されるすべての法律、規制、およびガイドラインに従うことを保証することです。"
+    },
+    {
+        "word": "Data Management",
+        "description": "データ管理は、そのライフサイクルを通じてデータの収集、組織、保存、および管理を含みます。"
+    },
+    {
+        "word": "Document Management",
+        "description": "ドキュメント管理には、電子文書やファイルの作成、保存、取得、制御が含まれます。"
+    },
+    {
+        "word": "Legal Hold Software",
+        "description": "法的保有ソフトウェアは、法的保有プロセスを自動化し、合理化し、法的要件の遵守を確保します。"
+    },
+    {
+        "word": "Legal Calendar Management",
+        "description": "法的カレンダー管理には、重要な法的日付、期限、イベントの追跡と管理が含まれます。"
+    },
+    {
+        "word": "Legal Risk Management",
+        "description": "法的リスク管理とは、潜在的な法的問題や責任を最小限に抑えるために、法的リスクを特定し、軽減することを意味します。"
+    },
+    {
+        "word": "Litigation Support",
+        "description": "訴訟サポートとは、弁護士や法律チームが訴訟の管理に役立つために使用されるサービスと技術を指します。"
+    },
+    {
+        "word": "Intellectual Property Management",
+        "description": "知的財産管理は、知的財産の保護、維持、および貨幣化を含む。"
+    },
+    {
+        "word": "Legal Hold Notification",
+        "description": "法的保有通知は、法的な事項に関して潜在的に関連するESIを保存する必要性について保管者とユーザーに通知します。"
+    },
+    {
+        "word": "Litigation Management Software",
+        "description": "訴訟管理ソフトウェアは、組織が訴訟のさまざまな段階と側面を管理するのに役立ちます。"
+    },
+    {
+        "word": "Contract Analytics",
+        "description": "契約分析は、AIと機械学習を使用して、分析とレビューのために契約から重要なデータと洞察を抽出します。"
+    },
+    {
+        "word": "Legal Chatbots",
+        "description": "法的チャットボットは、ユーザーに法的情報、ガイド、サポートを提供するように設計されたAI駆動型の仮想アシスタントです。"
+    },
+    {
+        "word": "Legal Data Analysis",
+        "description": "法的データ分析とは、法的データを調査してパターン、傾向、洞察を特定することを意味します。"
+    },
+    {
+        "word": "Rule-Based Systems",
+        "description": "ルールベースのシステムは、事前に定義されたルールと論理のセットを使用して、特定のドメインで意思決定やタスクを実行します。"
+    },
+    {
+        "word": "Legal Training",
+        "description": "法的訓練は、弁護士、法律専門家、および法律の学生を様々な法的トピックとスキルで教育することを含みます。"
+    },
+    {
+        "word": "Legal Chatrooms",
+        "description": "法律チャットルームは、法律専門家が知識を交換し、法律問題を議論し、アドバイスを求めるためのオンラインプラットフォームを提供します。"
+    },
+    {
+        "word": "Legal Data Extraction",
+        "description": "法的データ抽出は、裁判所の文書や公的記録などのさまざまな情報源から特定の法的情報を収集することです。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、人間と会話をシミュレートするように設計されたコンピュータプログラムで、通常は情報を提供したり、質問に答えるために使用されます。"
+    },
+    {
+        "word": "Electronic Signature",
+        "description": "電子署名は、電子文書に署名するために使用される人の手書きの署名のデジタル表示です。"
+    },
+    {
+        "word": "Virtual Law Firm",
+        "description": "仮想弁護士事務所は、主に物理的なオフィス空間なしでオンラインで運営する弁護士事務所です。"
+    },
+    {
+        "word": "Legal Technology Vendor",
+        "description": "法律技術プロバイダーは、法律業界向けに技術製品やサービスを開発・販売する会社です。"
+    },
+    {
+        "word": "Data Migration",
+        "description": "データ移転とは、あるシステムまたはストレージデバイスから別のデバイスへのデータの転送を指します。"
+    },
+    {
+        "word": "Collaboration Tools",
+        "description": "コラボレーションツールは、個人やチームが一緒に作業し、情報を共有することを可能にするソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Contract Automation",
+        "description": "契約自動化は、契約の作成、交渉、管理を簡素化し、自動化するためのテクノロジーの使用を含みます。"
+    },
+    {
+        "word": "Data Protection",
+        "description": "データ保護とは、機密情報を不正アクセス、使用、開示、または破壊から保護することです。"
+    },
+    {
+        "word": "Text Mining",
+        "description": "テキストマイニングは、構造化されていない大量のテキストデータから有意義な情報を抽出するプロセスです。"
+    },
+    {
+        "word": "Legal Data Privacy",
+        "description": "法的データプライバシーとは、個人および機密データの保護のための法的および規制上の要件を指します。"
+    },
+    {
+        "word": "Legal Knowledge Base",
+        "description": "法的知識ベースは、法的情報、リソース、および先例の集中的なリポジトリです。"
+    },
+    {
+        "word": "E-Notary",
+        "description": "E-Notaryは、一般的にデジタルツールやプラットフォームを使用して、電子的にノータリゼーションを実行する公的公証人です。"
+    },
+    {
+        "word": "Legal Research Database",
+        "description": "法的研究データベースは、法的研究目的で検索可能でアクセス可能な法的文書とデータのコレクションです。"
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governanceとは、組織内のデータの可用性、完全性、およびセキュリティの全体的な管理です。"
+    },
+    {
+        "word": "Legaltech Startup",
+        "description": "Legaltech Startupは、法律技術ソリューションの開発と提供に焦点を当てた新設企業です。"
+    },
+    {
+        "word": "Legal Ai",
+        "description": "法的AIは、法的プロセスを自動化し、強化するために法の分野におけるAI技術と技術の適用を指します。"
+    },
+    {
+        "word": "Legal Practice Software",
+        "description": "法律実践ソフトウェアは、法律事務所や法律専門家が実践を管理するのに役立つように設計されたソフトウェアソリューションです。"
+    },
+    {
+        "word": "Legal Data Management",
+        "description": "法的データ管理は、法的データや情報の収集、組織、保存、分析を含む。"
+    },
+    {
+        "word": "Document Review",
+        "description": "文書レビューは、法的手続きの準備における文書の関連性、特権、および応答性の分析のプロセスです。"
+    },
+    {
+        "word": "Legal Scanning",
+        "description": "法的スキャンは、物理的な文書をデジタル形式に変換し、より簡単な保存、検索、共有を可能にします。"
+    }
+]

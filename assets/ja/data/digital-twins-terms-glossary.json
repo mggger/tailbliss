@@ -1,0 +1,498 @@
+[
+    {
+        "word": "Digital Twin",
+        "description": "デジタル双子とは、物理的な資産、プロセス、またはシステムの仮想表示であり、物理的な特徴、行動、およびパフォーマンスをリアルタイムで反映します。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および接続性で組み込まれた物理的なオブジェクトのネットワークを指し、データを収集し交換することができます。"
+    },
+    {
+        "word": "Simulation",
+        "description": "シミュレーションとは、現実世界のシステムやプロセスの時間の経過とともに機能する模または表現です。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データ分析とは、データを調べ、解釈して洞察、パターン、およびトレンドを生成するプロセスです。"
+    },
+    {
+        "word": "Virtualization",
+        "description": "仮想化は、サーバー、ストレージデバイス、オペレーティングシステム、またはネットワークなどの物理的なリソースまたは環境の仮想バージョンを作成するプロセスです。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "予測メンテナンスは、データ分析と機械学習技術を使用して、機器や資産が故障する可能性を予測し、積極的なメンテナンス活動を計画することができます。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、環境からの物理的な入力を検出し、それに反応し、それを電気信号に変換する装置です。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、およびアプリケーションを含むコンピューティングサービスをインターネットを通じて提供し、接続されたデバイスからオンデマンドアクセスを可能にします。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステム、ネットワーク、およびデータをデジタル攻撃、不正アクセス、損傷または破壊から保護する実践を指します。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理ツールや技術を使用して簡単に管理、処理、分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、機械がデータから学び、明示的にプログラミングされずにパフォーマンスを向上させることを可能にする人工知能(AI)のサブセットです。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションであり、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Network",
+        "description": "ネットワークは、コンピュータ、サーバー、ルーター、スイッチ、またはセンサーなどの相互接続されたノードまたはデバイスの集まりで、データを交換し、相互に通信します。"
+    },
+    {
+        "word": "Real-Time Monitoring",
+        "description": "リアルタイムモニタリングは、センサーやその他のソースからのデータの継続的かつ即時的な収集と分析を含み、最新の情報を提供し、迅速な意思決定を行う能力を提供します。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、コンピューティングとデータストレージを必要とする場所に近づける分散型コンピューティングパラダイムであり、ネットワークのエッジでデータを処理することによって遅延と帯域幅の使用を減らす。"
+    },
+    {
+        "word": "Digital Thread",
+        "description": "デジタルトレードとは、製品のライフサイクル全体を通じて、設計と製造から運用およびメンテナンスに至るまで、データと情報のシームレスな流れです。"
+    },
+    {
+        "word": "Cloud Services",
+        "description": "クラウドサービスは、コンピューティングパワー、ストレージ、データベース、ソフトウェア、分析など、インターネットを通じて提供されるサービスを指します。"
+    },
+    {
+        "word": "User Interface",
+        "description": "ユーザインターフェイス(UI)は、ユーザが相互作用し、アクションを実行するソフトウェア、アプリケーション、またはシステムの視覚的およびインタラクティブな部分です。"
+    },
+    {
+        "word": "Augmented Reality",
+        "description": "Augmented Reality (AR) は、画像、ビデオ、または 3D モデルなどのコンピュータ生成コンテンツをリアルな環境に圧倒する技術です。"
+    },
+    {
+        "word": "Mixed Reality",
+        "description": "混合現実(MR)は、物理的およびデジタルオブジェクトが共存し、リアルタイムで相互作用する新しい環境と視覚化を生み出すために、現実世界と仮想世界の合併です。"
+    },
+    {
+        "word": "Digital Integration",
+        "description": "デジタル統合は、さまざまなデジタルシステム、アプリケーション、データソースを接続し、統合し、シームレスなデータフローとコラボレーションを可能にするプロセスです。"
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "クラウドストレージは、ユーザーがインターネットを介して、通常、第三者プロバイダーがホストするリモートサーバー上のデータとファイルを保存し、アクセスできるサービスです。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data visualization involves the creation of visual representations such as charts, graphs, or maps to communicate information or insights. データビジュアル化は、グラフ、グラフ、または地図などのビジュアルな表現の作成を含み、情報や洞察を伝達する。"
+    },
+    {
+        "word": "Api",
+        "description": "アプリケーションプログラミングインターフェイス(API)は、さまざまなソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Digital Identity",
+        "description": "デジタルアイデンティティとは、個人、組織、またはデバイスをユニークに識別するオンライン表示または属性を指します。"
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "センサー融合は、複数のセンサーからのデータを組み合わせ、環境やシステムのより正確かつ包括的な表現を作成するプロセスです。"
+    },
+    {
+        "word": "Data Science",
+        "description": "データ科学は、科学的方法、プロセス、アルゴリズム、およびシステムを組み合わせて、構造化されたデータと非構造化されたデータから知識と洞察を抽出する学際的な分野です。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "機械ビジョンは、機械が画像やビデオから視覚情報を取得、分析、解釈することを可能にする技術です。"
+    },
+    {
+        "word": "Modeling And Simulation",
+        "description": "モデリングとシミュレーションは、現実世界のシステムやプロセスの行動を表し、分析するための数学的または計算モデルを作成するプロセスです。"
+    },
+    {
+        "word": "Data Management",
+        "description": "データ管理には、データのライフサイクルを通じてデータを収集、保存、組織、統合、維持するためのさまざまなプロセス、技術、ポリシーが含まれます。"
+    },
+    {
+        "word": "Digital Infrastructure",
+        "description": "デジタルインフラは、デジタルサービス、プラットフォーム、またはネットワークの機能および運用に必要な基礎となる技術的基礎とシステムを指します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人または機密情報の保護と適切な取り扱いを意味し、個人の権利と規制要件を尊重する方法で収集、使用、保管することを保証する。"
+    },
+    {
+        "word": "Digital Ethics",
+        "description": "デジタル倫理とは、デジタル技術とデータの適切かつ責任ある使用を支配する道徳的、倫理的原則とガイドラインを指します。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革とは、デジタル技術を組織のあらゆる側面に統合し、組織がどのように機能し、顧客に価値を提供するかを根本的に変えることです。"
+    },
+    {
+        "word": "Cloud-Based Services",
+        "description": "クラウドベースのサービスとは、通常、第三者によって提供されるリモートサーバーからインターネット経由でホストされ、アクセスされるサービスまたはアプリケーションです。"
+    },
+    {
+        "word": "Data Governance",
+        "description": "データ管理は、組織内のデータ資産の全体的な管理と制御であり、データの品質、完全性、セキュリティを確保するためのポリシー、手順、ガイドラインを含む。"
+    },
+    {
+        "word": "Real-Time Analytics",
+        "description": "リアルタイム分析とは、生成または受信されたデータの分析であり、即時的な洞察を提供し、迅速な意思決定を可能にします。"
+    },
+    {
+        "word": "Digital Strategy",
+        "description": "デジタル戦略とは、ビジネス目標や目標を達成するためにデジタル技術や能力を活用するための包括的な計画とアプローチを指します。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースやシステムからデータを統一された視点に組み合わせて、組織がデータを包括的に理解できるようにするプロセスです。"
+    },
+    {
+        "word": "Digital Security",
+        "description": "デジタルセキュリティは、デジタル資産、システム、ネットワークを不正アクセス、脅威、攻撃から保護することに焦点を当てています。"
+    },
+    {
+        "word": "Digital Framework",
+        "description": "デジタルフレームワークは、デジタル能力やイニシアチブの実装、管理、進化のための構造とガイドラインを提供します。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネットは、相互に接続され、データを交換できる物理的なデバイスのネットワークを指します。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実は、現実的または想像上の環境のコンピュータ生成シミュレーションであり、現実的または物理的な方法で相互作用することができる。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "拡張現実は、コンピュータによって生成された情報が現実世界に覆われている現実の拡張バージョンです。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習は、機械がデータから学び、最小限の人間の介入でパフォーマンスを向上させることに焦点を当てたAIのサブセットです。"
+    },
+    {
+        "word": "Smart Manufacturing",
+        "description": "スマート製造は、高度なテクノロジー、IoT、およびデータ分析を使用して製造プロセスを最適化し、効率を向上させることを指します。"
+    },
+    {
+        "word": "4D Modeling",
+        "description": "4Dモデリングは、プロジェクトの進行を視覚化するために、時間ベースのスケジュールおよびシミュレーションデータと3Dコンピュータ支援デザイン(CAD)モデルの統合です。"
+    },
+    {
+        "word": "Cyber-Physical Systems",
+        "description": "サイバー物理システムは、物理的部品、センサー、動作装置、および互いに通信し、相互作用するソフトウェアの統合されたシステムです。"
+    },
+    {
+        "word": "Semantic Interoperability",
+        "description": "セマンティック相互運用性とは、異なるシステムやプラットフォームが効果的にデータを交換し、解釈する能力を指し、同時に情報の意図と意図を維持することを指します。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティとは、不正なアクセス、使用、開示、干渉、変更、または破壊からデータを保護することを指します。"
+    },
+    {
+        "word": "Fog Computing",
+        "description": "霧コンピューティングは、クラウドコンピューティングの能力をネットワークの端まで拡張する分散型コンピューティングインフラストラクチャです。"
+    },
+    {
+        "word": "Digital Asset Management",
+        "description": "デジタル資産管理(DAM)は、画像、ビデオ、文書、またはクリエイティブファイルなどのデジタル資産の保存、組織、および取得を含みます。"
+    },
+    {
+        "word": "Digital Supply Chain",
+        "description": "デジタルサプライチェーンは、商品、サービス、情報の流れの管理、可視性、最適化を可能にする相互接続されたシステム、プロセス、および利害関係者のネットワークです。"
+    },
+    {
+        "word": "Machine-To-Machine (M2M)",
+        "description": "機械対機械とは、人間の介入なしにデバイス間の直接通信を指し、自動的なデータ交換と意思決定を可能にします。"
+    },
+    {
+        "word": "Semantic Modeling",
+        "description": "セマンティックモデリングは、意味と文脈の高いレベルで現実世界の実体とその関係を表すコンピュータモデルを作成するプロセスです。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、トランザクションの安全で透明で不正な記録と検証を可能にする分散型帳簿技術です。"
+    },
+    {
+        "word": "Digital Twin Operator",
+        "description": "デジタル・ツイン・オペレーターは、デジタル・ツインの活動とパフォーマンスをそのライフサイクルを通じて管理し監督する責任を負います。"
+    },
+    {
+        "word": "Dynamic Digital Twin",
+        "description": "ダイナミック・デジタル・ツインは、現状を反映するためにリアルタイムのデータで継続的に更新される物理システムの進化する表現です。"
+    },
+    {
+        "word": "Digital Twin Lifecycle",
+        "description": "デジタル双子のライフサイクルとは、デジタル双子の作成、展開、運用、引退の段階を指します。"
+    },
+    {
+        "word": "Geospatial Data",
+        "description": "地理空間データとは、座標、住所、地図、衛星画像などの地球上の特定の場所に関連するデータを指します。"
+    },
+    {
+        "word": "Digital Twin Platform",
+        "description": "デジタルツインプラットフォームは、デジタルツインの作成、管理、統合を可能にするソフトウェアインフラストラクチャです。"
+    },
+    {
+        "word": "Process Optimization",
+        "description": "プロセス最適化は、プロセスのパフォーマンスを評価し、不効率を特定し、効率性と生産性を最大化するための変更を実施することによってプロセスを改善する実践です。"
+    },
+    {
+        "word": "Operational Technology (Ot)",
+        "description": "操作技術とは、通常、産業環境で使用される物理的プロセスや資産を監視し、制御するハードウェアおよびソフトウェアシステムを指します。"
+    },
+    {
+        "word": "Product Lifecycle Management (Plm)",
+        "description": "製品ライフサイクルマネジメントは、概念と設計から製造、サービス、処分まで、製品の全ライフサイクルを管理するプロセスです。"
+    },
+    {
+        "word": "Digital Continuity",
+        "description": "デジタル継続性とは、テクノロジーの変化やシステムの交換にかかわらず、デジタル情報を時間とともにアクセスし、使用し、信頼する能力です。"
+    },
+    {
+        "word": "Industrial Internet Of Things (Iiot)",
+        "description": "物の産業インターネットは、製造、輸送、エネルギーなどの産業環境におけるIoT技術とコンセプトの適用を指します。"
+    },
+    {
+        "word": "Digital Twin Modeling",
+        "description": "デジタルツインモデリングは、3Dモデル、データ、およびシミュレーションアルゴリズムを使用して物理的なオブジェクト、システム、またはプロセスのデジタル表示を作成するプロセスです。"
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "Distributed ledger は、ネットワーク内の複数のノードで共有され同期されるデータベースであり、分散的で安全なレコード保持を可能にします。"
+    },
+    {
+        "word": "Edge Analytics",
+        "description": "エッジアナリティクスは、ネットワークのエッジまたはその近くのデータを分析し、遅延を最小限に抑え、リアルタイムの意思決定を可能にします。"
+    },
+    {
+        "word": "Cloud-To-Edge Continuum",
+        "description": "Cloud-to-edge continuumは、集中型クラウドサーバーからエッジデバイスまで、データを処理し分析するために共同作業するコンピューティングリソースのスペクトルを指します。"
+    },
+    {
+        "word": "Digital Thread Visualization",
+        "description": "Digital thread visualization is the graphical representation of the digital thread, showing the connections, relationships, and data flow between different stages of a product's life cycle. デジタルトレイドビジュアル化は、製品のライフサイクルの異なる段階間の接続、関係、およびデータフローを示すデジタルトレイドのグラフィック表示です。"
+    },
+    {
+        "word": "Digital Replica",
+        "description": "デジタルレプリカは、分析、最適化、および意思決定のために使用できる物理的資産、システム、またはプロセスの高信頼性の仮想表示です。"
+    },
+    {
+        "word": "Model-Based Systems Engineering (Mbse)",
+        "description": "モデルベースのシステムエンジニアリングは、ライフサイクル全体を通じてコンピュータモデルを使用して複雑なシステムを設計、分析、管理するためのアプローチです。"
+    },
+    {
+        "word": "Human-In-The-Loop",
+        "description": "Human-in-the-loopとは、自動化されたコンポーネントやAI駆動されたコンポーネントと組み合わせて、人間の相互作用や意思決定を伴うシステムまたはプロセスを指します。"
+    },
+    {
+        "word": "Digital Thread Integration",
+        "description": "デジタル・トレイド・インテグレーションは、異なるデジタル・ツイン・モデル、データソース、およびシステムを接続し、統合し、シームレスなデータ交換とコラボレーションを可能にするプロセスです。"
+    },
+    {
+        "word": "Digital Twin Analytics",
+        "description": "デジタル・ツイン・アナリティクスは、データと分析技術を使用して洞察を獲得し、デジタル・ツインのパフォーマンスと行動について明確な決定を下すことを意味します。"
+    },
+    {
+        "word": "Physical Asset",
+        "description": "物理的資産とは、ビジネス、産業、または組織の運営に使用される物質的なオブジェクトまたはリソースを指します。"
+    },
+    {
+        "word": "Digital Engineering",
+        "description": "デジタルエンジニアリングは、デジタルツール、技術、プロセスを使用して物理的な製品、プロセス、およびシステムを設計、シミュレーション、最適化します。"
+    },
+    {
+        "word": "Digital Thread Management",
+        "description": "デジタル・トレイム・マネジメントとは、デジタル・ツイン・モデルの作成、展開、維持、その他のシステムとの統合を監督し、調整することを意味します。"
+    },
+    {
+        "word": "Digital Twin Visualization",
+        "description": "デジタル・ツイン・ビジュアライゼーションは、デジタル・ツインのグラフィカルな表現であり、しばしば3Dモデルを使用して、その構造、行動、関係の視覚的な理解を提供します。"
+    },
+    {
+        "word": "Digital Twin Monitoring",
+        "description": "デジタル双子モニタリングは、センサーやシステムからリアルタイムのデータを収集し、分析し、デジタル双子のパフォーマンス、健康、行動を監視します。"
+    },
+    {
+        "word": "Digital Twin Simulation",
+        "description": "デジタルツインシミュレーションは、数学的モデル、アルゴリズム、リアルタイムのデータを使用して、異なるシナリオでデジタルツインの行動とパフォーマンスをシミュレートします。"
+    },
+    {
+        "word": "Machine Reasoning",
+        "description": "機械推論とは、機械またはAIシステムが、人間の推論に類似して、データや情報から分析、解釈、結論を出す能力である。"
+    },
+    {
+        "word": "Digital Twin Integration",
+        "description": "デジタル双子統合は、IoTプラットフォーム、データ分析ツール、エンタープライズシステムなどの他のシステムとデジタル双子モデルの接続と統合のプロセスです。"
+    },
+    {
+        "word": "Digital Twin Lifecycle Management",
+        "description": "デジタル双子のライフサイクル管理は、デジタル双子の作成と維持に関連する活動とプロセスを計画、実行、監視、制御することです。"
+    },
+    {
+        "word": "Distributed Cloud",
+        "description": "分散型クラウドは、コンピューティングリソースが複数の場所に分散されている伝統的なクラウドコンピューティングモデルの分散型拡張です。"
+    },
+    {
+        "word": "Data Interoperability",
+        "description": "データの相互運用性とは、異なるデータシステム、フォーマット、および標準が正確かつ効率的にデータを交換、解釈、使用する能力です。"
+    },
+    {
+        "word": "Digital Twin Optimization",
+        "description": "デジタル双子の最適化は、デジタル双子のパフォーマンス、効率性、効率性を向上させるためのデータ分析、シミュレーション、および最適化技術を使用することを意味します。"
+    },
+    {
+        "word": "Digital Twin Collaboration",
+        "description": "デジタル・ツイン・コラボレーションは、デジタル・ツイン・モデル、データ、洞察を作成、管理、最適化するために複数の利害関係者と協力するプロセスです。"
+    },
+    {
+        "word": "Digital Ecosystem",
+        "description": "デジタルエコシステムは、組織、テクノロジー、プラットフォーム、および個人を含む相互接続された団体のコミュニティで、デジタルで協力し、相互作用する。"
+    },
+    {
+        "word": "Physical-Digital Integration",
+        "description": "物理デジタル統合とは、物理的資産、システム、およびプロセスがデジタル双子やIoTプラットフォームなどのデジタルパートナーとシームレスに統合されることを指します。"
+    },
+    {
+        "word": "Digital Twin Control",
+        "description": "デジタルツインコントロールは、リアルタイムのデータ、分析、および自動化技術を使用して、物理システムの行動とパフォーマンスをリモートで監視し、制御します。"
+    },
+    {
+        "word": "Sensor",
+        "description": "センサーは、環境からの物理的な入力を検出し、それらを電気またはデジタル信号に変換する装置です。"
+    },
+    {
+        "word": "Data",
+        "description": "データは、情報を表す純粋な事実、数字、または観測を指します。"
+    },
+    {
+        "word": "Cad",
+        "description": "コンピュータ支援デザイン(CAD)とは、コンピュータシステムを使用して設計の作成、変更、分析、または最適化を支援することを指します。"
+    },
+    {
+        "word": "Connectivity",
+        "description": "接続性とは、デバイスまたはシステムが相互に接続またはリンクを確立し、維持し、データ交換と通信を可能にする能力を指します。"
+    },
+    {
+        "word": "Vizualization",
+        "description": "視覚化は、データや情報を提示するためのグラフ、グラフ、またはマップなどの視覚的表現の作成を含みます。"
+    },
+    {
+        "word": "Virtual Reality",
+        "description": "仮想現実(VR)は、コンピュータによって生成された環境やシミュレーションを使用して、現実的で浸透した体験を提供する技術です。"
+    },
+    {
+        "word": "Digitalization",
+        "description": "デジタル化は、情報やタスクをアナログ形式からデジタル形式に変換し、デジタル表示、ストレージ、および処理を可能にするプロセスです。"
+    },
+    {
+        "word": "Data Monetization",
+        "description": "データの貨幣化は、データを販売、ライセンス、または内部または外部の利害関係者と交換する機会を特定することによって、データから財務的価値を生成するプロセスです。"
+    },
+    {
+        "word": "Semantic Model",
+        "description": "Semantic model is a representation of data or information that indicates the meaning, relationships, and structure of the entities and attributes. セマンティック・モデルは、データや情報の表示であり、エンティティや属性の意味、関係、構造を示します。"
+    },
+    {
+        "word": "Data Warehouse",
+        "description": "データ倉庫は、複数のソースから構造化された、歴史的、統合されたデータを格納し、効率的なレポート、分析、および意思決定を可能にします。"
+    },
+    {
+        "word": "Data Lake",
+        "description": "データ湖は、さまざまなソースからの原料および未処理データを保管する大規模な集中的なストレージであり、柔軟な探査、分析、およびデータ処理を可能にします。"
+    },
+    {
+        "word": "Data Quality",
+        "description": "データの品質は、データの正確性、完全性、一貫性、信頼性を指します。"
+    },
+    {
+        "word": "Data Migration",
+        "description": "Data migration is the process of transferring data from one system or format to another, typically involving data extraction, transformation, and loading. データの移行は、通常、データの抽出、変換、およびロードを含む、一つのシステムまたは形式から別のデータを転送するプロセスです。"
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "タイムシリーズ分析は、連続した時間間隔で収集されたデータのパターン、トレンド、および関係を分析するための統計技術です。"
+    },
+    {
+        "word": "Data Integration Platform",
+        "description": "データ統合プラットフォームは、さまざまなソースからのデータの抽出、変換、ロード(ETL)を中央システムまたはデータベースに可能にするソフトウェアソリューションです。"
+    },
+    {
+        "word": "Data Governance Framework",
+        "description": "データ管理枠組みとは、組織がデータ資産をどのように管理し、管理するかを定義する方針、プロセス、およびコントロールの構造化されたセットです。"
+    },
+    {
+        "word": "Data Catalog",
+        "description": "データカタログは、組織内のデータ資産の構造化された記録またはディレクトリで、利用可能なデータに関するメタデータ、記述、および情報を提供します。"
+    },
+    {
+        "word": "Data Engineering",
+        "description": "データエンジニアリングは、データの収集、保存、および処理のためのインフラストラクチャ、システム、およびプロセスを設計、構築、管理する規律です。"
+    },
+    {
+        "word": "Digital Footprint",
+        "description": "デジタル足跡とは、デジタルサービス、プラットフォーム、またはデバイスを使用する際に個人または組織が残したデータや活動の痕跡です。"
+    },
+    {
+        "word": "Data Stewardship",
+        "description": "データ管理とは、組織内のデータの品質、可用性、セキュリティの管理と確保に関連する責任と活動を指します。"
+    },
+    {
+        "word": "Data Anonymization",
+        "description": "データ匿名化とは、個人のプライバシーを保護し、データ保護規制を遵守するために、データから個人識別情報(PII)を削除または変更するプロセスです。"
+    },
+    {
+        "word": "Digital Trust",
+        "description": "デジタル信頼とは、デジタル情報やサービスの使用、共有、交換に関連する信頼性、信頼性、誠実性を指します。"
+    },
+    {
+        "word": "Virtual Prototype",
+        "description": "仮想プロトタイプは、設計評価、分析、テストを可能にする製品、システム、またはプロセスのデジタル表示またはシミュレーションです。"
+    },
+    {
+        "word": "Data Exploration",
+        "description": "データ探査は、意思決定を促進するパターン、関係、洞察を発見するためにデータを調査し分析するプロセスです。"
+    },
+    {
+        "word": "Data Governance Committee",
+        "description": "データガバナンス委員会は、データガバナンスポリシー、プロセス、および基準の確立および執行を担当する組織内のクロス機能グループです。"
+    },
+    {
+        "word": "Data Silo",
+        "description": "データシロとは、データが孤立したシステムまたはリポジトリに保存または管理される状況であり、しばしばデータの重複、不一致、またはアクセス不可能につながる。"
+    },
+    {
+        "word": "Digital Asset",
+        "description": "デジタル資産は、文書、画像、ビデオ、オーディオファイル、またはソフトウェアなどの価値を持つデジタルファイルまたはコンテンツです。"
+    },
+    {
+        "word": "Identity Management",
+        "description": "アイデンティティマネジメントとは、デジタルアイデンティティの安全かつ効率的な管理および個人または団体のアクセス権を確保するために使用されるプロセス、ポリシー、技術を含む。"
+    },
+    {
+        "word": "Data Archiving",
+        "description": "データアーカイブとは、もはや積極的に使用されていないデータの長期的な保管および保存を意味しますが、コンプライアンス、法的、または歴史的目的のためにまだ必要かもしれません。"
+    },
+    {
+        "word": "Data Model",
+        "description": "データモデルは、データの関係、制約、および属性を定義するデータの概念的表現または構造です。"
+    },
+    {
+        "word": "Data Privacy Regulation",
+        "description": "データプライバシー規制は、個人のプライバシーの権利を保護することを目的として、個人データの収集、使用、処理、保存を規制する法的枠組みまたは権限です。"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "word": "Hrtech",
+        "description": "HRtech、またはヒューマン・リソース・テクノロジーは、雇用、従業員管理、福祉管理、従業員の訓練と開発を含む人事プロセスを簡素化し強化するための技術の使用を指します。"
+    },
+    {
+        "word": "Ats",
+        "description": "応募者追跡システム(ATS)は、組織が採用プロセスを追跡し管理できるソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Onboarding",
+        "description": "Onboardingは、指向、訓練、社会化活動を含む組織に新しい従業員を統合し、同化するプロセスを指します。"
+    },
+    {
+        "word": "Performance Management",
+        "description": "パフォーマンスマネジメントは、個人のおよび組織のパフォーマンスを調和し、測定し、改善するために使用されるプロセスと活動を含みます。"
+    },
+    {
+        "word": "360-Degree Feedback",
+        "description": "360度フィードバックは、上司、同僚、従業員を含む複数のソースからの入力とフィードバックを収集し、従業員の強みと改善のための領域の包括的な見方を提供するパフォーマンス評価方法です。"
+    },
+    {
+        "word": "Talent Acquisition",
+        "description": "才能の獲得は、組織内の特定の役割のための適切な候補者を特定し、魅了し、雇用するプロセスです。"
+    },
+    {
+        "word": "Employee Engagement",
+        "description": "従業員のコミットメントとは、従業員が組織に持つ感情的および知的コミットメントを指し、その結果、仕事の満足度、生産性、および保持が向上します。"
+    },
+    {
+        "word": "Workforce Analytics",
+        "description": "Workforce Analyticsとは、労働力のトレンド、パターン、および行動を調べ、理解するためのデータ分析技術の使用であり、戦略的な労働力計画と意思決定をサポートします。"
+    },
+    {
+        "word": "Hris",
+        "description": "HRIS(Human Resources Information System)とは、従業員のデータ、HRプロセス、およびワークフローを管理し、追跡するためのソフトウェアシステムです。"
+    },
+    {
+        "word": "Payroll Management",
+        "description": "賃金管理は、賃金、賃金、引き下げ、税金を含む従業員の補償の管理と処理を含む。"
+    },
+    {
+        "word": "Benefits Administration",
+        "description": "恩恵管理は、健康保険、年金計画、およびその他の境界利益などの従業員福祉プログラムを管理し、従業員の遵守と満足を確保します。"
+    },
+    {
+        "word": "Workforce Planning",
+        "description": "労働力計画は、組織の将来の労働力需要を分析し、予測するプロセスであり、適切なタイミングで適切な役割で適切なスキルを持つ適切な人々を確保するためです。"
+    },
+    {
+        "word": "Employee Self-Service",
+        "description": "Employee Self-Service (ESS) は、従業員がオンラインポータルを通じて、賃金や利益などの個人および雇用関連情報にアクセスし、管理できるシステムです。"
+    },
+    {
+        "word": "Learning Management System",
+        "description": "学習管理システム(LMS)は、組織内のe-learningおよびトレーニングプログラムを管理、提供、追跡するためのソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Succession Planning",
+        "description": "継続計画は、将来の組織内の主要なリーダーシップのポジションを満たすために内部の才能を特定し、開発することを意味します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、組織が収集する個人および機密情報の保護と適切な取り扱いを指します。"
+    },
+    {
+        "word": "Diversity And Inclusion",
+        "description": "多様性と包摂(D&I)とは、あらゆる背景とアイデンティティの個人が評価され、尊重される多様で包摂的な労働力を創出する慣行と政策を指します。"
+    },
+    {
+        "word": "Workforce Management",
+        "description": "労働力管理は、組織の労働力の生産性と効率性を最適化し、最大化するために使用される活動とプロセスを含む。"
+    },
+    {
+        "word": "Employee Benefits",
+        "description": "従業員の給与は、従業員の通常の給与や給与に加えて、健康保険、退職計画、有給休暇など、従業員に提供される非給与補償です。"
+    },
+    {
+        "word": "Employee Surveys",
+        "description": "従業員調査は、従業員からのフィードバック、意見、洞察を収集するために使用されるアンケートや評価であり、改善のための領域を特定し、従業員の満足度と関与を測定するのに役立ちます。"
+    },
+    {
+        "word": "Remote Work",
+        "description": "遠隔作業、または遠隔作業とも呼ばれる遠隔作業は、従業員が従来のオフィス環境の外から作業し、テクノロジーを使用して接続し、任務を完了する能力を指します。"
+    },
+    {
+        "word": "Hr Analytics",
+        "description": "HRアナリティクスは、データ分析と統計技術をHRデータに適用して洞察を獲得し、データベースの意思決定を行うことを意味します。"
+    },
+    {
+        "word": "Employee Wellness",
+        "description": "Employee Wellnessは、従業員の身体的、精神的、感情的福祉を促進し維持することを目的としたプログラムやイニシアチブを含みます。"
+    },
+    {
+        "word": "Offboarding",
+        "description": "Offboarding は、従業員が組織から出発することを管理するプロセスであり、手渡し、出発面接、および法的および行政要件の遵守を確保します。"
+    },
+    {
+        "word": "Workforce Diversity",
+        "description": "労働力の多様性は、人種、性別、年齢、背景に限らず、組織内の個人の多様性とその違いを指します。"
+    },
+    {
+        "word": "Time And Attendance",
+        "description": "Time and Attendance とは、従業員の勤務時間、参加時間、休暇、および超過時間を含む従業員の勤務時間の追跡のプロセスを指します。"
+    },
+    {
+        "word": "Hr Compliance",
+        "description": "HRコンプライアンスとは、雇用およびHR慣行に関連する法律、規制、および方針に対する組織の遵守を指します。"
+    },
+    {
+        "word": "Recruitment Marketing",
+        "description": "採用マーケティングは、マーケティングの技術と戦略を適用し、就職オープンに潜在的な候補者を引き付けることを意味します。"
+    },
+    {
+        "word": "Employee Retention",
+        "description": "従業員保持は、組織が従業員を維持し、売上を減らす能力を指します。"
+    },
+    {
+        "word": "Gamification",
+        "description": "ゲーム化は、報酬、競争、挑戦などのゲーム要素やメカニクスの非ゲーム環境への適用である。"
+    },
+    {
+        "word": "Performance Appraisal",
+        "description": "パフォーマンス評価は、従業員の仕事のパフォーマンスを評価し評価し、フィードバックや評価を提供するプロセスです。"
+    },
+    {
+        "word": "Workforce Development",
+        "description": "Workforce Developmentは、従業員のスキル、知識、および能力を開発するためのイニシアチブとプログラムを設計し、実施し、彼らのキャリア成長と組織の目標をサポートします。"
+    },
+    {
+        "word": "Employee Advocacy",
+        "description": "Employee Advocacyとは、社員が組織のブランド、価値観、関心を積極的に促進し、代表することを指します。"
+    },
+    {
+        "word": "Workforce Automation",
+        "description": "Workforce Automation は、データ入力、スケジュール、レポートなどの繰り返しのマニュアル HR タスクを自動化するためのテクノロジーとソフトウェアの使用を含みます。"
+    },
+    {
+        "word": "Job Analysis",
+        "description": "仕事分析は、特定の仕事の役割に必要な義務、責任、スキル、知識、資格に関する情報を収集し、分析する体系的なプロセスです。"
+    },
+    {
+        "word": "Flexible Work Arrangements",
+        "description": "柔軟なワークアプローチは、従業員がいつ、どこ、どのように働くかをより大きなコントロールできるための代替的なワークスケジュールまたはアプローチです。"
+    },
+    {
+        "word": "Employee Relations",
+        "description": "従業員関係は、職場でのコミュニケーション、紛争解決、従業員の権利に関する問題を含む、雇用主と従業員の間の相互作用と関係を指します。"
+    },
+    {
+        "word": "Employee Performance",
+        "description": "従業員のパフォーマンスは、従業員が彼らの仕事の役割で提供する生産性、効率性、および品質を指します。"
+    },
+    {
+        "word": "Hr Shared Services",
+        "description": "HR Shared Servicesは、従業員やマネージャーに効率的かつ一貫したサポートを提供するために、HR機能とサービスを統合し、集中化することを意味します。"
+    },
+    {
+        "word": "Candidate Experience",
+        "description": "候補者の経験とは、候補者が企業の採用および選定プロセス中に持っている全体的な経験と認識を指し、これは彼らの仕事の申し出を受け入れる決定と雇用者のブランドに対する彼らの認識に影響を与える可能性があります。"
+    },
+    {
+        "word": "Learning And Development",
+        "description": "学習と開発(L&D)は、従業員の知識、スキル、能力を向上させ、キャリアの成長を支援し、組織のパフォーマンスを向上させるための活動とイニシアチブを含みます。"
+    },
+    {
+        "word": "Workforce Segmentation",
+        "description": "Workforce Segmentationは、仕事の役割、スキル、パフォーマンス、潜在力などの要因に基づいて、従業員を異なるグループに分類することを意味します。"
+    },
+    {
+        "word": "Employee Recognition",
+        "description": "従業員認定とは、従業員の貢献、達成、および行動を正式または非公式の手段を通じて認識し、評価する実践を指します。"
+    },
+    {
+        "word": "Organizational Culture",
+        "description": "組織文化とは、組織のユニークな性格と社会環境を形作る共通の価値観、信念、行動、規範を指します。"
+    },
+    {
+        "word": "Workforce Optimization",
+        "description": "Workforce Optimizationは、組織の労働力をビジネス目標と調和させ、才能と資源の最適な利用を確保することに焦点を当てています。"
+    },
+    {
+        "word": "Skills Gap",
+        "description": "スキルギャップとは、雇用主が求めるスキルや資格と、求職者や既存の従業員が持っているスキルや資格の不一致を指します。"
+    },
+    {
+        "word": "Hr Technology",
+        "description": "HRテクノロジーは、賃金、採用、パフォーマンス管理、従業員データ管理などのHRプロセスを管理および自動化するために使用されるツール、システム、ソフトウェアを指します。"
+    },
+    {
+        "word": "Employee Wellness Programs",
+        "description": "従業員のウェルネスプログラムは、フィットネスプログラム、ストレス管理、カウンセリングサービスなどの従業員の身体的および精神的福祉を促進するためのイニシアチブや活動です。"
+    },
+    {
+        "word": "Organizational Development",
+        "description": "組織開発(OD)は、組織内の行動、構造、およびプロセスに焦点を当てることによって、組織の効率性、パフォーマンス、および健康を改善するための計画的かつ体系的なアプローチです。"
+    },
+    {
+        "word": "Candidate Relationship Management",
+        "description": "Candidate Relationship Management(CRM)とは、潜在的な候補者との関係を構築し維持するために使用される戦略とツールを指します。"
+    },
+    {
+        "word": "Hr Business Partner",
+        "description": "HRビジネスパートナー(HRBP)は、企業の戦略的パートナーとして行動し、HRイニシアチブを組織の目標と調和し、HRの卓越性を推進するHRプロフェッショナルです。"
+    },
+    {
+        "word": "Organizational Performance",
+        "description": "組織のパフォーマンスは、組織の目標を達成し、望む結果を達成するための全体的な成果を指します。"
+    },
+    {
+        "word": "Employer Branding",
+        "description": "Employer branding は、現在および潜在的な従業員によってどのように認識されるかを含む、雇用主としての組織の評判とイメージです。"
+    },
+    {
+        "word": "Psychological Safety",
+        "description": "心理的安全性とは、チームや組織内で発言したり、アイデアを共有したり、懸念を表明したりするために罰したり、屈辱したりすることはないという信念です。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータやノードを介してトランザクションを安全に記録し、検証する分散型および分散型デジタルレジャー技術です。"
+    },
+    {
+        "word": "Employee Benefits Enrollment",
+        "description": "Employee Benefits Enrollment は、従業員が医療、退職、保険などの会社の従業員福祉プログラムに選択し、登録するプロセスを指します。"
+    },
+    {
+        "word": "Hr Strategy",
+        "description": "人事戦略は、人事イニシアチブや活動を組織の全体的な目標や目標と調和させる長期的な計画です。"
+    },
+    {
+        "word": "Performance Improvement Plan",
+        "description": "パフォーマンス改善計画(PIP)は、従業員のパフォーマンスの欠点を解決し改善するために必要な特定のパフォーマンス期待と行動を概説する公式化されたプロセスです。"
+    },
+    {
+        "word": "Job Satisfaction",
+        "description": "仕事満足度は、従業員が仕事で経験する満足度と満足度のレベルを指し、それは彼らの動機、関与、組織に留まる可能性に影響を与える可能性があります。"
+    },
+    {
+        "word": "Employee Handbook",
+        "description": "従業員マニュアルは、組織のポリシー、手順、期待、およびその従業員の権利を概要し、コミュニケーションする文書です。"
+    },
+    {
+        "word": "Employee Referral",
+        "description": "従業員のリファレンスは、友人、知人、またはプロの連絡先を自分の組織内で仕事を開くために推薦する行為であり、しばしば成功したリファレンスのための奨励や報酬をもたらします。"
+    },
+    {
+        "word": "Hr Metrics",
+        "description": "HRメトリクスは、HRのパフォーマンスとHRイニシアチブの影響を追跡し評価するために使用される測定可能な測定基準です。"
+    },
+    {
+        "word": "Pms",
+        "description": "パフォーマンスマネジメントシステム(PMS)は、組織が従業員のパフォーマンスを測定し、改善するために使用する体系的なアプローチです。"
+    },
+    {
+        "word": "Lms",
+        "description": "Learning Management System(LMS)は、組織が従業員のトレーニングと開発プログラムを提供、管理、追跡するために使用するソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "E-Learning",
+        "description": "E-Learningとは、デジタル技術やインターネットを使用して電子で提供される学習とトレーニングを指します。"
+    },
+    {
+        "word": "Applicant Screening",
+        "description": "応募者スクリーニングは、求職者を評価し、役割の適合性を決定するプロセスです。"
+    },
+    {
+        "word": "Gig Economy",
+        "description": "Gig Economy は、短期契約とフリーランスの仕事で特徴付けられた労働市場を指します。"
+    },
+    {
+        "word": "Work-Life Balance",
+        "description": "仕事と生活のバランスとは、仕事と個人的な生活の要求のバランスを意味し、人々が重要な干渉や不均衡なしに、両方の側面を効果的に管理し、優先することを可能にします。"
+    },
+    {
+        "word": "Hr Outsourcing",
+        "description": "HRアウトソーシングは、外部サービスプロバイダーにHR活動と機能を契約する実践です。"
+    },
+    {
+        "word": "Employee Turnover",
+        "description": "従業員の売上高は、従業員の削減またはチューンとも呼ばれ、従業員が組織を去って置き換えられる必要がある割合を指します。"
+    },
+    {
+        "word": "Talent Management",
+        "description": "才能管理は、組織内で高性能な個人を引き付ける、開発し、維持する戦略的プロセスです。"
+    },
+    {
+        "word": "Employee Development",
+        "description": "従業員開発には、従業員の知識、スキル、能力を向上させ、長期的なキャリア成長と成功をサポートするための活動とイニシアチブが含まれます。"
+    },
+    {
+        "word": "Conflict Resolution",
+        "description": "紛争解決は、職場内で発生する紛争や不一致を解決するプロセスです。"
+    },
+    {
+        "word": "Outplacement Services",
+        "description": "外出サービスは、元従業員が新たな雇用機会を見つけて新しい役割に移行するのを支援するために提供されます。"
+    },
+    {
+        "word": "Core Competencies",
+        "description": "コア能力は、市場における組織または個人を区別するユニークな強みと能力です。"
+    },
+    {
+        "word": "Employee Satisfaction",
+        "description": "従業員満足度は、従業員が自分の仕事、職場環境、および全体的な雇用に対して感じる満足度または満足度のレベルです。"
+    },
+    {
+        "word": "Job Rotation",
+        "description": "仕事の回転は、組織内のさまざまな仕事の役割や部門間で従業員を移動させ、より幅広い経験やスキルを提供する実践です。"
+    },
+    {
+        "word": "Flexible Benefits",
+        "description": "カフェテリアスタイルの利益または柔軟な支出アカウントとも呼ばれる柔軟な利益は、従業員が個々のニーズや好みに基づいて独自の利益セットを選択し、カスタマイズすることを可能にします。"
+    },
+    {
+        "word": "Employee Feedback",
+        "description": "従業員のフィードバックは、従業員のパフォーマンスを向上させ、従業員の関与を強化することを目的として、従業員から建設的な入力、提案、意見を取得し、提供するプロセスです。"
+    },
+    {
+        "word": "Job Description",
+        "description": "職務説明は、特定の仕事の役割の義務、責任、要件を概要する書面上の声明です。"
+    },
+    {
+        "word": "Workplace Diversity",
+        "description": "職場の多様性とは、職場におけるさまざまなグループや背景の代表性を指します。"
+    },
+    {
+        "word": "Employee Referral Program",
+        "description": "Employee Referral Program is a recruitment strategy that incentivizes employees to refer qualified candidates for job openings within their organization. 従業員引用プログラムは、従業員が組織内の就職オープニングのために資格のある候補者を引用することを奨励する雇用戦略です。"
+    },
+    {
+        "word": "Competency-Based Assessment",
+        "description": "能力ベースの評価は、仕事の要件に関連して個人の特定のスキル、知識、能力を測定することに焦点を当てた評価方法です。"
+    },
+    {
+        "word": "Job Satisfaction Survey",
+        "description": "Job Satisfaction Surveyは、従業員の仕事満足度レベルに関する情報を収集し、改善のための分野を特定するために使用されるアンケートまたはフィードバックメカニズムです。"
+    },
+    {
+        "word": "Employee Turnover Rate",
+        "description": "従業員転換率は、特定の期間、通常毎年、組織を離れる従業員の割合です。"
+    },
+    {
+        "word": "Hr Policies",
+        "description": "HRポリシーとは、組織が人事問題を管理し、一貫性と公平性を確保するためのガイドラインとルールです。"
+    },
+    {
+        "word": "Competency Framework",
+        "description": "能力枠組みとは、組織内の特定の役割に必要な構造化された能力またはスキルのセットであり、従業員の評価と開発に役立つ。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常は人間の知能を必要とするタスク、例えば言語認識や意思決定を行うことを可能にします。"
+    },
+    {
+        "word": "People Analytics",
+        "description": "人材分析は、データ分析と洞察を用いて、人々を管理し、従業員のパフォーマンスを向上させ、組織の成功を推進することを知った決定を下す実践です。"
+    },
+    {
+        "word": "Measurable Hr",
+        "description": "Measurable HR は、データとメトリックを使用して HR 実践とイニシアチブを評価、測定、改善することに焦点を当てているアプローチです。"
+    },
+    {
+        "word": "Performance Metrics",
+        "description": "パフォーマンスメトリクスは、個人、チーム、組織の効果と効率性を評価し、評価するために使用される測定可能な測定方法です。"
+    },
+    {
+        "word": "Employee Value Proposition",
+        "description": "Employee Value Proposition(EVP)とは、組織が人材を魅了し、関与し、保持するために提供するユニークな利点とオファーのセットです。"
+    },
+    {
+        "word": "Human Capital Management",
+        "description": "人材管理(HCM)は、組織の労働力の知識、スキル、才能、能力を管理し開発するための戦略的アプローチです。"
+    },
+    {
+        "word": "Job Posting",
+        "description": "雇用ポストは、その要求事項、責任および資格を含む雇用空きについての情報を伝える公共の広告または通知です。"
+    },
+    {
+        "word": "Employee Involvement",
+        "description": "従業員の関与は、従業員が自分の仕事や組織に影響を与える意思決定プロセスや活動に関与し、関与し、参加する程度を指します。"
+    },
+    {
+        "word": "Employee Portal",
+        "description": "従業員ポータルは、従業員に雇用に関連する情報、ツール、リソースへのアクセスを提供するWebベースのプラットフォームまたはイントラネットです。"
+    },
+    {
+        "word": "Mentoring",
+        "description": "メンテーは、より経験豊富な個人(メンテー)と、より経験豊富な個人(メンテー)の間の開発関係を指し、メンテーの専門的成長と発展を指導し、支援することを目的としています。"
+    },
+    {
+        "word": "Flexible Working Hours",
+        "description": "柔軟な労働時間とは、従業員が指定された期間内に必要な時間数を完了する限り、開始時と終了時を変えることを可能にする取り組みです。"
+    },
+    {
+        "word": "Employee Motivation",
+        "description": "従業員の動機づけとは、従業員が仕事の課題や目標を達成することを刺激し、推進する内部的および外部的な要因を指します。"
+    },
+    {
+        "word": "Recruitment Process Outsourcing",
+        "description": "採用プロセスアウトソーシング(RPO)は、採用プロセスのすべてまたは一部をサウンドソーシング、スクリーニング、および候補者管理などの側面を管理する外部サービスプロバイダーにアウトソーシングすることです。"
+    },
+    {
+        "word": "Employee Scheduling",
+        "description": "従業員のスケジュールは、従業員のためのワークスケジュールの作成と管理のプロセス、資源の適切なカバーと効率的な使用を確保することを指します。"
+    },
+    {
+        "word": "Employee Communications",
+        "description": "従業員コミュニケーションには、従業員と組織間の効果的なコミュニケーションと情報の流れを促進するために使用されるさまざまな方法、チャネル、戦略が含まれます。"
+    },
+    {
+        "word": "Recruitment Software",
+        "description": "採用ソフトウェアは、応募者追跡システム(ATS)とも呼ばれ、採用および採用プロセスを簡素化し、自動化するように設計されたソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Employee Performance Management",
+        "description": "従業員のパフォーマンスマネジメントは、明確なパフォーマンス目標と期待を設定し、継続的なフィードバックとコーチングを提供し、従業員のパフォーマンスに基づいて評価と報酬を提供します。"
+    },
+    {
+        "word": "Employee Database",
+        "description": "従業員データベースは、個人データ、雇用履歴、パフォーマンスレコードなどの従業員関連のデータを格納および整理する集中的なレポジトリまたはシステムです。"
+    },
+    {
+        "word": "Employee Grievance",
+        "description": "従業員の苦情は、従業員が雇用主または職場の問題に対して提起した正式な苦情または懸念を指し、通常は労働条件、雇用慣行、または職場での待遇に関連しています。"
+    },
+    {
+        "word": "Culture Fit",
+        "description": "文化適合とは、個人の価値観、信念、行動を組織の文化、価値観、および職場環境と調和させることを指します。"
+    },
+    {
+        "word": "Knowledge Management",
+        "description": "知識管理(KM)は、学習、意思決定、イノベーションをサポートするために組織内の知識と情報を収集、組織化、保存、共有するプロセスです。"
+    }
+]

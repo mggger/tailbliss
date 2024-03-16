@@ -1,0 +1,426 @@
+[
+    {
+        "word": "3D Printing",
+        "description": "3Dプリンティングは、添加製造とも呼ばれ、材料の層を層ごとに追加することによって3次元のオブジェクトを作成するプロセスです。"
+    },
+    {
+        "word": "Cad",
+        "description": "コンピュータ支援デザイン(CAD)は、製造または設計目的のために詳細な2Dまたは3Dモデルを作成するためのソフトウェアの使用です。"
+    },
+    {
+        "word": "Stl",
+        "description": "STL(Standard Tessellation Language)は、3Dプリンティングで一般的に使用されるファイル形式で、3Dオブジェクトの表面構造を表しています。"
+    },
+    {
+        "word": "Slicing",
+        "description": "Slicing は、3D オブジェクトを複数の層に分割し、3D 印刷のための関連するツールパスを生成するプロセスです。"
+    },
+    {
+        "word": "Support Structure",
+        "description": "サポート構造は、印刷プロセス中に安定性を提供し、崩壊を防ぐために3Dプリントで作成された一時的な構造です。"
+    },
+    {
+        "word": "Fdm",
+        "description": "Fused Deposition Modeling(FDM)は、溶解プラスチックの層を層ごとに圧縮することによってオブジェクトを構築する人気のあるタイプの3D印刷技術です。"
+    },
+    {
+        "word": "Sla",
+        "description": "Stereolithography(SLA)は、3Dオブジェクトを作成するために光源によって癒される液体ハーブを使用する添加製造プロセスです。"
+    },
+    {
+        "word": "Sls",
+        "description": "Selective Laser Sintering(SLS)は、レーザーを使用して粉末材料を結合して3Dオブジェクトを作成する添加製造プロセスです。"
+    },
+    {
+        "word": "Dlp",
+        "description": "デジタルライトプロセッサ(DLP)は、デジタルライトプロジェクターを使用して液体の光ポリマーの層を層ごとに癒す3D印刷技術です。"
+    },
+    {
+        "word": "Binder Jetting",
+        "description": "Binder Jetting は、液体結合体を使用して粉末粒子を選択的に結合してオブジェクトを作成する3Dプリント技術です。"
+    },
+    {
+        "word": "Build Plate",
+        "description": "Build Plate は、3D 印刷プロセス中にオブジェクトが印刷される表面であり、印刷された層の安定した基盤を提供します。"
+    },
+    {
+        "word": "Nozzle",
+        "description": "A Nozzle is the part of a 3D Printer's extruder that heats and deposits the melted filament on the build plate. ナッツルは3Dプリンターの圧縮機の部分であり、溶解されたフィラメントをビルドプレートに積み込む。"
+    },
+    {
+        "word": "Layer Height",
+        "description": "Layer Height は、3D プリンターによって印刷される各個々の層の厚さで、印刷されたオブジェクトの詳細性と滑らかさのレベルを決定します。"
+    },
+    {
+        "word": "Infill",
+        "description": "Infill は、3D オブジェクト内で印刷されるパターンまたは構造で、構造的サポートを提供し、材料の使用量を削減します。"
+    },
+    {
+        "word": "Raft",
+        "description": "ラフトは、印刷されているオブジェクトの下に添加され、ベッドの粘着性を向上させ、歪みを防ぐ印刷されたベース層です。"
+    },
+    {
+        "word": "Brim",
+        "description": "ブリムは、物体のベースの周りに印刷された材料の一層で、その表面面面積を増やし、ベッドの粘着性を向上させる。"
+    },
+    {
+        "word": "Supports",
+        "description": "サポートは、3D プリントに追加された構造で、そうでないと落下または崩壊する可能性のある過剰または複雑な機能のサポートを提供します。"
+    },
+    {
+        "word": "Bed Leveling",
+        "description": "ベッドレベリングは、ビルドプレートを調節して、それをナッツールと並列にし、適切な印刷のための適切な高さに置くことを保証するプロセスです。"
+    },
+    {
+        "word": "Extruder",
+        "description": "圧縮機は3Dプリンターのコンポーネントであり、フィラメントなどの材料を熱端に押し込んで溶かし、埋め込む。"
+    },
+    {
+        "word": "Hot End",
+        "description": "ホットエンドは、フィラメントを溶かし、ナッツルを通して圧縮されることを可能にするエクスプレーヤーの部分です。"
+    },
+    {
+        "word": "Cooling Fan",
+        "description": "冷却ファンは、3D プリンタのコンポーネントで、印刷された層を迅速に冷却し、歪みや変形を防ぐのに役立ちます。"
+    },
+    {
+        "word": "G-Code",
+        "description": "G-Code は、3D プリンターの動きと圧縮プロセスを制御するために 3D プリンターで使用されるプログラミング言語です。"
+    },
+    {
+        "word": "Filament",
+        "description": "フィラメントは、3Dプリンターによって溶け出して圧縮される長い弦の形の熱プラスチック材料で、オブジェクトの層を層ごとに構築します。"
+    },
+    {
+        "word": "Resolution",
+        "description": "3Dプリンティングの解像度は、3Dプリンターがオブジェクトを生成できる詳細度と精度のレベルを指します。"
+    },
+    {
+        "word": "Build Volume",
+        "description": "Build Volume は、3D プリンターがあらゆる次元(長さ、幅、高さ)で印刷できるオブジェクトの最大サイズを指します。"
+    },
+    {
+        "word": "Overhang",
+        "description": "Overhang は 3D プリントされたオブジェクトの一部で、サポート構造なしに前回の層を超えて拡張します。"
+    },
+    {
+        "word": "Warpage",
+        "description": "Warpageは、材料の不均衡な冷却または縮小による3Dプリントされたオブジェクトの歪曲またはカルリングを指します。"
+    },
+    {
+        "word": "Bed Adhesion",
+        "description": "Bed Adhesion は、印刷されたオブジェクトが 3D 印刷プロセス中にビルドプレートに粘着する能力を指します。"
+    },
+    {
+        "word": "Heated Bed",
+        "description": "加熱ベッドは、ビルドプレートの温度を高く保つことによってベッドの粘着性を改善するのに役立ついくつかの3Dプリンターの機能です。"
+    },
+    {
+        "word": "Lcd Screen",
+        "description": "LCD スクリーンは、いくつかの 3D プリンターで情報、設定、および印刷プロセスの進行を表示するために使用されるディスプレイパネルです。"
+    },
+    {
+        "word": "Curing",
+        "description": "Curingは、通常、SLAまたはDLP3Dプリンティングで使用される液体ハーブを硬化するプロセスで、UVやレーザーなどの光源を使用します。"
+    },
+    {
+        "word": "Print Speed",
+        "description": "印刷速度とは、3D プリンターが物体を印刷する際に移動し、材料を貯蔵する速度を指します。"
+    },
+    {
+        "word": "Infill Density",
+        "description": "Infill density は、3D プリントされたオブジェクトの内部に使用されるフィールド材料の量を指し、総ボリュームの割合として表現します。"
+    },
+    {
+        "word": "Nozzle Diameter",
+        "description": "ナッツルの直径はナッツルの開口の幅であり、それは層の厚さと印刷速度に影響します。"
+    },
+    {
+        "word": "Retraction",
+        "description": "Retraction は、3D プリンティングの機能で、印刷以外の動きの際に材料がかるのを防ぐためにフィラメントをわずかに引き戻す。"
+    },
+    {
+        "word": "Adaptive Layer Height",
+        "description": "Adaptive layer height is a feature in some slicing software that adjusts the layer height based on the geometry of the object to improve print quality. Adaptive layer height is a feature in some slicing software that adjusts the layer height based on the geometry of the object to improve print quality."
+    },
+    {
+        "word": "Bed Temperature",
+        "description": "ベッド温度は、印刷プロセス中のビルドプレートの温度を指します、特に特定の材料にとって重要です。"
+    },
+    {
+        "word": "Extrusion Multiplier",
+        "description": "Extrusion multiplier は、3D 印刷における設定で、フィラメントのフローレートを調整して、圧縮の変動を補償します。"
+    },
+    {
+        "word": "Bracing",
+        "description": "Bracing は、3D プリントされたオブジェクトを強化し、その安定性を向上させるための追加のサポート構造または構造を追加することを指します。"
+    },
+    {
+        "word": "Post-Processing",
+        "description": "3Dプリンティングの後処理には、印刷されたオブジェクトの外観や機能を改善するための追加のステップや処理が含まれます。"
+    },
+    {
+        "word": "Bed Levelling",
+        "description": "ベッドレバレッジは、ビルドプレートが印刷ヘッドと平行であることを保証するプロセスであり、プレート全体に均一な印刷を可能にします。"
+    },
+    {
+        "word": "Bed Skirt",
+        "description": "A bed skirt is a feature in some slicing software that prints a thin layer around the edges of the build plate before printing the actual object. ベッドジャケットは、実際のオブジェクトを印刷する前に、ビルドプレートの端の周りに薄い層を印刷するいくつかの切削ソフトウェアの機能です。"
+    },
+    {
+        "word": "Carbon Fiber",
+        "description": "炭素繊維は強力で軽量な材料で、印刷部品を強化したり強化したりするために3Dプリンティングで頻繁に使用されます。"
+    },
+    {
+        "word": "Abs",
+        "description": "Acrylonitrile Butadiene Styrene(ABS)は、その強さと衝撃抵抗性で知られる3Dプリンティングで使用される一般的な熱プラスチックです。"
+    },
+    {
+        "word": "Pla",
+        "description": "Polylactic Acid (PLA) は、3D プリンティングで使用される生物分解可能な熱プラスチックで、使いやすさと幅広い可用性で知られています。"
+    },
+    {
+        "word": "Petg",
+        "description": "ポリエチレンテレフタラートグリコール(PETG)は、その強さと柔軟性で知られる3D印刷で使用される人気のフィラメント材料です。"
+    },
+    {
+        "word": "Nylon",
+        "description": "ナイロンは、機能的および機械的部品の生産に3D印刷で一般的に使用される耐久性と柔軟性の高い繊維材料です。"
+    },
+    {
+        "word": "Tpu",
+        "description": "熱プラスチックポリウレタン(TPU)は、柔軟な部品やプロトタイプを作成するために3Dプリントで使用される柔軟で柔軟な繊維材料です。"
+    },
+    {
+        "word": "Failure",
+        "description": "失敗は、3D プリントが予想通りの結果を出せない場合を記述するために使用される用語であり、しばしば歪曲、粘着、または印刷エラーなどの問題のために発生します。"
+    },
+    {
+        "word": "Bridging",
+        "description": "ブリッジングは、3Dプリントの2つの点間でサポートされていないスペースを作成するプロセスで、慎重な校正と技術が必要です。"
+    },
+    {
+        "word": "Over Extrusion",
+        "description": "過剰圧縮は、3D プリンターが過剰な繊維を押し出し、過剰な材料と印刷品質の低下につながる場合に発生します。"
+    },
+    {
+        "word": "Under Extrusion",
+        "description": "Under extrusion は、3D プリンターが十分なフィラメントを押し出さない場合に発生し、印刷されたオブジェクトの隙間や弱いセクションにつながります。"
+    },
+    {
+        "word": "Spool Holder",
+        "description": "Spool holder は、3D プリンター上のデバイスまたは付属物で、フィラメント スポールを安全に保持し、スプレーダーにスムーズに供給します。"
+    },
+    {
+        "word": "Raftless Printing",
+        "description": "ラフトレス印刷は、ラフトまたはベース層が使用されていない3D印刷の技術であり、印刷時間を短縮するが、良いベッド粘着を必要とする。"
+    },
+    {
+        "word": "Oversized Printing",
+        "description": "Oversize printing とは、プリンタのビルド ボリュームよりも大きい 3D 印刷オブジェクトを指し、組み立てまたは印刷分割を必要とする。"
+    },
+    {
+        "word": "Dual Extrusion",
+        "description": "Dual Extrusionは、複雑なオブジェクトを作成するために2つの異なるフィラメントまたは色を同時に使用することを可能にするいくつかの3Dプリンターの機能です。"
+    },
+    {
+        "word": "Sintering",
+        "description": "Sinteringは、粉末材料が溶解点のすぐ下の温度に加熱され、結合する過程です。"
+    },
+    {
+        "word": "Build Platform",
+        "description": "ビルドプラットフォームは、3D プリントされたオブジェクトが作成された表面であり、印刷プロセス中に通常、XY フラットで移動します。"
+    },
+    {
+        "word": "Build Time",
+        "description": "作成時間は、特定のオブジェクトまたは部品の3D印刷プロセスを完了するのにかかる合計時間です。"
+    },
+    {
+        "word": "Layer Adhesion",
+        "description": "Layer Adhesion is the strength of the bond between the successive layers in a 3D printed object, affecting its overall structural integrity. 3Dプリントされたオブジェクトの連続した層間の結合の強さです。"
+    },
+    {
+        "word": "Build Plate Adhesion",
+        "description": "ビルドプレートの粘着性は、印刷プロセス中に印刷されたオブジェクトがビルドプレートに粘着する能力です。"
+    },
+    {
+        "word": "Bed Flattening",
+        "description": "ベッドのフラットニングは、ビルドプレートが平らで、あらゆる歪みや不均衡なしであることを保証するプロセスです。"
+    },
+    {
+        "word": "Shell Thickness",
+        "description": "Shell thickness は、3D プリントされたオブジェクトの外壁の厚さを指し、その強さと耐久性を影響します。"
+    },
+    {
+        "word": "Z-Hop",
+        "description": "Z-hop または Z-lift として知られる Z-hop は、印刷されたオブジェクトとの衝突を避けるために、印刷しない動き中に印刷機のノズルを軽く上げるプロセスです。"
+    },
+    {
+        "word": "3D Printer",
+        "description": "3Dプリンターは、3Dプリンティング技術を使用してデジタルモデルから物理的なオブジェクトを作成するマシンです。"
+    },
+    {
+        "word": "Slicer",
+        "description": "Slicer は、3D モデルを一連の薄い層に変換し、3D プリンターが使用するツールパス情報を生成するソフトウェアです。"
+    },
+    {
+        "word": "Support Structures",
+        "description": "サポート構造は、3D 印刷プロセス中に作成された追加構造で、安定性を提供し、上下または複雑な機能の崩壊を防ぐ。"
+    },
+    {
+        "word": "Extrusion",
+        "description": "Extrusionは、フィラメントを溶かし、ナッツルを通してそれを押し、素材の薄い、継続的な糸を作成するプロセスです。"
+    },
+    {
+        "word": "Resin",
+        "description": "は、3Dプリンターの特定のタイプで使用される液体材料で、光や熱にさらされると固化します。"
+    },
+    {
+        "word": "Fused Deposition Modeling (Fdm)",
+        "description": "Fused Deposition Modeling(FDM)は、印刷材料として熱プラスチック繊維を使用する最も一般的な3D印刷技術の1つです。"
+    },
+    {
+        "word": "Stereolithography (Sla)",
+        "description": "Stereolithography (SLA) は、特定の波長の光にさらされたときに硬化する光敏なハーブを使用する3D印刷技術です。"
+    },
+    {
+        "word": "Selective Laser Sintering (Sls)",
+        "description": "Selective Laser Sintering (SLS) は、3D 印刷技術で、レーザーを使用して選択的に粉末材料、通常はプラスチックまたは金属を溶かす。"
+    },
+    {
+        "word": "Digital Light Processing (Dlp)",
+        "description": "デジタルライトプロセッサ(DLP)は、デジタルライトプロジェクターを使用して液体ハーブの層を層ごとに選択的に癒す3Dプリント技術です。"
+    },
+    {
+        "word": "Powder Bed Fusion",
+        "description": "Powder Bed Fusionは、基礎材料として粉末を使用し、熱または結合剤を使用して選択的に溶接する3D印刷技術のグループです。"
+    },
+    {
+        "word": "Rapid Prototyping",
+        "description": "Rapid Prototypingは、製品または部品の物理的なプロトタイプを迅速に作成し、大量生産前に設計をテストし、検証するプロセスです。"
+    },
+    {
+        "word": "Bioprinting",
+        "description": "バイオプリントは、組織や臓器などの生物学的構造を作成するために生きた細胞またはバイオリンクを使用する3Dプリントプロセスです。"
+    },
+    {
+        "word": "Mass Customization",
+        "description": "大量カスタマイズは、3Dプリンティング技術の使用で、大規模な個性化またはカスタマイズされた製品を生産します。"
+    },
+    {
+        "word": "Additive Manufacturing",
+        "description": "添加製造は、3Dプリンティングを含むすべてのプロセスを含むより広い用語で、さまざまな材料や技術を使用して物体を層ごとに構築します。"
+    },
+    {
+        "word": "Digital Design",
+        "description": "デジタルデザインとは、製造や視覚化に使用するために、CADなどのソフトウェアツールを使用して2Dまたは3Dモデルを作成し操作することを指します。"
+    },
+    {
+        "word": "Quality Control",
+        "description": "3Dプリンティングにおける品質管理には、印刷されたオブジェクトが望ましい仕様と基準を満たすことを保証するさまざまな措置とプロセスが含まれます。"
+    },
+    {
+        "word": "Material Properties",
+        "description": "材料特性は、3Dプリンティングで使用される材料の特性や行動、例えば強さ、柔軟性、または熱抵抗を指します。"
+    },
+    {
+        "word": "Overhangs",
+        "description": "3D プリンティングでは、Overhangs は、下のサポートなしに水平または角度で延長するオブジェクトの領域または特徴を指します。"
+    },
+    {
+        "word": "Warping",
+        "description": "ウォーピングとは、印刷された物体の角や辺りの変形または曲がり、材料の不均衡な冷却または縮小によるものです。"
+    },
+    {
+        "word": "Scan To Cad",
+        "description": "CAD へのスキャンは、物理的なオブジェクトからデジタル 3D モデルを作成するプロセスであり、それを 3D スキャン技術を使用してスキャンし、データを CAD ファイルに変換します。"
+    },
+    {
+        "word": "Multi-Material Printing",
+        "description": "マルチマテリアル印刷は、印刷プロセス中に複数の材料を使用して物体を印刷する3Dプリンターの能力である。"
+    },
+    {
+        "word": "Tolerance",
+        "description": "3Dプリンティングでは、トレレレンスは、印刷されたオブジェクトのサイズや測定の許容可能な変更を、その意図された設計から指します。"
+    },
+    {
+        "word": "Printing Time",
+        "description": "印刷時間は、サイズ、複雑性、印刷設定などの要因によって影響を受ける特定のオブジェクトの3D印刷プロセスを完了するのに必要な時間です。"
+    },
+    {
+        "word": "Print Bed Adhesive",
+        "description": "Print Bed Adhesiveは、ベッドの粘着性を向上させ、印刷プロセス中に印刷されたオブジェクトが分離するのを防ぐためにビルドプレートに適用される物質です。"
+    },
+    {
+        "word": "Bed Levelling Probe",
+        "description": "Bed Levelling Probe は、正確な印刷のためにビルドプレートの高さと平度を自動的に測定し、調整するために使用されるセンサーまたはメカニズムです。"
+    },
+    {
+        "word": "Toolpath",
+        "description": "Toolpath は、3D プリンターの圧縮機のノズルが移動し、印刷されたオブジェクトを作成するために材料を埋め込むときに続く特定のパスやパターンを指します。"
+    },
+    {
+        "word": "Closed-Loop Control",
+        "description": "Closed-Loop Controlは、センサーとフィードバックメカニズムを使用して、プロセス中に印刷パラメータを継続的に監視し、調整する高度な3Dプリンタの機能です。"
+    },
+    {
+        "word": "Auto Bed Leveling",
+        "description": "Auto Bed Leveling は、特定の 3D プリンターの機能で、センサーや探査機を使用して、ビルド プレートの不均衡または傾斜を自動的に測定し、補償します。"
+    },
+    {
+        "word": "Gantry",
+        "description": "Gantry は 3D プリンターのフレームワークまたはサポート構造で、プレートを前定の方法で保持し、移動し、構築します。"
+    },
+    {
+        "word": "Bed Surface",
+        "description": "The Bed Surface refers to the material or coating applied to the building plate to improve adhesion and promote successful object removal after printing. ベッド表面は、結合を改善し、印刷後の成功したオブジェクト除去を促進するためにビルドプレートに適用される材料またはコーティングを指します。"
+    },
+    {
+        "word": "Stepper Motor",
+        "description": "ステップモーターは、3Dプリンターで一般的に使用されるモーターの一種で、圧縮機のノズルやその他の機械部品をコントロールし、正確に動かす。"
+    },
+    {
+        "word": "Firmware",
+        "description": "ファームウェアは、3Dプリンターのハードウェアに組み込まれたソフトウェアプログラムで、その機能、動き、他のデバイスとのコミュニケーションを制御します。"
+    },
+    {
+        "word": "Build Plate Coating",
+        "description": "Build Plate Coating は、ベッドの粘着性を向上させ、印刷後のオブジェクトの放出を改善するために、ビルドプレートの表面に適用される材料または物質です。"
+    },
+    {
+        "word": "Build Plate Heater",
+        "description": "Build Plate Heaterは、ベッドの粘着性を改善し、歪みを防ぐために必要な温度にビルドプレートを加熱する特定の3Dプリンターのコンポーネントです。"
+    },
+    {
+        "word": "Layer Fan",
+        "description": "Layer Fan, or part cooling fan, is a fan located near the nozzle that blows cool air on the printed layers to solidify the material quickly. レイヤーファン、または部分冷却ファンは、素材を迅速に固めるために印刷されたレイヤーに冷たい空気を吹き飛ばします。"
+    },
+    {
+        "word": "Enclosure",
+        "description": "Enclosureは、3Dプリンターを囲むカバーまたはカバーで、印刷品質を向上させるために、規制された温度と湿度を有する制御された環境を提供します。"
+    },
+    {
+        "word": "Preprocessing",
+        "description": "3Dプリンティングにおけるプレプロセスは、実際の印刷プロセス前にデジタルモデルまたはファイルを調整し、最適化することを含み、修理や切削などのタスクを含む。"
+    },
+    {
+        "word": "Recycling",
+        "description": "リサイクルとは、失敗したまたは捨てられた3D印刷物の廃棄物または未使用材料を将来の印刷目的のために回収し、再利用するプロセスです。"
+    },
+    {
+        "word": "Post-Curing",
+        "description": "Post-Curingは、特定の3D印刷物体、特にハーブから作られたものに実行されるプロセスで、UV光や熱を使用してそれらをさらに固化または強化します。"
+    },
+    {
+        "word": "Continuous Carbon Fiber",
+        "description": "連続炭素繊維は、熱プラスチックと連続炭素繊維を結合して強力で軽量な部品を作成する、高度な3Dプリンティングで使用される複合材料です。"
+    },
+    {
+        "word": "Photopolymer",
+        "description": "フォトポリマーは、特定の3Dプリンターで使用されるハーブの種類であり、UV光などの特定の波長にさらされたときに固化し、硬化します。"
+    },
+    {
+        "word": "Digital Twin",
+        "description": "デジタルツインとは、物理的な3Dオブジェクトまたはシステムの仮想レプリカまたはシミュレーション、その地理学、属性、および行動を含め、分析または最適化の目的で作成および使用されます。"
+    }
+]

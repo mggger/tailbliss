@@ -1,0 +1,530 @@
+[
+    {
+        "word": "Autonomous Vehicle",
+        "description": "自動運転車とは、人間の介入なしで航行・運転できる車両です。"
+    },
+    {
+        "word": "Lidar",
+        "description": "LiDARはLight Detection and Rangingの略で、レーザー光を使用して距離を測定し、3Dマップを生成するリモートセンサー技術です。"
+    },
+    {
+        "word": "Sensor Fusion",
+        "description": "センサー融合は、複数のセンサーからのデータを組み合わせ、より正確で強力な環境観測を得るプロセスです。"
+    },
+    {
+        "word": "Computer Vision",
+        "description": "コンピュータビジョンは、コンピュータがデジタル画像やビデオから高レベルの理解を得ることを可能にすることに焦点を当てているAIの分野です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層のニューラルネットワークを使用して、データ内の複雑なパターンや関係をモデル化し、理解することに焦点を当てているMLのサブセットです。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、人間の脳の構造と機能にインスピレーションを与えたコンピュータモデルであり、相互接続されたノードまたは人工ニューロンで構成されています。"
+    },
+    {
+        "word": "Real-Time Localization",
+        "description": "リアルタイムローカライゼーションとは、自動運転車が自分の位置と方向をリアルタイムで正確に決定する能力であり、しばしばGPS、惰性センサー、オドメトリーなどの技術を使用する。"
+    },
+    {
+        "word": "Perception",
+        "description": "Perceptionとは、カメラ、LiDAR、RADARなどのセンサーを通じて環境を理解し解釈するプロセスです。"
+    },
+    {
+        "word": "Path Planning",
+        "description": "パスプランニングとは、出発点から望ましい目標への実行可能な道を見つける過程で、障害を避け、さまざまな制約を考慮する過程です。"
+    },
+    {
+        "word": "Control Systems",
+        "description": "自動運転車の制御システムは、車両の行動と動きを規制し、調整するアルゴリズムとメカニズムを指します。"
+    },
+    {
+        "word": "Simultaneous Localization And Mapping (Slam)",
+        "description": "Simultaneous Localization and Mapping(SLAM)は、自動運転車が未知の環境の地図を作成し、同時に地図内で自らを位置づけるために使用する技術です。"
+    },
+    {
+        "word": "High-Definition Mapping",
+        "description": "高解像度マッピングは、道路地理、道路標識、交通標識、およびその他の関連情報を含む環境の詳細なデジタルマップを作成することを意味し、それは自動車のナビゲーションに不可欠です。"
+    },
+    {
+        "word": "V2X Communication",
+        "description": "V2X コミュニケーション(Vehicle-to-Everything Communication)は、車両が他の車両、インフラ、歩行者、クラウドと情報を交換できるワイヤレス通信技術です。"
+    },
+    {
+        "word": "Electrical Architecture",
+        "description": "自動運転車の電気アーキテクチャは、センサー、動作装置、制御ユニットなどの電気および電子部品の配置と組織を指し、自動運転車の機能を可能にします。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "機械ビジョンは、機械が視覚情報を解釈、分析、理解し、人間のビジョンを複製することを可能にするために、コンピュータビジョンと画像処理技術の使用を含みます。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、コンピューティングとデータストレージを必要とする場所に近づける分散型コンピューティングパラダイムであり、遅延とネットワークトラフィックを減らす。"
+    },
+    {
+        "word": "Data Annotation",
+        "description": "Data Annotation は、画像やセンサーの読み込みなどのデータを特定の属性や情報でラベル化または注釈するプロセスで、機械学習アルゴリズムがラベル化された例から学ぶことを可能にします。"
+    },
+    {
+        "word": "Object Detection",
+        "description": "Object Detection は、画像またはビデオ内の特定のオブジェクトまたはオブジェクトのインスタンスを識別し、位置づけるプロセスです。"
+    },
+    {
+        "word": "Collision Avoidance",
+        "description": "衝突回避は、他の車両、歩行者、または物体との潜在的な衝突を検出し、防止するために設計されたシステムや技術を指します。"
+    },
+    {
+        "word": "Semantic Segmentation",
+        "description": "セマンティックセグメントは、画像を複数のセグメントに分割する作業であり、各セグメントは有意義なオブジェクトまたは地域を表します。"
+    },
+    {
+        "word": "Cognitive Computing",
+        "description": "認知コンピューティングは、認識、学習、問題解決などの人間の認知機能を模するコンピュータシステムの開発を指します。"
+    },
+    {
+        "word": "Inertial Navigation System",
+        "description": "惰性ナビゲーションシステム(INS)は、加速計とジロスコープの組み合わせを使用して物体の位置、方向、速度を計算するナビゲーション・アシスタントです。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "リモートモニタリングは、リアルタイムのモニタリングと車両の運用とパフォーマンスのリモートビューを可能にし、プロアクティブなメンテナンス、トラブルシューティング、サポートを容易にします。"
+    },
+    {
+        "word": "Machine-To-Machine Communication",
+        "description": "マシン対マシン(M2M)コミュニケーションは、自動車や他のマシン間の直接的なコミュニケーションや相互作用を、人間の介入なしに可能にし、連携や協力行動を促進します。"
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencingは、GPSまたはRFIDを使用して仮想地理的境界を作成し、自動運転車が特定の地域またはゾーン内で制御または制限されることを可能にする技術です。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "予測メンテナンスとは、潜在的な故障や故障を予測し、予防し、信頼性を向上させ、メンテナンスコストを削減するために、自動車のデータを継続的に監視し分析することです。"
+    },
+    {
+        "word": "Vehicle Platooning",
+        "description": "Vehicle Platooning は、ワイヤレス通信を通じて接続され、調整され、交通流れと燃料効率を向上させる可能性を有するコンボで密接に共通する車両のグループを指します。"
+    },
+    {
+        "word": "Human-Machine Interface",
+        "description": "人間と機械のインターフェイス(HMI)は、人間と自動運転車の間の相互作用とコミュニケーションの手段を提供し、しばしば視覚、聴覚、または触感インターフェイスを介して。"
+    },
+    {
+        "word": "Sensor Calibration",
+        "description": "センサー校正は、センサーの測定を調整し、あらゆる体系的な誤りや偏見を考慮するプロセスです。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステム、ネットワーク、およびデータをデジタル攻撃や不正アクセスから保護する実践を指します。"
+    },
+    {
+        "word": "Environmental Perception",
+        "description": "自動運転車における環境認識は、道路条件、天候、他の道路利用者の行動などの側面を含む環境を理解し解釈する能力を指します。"
+    },
+    {
+        "word": "Fusion Control",
+        "description": "自動運転車における合併制御は、車両の望ましい行動とパフォーマンスを達成するために、さまざまな制御システムからの入力を統合し、調整するプロセスを指します。"
+    },
+    {
+        "word": "Model Predictive Control",
+        "description": "モデル予測制御(MPC)は、自動運転車の将来の進化を予測し、望ましい目標を達成するために限られた時間にわたって制御行動を最適化するための制御戦略です。"
+    },
+    {
+        "word": "Road User Communication",
+        "description": "道路利用者コミュニケーションとは、自動運転車と人間の運転者、歩行者、または他の道路利用者との間で、安全かつ効率的な相互作用を確保するために、情報と信号の交換を含む。"
+    },
+    {
+        "word": "Environment Perception Sensors",
+        "description": "自動運転車の環境感知センサーには、カメラ、レーダー、リダールなどのセンサーが含まれ、周囲の環境に関する情報を提供し、感知や意思決定アルゴリズムを可能にします。"
+    },
+    {
+        "word": "Cruise Control",
+        "description": "クルーズコントロールは、自動運転車の機能で、常時ドライバーの入力を必要とせず、自動的に設定された速度を維持し、快適性を向上させ、ドライバーの疲労を減らす。"
+    },
+    {
+        "word": "Data Logging",
+        "description": "データログインは、分析、診断、研究目的のために、さまざまなセンサー、システム、および自動運転車のコンポーネントからデータを収集し、保存することを意味します。"
+    },
+    {
+        "word": "Road Network Analysis",
+        "description": "道路ネットワーク分析は、自動運転車のルートとナビゲーションを最適化するために、道路ネットワークの特徴、トポロジー、トラフィックフロー、および容量を研究し、分析することを意味します。"
+    },
+    {
+        "word": "Human-Like Decision Making",
+        "description": "自動運転車における人間のような意思決定は、人間の意思決定プロセスを模し、センサーデータ、感知アルゴリズム、モデルを組み合わせ、複雑で不確実な状況で知的な意思決定を行うことを目的としています。"
+    },
+    {
+        "word": "Traffic Sign Recognition",
+        "description": "交通標識認識は、交通標識や道路標識の検出と認識を含み、自動運転車が交通規則と規制を解釈し遵守することを可能にします。"
+    },
+    {
+        "word": "Advanced Driver Assistance Systems",
+        "description": "Advanced Driver Assistance Systems (ADAS) は、適応型クルーズコントロール、レンジ維持アシスタント、自動緊急ブレーキなどの自動運転体験をサポートし、強化する自動運転車の安全機能です。"
+    },
+    {
+        "word": "Long Short-Term Memory (Lstm)",
+        "description": "LSTM(Long Short-Term Memory)は、頻繁に時間に依存するタスクで使用される連続データの処理と分析に特に有効な再現性ニューラルネットワーク(RNN)アーキテクチャの一種です。"
+    },
+    {
+        "word": "Localization",
+        "description": "ローカライゼーションは、特定の環境または地図内の車両の位置と方向性を推定するプロセスです。"
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "人工ニューラルネットワーク(ANN)は、人間の脳の生物学的ニューラルネットワークにインスピレーションを与えた計算モデルであり、パターン認識や分類などのタスクに使用されます。"
+    },
+    {
+        "word": "Comfort Control",
+        "description": "自動運転車における快適性コントロールには、温度、空気の流れ、座席の位置、照明などのさまざまなパラメータの調整と最適化が含まれ、乗客に快適でパーソナライズされた体験を提供します。"
+    },
+    {
+        "word": "Road Infrastructure Analysis",
+        "description": "道路インフラ分析は、自動運転車の互換性と安全性を確保するために、道路、交通信号、交差点などの道路インフラの状態、容量、適合性を評価することを含みます。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、歴史的データ、統計的アルゴリズム、機械学習技術を用いて、将来の出来事や結果についての予測や決定を行うことを意味します。"
+    },
+    {
+        "word": "Road Lane Detection",
+        "description": "道路線検出は、道路線を識別し、画像処理アルゴリズムを使用して路線を示すことを含むコンピュータビジョン技術であり、これは、道路線の維持や自律的なナビゲーションなどのタスクにとって極めて重要です。"
+    },
+    {
+        "word": "Object Tracking",
+        "description": "オブジェクト・トラッキングとは、環境内の物体の動きを時間とともに監視し、予測するプロセスです。"
+    },
+    {
+        "word": "Operating System",
+        "description": "自動運転車のオペレーティングシステムは、ハードウェアリソースを管理し、制御し、タスクをスケジュールし、異なるサブシステム間のコミュニケーションと連携を容易にするソフトウェアです。"
+    },
+    {
+        "word": "Traffic Simulation",
+        "description": "トラフィックシミュレーションは、トラフィックシステムの仮想モデルを作成し、さまざまなシナリオでその行動を分析し、トラフィックの流れを最適化し、自動運転車のアルゴリズムをテストするための洞察を提供します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーは、個人情報または機密データのプライバシーと機密性を保護し、プライバシー規制を遵守するための適切な同意、保存、使用の実践を確保することを意味します。"
+    },
+    {
+        "word": "Dynamic Path Planning",
+        "description": "自動運転車におけるダイナミックパスプランニングは、リアルタイムのセンサー情報、交通条件、その他のダイナミックな要因に基づいて計画されたパスや軌道を継続的に調整し、最適化することを意味します。"
+    },
+    {
+        "word": "Gesture Recognition",
+        "description": "ジェスチャー認識は、手の動きや顔の表現などのヒトのジェスチャーの識別と解釈を含み、自然で直感的な人間とコンピュータの相互作用を可能にします。"
+    },
+    {
+        "word": "Road Condition Monitoring",
+        "description": "道路状況の監視は、道路表面の品質と安全性を評価し、危険を特定し、自動運転車の性能や安全に影響を与える可能性のある変化や異常を検出することを含む。"
+    },
+    {
+        "word": "Ethical Considerations",
+        "description": "自動運転車における倫理的考慮事項は、安全性、責任、プライバシー、意思決定アルゴリズム、そして自動運転車が社会や環境に及ぼす影響に関連する問題や問題に取り組むことを含む。"
+    },
+    {
+        "word": "Context Awareness",
+        "description": "コンテキスト意識とは、自動運転車が周囲の文脈を理解し解釈する能力を指し、交通条件、天候、道路インフラ、および他の道路利用者の行動などの要因を含む。"
+    },
+    {
+        "word": "Adas",
+        "description": "ADAS(Advanced Driver Assistance Systems)とは、ドライバーに助けや警告を提供することによって、車両の安全性を向上させ、運転の快適性を向上させるためのシステムです。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Slam",
+        "description": "SLAMとは、ロボットと自動システムで使用される技術で、未知の環境をマッピングし、同時にマップ内のシステムの位置を追跡することを意味します。"
+    },
+    {
+        "word": "V2X",
+        "description": "Vehicle-to-Everything(V2X)通信により、車両は他の車両(V2V)、インフラ(V2I)、歩行者(V2P)、ネットワーク(V2N)と通信し、道路の安全性と効率性を向上させます。"
+    },
+    {
+        "word": "Remote Vehicle Diagnostics",
+        "description": "遠隔車両診断は、車両のパフォーマンス、健康、使用を遠隔でモニタリングし、分析し、運用効率の予測保守と最適化を可能にします。"
+    },
+    {
+        "word": "Hd Mapping",
+        "description": "High-Definition(HD)マッピングは、道路、交通標識、その他の関連機能の詳細かつ正確な地図を作成し、自動運転車に不可欠な文脈情報を提供します。"
+    },
+    {
+        "word": "Obstacle Detection",
+        "description": "障害物検出とは、自動運転車に潜在的な障害物または危険を引き起こす可能性のある環境中の物体を識別し、分類するプロセスである。"
+    },
+    {
+        "word": "Functional Safety",
+        "description": "機能安全とは、自動運転車が安全かつ信頼性の高い運転を確保するための安全メカニズムや実践を設計し、実施することを意味する。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、機械がデータから学び、明示的なプログラミングなしに意思決定や予測を行うことを可能にすることに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用を含み、機械が人間の言語を理解し、解釈し、生成することを可能にします。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "Reinforcement Learning は、長期的な累積的な報酬を最大化することを目的とするフィードバックまたは報酬を受信することによって環境との相互作用からエージェント学習を含む機械学習の種類です。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "拡張現実(AR)は、仮想オブジェクトやデータなどのデジタル情報をリアルな環境に表し、感知と相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Simulation",
+        "description": "シミュレーションは、実世界のシナリオを模する仮想環境またはモデルを作成し、自動運転車システムやアルゴリズムのテストと評価を可能にします。"
+    },
+    {
+        "word": "Object Recognition",
+        "description": "オブジェクト認識は、画像やビデオデータ内の特定のオブジェクトまたはエンティティの検出と識別を含み、自動運転車が周囲の環境を感知し、相互作用することを可能にします。"
+    },
+    {
+        "word": "Open Source",
+        "description": "オープンソースとは、ソフトウェアまたはハードウェアをリリースし、誰でもそれを研究、変更、または配布することを許可し、しばしば共同開発とコミュニティサポートを生み出す。"
+    },
+    {
+        "word": "Real-Time Processing",
+        "description": "リアルタイム処理とは、システムまたはアプリケーションが受信時にすぐにデータを処理し、それに反応する能力を指し、しばしば自動運転車の時間に敏感なタスクに不可欠である。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、処理電力、ストレージ、およびソフトウェアを含むコンピューティングサービスをインターネット上に提供し、スケーラブルでリソースを提供します。"
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data Fusionは、さまざまなソースやセンサーからのデータを組み合わせ、統合し、環境をより包括的かつ正確に表現するプロセスです。"
+    },
+    {
+        "word": "Human-Machine Interface (Hmi)",
+        "description": "ヒューマン・マシン・インターフェイス(HMI)とは、タッチスクリーン、音声コマンド、またはジェスチャー認識などの人間と機械の間のインターフェイスまたは相互作用を指し、効果的なコミュニケーションと制御を可能にします。"
+    },
+    {
+        "word": "Emissions Monitoring",
+        "description": "排出量モニタリングは、車両の排出量を測定し、モニタリングし、環境規制の遵守と燃料効率の最適化を可能にします。"
+    },
+    {
+        "word": "Range Anxiety",
+        "description": "範囲不安は、電気自動車(EV)の運転手が目的地または充電所に到達する前にバッテリーの充電がなくなることを恐れるか心配することを指します。"
+    },
+    {
+        "word": "Fleet Management",
+        "description": "フロートマネジメントは、自動運転車両を含む車両のフロートを管理し、調整し、運用、メンテナンス、ルーティング、リソース配分を最適化することを意味します。"
+    },
+    {
+        "word": "Vehicle-To-Vehicle (V2V)",
+        "description": "車両対車両(V2V)通信は、車両間の無線情報交換を可能にし、運転協力、衝突回避、交通効率を促進します。"
+    },
+    {
+        "word": "Charging Infrastructure",
+        "description": "充電インフラストラクチャは、電気自動車(EV)の充電ニーズをサポートするために必要な充電ステーションと関連インフラストラクチャのネットワークを指します。"
+    },
+    {
+        "word": "Vehicle Dynamics",
+        "description": "車両ダイナミクスは、加速、ブレーキ、指向などのさまざまな力や入力に反応して車両がどのように動き、振る舞うかについての研究です。"
+    },
+    {
+        "word": "Sensor Array",
+        "description": "Sensor Array は、カメラ、LiDAR、レーダーなどの複数のセンサーのグループまたは配列を指し、環境のより包括的な認識を提供するために一緒に働く。"
+    },
+    {
+        "word": "Velocity Estimation",
+        "description": "スピード推定は、物体の速度と方向を決定し、しばしばセンサーの測定や視覚情報を使用して、物体の動きをリアルタイムで推定します。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "無監督学習は、アルゴリズムが、監督者または外部のソースによって直接指導またはラベル化されずに、入力データ内のパターンや構造を学習する機械学習の種類です。"
+    },
+    {
+        "word": "Validation And Verification",
+        "description": "認証と検証(V&V)は、自動運転車システムのテスト、検査、分析を含んでおり、必要な仕様とパフォーマンス基準を満たしていることを保証します。"
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットを使用してビジネスプロセスのルーチンおよび繰り返しのタスクを自動化し、効率を向上させ、人間の介入を減らすことを目的としています。"
+    },
+    {
+        "word": "Cloud Storage",
+        "description": "クラウドストレージは、インターネット経由でアクセスできるリモートサーバーまたはインフラストラクチャにデータを保存し、スケーラビリティ、アクセシビリティ、およびデータ過剰性の利点を提供します。"
+    },
+    {
+        "word": "Remote Control",
+        "description": "リモートコントロールは、遠隔地点から車両またはシステムを制御し、操作することを可能にし、しばしばワイヤレス通信や人と機械のインターフェイスを用いる。"
+    },
+    {
+        "word": "Vehicle Routing",
+        "description": "車両ルーティングは、様々な制約や目標を考慮して、一連の配送または輸送タスクを完了するための車両の艦隊の最適なルートと順序を決定することを意味します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "データ視覚化は、図、グラフ、またはマップなどの視覚形式のデータまたは情報の表示を含み、複雑なデータの理解、分析、およびコミュニケーションを容易にする。"
+    },
+    {
+        "word": "Telematics",
+        "description": "テレマティクスは、遠隔物体(車両など)に関連するデータを監視し、転送するための通信とコンピュータの統合された利用を含み、追跡、診断、分析を可能にします。"
+    },
+    {
+        "word": "Cost Optimization",
+        "description": "コスト最適化は、エネルギー消費、メンテナンス、インフラストラクチャ、製造を含む自動運転車の運用に関連するコストの分析と最小化を含む。"
+    },
+    {
+        "word": "Pedestrian Detection",
+        "description": "歩行者の検出は、自動運転車が歩行者の存在または歩行者との潜在的な衝突を識別し、検出する能力を指し、歩行者の安全と正しい道のりを確保する。"
+    },
+    {
+        "word": "Human Detection",
+        "description": "ヒト検出は、人間の存在や活動を識別し、しばしば監視やセキュリティシステムなどのアプリケーションのためにコンピュータビジョン技術を使用することを意味します。"
+    },
+    {
+        "word": "Autonomous Valet Parking",
+        "description": "Autonomous Valet Parkingは、車両が指定された駐車場に自律的に駐車することを可能にし、駐車場の便利性と効率的な利用を向上させます。"
+    },
+    {
+        "word": "Occupancy Grid Mapping",
+        "description": "Occupancy Grid Mapping は、同時に位置付けおよびマッピング (SLAM) で使用されるテクニックで、環境における占領または障害の確率を表し、グリッドベースのマップを作成します。"
+    },
+    {
+        "word": "Radar",
+        "description": "RADARはラジオ検出とランジングの略で、ラジオ波を使用して物体を検出し位置づけるリモートセンサー技術です。"
+    },
+    {
+        "word": "Gps",
+        "description": "GPSはGlobal Positioning System(グローバルポジションシステム)の略で、あらゆる天候条件下で位置と時間情報を提供するグローバル・ナビゲーション・衛星システムです。"
+    },
+    {
+        "word": "Inertial Measurement Unit",
+        "description": "Inertial Measurement Unit(IMU)は、車両の特定の力、角度速度、時には磁場を測定し報告する電子装置です。"
+    },
+    {
+        "word": "Simulator",
+        "description": "シミュレータは、実世界の環境の行動を模し、自動運転車システムのテストと検証を可能にするソフトウェアまたはハードウェアシステムです。"
+    },
+    {
+        "word": "Teleoperation",
+        "description": "遠隔操作は、通信リンクを通じて遠隔地点から車両を制御し、しばしば自動運転車のバックアップソリューションとして使用されます。"
+    },
+    {
+        "word": "Route Planning",
+        "description": "ルートプランニングは、出発地点から望ましい目的地まで最適なルートを決定するプロセスであり、交通、天候、道路条件などのさまざまな要因を考慮に入れる。"
+    },
+    {
+        "word": "Hd Maps",
+        "description": "HDマップ(High-Definition Maps)は、道路の地理、道路標識、交通標識を含む環境に関する正確かつ最新の情報を提供する詳細なマップです。"
+    },
+    {
+        "word": "Decision-Making",
+        "description": "自動運転車における意思決定は、環境の認識と車両の目標に基づいて最も適切な行動または行動を選択することです。"
+    },
+    {
+        "word": "Vehicle-To-Vehicle Communication",
+        "description": "車両対車両(V2V)コミュニケーションにより、車両は近隣の他の車両と情報を交換し、より安全で効率的な運転を可能にします。"
+    },
+    {
+        "word": "Vehicle-To-Infrastructure Communication",
+        "description": "車両対インフラ(V2I)コミュニケーションにより、車両は交通信号や道路標識などの道路のインフラと通信し、交通の流れと安全性を向上させます。"
+    },
+    {
+        "word": "Ego Vehicle",
+        "description": "エゴ車両とは、感覚、計画、制御システムが動作する自律車両そのものを指します。"
+    },
+    {
+        "word": "Dead Reckoning",
+        "description": "Dead Reckoningは、以前の位置、速度、方向に基づいて車両の位置を推定するナビゲーション技術です。"
+    },
+    {
+        "word": "Path Following",
+        "description": "Path Followingは、車両を事前に定義された経路に従うように制御し、センサーからのフィードバックや制御アルゴリズムに基づいて軌道を調整するプロセスです。"
+    },
+    {
+        "word": "Predictive Modeling",
+        "description": "予測モデリングは、過去のデータと統計アルゴリズムを使用して、将来の出来事や行動についての予測や予測を行うことを意味します。"
+    },
+    {
+        "word": "System Integration",
+        "description": "システム統合は、自動運転車のさまざまなサブシステムとコンポーネントを一つの統合的で機能的な全体に組み合わせることを意味します。"
+    },
+    {
+        "word": "Image Recognition",
+        "description": "画像認識は、デジタル画像におけるオブジェクトまたはパターンを識別し、分類するプロセスです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、コンピュータが人間の言語を理解し、解釈し、生成することを可能にすることに焦点を当てているAIの分野です。"
+    },
+    {
+        "word": "Road User Interaction",
+        "description": "道路利用者インタラクションは、自動運転車と、歩行者、自転車、人動車などの他の道路利用者との相互作用を含みます。"
+    },
+    {
+        "word": "Sensor Selection",
+        "description": "センサー選択は、コスト、パフォーマンス、信頼性などの要因を考慮し、特定の自動運転車のアプリケーションに最適なセンサーを選択するプロセスです。"
+    },
+    {
+        "word": "Firmware",
+        "description": "ファームウェアとは、その操作を制御し、他のハードウェアコンポーネントとの通信を可能にするためにハードウェアデバイスに埋め込まれたソフトウェアまたはコードを指します。"
+    },
+    {
+        "word": "Dynamic Environment",
+        "description": "ダイナミックな環境とは、動く物体、異なる照明条件、予測不能な出来事を伴う絶え間なく変化し、進化する環境を指します。"
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learning は、深層学習と強化学習を組み合わせ、エージェントが環境との試用とエラーの相互作用を通じて最適なポリシーを学ぶことを可能にするMLのサブフィールドです。"
+    },
+    {
+        "word": "Traffic Prediction",
+        "description": "トラフィック予測は、歴史的およびリアルタイムのデータを使用して、将来の交通条件を予測し、自動運転車が知的決定を下し、効率的なルートを計画するのを助けることを意味します。"
+    },
+    {
+        "word": "Fault Tolerance",
+        "description": "Fault Tolerance は、システムがエラーやエラーが存在する場合に適切に動作し続ける能力を指します。"
+    },
+    {
+        "word": "Road Infrastructure Perception",
+        "description": "道路インフラ認識は、自動運転車に重要な情報を提供する道路標識、交通照明、その他のインフラ要素の検出と認識を含みます。"
+    },
+    {
+        "word": "Situational Awareness",
+        "description": "状況意識とは、意思決定と計画をサポートするために、物体の位置と動きを含む環境の現在の状態の認識と理解を指します。"
+    },
+    {
+        "word": "Autonomous Vehicle Testing",
+        "description": "自動運転車のテストは、さまざまなシナリオや条件下で自動運転車システムのパフォーマンスと安全性を評価するためのテストや実験を実施することです。"
+    },
+    {
+        "word": "Scenario-Based Testing",
+        "description": "シナリオベースのテストは、自動運転車が直面する特定の現実世界のシナリオや危機的な状況をシミュレートするテストの設計と実行を含む。"
+    },
+    {
+        "word": "Long-Range Perception",
+        "description": "長距離感知とは、自動運転車が遠隔で物体や障害物を検出し、認識し、早期発見と積極的な意思決定を可能にする能力を指します。"
+    },
+    {
+        "word": "Energy Optimization",
+        "description": "エネルギー最適化は、エネルギー消費する部品やシステムの使用を最適化することによって、自動運転車のエネルギー効率と範囲を最大化することです。"
+    },
+    {
+        "word": "Fault Detection And Diagnosis",
+        "description": "故障検出および診断は、自動車システムにおける故障または異常の識別および診断を含み、安全かつ信頼性の高い運用を確保します。"
+    },
+    {
+        "word": "Road Database",
+        "description": "道路データベースとは、航行および路線計画に使用される道路の並列、地理、道路属性を含む道路に関する詳細な情報を含むデジタルデータベースを指します。"
+    },
+    {
+        "word": "Driving Policy",
+        "description": "運転ポリシーとは、自動運転車の行動や行動を規制するルール、ガイドライン、アルゴリズムを指し、交通規制、安全規則、ユーザーの好みを考慮に入れる。"
+    }
+]

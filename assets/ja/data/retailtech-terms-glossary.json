@@ -1,0 +1,502 @@
+[
+    {
+        "word": "E-Commerce",
+        "description": "電子商取引、または電子商取引は、インターネット経由で商品やサービスの購入と販売です。"
+    },
+    {
+        "word": "Omnichannel",
+        "description": "Omnichannelは、物理ストア、オンラインプラットフォーム、モバイルアプリなどのすべてのチャネルでシームレスで一貫した顧客体験を提供するアプローチです。"
+    },
+    {
+        "word": "Mobile Commerce",
+        "description": "Mobile commerce、またはm-commerceは、スマートフォンやタブレットなどのモバイルデバイスを通じてオンライン取引を行うことを指します。"
+    },
+    {
+        "word": "Inventory Management",
+        "description": "倉庫管理は、製造業者から倉庫まで、最適な倉庫レベルを確保するために、商品の流れを監督し、制御するプロセスを含みます。"
+    },
+    {
+        "word": "Point Of Sale (Pos)",
+        "description": "売り場(POS)とは、取引が完了する物理的またはデジタル位置を指し、通常、支払いのために商品またはサービスの交換を含む。"
+    },
+    {
+        "word": "Supply Chain",
+        "description": "サプライチェーンは、原材料から最終製品に至るまで、商品の生産と配布に関わる活動の順序を指します。"
+    },
+    {
+        "word": "Rfid",
+        "description": "RFID(Radio Frequency Identification)は、ラジオ波を使用してRFIDタグを使用したオブジェクトを自動的に識別し、追跡する技術です。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術やツールを使用して容易に管理、処理、分析できない大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、統計アルゴリズム、機械学習技術、および過去のデータを用いて、将来の結果、トレンド、または行動を予測することです。"
+    },
+    {
+        "word": "Digital Payments",
+        "description": "デジタル決済は、モバイル財布、デジタル銀行、仮想通貨などの技術を使用して行われた電子取引を指します。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "拡張現実(AR)は、画像、ビデオ、または3Dモデルなどのデジタル情報をリアルな環境に表し、ユーザーの感知と周囲との相互作用を向上させる技術です。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実(VR)は、ユーザーをシミュレート環境に浸透させ、コンピュータ生成のビジュアル、音声、時にはヘプティックフィードバックを使用して現実的な感覚体験を作成する技術です。"
+    },
+    {
+        "word": "Chatbots",
+        "description": "チャットボットは、通常、テキストや音声ベースのインターフェイスを介して、人間のユーザーとの会話をシミュレートするように設計されたAI駆動型のコンピュータプログラムで、情報を提供したり、タスクを実行したりします。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、機械がデータから学び、明示的にプログラミングされずにパフォーマンスを向上させることに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics は、大規模なデータセットを調べるプロセスで、実行可能な洞察、パターン、および関連性を明らかにし、知的ビジネス意思決定を促進することができます。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、サーバー、ストレージ、データベース、ネットワーク、ソフトウェア、分析、インテリジェンスなどのコンピューティングサービスをインターネットを通じて提供することを指します。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および接続性で組み込まれた物理デバイス、車両、デバイス、その他のオブジェクトのネットワークを指し、データを収集および交換することができます。"
+    },
+    {
+        "word": "Beacon Technology",
+        "description": "ビーコン技術は、ビーコンと呼ばれる小さなBluetoothデバイスを使用して、近くのモバイルデバイスを検出し、接続し、位置ベースのサービスとパーソナライズされた通知を可能にします。"
+    },
+    {
+        "word": "Customer Relationship Management (Crm)",
+        "description": "顧客関係管理(CRM)とは、企業が顧客のライフサイクルを通じて顧客のインタラクションとデータを管理し、分析するために使用する慣行、戦略、技術を指します。"
+    },
+    {
+        "word": "Personalization",
+        "description": "パーソナライゼーションは、製品、サービス、およびマーケティングの取り組みを個々の顧客に、その好み、行動、過去の相互作用に基づいてカスタマイズするプロセスです。"
+    },
+    {
+        "word": "Artificial Neural Networks",
+        "description": "人工ニューラルネットワークは、機械学習とAIで使用される生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Data Mining",
+        "description": "データマイニングは、数学アルゴリズム、統計技術、機械学習方法を使用して、大規模なデータセットからパターン、関係、または洞察を発見するプロセスです。"
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "顧客セグメントは、顧客の特徴、行動、または好みに基づいて顧客を異なるグループに分割するプロセスです。"
+    },
+    {
+        "word": "Geolocation",
+        "description": "地理位置は、携帯電話やコンピュータ端末などの物体の現実世界の地理的位置の識別または推定です。"
+    },
+    {
+        "word": "Social Commerce",
+        "description": "ソーシャルコマーシャルとは、ソーシャルメディアプラットフォームを使用してオンライン購入と販売を促進し、ユーザー生成コンテンツ、推奨、ソーシャルネットワークを活用することを指します。"
+    },
+    {
+        "word": "Qr Codes",
+        "description": "QRコード(Quick Response Codes)は、2次元のバーコードで、スマートフォンを使って迅速に情報にアクセスしたり、アクションを実行したりすることができます。"
+    },
+    {
+        "word": "Digital Signage",
+        "description": "Digital Signage は、LCD スクリーン、ビデオ ウォール、またはインタラクティブ キオスクなどのデジタルディスプレイを使用して、ターゲット化された広告、情報、またはエンターテイメントコンテンツを提供します。"
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "仮想アシスタントは、タスクを実行し、質問に答え、ユーザーに情報を提供または援助できるAI駆動のソフトウェアプログラムです。"
+    },
+    {
+        "word": "Cashless Stores",
+        "description": "現金なしの店舗は、デジタル決済のみを受け入れ、現金処理をしない施設です。"
+    },
+    {
+        "word": "Augmented Commerce",
+        "description": "Augmented Commerceは、拡張現実、仮想現実、その他のテクノロジーをオンラインショッピング体験に統合し、製品の視覚化と顧客関心を向上させます。"
+    },
+    {
+        "word": "Robotic Process Automation (Rpa)",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットまたはボットを使用して、繰り返しやルールベースのタスクを自動化し、効率を向上させ、エラーを減らすことを指します。"
+    },
+    {
+        "word": "Supply Chain Analytics",
+        "description": "Supply Chain Analyticsは、サプライチェーン操作を最適化し、効率性を向上させ、コストを削減し、小売業界の全体的なパフォーマンスを向上させるためのデータ分析技術の使用です。"
+    },
+    {
+        "word": "Internet Of Everything (Ioe)",
+        "description": "すべての物のインターネットは、あらゆる種類のデバイス、物体、人々をインターネットに接続し、相互接続のネットワークを作成することを指します。"
+    },
+    {
+        "word": "Customer Journey",
+        "description": "顧客の旅とは、顧客が会社やブランドと交流する際に経験する完全な合計を指します。"
+    },
+    {
+        "word": "Cashierless Stores",
+        "description": "Cashierless Storesは、コンピュータビジョン、センサー、AIなどのテクノロジーを使用して、顧客が商品を拾い上げ、自動的に検出し、伝統的なチェックアウトプロセスを通すことなく購入を完了することができます。"
+    },
+    {
+        "word": "Dynamic Pricing",
+        "description": "ダイナミック価格設定は、需要、競争、時間、または顧客のセグメント化などのさまざまな要因に基づいて製品価格をリアルタイムで調整する価格設定戦略です。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間の取引の安全かつ透明な記録を可能にし、不変性、分散化、信頼性を提供する分散型帳の技術です。"
+    },
+    {
+        "word": "Product Information Management (Pim)",
+        "description": "製品情報管理(PIM)とは、製品データをさまざまな販売チャネルを通じて収集、組織化、豊かにし、配布するプロセスを指し、正確性と一貫性を確保する。"
+    },
+    {
+        "word": "Customer Experience (Cx)",
+        "description": "顧客体験とは、顧客が会社やブランドとその旅を通して持つ全体的な経験と相互作用を指します。"
+    },
+    {
+        "word": "In-Store Analytics",
+        "description": "In-store Analytics は、カメラ、Wi-Fi トラッキング、ビーコンなどのテクノロジーを使用して、顧客の行動、トラフィックパターン、およびストアのパフォーマンスに関するデータを収集および分析します。"
+    },
+    {
+        "word": "Virtual Fitting Rooms",
+        "description": "仮想客室は、拡張現実や仮想現実技術を使用して、顧客が服やアクセサリーをデジタルで試すことができます。"
+    },
+    {
+        "word": "Voice Commerce",
+        "description": "Voice Commerceは、ユーザーがAmazonのAlexaやAppleのSiriなどの仮想音声アシスタントを通じて音声コマンドを使用して購入や取引を行うことを可能にします。"
+    },
+    {
+        "word": "Last Mile Delivery",
+        "description": "最後のマイル配達は、輸送ハブから顧客のドアステップまで、配達プロセスの最終段階です。"
+    },
+    {
+        "word": "Robotic Fulfillment Centers",
+        "description": "ロボットコンプライアンスセンターでは、電子商取引倉庫における注文選択、分類、包装などのタスクを支援するために自動化されたロボットを使用しています。"
+    },
+    {
+        "word": "Biometric Payments",
+        "description": "バイオメトリックの支払いは、指紋や顔認識などのユニークな生物学的特性を使用して、取引を承認し処理します。"
+    },
+    {
+        "word": "Social Listening",
+        "description": "Social Listeningは、ソーシャルメディアプラットフォームをモニタリングし、分析し、顧客の意見、ブランドの感情、市場のトレンドを理解するための実践です。"
+    },
+    {
+        "word": "Geofencing",
+        "description": "Geofencing は、GPS または RFID テクノロジーを使用して仮想境界を作成し、デバイスが指定された領域に入ったり出たりしたときにアクションや通知を引き起こします。"
+    },
+    {
+        "word": "Conversational Commerce",
+        "description": "会話商取引は、メッセージングアプリ、チャットボット、または音声アシスタントを使用して顧客と相互作用し、取引することを指します。"
+    },
+    {
+        "word": "Customer Loyalty Programs",
+        "description": "顧客忠誠プログラムは、顧客に報酬、割引、独占的なオファー、またはパーソナライズされた体験を提供することによって、繰り返し購入を奨励し、顧客の保持を向上させるためのマーケティング戦略です。"
+    },
+    {
+        "word": "Robotic Shelf Monitoring",
+        "description": "ロボット棚の監視は、カメラやセンサーを備えたロボットを使用して、ショップの棚の製品の可用性、配置、価格を監視することを意味します。"
+    },
+    {
+        "word": "Elasticsearch",
+        "description": "Elasticsearch は、大量のデータを迅速かつスケーラブルに検索、分析、視覚化できる検索エンジンです。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステムやデータを不正アクセス、攻撃、または損傷から保護するために使用される措置や技術を指します。"
+    },
+    {
+        "word": "Virtual Point Of Sale (Vpos)",
+        "description": "Virtual Point of Sale(VPOS)は、企業が電子商取引でよく使われる仮想端末を通じて支払いを受け入れることを可能にするシステムです。"
+    },
+    {
+        "word": "Microtargeting",
+        "description": "マイクロターゲティングは、彼らの好みや行動に基づいて特定の個人または狭いセグメントにメッセージやコンテンツをカスタマイズすることを含むマーケティング戦略です。"
+    },
+    {
+        "word": "Contactless Payments",
+        "description": "接触のない支払いでは、NFC(Near Field Communication)などの技術を使用して、カードまたはモバイルデバイスをタップまたはワイプすることで安全かつ便利な取引を可能にします。"
+    },
+    {
+        "word": "Cloud Point Of Sale (Cloud Pos)",
+        "description": "Cloud Point of Sale (Cloud POS) は、ローカルハードウェアではなく、クラウドで販売取引とデータを格納および処理するシステムです。"
+    },
+    {
+        "word": "Store Associate Apps",
+        "description": "ストア関連アプリは、小売業者が製品情報、在庫データにアクセスし、顧客にパーソナライズされたサポートを提供できるモバイルアプリケーションです。"
+    },
+    {
+        "word": "Virtual Try-On",
+        "description": "Virtual Try-Onは、拡張現実や仮想現実技術を使用して、顧客がデジタルで製品を視覚化し、服装、アクセサリー、化粧品などの製品を試すことができます。"
+    },
+    {
+        "word": "Cash Flow Management",
+        "description": "キャッシュフロー管理は、十分な流動性と財務的安定性を確保するために、ビジネスのキャッシュフローと外出を監視、分析し、最適化することを意味します。"
+    },
+    {
+        "word": "Dark Stores",
+        "description": "ダークストアは、物理的な小売場所とは別に運営するオンライン注文履行にのみ使用される配送センターまたは倉庫です。"
+    },
+    {
+        "word": "Smart Mirrors",
+        "description": "Smart Mirrorsは、鏡に組み込まれたデジタルディスプレイで、仮想試用体験、パーソナライズされた推奨、インタラクティブな機能を提供します。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革は、デジタルテクノロジーをビジネスのあらゆる分野に統合し、ビジネスがどのように機能し、顧客に価値を提供するかを根本的に変えるプロセスです。"
+    },
+    {
+        "word": "Fulfillment",
+        "description": "履行とは、顧客の注文の受信、処理、および配達のプロセスを指します。"
+    },
+    {
+        "word": "Loyalty Program",
+        "description": "忠誠プログラムは、顧客が繰り返し購入したり、ブランド忠誠心を示したりするマーケティング戦略です。"
+    },
+    {
+        "word": "Supply Chain Management",
+        "description": "サプライチェーン管理(SCM)は、サプライヤー、メーカー、顧客間の商品、サービス、情報の流れの計画と制御を含む。"
+    },
+    {
+        "word": "Data Science",
+        "description": "データサイエンスは、科学的な方法、プロセス、アルゴリズム、およびシステムを使用して、構造化されたおよび非構造化されたデータから知識と洞察を抽出する学際的な分野です。"
+    },
+    {
+        "word": "Epos",
+        "description": "EPOS(Electronic Point of Sale)とは、小売店で販売取引を処理するためのコンピュータ化されたシステムを指します。"
+    },
+    {
+        "word": "Mobile Commerce (M-Commerce)",
+        "description": "Mobile Commerce (m-commerce) は、スマートフォンやタブレットなどのワイヤレス携帯デバイスを通じて商品やサービスの購入と販売を指します。"
+    },
+    {
+        "word": "Retail Analytics",
+        "description": "Retail Analyticsは、顧客行動、市場の傾向、および小売業界における運用パフォーマンスに関する洞察を得るためのデータ分析技術の使用です。"
+    },
+    {
+        "word": "Saas",
+        "description": "SaaS(Software as a Service)とは、ソフトウェアがサブスクリプションベースで提供され、中央にホストされているソフトウェアのライセンスおよび配信モデルです。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、通常、テキストや音声ベースの相互作用を通じて、会話やユーザーと対話するように設計されたAI駆動型のソフトウェアプログラムです。"
+    },
+    {
+        "word": "Click And Collect",
+        "description": "Click and Collect(またはオンライン購入、Pickup In Store)は、顧客がオンラインで製品を購入し、近くの物理店舗からそれらを収集することを可能にし、便利さを提供し、配送時間を短縮します。"
+    },
+    {
+        "word": "E-Wallet",
+        "description": "デジタル財布とも呼ばれる電子財布は、ユーザーの支払い情報を安全に保存し、電子取引を可能にするソフトウェアベースのシステムです。"
+    },
+    {
+        "word": "Internet Of Things (Iot) In Retail",
+        "description": "物のインターネット(IoT)は、小売業界におけるIoT技術の応用を指し、小売業者がリアルタイムのデータを収集、分析、行動できるようにします。"
+    },
+    {
+        "word": "O2O (Online-To-Offline)",
+        "description": "O2Oとは、オンラインからオフラインの略で、オンラインとオフラインのビジネス運営の統合を意味し、両チャンネルでシームレスな顧客体験を提供します。"
+    },
+    {
+        "word": "Pos System",
+        "description": "POSシステム、または販売ポイントシステムは、販売取引を処理し、在庫を管理し、小売業で他の機能を実行するために使用されるハードウェアとソフトウェアの組み合わせです。"
+    },
+    {
+        "word": "Retailtainment",
+        "description": "Retailtainmentとは、エンターテイメント、イベント、または体験を使用して顧客を魅了し、販売を増やすことを目的としてショッピング体験を向上させることを指します。"
+    },
+    {
+        "word": "Smart Shelf",
+        "description": "Smart Shelf は、センサーと RFID テクノロジーを搭載して、在庫レベルを追跡し、製品の配置を監視し、小売業者にリアルタイムのデータを提供する棚です。"
+    },
+    {
+        "word": "Artificial Neural Network (Ann)",
+        "description": "An Artificial Neural Network (ANN) は、AI で複雑な問題を解決するために使用される生物学的神経ネットワークの構造と機能にインスピレーションを与えた数学的モデルです。"
+    },
+    {
+        "word": "End-To-End (E2E) Retail Analytics",
+        "description": "End-to-End (E2E) Retail Analytics は、生産から販売点まで、小売サプライチェーン全体のデータの包括的な分析を指し、洞察を獲得し、運営を最適化します。"
+    },
+    {
+        "word": "Mobile Pos",
+        "description": "Mobile POS, or Mobile Point of Sale, refers to the use of mobile devices, such as smartphones and tablets, as a payment terminal to process sales transactions. モバイルPOSは、スマートフォンやタブレットなどのモバイルデバイスの支払い端末として販売取引を処理することを指します。"
+    },
+    {
+        "word": "Recommendation Engine",
+        "description": "推奨エンジンは、購入履歴やブラウジング行動などのユーザーデータを分析して、製品やサービスのためのパーソナライズされた推奨を生成するソフトウェアアルゴリズムです。"
+    },
+    {
+        "word": "Visual Merchandising",
+        "description": "Visual Merchandisingは、顧客を視覚的に巻き込んで魅了するために、小売店のディスプレイ、デバイス、商品を設計し、整理する実践です。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Retail",
+        "description": "人工知能(AI)は、機械学習や自然言語処理などのAIテクノロジーの小売業界でのアプリケーションを指し、タスクを自動化し、経験を個性化し、ビジネス洞察を推進する。"
+    },
+    {
+        "word": "Customer Data Platform (Cdp)",
+        "description": "顧客データプラットフォーム(CDP)は、さまざまなソースから顧客データを集計し、組織し、統一された顧客プロフィールを作成し、パーソナライズされたマーケティングとより良い顧客体験を可能にするソフトウェアシステムです。"
+    },
+    {
+        "word": "Demand Forecasting",
+        "description": "需要予測は、過去のデータ、市場の傾向、およびその他の関連する要因に基づいて、製品またはサービスの将来の顧客の需要を推定するプロセスです。"
+    },
+    {
+        "word": "Experiential Retail",
+        "description": "Experiential Retailとは、伝統的なショッピング取引を超えて、顧客のために浸透的で魅力的な体験を生み出すことに焦点を当てた小売戦略です。"
+    },
+    {
+        "word": "Marketing Automation",
+        "description": "マーケティング自動化は、マーケティングプロセスを自動化するためのソフトウェアプラットフォームとテクノロジーの使用、例えば、リーブ生成、電子メールマーケティング、顧客セグメント化、効率性と効率性を向上させる。"
+    },
+    {
+        "word": "Online Marketplace",
+        "description": "Online Marketplace は、複数の第三者販売者が消費者に販売するために製品やサービスを提供できるデジタルプラットフォームです。"
+    },
+    {
+        "word": "Retail Crm",
+        "description": "Retail CRM、またはRetail Customer Relationship Managementは、小売業者が顧客の相互作用を管理し、分析し、忠誠心を促進し、全体的な顧客体験を向上させるのに役立つ顧客中心のアプローチとソフトウェアシステムです。"
+    },
+    {
+        "word": "Video Analytics",
+        "description": "Video Analyticsは、高度なアルゴリズムとコンピュータビジョン技術を使用して、顧客行動、トラフィックパターン、セキュリティモニタリングなどのビデオデータから有意義な情報を抽出します。"
+    },
+    {
+        "word": "Augmented Virtual Reality (Avr)",
+        "description": "Augmented Virtual Reality(AVR)は、拡張現実(AR)と仮想現実(VR)の両方の要素を組み合わせ、デジタルコンテンツをリアルな環境と混合した現実体験を作成します。"
+    },
+    {
+        "word": "Omni-Channel",
+        "description": "Omni-channelは、オンライン、ストア、モバイルなどのさまざまなチャンネルでシームレスで統合されたショッピング体験を提供することに焦点を当てているアプローチです。"
+    },
+    {
+        "word": "Retailtech",
+        "description": "Retailtechは、小売業界を強化するために特別に設計された技術ソリューションと革新を指します。"
+    },
+    {
+        "word": "Mobile Payments",
+        "description": "モバイル決済は、スマートフォンやタブレットなどのモバイルデバイスを使用して支払いを行う能力を指し、しばしば近接フィールド通信(NFC)やモバイルウォレットなどの技術を使用します。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーは、個人情報の保護と適切な取り扱い、規制の遵守と顧客の信頼を維持することを意味します。"
+    },
+    {
+        "word": "Smart Shelves",
+        "description": "Smart Shelvesは、センサーとRFIDテクノロジーを搭載して、在庫レベルを追跡し、製品の配置を監視し、リアルタイムのデータの洞察を提供する棚です。"
+    },
+    {
+        "word": "Cashless Payments",
+        "description": "現金なしの支払いは、クレジットカードやデビットカード、モバイル財布、または接触のない支払いソリューションなどのデジタル支払い方法を使用して行われた取引を指し、物理的な現金の必要性を排除します。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティは、不正なアクセス、使用、開示、干渉、変更、または破壊からデータを保護し、その完全性、機密性、および可用性を確保することを意味します。"
+    },
+    {
+        "word": "Inventory Optimization",
+        "description": "備蓄最適化は、最適な備蓄レベルと補充戦略を決定し、コストを最小限に抑えながら、顧客の需要を満たすのに十分な備蓄を確保することを意味します。"
+    },
+    {
+        "word": "Contactless Technologies",
+        "description": "接触のないテクノロジーには、NFC、Bluetooth、およびQRコードのようなテクノロジーが含まれ、デバイス間の物理的な接触なしで取引、情報交換、または相互作用を可能にします。"
+    },
+    {
+        "word": "Subscription-Based Models",
+        "description": "サブスクリプションベースのモデルは、製品またはサービスを繰り返しサブスクリプションベースで提供し、快適性、繰り返し収入、顧客忠誠心を提供します。"
+    },
+    {
+        "word": "Robotic Assisted Fulfillment",
+        "description": "Robotic Assisted Fulfillment は、倉庫や満たしセンターでロボットを使用して、採取、分類、包装、および配送のタスクを自動化します。"
+    },
+    {
+        "word": "Artificial Reality (Ar)",
+        "description": "人工現実(AR)は、拡張現実と仮想現実の組み合わせで、デジタル情報を物理現実と混合して完全に新しい仮想体験を作成します。"
+    },
+    {
+        "word": "Geolocation Technology",
+        "description": "Geolocation Technologyは、GPSまたはIPアドレスデータを使用して、デバイスまたはユーザーの実際の地理的位置を決定し、位置ベースのサービスとターゲットマーケティングを可能にします。"
+    },
+    {
+        "word": "Interactive Displays",
+        "description": "インタラクティブディスプレイは、ユーザーがコンテンツと相互作用し、メニューを移動したり、選択を行い、顧客の関わりと製品探索を向上させることができるタッチスクリーン対応のデジタルディスプレイです。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、ロボットの設計、建設、プログラミング、およびタスクを実行し、プロセスを自動化し、または人間の能力を向上させるために使用することを含む。"
+    },
+    {
+        "word": "Customer Analytics",
+        "description": "Customer Analytics は、顧客データ、行動、好み、および相互作用を分析し、洞察を得、ターゲット化されたマーケティング、販売、およびサービス戦略を推進します。"
+    },
+    {
+        "word": "Last-Mile Delivery",
+        "description": "Last-Mile Deliveryは、配送センターから最終顧客の場所まで、配送プロセスの最終段階を指し、しばしばユニークな物流課題を提示します。"
+    },
+    {
+        "word": "Personal Shopping Assistants",
+        "description": "パーソナルショッピングアシスタントは、ユーザーが自分の好みに基づいて製品を発見し、購入するのを助け、推奨をし、パーソナライズされたショッピング体験を提供するAI駆動型の仮想アシスタントまたはチャットボットです。"
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "影響力のあるマーケティングとは、ソーシャルメディアプラットフォーム上で影響力のある個人やコンテンツ作成者と提携して製品を促進し、ブランド認識を高め、顧客関心を高めることを意味します。"
+    },
+    {
+        "word": "Digital Wallets",
+        "description": "デジタルウォレットは、支払い情報を安全に保存し、ユーザーがスマートフォンやその他のモバイルデバイスを使って購入することを可能にするモバイルアプリケーションまたはサービスです。"
+    },
+    {
+        "word": "Smart Retail Spaces",
+        "description": "Smart Retail Spacesは、IoTセンサー、AI駆動システム、データ分析などのさまざまなテクノロジーを搭載した物理的なストア環境で、運用効率、顧客体験を向上させ、空間利用を最適化します。"
+    },
+    {
+        "word": "Rfid (Radio Frequency Identification)",
+        "description": "RFID(Radio Frequency Identification)は、電磁フィールドを使用して、オブジェクトに付属するタグを自動的に識別し、追跡し、在庫管理、資産追跡、非接触トランザクションを可能にする技術です。"
+    },
+    {
+        "word": "Green Retailing",
+        "description": "緑色の小売は、小売業者が環境への悪影響を最小限に抑え、エネルギー消費を削減し、環境に優しい製品を促進するために実施する環境に優しく持続可能な慣行を指します。"
+    },
+    {
+        "word": "Order Management System",
+        "description": "オーダー管理システム(OMS)は、顧客の注文の受信、処理、履行のプロセスを統合し、自動化するソフトウェアソリューションであり、効率的なオーダーフローと在庫配分を確保します。"
+    },
+    {
+        "word": "Smart Coupons",
+        "description": "スマートクーポンはデジタル技術を活用して、顧客の好み、行動、または場所に基づいてパーソナライズされたオファー、割引、またはプロモーションを提供し、顧客の関心を高め、販売を推進します。"
+    },
+    {
+        "word": "Smart Lockers",
+        "description": "スマートロッカーは、電子ロックと自動化されたシステムを備えた自給自足の保管ユニットで、パッケージや製品の安全かつ便利な保管、回収、配送を可能にします。"
+    },
+    {
+        "word": "Cashback Programs",
+        "description": "キャッシュバックプログラムは、将来の購入を奨励し、顧客の忠誠心を高めるために、現金返金またはクレジットとして購入金額のパーセントを顧客に提供します。"
+    },
+    {
+        "word": "Product Bundling",
+        "description": "Product Bundlingは、複数の製品またはサービスを一つのパッケージまたはバンドルとして割引価格で提供し、顧客がより多くのアイテムを購入することを奨励します。"
+    },
+    {
+        "word": "Customer Feedback Management",
+        "description": "顧客フィードバック管理は、顧客のフィードバック、レビュー、評価の収集、分析、利用を含み、製品、サービス、および顧客の全体的な満足度を改善します。"
+    },
+    {
+        "word": "Endless Aisle",
+        "description": "Endless Aisleコンセプトは、顧客が物理的に店内で利用できない製品にアクセスし、購入することを可能にし、しばしばデジタルキオス、モバイルアプリ、オンラインプラットフォームを活用します。"
+    },
+    {
+        "word": "Smart Carts",
+        "description": "スマートカーは、RFID、センサー、またはタッチスクリーンなどの技術を搭載したショッピングカートで、パーソナライズされた勧告を提供し、製品情報を提供し、または接触のない支払いを可能にします。"
+    },
+    {
+        "word": "Promotions Management",
+        "description": "プロモーション管理は、販売、顧客の獲得、またはブランド認識を促進するためのマーケティングプロモーション、割引、または特別なオファーの計画、実行、および測定を含みます。"
+    }
+]

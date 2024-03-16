@@ -1,0 +1,418 @@
+[
+    {
+        "word": "Insurtech",
+        "description": "Insurtechは、保険業界を革新し変革するための技術の適用を説明するために使用される用語です。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを安全に記録する分散型で分散型のデジタルリーガです。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および接続を組み込んだ物理デバイスのネットワークを指し、データ交換と自動化を可能にします。"
+    },
+    {
+        "word": "Telematics",
+        "description": "テレマティクスは、電気通信とコンピュータ技術を組み合わせて、車両の位置、速度、行動などのデータを監視し、キャプチャする技術です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、高度な計算および分析技術を必要とする非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analytics は、データの大規模で複雑なセットを調査し解釈し、洞察、パターン、およびトレンドを発見するプロセスです。"
+    },
+    {
+        "word": "Chatbot",
+        "description": "チャットボットは、人工知能を使用して人間の会話をシミュレートし、自動的な顧客サポートや情報を提供するコンピュータプログラムです。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革は、デジタルテクノロジーをビジネスのあらゆる分野に統合し、ビジネスがどのように機能し、顧客に価値を提供するかを根本的に変えることを意味します。"
+    },
+    {
+        "word": "Customer Experience",
+        "description": "顧客体験(CX)は、顧客の相互作用と関与に基づいて、保険会社についての顧客の全体的な印象と認識を指します。"
+    },
+    {
+        "word": "Peer-To-Peer Insurance",
+        "description": "Peer-to-Peer 保険は、個人グループが保険料を結合して保険のカバーを提供し、リスクを自分たちで共有するモデルです。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人情報および機密情報の保護と適切な取り扱いを意味し、関連する法律および規制の遵守を保証します。"
+    },
+    {
+        "word": "Usage-Based Insurance",
+        "description": "ユーザベース保険(UBI)は、実際の使用とリスクに基づいて保険料を決定するために、運転行動に関するテレマティックとデータを使用しています。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、コンピュータシステム、ネットワーク、およびデータをデジタル攻撃、盗難、および損傷から保護する実践を指します。"
+    },
+    {
+        "word": "Platform Economy",
+        "description": "プラットフォーム経済とは、プラットフォームが買い手と売り手を結びつけるビジネスモデルを指し、取引や相互作用を可能にします。"
+    },
+    {
+        "word": "Robotic Process Automation",
+        "description": "ロボットプロセス自動化(RPA)は、ソフトウェアロボットまたは人工知能を使用して、ビジネスプロセスにおける繰り返しのルールベースのタスクを自動化することを指します。"
+    },
+    {
+        "word": "Fraud Detection",
+        "description": "詐欺検出とは、保険業務における詐欺活動を特定し、防止するための高度な分析とアルゴリズムの使用を指します。"
+    },
+    {
+        "word": "Underwriting",
+        "description": "Underwritingは、個人または団体の保険に関連するリスクを評価し、決定し、保険の条件と賞金を設定するプロセスです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、過去のデータと統計アルゴリズムを用いて予測し、将来の結果を予測することを意味します。"
+    },
+    {
+        "word": "Insurability",
+        "description": "保険は、保険会社が個人または団体にカバーを提供する際のリスクの程度を指します。"
+    },
+    {
+        "word": "Risk Management",
+        "description": "リスク管理とは、リスクの識別、評価、優先順位付け、それに続いて、リスクを最小化、監視、制御するための調整された取り組みを含む。"
+    },
+    {
+        "word": "Claims Processing",
+        "description": "請求処理とは、保険保有者が提出した保険請求の処理と決済、評価、検証、支払いを含む。"
+    },
+    {
+        "word": "Digital Insurance",
+        "description": "デジタル保険とは、保険製品やサービスを顧客に提供するためのデジタル技術やプラットフォームの使用を指します。"
+    },
+    {
+        "word": "Smart Contracts",
+        "description": "スマートコントラクトとは、契約の条項が直接コードに書き込まれており、契約義務の履行を自動化し、執行する自発的な契約です。"
+    },
+    {
+        "word": "Insurdata",
+        "description": "Insurdataとは、データ分析とテクノロジーを用いて、サブライティング情報の正確さと品質を向上させることです。"
+    },
+    {
+        "word": "Microinsurance",
+        "description": "マイクロ保険は、低所得の個人やコミュニティの特定のニーズに合わせて低コストの保険を提供します。"
+    },
+    {
+        "word": "Regtech",
+        "description": "RegTechは、AI、ML、ブロックチェーンなどのテクノロジーを使用して、保険を含む金融サービス業界における規制遵守を簡素化し、強化することを指します。"
+    },
+    {
+        "word": "Cognitive Computing",
+        "description": "認知コンピューティングは、人間の思考プロセスをシミュレートし、意思決定や問題解決を改善するのに役立つシステムを指します。"
+    },
+    {
+        "word": "Artificial Neural Networks",
+        "description": "人工ニューラルネットワーク(ANN)は、人間の脳の構造とプロセスにインスピレーションを与えた機械学習モデルであり、パターン認識と意思決定に使用されます。"
+    },
+    {
+        "word": "Insurancetech",
+        "description": "Insurancetechは、Insurtechと同様に、保険業界を強化し、変革するための技術革新の使用を記述する用語です。"
+    },
+    {
+        "word": "Risk Analysis",
+        "description": "リスク分析は、潜在的なリスク、その可能性、および潜在的な影響を評価し、意思決定とリスク緩和戦略を通知することを含む。"
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "デジタルマーケティングは、デジタルチャンネルを通じて製品やサービスを促進するためのさまざまなオンラインマーケティング戦略と戦術を含みます。"
+    },
+    {
+        "word": "Regulatory Sandboxes",
+        "description": "規制サンドボックスは、スタートアップや企業が規制の監督下で革新的な製品、サービス、またはビジネスモデルをテストできる制御された環境です。"
+    },
+    {
+        "word": "Claims Management",
+        "description": "請求管理は、保険請求の処理のプロセスおよび手続きを含み、検証、評価、および決済を含む。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースからのデータを組み合わせ、ユーザーにデータの統合された視点を提供するプロセスです。"
+    },
+    {
+        "word": "Insurtech Hub",
+        "description": "Insurtech Hubとは、Insurtechエコシステム内のイノベーション、コラボレーション、開発を促進する地理的な場所または組織を指します。"
+    },
+    {
+        "word": "Digital Underwriting",
+        "description": "Digital Underwriting は、自動化、データ分析、アルゴリズムを活用して、オーバーライティングプロセスを簡素化し、強化します。"
+    },
+    {
+        "word": "Customer Relationship Management",
+        "description": "顧客関係管理(CRM)は、顧客のライフサイクルを通じて顧客のインタラクションとデータを管理し、分析するための戦略と技術のアプローチです。"
+    },
+    {
+        "word": "Mobile Insurance",
+        "description": "モバイル保険は、スマートフォンやタブレットを含むモバイルデバイスを通じて保険製品、サービス、取引の提供を含みます。"
+    },
+    {
+        "word": "Api",
+        "description": "アプリケーションプログラミングインターフェイス(API)は、さまざまなソフトウェアアプリケーションが相互に通信し、相互作用することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Insurtech Sandbox",
+        "description": "Insurtechのサンドボックスは、規制の完全な承認を得ることなく、Insurtechのスタートアップが革新をテストし、検証できる制御された環境です。"
+    },
+    {
+        "word": "Digital Claims Management",
+        "description": "Digital Claims Managementは、デジタルプラットフォーム、アナリティクス、および自動化を活用して、請求処理の効率性と正確性を向上させます。"
+    },
+    {
+        "word": "Risk Assessment",
+        "description": "リスク評価は、個人、団体、または財産の保険に関連する潜在的なリスクと不確実性を評価し、定量化することを意味します。"
+    },
+    {
+        "word": "Ecosystem Collaboration",
+        "description": "エコシステム・コラボレーションとは、保険エコシステムのさまざまなプレイヤー間のパートナーシップとコラボレーションを指し、革新を推進し、価値を創造することを目的としています。"
+    },
+    {
+        "word": "Insurtech Accelerator",
+        "description": "Insurtech Accelerator は、エンターテクノロジースタートアップが、メンターシップ、資金調達、業界接続を通じてビジネスを迅速に開発し、拡大するのを助けるプログラムまたはエンターテクノロジーです。"
+    },
+    {
+        "word": "Digital Distribution",
+        "description": "デジタルディストリビューションは、ウェブサイト、モバイルアプリ、オンライン市場などのデジタルチャネルを使用して、保険製品を販売および配布することを意味します。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the graphical representation of data and information, using visual elements such as charts, graphs, and maps. データビジュアル化は、図、グラフ、マップなどのビジュアル要素を使用してデータと情報のグラフィック的表示です。"
+    },
+    {
+        "word": "Cyber Insurance",
+        "description": "サイバー保険は、サイバー攻撃、データ侵害、およびデジタル犯罪による損失と損害に対するカバーを提供します。"
+    },
+    {
+        "word": "Legacy Systems",
+        "description": "伝統的なシステムとは、その重要性または交換の高コストのためにまだ使用されている時代遅れまたは時代遅れのコンピュータシステム、ソフトウェア、またはアプリケーションを指します。"
+    },
+    {
+        "word": "Insurtech Investment",
+        "description": "保険技術投資とは、保険技術スタートアップや企業への資金調達と投資を指し、その成長と発展を支援する。"
+    },
+    {
+        "word": "Data Security",
+        "description": "データセキュリティは、不正なアクセス、使用、開示、干渉、変更、または破壊からデータを保護することを意味します。"
+    },
+    {
+        "word": "Distributed Ledger Technology",
+        "description": "DLT(Distributed Ledger Technology)は、取引を記録し、検証するための分散型デジタルシステムで、中央機関なしで透明性とセキュリティを提供しています。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習(ML)は、機械がデータから学ぶことに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、およびデータ交換のための接続性で組み込まれた物理デバイス、車両、その他のオブジェクトのネットワークを指します。"
+    },
+    {
+        "word": "Robo-Advisor",
+        "description": "Robo Advisor は、アルゴリズムを使用して自動投資アドバイスやポートフォリオ管理サービスを提供するデジタルプラットフォームです。"
+    },
+    {
+        "word": "Data Science",
+        "description": "データサイエンスは、科学的方法、アルゴリズム、およびシステムを組み合わせて、構造化されたデータと非構造化されたデータから知識と洞察を抽出する学際的な分野です。"
+    },
+    {
+        "word": "Insuranalytics",
+        "description": "InsurAnalyticsは、高度なデータ分析技術を使用して、保険業界で洞察を獲得し、明確な意思決定を行います。"
+    },
+    {
+        "word": "On-Demand Insurance",
+        "description": "On-Demand Insuranceは、顧客がモバイルアプリやオンラインプラットフォームを通じて、特定の期間またはイベントのための保険を購入することを可能にします。"
+    },
+    {
+        "word": "Mobile Apps",
+        "description": "Mobile Appsは、スマートフォン、タブレット、または他のモバイルデバイスで実行するように設計されたソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Digital Identity",
+        "description": "デジタルアイデンティティとは、個人または団体のユニークな電子表示、個人情報を含む、認証、および認証を指します。"
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "顧客セグメントは、顧客を類似した特徴や行動に基づいて別々のグループに分割するプロセスです。"
+    },
+    {
+        "word": "Insurtech Hubs",
+        "description": "InsurTech Hubsは、スタートアップ企業、投資家、業界の専門家を集め、保険業界のイノベーションを促進する物理的または仮想空間です。"
+    },
+    {
+        "word": "Automated Underwriting",
+        "description": "Automated Underwritingは、保険申請を自動的に評価し、保険契約の決定を行うためのコンピュータアルゴリズムの使用です。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Reality(AR)は、コンピュータで生成されたコンテンツをリアルな環境に表し、ユーザーの現実の感覚を向上させる技術です。"
+    },
+    {
+        "word": "Insurtech Ecosystem",
+        "description": "Insurtech Ecosystem は、保険業界の未来を形作る insurtech スタートアップ、現行企業、投資家、テクノロジープロバイダ、規制当局、その他の利害関係者の相互接続されたネットワークを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、ソフトウェアアプリケーションを含むインターネット上のコンピューティングサービスの提供を含む。"
+    },
+    {
+        "word": "Distributed Ledger Technology (Dlt)",
+        "description": "Distributed Ledger Technology (DLT) は、複数のコンピュータ間のトランザクションを記録するための分散型デジタルシステムです。"
+    },
+    {
+        "word": "Automated Claims Processing",
+        "description": "自動請求処理は、保険請求処理プロセスを簡素化し、自動化するための技術とアルゴリズムの使用を含みます。"
+    },
+    {
+        "word": "Risk Modeling",
+        "description": "リスクモデリングは、保険における潜在的なリスクを評価し、予測するための統計的分析と数学的モデルの使用を含む。"
+    },
+    {
+        "word": "Api (Application Programming Interface)",
+        "description": "APIは、さまざまなソフトウェアアプリケーションが互いに通信することを可能にするルールとプロトコルのセットです。"
+    },
+    {
+        "word": "Claims Automation",
+        "description": "Claims Automation は、請求処理プロセスを加速し、簡素化するためのテクノロジーとアルゴリズムの使用を意味します。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "マシンビジョンは、コンピュータが視覚情報を見、解釈、理解することを可能にする技術です。"
+    },
+    {
+        "word": "Insurtech Incubator",
+        "description": "Insurtech Incubator は、リソース、メンターシップ、資金調達を通じて、初期段階の insurtech スタートアップを支援するプログラムまたは組織です。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、自然言語を使用してコンピュータと人間の相互作用に焦点を当てるAIのサブフィールドです。"
+    },
+    {
+        "word": "Api Economy",
+        "description": "API Economyは、APIの使用と収益化に基づくビジネスエコシステムと戦略を指し、さまざまなソフトウェアアプリケーション間のシームレスな統合とコラボレーションを可能にします。"
+    },
+    {
+        "word": "Insurtech Startup",
+        "description": "InsurTech Startupsは、テクノロジーとイノベーションを活用して伝統的な保険業界を破壊し、変革する企業です。"
+    },
+    {
+        "word": "Saas (Software As A Service)",
+        "description": "SaaSは、アプリケーションがインターネット経由でサービスとして提供されるソフトウェアライセンスおよび配信モデルです。"
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) は、ユーザーが製品またはサービスに対して持っている全体的な経験と満足度を指します。"
+    },
+    {
+        "word": "Insurtech Regulations",
+        "description": "InsurTech規則は、InsurTech企業の活動を規制するために特別に設計された法的および規制的枠組みです。"
+    },
+    {
+        "word": "Claims Fraud",
+        "description": "詐欺とは、不誠実に利益を得るために、偽りのあるいは誇張した保険請求を提出することである。"
+    },
+    {
+        "word": "Digital Agency",
+        "description": "デジタル代理店は、主にオンラインで活動し、デジタルチャネルを使用して保険ポリシーを販売し、顧客にサービスを提供する保険代理店です。"
+    },
+    {
+        "word": "Insurtech Partnerships",
+        "description": "InsurTech パートナーシップは、伝統的な保険会社と InsurTech スタートアップまたはテクノロジー企業との協力関係で、革新を推進し、サービスを向上させます。"
+    },
+    {
+        "word": "Api Integration",
+        "description": "API統合は、アプリケーションプログラミングインターフェイス(API)を通じてさまざまなソフトウェアアプリケーションを接続し、組み合わせ、データ共有と機能を可能にするプロセスです。"
+    },
+    {
+        "word": "Personalization",
+        "description": "保険におけるパーソナライゼーションは、製品、サービス、顧客体験を個々の保険保有者の特定のニーズ、好み、行動に適合させることを意味します。"
+    },
+    {
+        "word": "Insurtech Venture Capital",
+        "description": "Insurtech Venture Capitalとは、株式と引き換えに初期段階および成長段階の保険技術スタートアップに資金調達と支援を提供する投資基金および企業を指します。"
+    },
+    {
+        "word": "Insurtech Innovation Lab",
+        "description": "InsurTech Innovation Labsは、保険会社がスタートアップ企業と協力し、革新的なソリューションを探求できる専用スペースまたはプログラムです。"
+    },
+    {
+        "word": "Behavioral Analytics",
+        "description": "Behavioral Analyticsは、ユーザーの行動と行動を分析し、洞察を得、将来の行動を予測します。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネット(IoT)とは、物理的なデバイス、車両、機器、およびその他の物体のネットワークを指し、センサーやソフトウェアを組み込み、それらを接続し、データを交換することができます。"
+    },
+    {
+        "word": "Iot Sensors",
+        "description": "IoT センサーとは、物理的な物体や環境からデータを収集し、送信するデバイスで、さまざまなパラメータのモニタリングと分析を可能にします。"
+    },
+    {
+        "word": "Customer Engagement",
+        "description": "顧客関与とは、保険会社とその保証人との長期的な関係を促進する相互作用や活動を指します。"
+    },
+    {
+        "word": "Mga",
+        "description": "マネージャー・ジェネラル・エージェント(MGA)は、保険会社の名義でリスクを負い、ポリシーや請求を管理する保険仲介業者の一種です。"
+    },
+    {
+        "word": "Digital Claims",
+        "description": "デジタル請求には、デジタル文書や自動化プロセスなどの技術の使用が含まれ、請求処理および決済プロセスを簡素化し、加速します。"
+    },
+    {
+        "word": "Blockchain Insurance",
+        "description": "Blockchain Insuranceは、ブロックチェーン技術を活用して、透明で安全で効率的な保険エコシステムを構築し、信頼、自動化、スマート契約を可能にします。"
+    },
+    {
+        "word": "Insurtech Regulation",
+        "description": "Insurtech規則は、Insurtechスタートアップとイノベーションの運営と活動を規制する法的および規制的枠組みを指します。"
+    },
+    {
+        "word": "Insurance Platform",
+        "description": "保険プラットフォームは、保険会社が事業のさまざまな側面を管理することを可能にするソフトウェアフレームワークまたはシステムで、契約、請求、顧客関与を含む。"
+    },
+    {
+        "word": "Digital Risk Management",
+        "description": "デジタルリスク管理は、サイバーリスクやデータ侵害を含むデジタルテクノロジーの使用に関連するリスクの特定、評価、軽減を含む。"
+    },
+    {
+        "word": "Robo-Advisory",
+        "description": "Robo-advisoryは、アルゴリズムと人工知能を使用して自動投資アドバイスとポートフォリオ管理を提供するデジタルプラットフォームです。"
+    },
+    {
+        "word": "Insurtech Conference",
+        "description": "Insurtech Conferenceは、業界の専門家、起業家、投資家、思考リーダーが集まり、 insurtechの最新のトレンドや革新を議論し、探求する会議またはイベントです。"
+    },
+    {
+        "word": "Digital Health Insurance",
+        "description": "デジタル健康保険は、デジタルテクノロジー、着用性、および健康データを使用して、個別化された保険カバーを提供し、健康と健康を促進します。"
+    },
+    {
+        "word": "Insurtech Partnership",
+        "description": "Insurtech Partnershipは、相互の強み、能力、リソースを活用するために、Insurtechスタートアップと伝統的な保険会社間の協力と同盟を含みます。"
+    },
+    {
+        "word": "Insurtech Proof Of Concept",
+        "description": "Insurtech Proof of Concept(PoC)は、保険技術革新やソリューションの実現可能性と潜在的価値を示すデモまたはパイロットプロジェクトです。"
+    },
+    {
+        "word": "Customer Data Analytics",
+        "description": "Customer Data Analytics は、顧客データを分析し、解釈し、顧客の好み、行動、ニーズの洞察を得て、パーソナライズされたオファーとターゲット化されたマーケティングを可能にします。"
+    }
+]

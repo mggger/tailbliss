@@ -1,0 +1,478 @@
+[
+    {
+        "word": "Smart Agriculture",
+        "description": "スマート農業は、IoT、AI、ドローンなどの高度なテクノロジーを使用して、農業慣行を最適化し、生産性を向上させます。"
+    },
+    {
+        "word": "Iot",
+        "description": "物のインターネット(IoT)は、無線でデータを収集し交換できる相互接続されたデバイスのネットワークを指します。"
+    },
+    {
+        "word": "Precision Farming",
+        "description": "Precision Farmingは、IoT、GPS、およびセンサーを使用して作物を監視し、管理し、廃棄物を削減し、収穫を最大化する農業技術です。"
+    },
+    {
+        "word": "Crop Monitoring",
+        "description": "農作物モニタリングは、農作物の健康、成長、収穫を監視し評価するために、リモートセンサー技術とデータ分析技術の使用を含みます。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "データアナリティクスは、大規模なデータから有用な洞察やパターンを抽出して知的意思決定を行う科学です。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、機械がデータから学び、予測を行うことを可能にするアルゴリズムとモデルの開発を含む人工知能(AI)のサブセットです。"
+    },
+    {
+        "word": "Ai",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータは、洞察、パターン、およびトレンドを抽出するために高度な計算および分析技術を必要とする大規模で複雑なデータセットを指します。"
+    },
+    {
+        "word": "Sensor",
+        "description": "センサーは、温度や湿度などの物理的性質や環境条件を検出し、測定する装置です。"
+    },
+    {
+        "word": "Climate-Smart Agriculture",
+        "description": "気候インテリジェント農業は、気候変動に直面する持続可能かつ抵抗力のある農業慣行に焦点を当てています。"
+    },
+    {
+        "word": "Remote Sensing",
+        "description": "リモートセンシングとは、通常、空中や衛星画像を使用して、遠隔から物体や地域に関する情報を取得し、作物の条件を監視し評価することを意味します。"
+    },
+    {
+        "word": "Weather Forecasting",
+        "description": "天気予報は、気象データとコンピュータモデルを使用して、将来の気象条件を予測し、農家が灌、植え付け、作物保護に関して明確な決定を下すことを可能にします。"
+    },
+    {
+        "word": "Smart Irrigation",
+        "description": "スマート灌は、センサーとデータ分析を使用して水の使用を最適化し、作物の健康と収穫を改善する自動灌システムです。"
+    },
+    {
+        "word": "Livestock Monitoring",
+        "description": "ペットモニタリングは、センサーとデータ分析を使用して、ペットの健康、行動、生産性を追跡し管理します。"
+    },
+    {
+        "word": "Drones",
+        "description": "無人航空機(UAVs)とも呼ばれるドローンは、作物の監視とスプレーを含む農業におけるさまざまなアプリケーションに使用できる遠隔操縦の航空機です。"
+    },
+    {
+        "word": "Geographic Information System",
+        "description": "地理情報システム(GIS)は、空間的または地理的データを収集、保存、操作、分析、および提示するために設計されたシステムです。"
+    },
+    {
+        "word": "Smart Greenhouse",
+        "description": "スマート温室は、自動化されたシステムとセンサーを使用して成長条件を最適化するために植物が栽培される制御された環境です。"
+    },
+    {
+        "word": "Livestock Tracking",
+        "description": "家畜追跡システムは、RFIDタグなどの技術を使用して、家畜の動きと健康を監視し、追跡します。"
+    },
+    {
+        "word": "Smart Sensors",
+        "description": "スマートセンサーは、統合されたデータ処理機能を備えた高度なセンサーで、リアルタイムのモニタリングと制御のためにデータを収集、分析、通信することができます。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、過去のデータや統計モデルを使用して、将来の結果についての予測や予測を行うための実践です。"
+    },
+    {
+        "word": "Soil Monitoring",
+        "description": "土壌モニタリングは、土壌の性質、例えば湿度、栄養レベル、pHの測定と分析を含みます。"
+    },
+    {
+        "word": "Smart Pest Management",
+        "description": "Smart Pest Managementは、テクノロジーとデータを使用して、有害物質を標的と効率的に監視し、制御します。"
+    },
+    {
+        "word": "Satellite Imagery",
+        "description": "衛星画像は、農業におけるさまざまなアプリケーション、たとえば作物の健康評価や土地利用マッピングなどに使用できる衛星によって撮影された地球表面の高解像度画像です。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、およびアプリケーションを含むコンピューティングサービスをインターネット上に提供し、オンデマンドアクセスを提供し、スケーラビリティを提供します。"
+    },
+    {
+        "word": "Agtech",
+        "description": "AgTechは、農業技術の略で、農業慣行を改善し、効率性を高め、持続可能性を高めるための技術とイノベーションの使用を指します。"
+    },
+    {
+        "word": "Farm Management Software",
+        "description": "農場管理ソフトウェアは、計画、記録保持、在庫管理を含む農業操作を管理するために使用されます。"
+    },
+    {
+        "word": "Smart Livestock Farming",
+        "description": "スマートペット農業は、IoT、センサー、AIの使用を含み、家畜の飼育条件を最適化し、生産性を向上させます。"
+    },
+    {
+        "word": "Smart Crop Protection",
+        "description": "スマート作物保護は、センサーやドローンなどの技術を使用して、作物の病気、害虫、または雑草を検出し、対応します。"
+    },
+    {
+        "word": "Yield Monitoring",
+        "description": "収穫モニタリングは、収穫に関するデータの収集と分析で、農家が収穫管理と資源配分に関する明確な決定を下すのを助けます。"
+    },
+    {
+        "word": "Digital Agriculture",
+        "description": "デジタル農業は、IoT、AI、データ分析などのデジタル技術の農業のさまざまな側面における使用を指します。"
+    },
+    {
+        "word": "Farm Automation",
+        "description": "農業自動化は、効率を向上させ、労働需要を削減し、生産性を向上させるために農業における自動化されたシステムと機械の実装を指します。"
+    },
+    {
+        "word": "Smart Fertilizer Management",
+        "description": "Smart Fertilizer Managementは、センサーとデータ分析を使用して肥料の適用を最適化し、作物に適切な栄養供給を確保します。"
+    },
+    {
+        "word": "Livestock Health Monitoring",
+        "description": "家畜の健康モニタリングは、家畜の健康と福祉を監視するための技術の使用を含みます。"
+    },
+    {
+        "word": "Smart Water Management",
+        "description": "スマート・ウォーター・マネジメントは、農業における水の使用を最適化し、廃棄物を最小限に抑え、持続可能な水資源を確保するために、データ、センサー、および自動化の使用を含みます。"
+    },
+    {
+        "word": "Seed Treatment",
+        "description": "種子処理は、種子を病気、害虫、または環境ストレスから保護するために、化学的または生物学的物質を種子に適用することです。"
+    },
+    {
+        "word": "Smart Supply Chain",
+        "description": "スマートサプライチェーンは、データ、センサー、自動化を使用して、農業製品の農場から消費者への流れを最適化し、効率性、追跡性、品質管理を向上させます。"
+    },
+    {
+        "word": "Sustainable Agriculture",
+        "description": "持続可能な農業は、生産性を最適化し、環境への影響を最小限に抑え、天然資源を保存し、長期的な生産性を促進することを目的とする農業への包括的なアプローチを指します。"
+    },
+    {
+        "word": "Variable Rate Technology",
+        "description": "Variable Rate Technology(VRT)は、肥料や農薬などの入力物の適用を、異なる作物地域の特定のニーズに基づいて調整する精密農業技術です。"
+    },
+    {
+        "word": "Agri-Robotics",
+        "description": "アグリロボティクスは、農業におけるロボットと自動化技術の使用を指し、収穫、スプレー、または取などのタスクを実行する。"
+    },
+    {
+        "word": "Farm Connectivity",
+        "description": "Farm Connectivityは、農村地域で信頼性の高い高速インターネット接続を確立し、デジタル技術やスマートソリューションの利用を可能にすることを指します。"
+    },
+    {
+        "word": "Smart Livestock Monitoring",
+        "description": "スマートペットモニタリングは、IoTデバイス、センサー、データ分析を使用して、家畜の健康、行動、福祉を遠隔で監視します。"
+    },
+    {
+        "word": "Smart Pest Detection",
+        "description": "Smart Pest Detectionは、センサーと画像認識技術を使用して、作物中の害虫や病気を検出し、識別します。"
+    },
+    {
+        "word": "Aquaponics",
+        "description": "アクアポニクスは、シンビオティックな環境で水産(魚農業)と水生(土壌のない植物栽培)を組み合わせた栽培システムです。"
+    },
+    {
+        "word": "Vertical Farming",
+        "description": "垂直農業は、植物を垂直に積み重ねた層で栽培し、人工照明と制御された環境を利用して空間利用と作物生産を最大化する技術です。"
+    },
+    {
+        "word": "Smart Livestock Feeding",
+        "description": "Smart Livestock Feedingは、センサーとAIを使用して家畜の飼育プロセスを監視し、最適化し、バランスのとれた食生活と効率的な飼料変換を確保します。"
+    },
+    {
+        "word": "Agri-Food Traceability",
+        "description": "Agri-Food Traceabilityとは、農業製品の起源、加工、および配布をサプライチェーン全体で追跡し、追跡する能力です。"
+    },
+    {
+        "word": "Hydroponics",
+        "description": "Hydroponicsは、栄養豊富な水溶液とコントロールされた環境を使用して土壌なしで植物を栽培する方法です。"
+    },
+    {
+        "word": "Agri-Drones",
+        "description": "農業ドローンは、作物探査、スプレー、またはマッピングなどの農業目的のために特別に設計および装備されたドローンです。"
+    },
+    {
+        "word": "Livestock Welfare Monitoring",
+        "description": "家畜福祉モニタリングは、センサーとAIの使用を含み、家畜の福祉と福祉を監視し、確保する。"
+    },
+    {
+        "word": "Smart Livestock Tracking",
+        "description": "スマートペットトラッキングは、GPSまたはRFID技術を使用して、家畜の動きと位置を追跡し、監視します。"
+    },
+    {
+        "word": "Smart Storage",
+        "description": "スマートストレージは、センサーやデータ分析などのテクノロジーの使用を指し、貯蔵条件を最適化し、農産物の損傷を防ぐ。"
+    },
+    {
+        "word": "Agrochemicals",
+        "description": "農業化学物質は、農業で作物の生産性を高めるか、害虫、病気、または草を制御するために使用される化学物質です。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数の当事者が取引を安全かつ透明に記録し、検証することを可能にする分散型および分散型デジタルリーグであり、サプライチェーンにおけるアプリケーションの追跡性と透明性を保有する可能性があります。"
+    },
+    {
+        "word": "Smart Livestock Breeding",
+        "description": "Smart Breedingは、センサー、AI、およびデータ分析を使用して、繁殖プログラムを最適化し、家畜の遺伝的品質と生産性を向上させます。"
+    },
+    {
+        "word": "Agri-Insurance",
+        "description": "農業保険は、農業活動のために特別に設計された保険で、作物損失、天候、その他の農業リスクに対する保護を提供します。"
+    },
+    {
+        "word": "Smart Nutrient Management",
+        "description": "スマート栄養管理は、センサーとデータ分析を使用して栄養素の適用を最適化し、農作物による栄養素の効率的な吸収を保証します。"
+    },
+    {
+        "word": "Agro-Meteorology",
+        "description": "アグロメテオロジーは、農業における天気と気候の影響を研究し、農業計画のための気象条件の予測と分析を含む。"
+    },
+    {
+        "word": "Smart Livestock Reproduction",
+        "description": "Smart Livestock Reproductionは、AIや同期プロトコルなどのテクノロジーを使用して、家畜の生殖性能を最適化します。"
+    },
+    {
+        "word": "Agroforestry",
+        "description": "農林業は、木や樹木を作物や家畜と組み合わせ、生態学的かつ持続可能な農業アプローチを作成する土地利用管理システムです。"
+    },
+    {
+        "word": "Precision Agriculture",
+        "description": "精密農業は、データとテクノロジーを使用して農業慣行を最適化し、作物の生産性を高める農業へのアプローチです。"
+    },
+    {
+        "word": "Internet Of Things",
+        "description": "物のインターネット(IoT)は、データを収集し、交換できる相互接続されたデバイスのネットワークを指します。"
+    },
+    {
+        "word": "Sensors",
+        "description": "センサーは、温度、湿度、または土壌湿度などの物理的または化学的性質を検出し、測定し、それらを電気信号に変換する装置です。"
+    },
+    {
+        "word": "Artificial Intelligence",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指します。"
+    },
+    {
+        "word": "Precision Livestock Farming",
+        "description": "Precision Livestock Farmingは、データとテクノロジーを用いて、家畜の健康、福祉、生産性を監視し、管理します。"
+    },
+    {
+        "word": "Smart Greenhouses",
+        "description": "スマートグリーンハウスは、栽培条件を最適化し、作物生産性を最大化するためにセンサー、動作装置、および自動化システムを備えた制御された環境です。"
+    },
+    {
+        "word": "Farm Robotics",
+        "description": "農場ロボティクスは、植え付け、収穫、草の制御などの農業活動におけるロボットや自動機械の使用を指します。"
+    },
+    {
+        "word": "Iot In Agriculture",
+        "description": "農業におけるIoTは、効率性と生産性を向上させるための農業および農業プロセスにおけるIoT技術の適用を指します。"
+    },
+    {
+        "word": "Precision Spraying",
+        "description": "Precision Sprayingは、リアルタイムのデータと分析に基づく農薬や肥料の正確な適用を含みます。"
+    },
+    {
+        "word": "Iot Sensors",
+        "description": "IoT センサーは、インターネットに接続され、遠隔監視と分析のためのデータを送信できるセンサーです。"
+    },
+    {
+        "word": "Climate Monitoring",
+        "description": "気候モニタリングは、気象パターン、温度、湿度、その他の気候要因の継続的な観察と分析を含み、農業への影響を理解する。"
+    },
+    {
+        "word": "Data Visualization",
+        "description": "Data Visualization is the graphical representation of data to facilitate understanding, analysis, and decision-making. データの視覚化は、理解、分析、および意思決定を促進するためのデータのグラフィック表示です。"
+    },
+    {
+        "word": "Machine Vision",
+        "description": "マシンビジョンは、機械やコンピュータが視覚情報を見たり解釈したりすることを可能にする技術です。"
+    },
+    {
+        "word": "Wireless Communication",
+        "description": "ワイヤレス通信は、物理的な接続を必要とせずに2台以上のデバイス間の情報の転送です。"
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "description": "自動運転車とも呼ばれる自動運転車は、人間の介入なしで動作することができ、収穫や輸送などの任務のために農業で使用することができます。"
+    },
+    {
+        "word": "Satellite Imaging",
+        "description": "衛星画像は、土壌、作物、および環境条件を監視し、分析するために衛星データと画像の使用を含みます。"
+    },
+    {
+        "word": "Crop Yield",
+        "description": "農作物の収穫量とは、土地単位ごとに収穫された農産物の量を指します。"
+    },
+    {
+        "word": "Smart Fertilizers",
+        "description": "スマート肥料は、特定の作物要件に基づいて栄養素の適用を最適化するためにセンサーとデータ分析を組み込む肥料です。"
+    },
+    {
+        "word": "Greenhouse Automation",
+        "description": "温室自動化は、温室条件を制御し、最適化するための技術と自動化の使用を含みます。"
+    },
+    {
+        "word": "Farm Analytics",
+        "description": "ファームアナリティクスは、データと分析を用いて、農場の運用に関する洞察を得、明確な決定を下すことを目的としています。"
+    },
+    {
+        "word": "Crop Mapping",
+        "description": "作物マッピングは、作物の分布と特徴を示す詳細な地図や画像の作成を含みます。"
+    },
+    {
+        "word": "Satellite Navigation",
+        "description": "グローバルナビゲーション衛星システム(GNSS)とも呼ばれる衛星ナビゲーションは、精密農業を含むさまざまなアプリケーションの位置付け、ナビゲーション、タイミング情報を提供する衛星ネットワークです。"
+    },
+    {
+        "word": "Fertigation",
+        "description": "発酵は、灌システムを通じて肥料を適用し、植物の根に直接栄養素を供給するプロセスです。"
+    },
+    {
+        "word": "Robotic Milking",
+        "description": "ロボットミルクは、人間の介入なしに牛を牛乳にできる自動ミルクシステムの使用を含みます。"
+    },
+    {
+        "word": "Crop Rotation",
+        "description": "作物の回転は、同じフィールドで異なる作物を連続的に栽培し、農業学的、環境的、および病気管理上の利点を提供する実践です。"
+    },
+    {
+        "word": "Smart Pesticides",
+        "description": "スマート農薬は、有益な生物や環境への害を最小限に抑えながら、特定の害虫を標的にすることができる農薬です。"
+    },
+    {
+        "word": "Livestock Welfare",
+        "description": "家畜福祉とは、農業活動における動物の倫理的かつ人道的な扱いを指し、その生涯を通じて動物の福祉、健康、および最小限のストレスを確保することを指します。"
+    },
+    {
+        "word": "Agricultural Drones",
+        "description": "AgDronesとも呼ばれる農業用ドローンは、農業用に特別に設計され、使用されるドローンです。"
+    },
+    {
+        "word": "Smart Monitoring",
+        "description": "スマートモニタリングは、センサーとテクノロジーを使用して、農業システムのさまざまなパラメータを継続的に追跡し監視します。"
+    },
+    {
+        "word": "Aeroponics",
+        "description": "エアロポニクスは、根が空気にさらされ、栄養素が霧またはエアロゾールの形で供給される植物の栽培の方法です。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネット(IoT)は、センサー、ソフトウェア、および接続性で組み込まれた物理デバイス、車両、機器、その他のオブジェクトのネットワークを指し、データを収集し交換することを可能にします。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能(AI)は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Crop Yield Prediction",
+        "description": "作物収益予測は、歴史的データ、天気予報、およびその他の関連する要因を使用して、特定の農地で収穫される作物の量の推定です。"
+    },
+    {
+        "word": "Geographic Information System (Gis)",
+        "description": "地理情報システム(GIS)は、意思決定と空間分析をサポートするために地理データをキャプチャ、保存、分析、および提示するコンピュータベースのシステムです。"
+    },
+    {
+        "word": "Soil Mapping",
+        "description": "土壌マッピングは、土壌の性質の詳細なマップを作成するための土壌データの収集、分析、および表示のプロセス、例えば湿度の含有量、栄養レベル、およびテクスチャ。"
+    },
+    {
+        "word": "Smart Spraying",
+        "description": "Smart Sprayingは、センサーとデータ分析を使用して農薬や農薬の適用を最適化し、環境への影響を減らし、効率を向上させる精密農業技術です。"
+    },
+    {
+        "word": "Farm Management Systems",
+        "description": "農場管理システムは、農家が農作物の回転、在庫、資源配分などの農業活動のさまざまな側面を監視、計画、管理するのに役立つソフトウェアアプリケーションまたはプラットフォームです。"
+    },
+    {
+        "word": "Crop Protection",
+        "description": "農作物保護は、農作物を損傷から保護し、健康的な成長を確保するために、害虫や病気管理措置を含むさまざまな方法の使用を含みます。"
+    },
+    {
+        "word": "Robotics",
+        "description": "ロボティクスは、エンジニアリング、コンピュータサイエンス、およびその他の分野を組み合わせて、ロボットを設計、構築、操作する学際的な分野です。"
+    },
+    {
+        "word": "Plant Phenotyping",
+        "description": "植物フェノタイプは、成長率、葉の面積、および光合成活動などの植物の特徴と特徴の測定と分析を含み、植物の健康とパフォーマンスを評価する。"
+    },
+    {
+        "word": "Data Integration",
+        "description": "データ統合は、さまざまなソースやフォーマットからデータを組み合わせ、分析や意思決定のための統一的かつ包括的な視点を作成するプロセスです。"
+    },
+    {
+        "word": "Smart Farming",
+        "description": "スマート農業は、生産性、効率性、持続可能性を最適化するためにデータ、接続性、および自動化を活用する農業への統合されたアプローチです。"
+    },
+    {
+        "word": "Fog Computing",
+        "description": "霧コンピューティングは、クラウドコンピューティング機能をネットワークの端まで拡張し、遅延を減らし、IoTアプリケーションにおけるリアルタイムデータ処理を可能にする分散型コンピューティングインフラストラクチャです。"
+    },
+    {
+        "word": "Precision Application",
+        "description": "Precision Applicationは、肥料、農薬、または水などの入力物の正確かつ標的の適用を含み、資源の利用を最適化し、廃棄物を最小限に抑える。"
+    },
+    {
+        "word": "Crop Modeling",
+        "description": "作物モデリングは、さまざまな環境および管理条件下で作物の成長、発展、収穫をシミュレートし、予測するための数学的モデルとアルゴリズムの使用を含みます。"
+    },
+    {
+        "word": "Edge Computing",
+        "description": "Edge Computingは、コンピューティングとデータストレージをデータソースに近づける分散型コンピューティングパラダイムで、IoTアプリケーションにおける遅延と帯域幅の要件を削減します。"
+    },
+    {
+        "word": "Pest Management",
+        "description": "害虫管理は、農作物を害し、収穫を減らす可能性のある害虫群を制御し、緩和するためのさまざまな技術と戦略の使用を含みます。"
+    },
+    {
+        "word": "Predictive Maintenance",
+        "description": "Predictive Maintenanceは、データ分析と機械学習アルゴリズムを使用して機器の故障を予測し、メンテナンススケジュールを最適化する積極的なメンテナンスアプローチです。"
+    },
+    {
+        "word": "Genetic Engineering",
+        "description": "遺伝子工学は、有機体の遺伝子をバイオテクノロジー技術を使用して操作し、農作物の特性を改善し、害虫への抵抗性や干ばつに対する耐性などの望ましい特性を導入する。"
+    },
+    {
+        "word": "Real-Time Monitoring",
+        "description": "リアルタイムモニタリングは、温度、湿度、水質などのさまざまなパラメータの継続的な測定と監視を含み、即時フィードバックを提供し、迅速な行動をサポートします。"
+    },
+    {
+        "word": "Smart Pest Control",
+        "description": "Smart Pest Controlは、センサー、データ分析、ターゲット介入を使用して、農業における害虫をより効果的に管理し、制御し、農薬の使用を最小限に抑え、環境への影響を減らします。"
+    },
+    {
+        "word": "Automated Harvesting",
+        "description": "自動収穫は、収穫タスクを実行するためにロボットシステムや機械を使用し、労働需要を減らし、効率を高めることを意味します。"
+    },
+    {
+        "word": "Farm Health Monitoring",
+        "description": "農場の健康モニタリングは、土壌の湿度、温度、栄養レベルなどのさまざまなパラメータの継続的なモニタリングを含み、農場の全体的な健康と生産性を評価し、管理します。"
+    },
+    {
+        "word": "Crop Sensing",
+        "description": "作物検出は、センサーやイメージング技術を使用して、クローロフィル含有量やカノピウム温度などの植物の特性に関するデータを収集し、作物管理におけるより良い意思決定を行うことを目的としています。"
+    },
+    {
+        "word": "Plant Disease Detection",
+        "description": "植物疾患検出は、センサー、イメージング技術、およびデータ分析を使用して、植物の疾患を識別し、診断し、迅速な介入とターゲット治療を可能にします。"
+    },
+    {
+        "word": "Cloud-Based Platforms",
+        "description": "クラウドベースのプラットフォームは、ユーザーにストレージ、処理パワー、およびデータ管理機能を提供するオンラインソフトウェアアプリケーションまたはサービスであり、インターネット接続を持つあらゆるデバイスからアクセスできます。"
+    },
+    {
+        "word": "Farm Traceability",
+        "description": "農業の追跡性とは、農業製品の起源、生産プロセス、および配布を追跡し、透明性、品質管理、およびサプライチェーンの完全性を確保する能力を指します。"
+    },
+    {
+        "word": "Smart Energy Management",
+        "description": "スマートエネルギー管理は、センサー、自動化、データ分析を使用して、農業におけるエネルギー消費を最適化し、廃棄物を最小限に抑え、持続可能性を促進します。"
+    },
+    {
+        "word": "Crop Genetics",
+        "description": "作物遺伝学は、収穫、品質、病気抵抗性、または栄養コンテンツなどの特徴を改善するために作物の遺伝材料の研究と操作に焦点を当てています。"
+    },
+    {
+        "word": "Smart Pest Monitoring",
+        "description": "Smart Pest Monitoringは、IoTデバイス、センサー、およびデータ分析を使用して、有害物の活動をリアルタイムでモニタリングし、検出し、ターゲット化された介入を可能にし、作物へのダメージを減らします。"
+    }
+]

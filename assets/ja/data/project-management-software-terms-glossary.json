@@ -1,0 +1,514 @@
+[
+    {
+        "word": "Agile",
+        "description": "Agile はプロジェクト管理における反復的かつ柔軟なアプローチで、協力、適応性、継続的な改善を優先します。"
+    },
+    {
+        "word": "Backlog",
+        "description": "バックログは、プロジェクトで開発する必要があるユーザーストーリーや機能の優先リストです。"
+    },
+    {
+        "word": "Burn-Down Chart",
+        "description": "Burn-down chart は、プロジェクトの進捗状況を追跡するために、しばしばアジルなプロジェクト管理で使用される残りの作業の時間対時間のグラフィック表示です。"
+    },
+    {
+        "word": "Collaboration",
+        "description": "コラボレーションとは、プロジェクト管理ソフトウェアによってしばしば促進される共通の目標を達成するために他者と協力する行為を指します。"
+    },
+    {
+        "word": "Critical Path",
+        "description": "重要なパスは、プロジェクトの遅延を避けるために時間内に完了しなければならないプロジェクトタスクの順序です。"
+    },
+    {
+        "word": "Deliverable",
+        "description": "配達可能な製品は、プロジェクトの一部として生産され、配達される物質的または非物質的な製品または結果です。"
+    },
+    {
+        "word": "Dependencies",
+        "description": "依存は、プロジェクトタスクの間の関係であり、その実行の順序とタイミングを決定する。"
+    },
+    {
+        "word": "Estimation",
+        "description": "推定は、タスクやプロジェクトを完了するのに必要な時間、努力、またはコストを予測するプロセスです。"
+    },
+    {
+        "word": "Gantt Chart",
+        "description": "Gantt グラフは、タスクとその期間を表示するプロジェクトスケジュールの視覚的表示です。"
+    },
+    {
+        "word": "Iterative",
+        "description": "イタラティブは、プロセスまたはサイクルを繰り返すことを含む開発または管理アプローチを指します。"
+    },
+    {
+        "word": "Milestone",
+        "description": "マイルストーンは、プロジェクト内の重要なイベントまたは成果を表し、しばしば進捗状況を追跡するために使用されます。"
+    },
+    {
+        "word": "Project Management",
+        "description": "プロジェクト管理は、プロジェクトを計画し、実行し、特定の目標や目標を達成するためにコントロールするプロセスです。"
+    },
+    {
+        "word": "Risk Management",
+        "description": "リスク管理は、プロジェクトの成功に影響を与える可能性のある潜在的なリスクの特定、評価、軽減を含む。"
+    },
+    {
+        "word": "Scope",
+        "description": "Scope は、プロジェクトの限界と範囲を定義し、実行される作業と生産される生産物を含む。"
+    },
+    {
+        "word": "Stakeholder",
+        "description": "利害関係者は、プロジェクトの結果に影響を与え、または関心を持っている個人またはグループです。"
+    },
+    {
+        "word": "Task",
+        "description": "タスクは、プロジェクトで実行する必要がある特定の作業です。"
+    },
+    {
+        "word": "Time Tracking",
+        "description": "時間追跡には、プロジェクトタスクに費やされた時間を記録し、監視し、進捗状況を追跡し、リソースの割り当てを管理するのに役立ちます。"
+    },
+    {
+        "word": "User Story",
+        "description": "ユーザストーリーは、ユーザの視点からある機能または機能の簡潔な説明であり、アジル開発に使用される。"
+    },
+    {
+        "word": "Scrum",
+        "description": "Scrum は、反復的および増加的開発を強調するアギルなプロジェクト管理フレームワークです。"
+    },
+    {
+        "word": "Kanban",
+        "description": "Kanban は、プロジェクトワークフローを視覚化するアギルなプロジェクト管理方法で、通常はボードとカードを使用します。"
+    },
+    {
+        "word": "Product Backlog",
+        "description": "製品バックログは、製品のすべての望ましい機能または機能の優先リストです。"
+    },
+    {
+        "word": "Sprint",
+        "description": "Agile Project Management では、スプリントは、特定のタスクのセットが完了する期間です。"
+    },
+    {
+        "word": "Velocity",
+        "description": "スピードは、Scrumチームがスプリント中に達成できる仕事の量の測定です。"
+    },
+    {
+        "word": "Burndown Chart",
+        "description": "Burndown chart は、スプリントにおける残りの作業と時間のグラフィカルな表示です。"
+    },
+    {
+        "word": "Continuous Integration",
+        "description": "連続統合は、複数の開発者からのコードの変更を頻繁に共有レポジトリに統合し、より迅速なフィードバックとバグ検出を可能にします。"
+    },
+    {
+        "word": "Continuous Delivery",
+        "description": "継続的な配信は、ソフトウェアの開発を生産環境に自動化し、頻繁かつ信頼性の高いリリースを確保する実践です。"
+    },
+    {
+        "word": "Continuous Deployment",
+        "description": "継続的な展開は、一連の自動テストを経て生産環境にソフトウェアの変更を自動的に展開する実践です。"
+    },
+    {
+        "word": "Waterfall",
+        "description": "Waterfall は、要件、設計、開発、テスト、展開などの異なる段階を持つ連続的なプロセスに従う線形的なプロジェクト管理方法論です。"
+    },
+    {
+        "word": "Pert Chart",
+        "description": "PERT(Program Evaluation Review Technique)は、プロジェクト内のタスクをスケジュールし、組織し、調整するためのプロジェクト管理ツールです。"
+    },
+    {
+        "word": "Resource Allocation",
+        "description": "リソースの割り当ては、可用性、スキル、要件に基づいてプロジェクトタスクにリソースを割り当て、配布することです。"
+    },
+    {
+        "word": "Critical Chain",
+        "description": "批判的チェーンとは、プロジェクトの資源を管理することに焦点を当てたプロジェクト管理の手法です。"
+    },
+    {
+        "word": "Earned Value Management",
+        "description": "Earned Value Managementは、実際に完了した作業と予定されたスケジュールや予算に比べて発生したコストを比較するプロジェクト管理技術です。"
+    },
+    {
+        "word": "Quality Assurance",
+        "description": "品質保証とは、プロジェクトまたは製品が特定の要件や品質基準を満たしていることを保証するプロセスです。"
+    },
+    {
+        "word": "Stakeholder Management",
+        "description": "利害関係者管理は、プロジェクトのライフサイクルを通じて利害関係者を識別し、分析し、参加させ、そのニーズと期待を満たすことを保証します。"
+    },
+    {
+        "word": "Work Breakdown Structure",
+        "description": "Work Breakdown Structure (WBS) は、プロジェクトの実行可能なプロジェクトとタスクを、より小さく、より管理可能なコンポーネントに分解することです。"
+    },
+    {
+        "word": "Dependency Management",
+        "description": "依存管理とは、プロジェクト内のタスクや活動間の関係を識別し、追跡し、管理するプロセスである。"
+    },
+    {
+        "word": "Portfolio Management",
+        "description": "ポートフォリオ管理は、戦略的目標を達成するために、プロジェクトまたはプログラムのグループの集中管理です。"
+    },
+    {
+        "word": "Issue",
+        "description": "問題は、プロジェクトで発生し、取り扱い、解決する必要がある問題または課題です。"
+    },
+    {
+        "word": "Change Management",
+        "description": "変更管理とは、ネガティブな影響を最小化し、利益を最大化するためにプロジェクトの変更を計画し、実施し、制御するプロセスです。"
+    },
+    {
+        "word": "Raci Matrix",
+        "description": "RACI マトリックスは、プロジェクトのタスクとパフォーマンスの役割と責任を定義し、明確にするために使用されるプロジェクト管理ツールです。"
+    },
+    {
+        "word": "Sponsor",
+        "description": "スポンサーとは、プロジェクトのために財政的またはその他のリソースを提供する個人または組織です。"
+    },
+    {
+        "word": "Project Charter",
+        "description": "プロジェクト憲章は、プロジェクトの目標、範囲、利害関係者、および全体的な計画を定める文書です。"
+    },
+    {
+        "word": "Procurement",
+        "description": "調達は、プロジェクトのための外部から商品、サービス、または作品を取得するプロセスです。"
+    },
+    {
+        "word": "Risk Register",
+        "description": "リスクレジストリは、プロジェクトにおけるリスクを識別、評価、管理するための文書またはツールです。"
+    },
+    {
+        "word": "Resource Leveling",
+        "description": "Resource leveling は、プロジェクト管理において、リソースの割り当てを最適化し、プロジェクト全体におけるリソースの要求をバランスを取るために使用される技術です。"
+    },
+    {
+        "word": "Sprint Backlog",
+        "description": "スプリントバックログは、スプリント中にスクリムチームが完了する予定のタスクやユーザーストーリーのリストです。"
+    },
+    {
+        "word": "Stakeholder Analysis",
+        "description": "利害関係者分析とは、プロジェクトにおける利害関係者の利益、ニーズ、および影響力を特定し、分析するプロセスです。"
+    },
+    {
+        "word": "Project Closure",
+        "description": "プロジェクト閉鎖は、プロジェクトの最終段階であり、プロジェクトの完成と交付、プロジェクトのパフォーマンスの評価、学んだ教訓を含む。"
+    },
+    {
+        "word": "Resource Management",
+        "description": "リソース管理は、プロジェクトのタスクを完了するために、人、材料、設備などのリソースを効果的に割り当て、最適化することを意味します。"
+    },
+    {
+        "word": "Project Portfolio",
+        "description": "プロジェクトポートフォリオは、組織の目標を達成するために共同で管理されるプロジェクトまたはプログラムのコレクションです。"
+    },
+    {
+        "word": "Project Risk",
+        "description": "プロジェクトリスクとは、プロジェクトの目標にポジティブかネガティブな影響を及ぼす可能性のある不確実な出来事または条件です。"
+    },
+    {
+        "word": "Project Schedule",
+        "description": "プロジェクトスケジュールは、プロジェクト内の活動、タスク、マイルストーンの順序を概要するタイムラインまたはプランです。"
+    },
+    {
+        "word": "Scheduling",
+        "description": "プロジェクト管理ソフトウェアにおけるスケジュールは、タスクの割り当てとタイムラインの視覚化を含むプロジェクトスケジュールの作成と管理を指します。"
+    },
+    {
+        "word": "Change Control",
+        "description": "変更制御とは、プロジェクトの範囲、スケジュール、または実行可能な変更をレビューし、承認し、実施するプロセスです。"
+    },
+    {
+        "word": "Project Status Report",
+        "description": "プロジェクトの状態レポートは、プロジェクトの進捗状況、リスク、問題の概要を提供する定期的な概要です。"
+    },
+    {
+        "word": "Resource Histogram",
+        "description": "Resource Histogram は、プロジェクトタスクにおけるリソースの割り当てのグラフィック表示であり、リソースの可用性とワークロードを視覚化するのに役立ちます。"
+    },
+    {
+        "word": "Work Package",
+        "description": "ワークパッケージは、プロジェクトの非公開で管理可能なコンポーネントであり、プロジェクトの実行可能なプロジェクトまたは密接に関連する実行可能なプロジェクトのグループを表します。"
+    },
+    {
+        "word": "Project Management Software",
+        "description": "プロジェクト管理ソフトウェアは、個人やチームがプロジェクトを効果的に計画、組織、管理するのに役立つツールです。"
+    },
+    {
+        "word": "Task Management",
+        "description": "タスクマネジメントとは、プロジェクトの目標を達成するためにタスクを構造化、組織化、優先するプロセスです。"
+    },
+    {
+        "word": "Agile Methodology",
+        "description": "Agile Methodologyは、プロジェクトマネジメントに対する反復的かつ柔軟なアプローチであり、価値を増加的に提供し、変化に適応することに焦点を当てています。"
+    },
+    {
+        "word": "Pert",
+        "description": "PERT(Program Evaluation and Review Technique)は、プロジェクトの期間を決定するための確率推定を用いるプロジェクト管理方法です。"
+    },
+    {
+        "word": "Issue Tracking",
+        "description": "出力トラッキングは、プロジェクトライフサイクル中に発生するプロジェクトの問題や問題の記録、追跡、および管理を含みます。"
+    },
+    {
+        "word": "Document Management",
+        "description": "プロジェクト管理ソフトウェアの文書管理は、プロジェクト関連の文書やファイルの組織、保存、および取得を指します。"
+    },
+    {
+        "word": "Budget Management",
+        "description": "予算管理は、計画、追跡、およびプロジェクトコストの管理を含み、それらが承認された予算と一致することを確実にする。"
+    },
+    {
+        "word": "Resource Calendar",
+        "description": "Resource Calendar は、プロジェクトタスクにおけるリソースの可用性と割り当てをスケジュールし、管理するのに役立つツールです。"
+    },
+    {
+        "word": "Project Portfolio Management",
+        "description": "プロジェクトポートフォリオ管理とは、複数のプロジェクトを集中的に管理し、戦略的調和とリソース配分に基づいてそれらを評価し、優先順位付けすることです。"
+    },
+    {
+        "word": "Communication Management",
+        "description": "コミュニケーションマネジメントとは、関係者に関連する情報を提供するために、プロジェクトのコミュニケーションを計画、実行、監視することです。"
+    },
+    {
+        "word": "Project Scope",
+        "description": "プロジェクトの範囲は、プロジェクトの限界を定義し、パフォーマンス、目標、要件を含む。"
+    },
+    {
+        "word": "Project Planning",
+        "description": "プロジェクト計画は、プロジェクトの目標を定義し、プロジェクトタスクを決定し、リソースを推定し、プロジェクトスケジュールを作成するプロセスです。"
+    },
+    {
+        "word": "Project Tracking",
+        "description": "プロジェクト・トラッキングとは、プロジェクトの進捗状況を監視し、実際のパフォーマンスを計画された目標と比較し、修正措置を講じることです。"
+    },
+    {
+        "word": "Project Reporting",
+        "description": "プロジェクトレポートは、プロジェクトの情報を集め、分析し、関係者に提示し、プロジェクトのパフォーマンスの概要を提供します。"
+    },
+    {
+        "word": "Task Dependency",
+        "description": "プロジェクト管理ソフトウェアにおけるタスク依存は、タスク間の関係を指し、あるタスクの開始または完了が別のタスクに依存する。"
+    },
+    {
+        "word": "Milestone Tracking",
+        "description": "プロジェクト管理ソフトウェアにおけるマイルストーン追跡は、プロジェクトのマイルストーンをモニタリングし、更新し、進捗状況を追跡し、偏差を特定することを指します。"
+    },
+    {
+        "word": "Issue Management",
+        "description": "出力管理は、プロジェクトの問題の識別、追跡、および解決を含み、それらが効果的に処理され、解決されることを保証する。"
+    },
+    {
+        "word": "Resource Management Software",
+        "description": "リソース管理ソフトウェアは、特にリソース配分の管理と最適化に焦点を当てたプロジェクト管理ソフトウェアの一種です。"
+    },
+    {
+        "word": "Task Management Software",
+        "description": "タスク管理ソフトウェアは、プロジェクトタスクを組織、割り当て、追跡する機能を提供するプロジェクト管理ソフトウェアの一種です。"
+    },
+    {
+        "word": "Time Tracking Software",
+        "description": "Time Tracking Software は、プロジェクトタスクに費やされた時間を記録し、監視するのに役立つツールで、正確なタイムマネジメントと分析を可能にします。"
+    },
+    {
+        "word": "Communication Software",
+        "description": "コミュニケーションソフトウェアには、プロジェクトチームメンバー間のコミュニケーションとコラボレーションを容易にするツールとプラットフォームが含まれています。"
+    },
+    {
+        "word": "Risk Management Software",
+        "description": "リスク管理ソフトウェアは、プロジェクトリスクの識別、評価、軽減の機能を提供するプロジェクト管理ソフトウェアの一種です。"
+    },
+    {
+        "word": "Gantt Chart Software",
+        "description": "Gantt Chart Software は、ユーザーが Gantt Chart を使用してプロジェクトスケジュールを作成、更新、視覚化できるツールです。"
+    },
+    {
+        "word": "Collaboration Software",
+        "description": "Collaboration Software では、チームメンバーが一緒に作業し、情報を共有し、プロジェクトのタスクやパフォーマンスについて協力することができます。"
+    },
+    {
+        "word": "Planning Software",
+        "description": "プランニングソフトウェアは、プロジェクトプランを作成し、タスクを割り当て、プロジェクト目標を設定するのに役立つプロジェクト管理ソフトウェアの一種です。"
+    },
+    {
+        "word": "Budgeting Software",
+        "description": "予算ソフトウェアは、プロジェクト予算の作成、管理、および追跡に役立つツールであり、正確な財務計画と制御を確保します。"
+    },
+    {
+        "word": "Reporting Software",
+        "description": "レポートソフトウェアは、プロジェクトレポートの作成と生成を自動化し、関与者に最新のプロジェクト情報を提供するツールです。"
+    },
+    {
+        "word": "Scheduling Software",
+        "description": "Scheduling Software は、プロジェクトスケジュールの作成と管理に役立つツールで、ユーザーがタスク依存性を定義し、リソースを割り当てることを可能にします。"
+    },
+    {
+        "word": "Agile Software",
+        "description": "Agile Software は、Agile 方法論をサポートするプロジェクト管理ソフトウェアの一種で、プロジェクトのイテラティブおよびコラボレーションを実行を容易にします。"
+    },
+    {
+        "word": "Waterfall Software",
+        "description": "Waterfall ソフトウェアは、従来の Waterfall 方法論に従うプロジェクト管理ソフトウェアで、連続段階と線形プロジェクトの進行を含みます。"
+    },
+    {
+        "word": "Kanban Software",
+        "description": "Kanban ソフトウェアは、ユーザーが Kanban ボードを作成し、管理し、作業を視覚化し、進捗状況を追跡できるツールです。"
+    },
+    {
+        "word": "Scrum Software",
+        "description": "Scrum Softwareは、Scrumフレームワークをサポートし、バックログ管理、スプリント計画、チームコラボレーションの機能を提供するツールです。"
+    },
+    {
+        "word": "Project Management Framework",
+        "description": "Project Management Framework は、プロジェクトを管理するための構造化されたアプローチを提供する原則、プロセス、およびガイドラインのセットです。"
+    },
+    {
+        "word": "Project Management Methodology",
+        "description": "プロジェクト管理方法論は、プロジェクトを効率的かつ効率的に管理するために使用される最良の実践、技術、ツールのコレクションです。"
+    },
+    {
+        "word": "Project Management Lifecycle",
+        "description": "プロジェクト管理ライフサイクルは、プロジェクトの開始から終了まで、プロジェクト管理に構造化されたアプローチを提供する段階または段階のシリーズです。"
+    },
+    {
+        "word": "Project Management Office (Pmo)",
+        "description": "プロジェクトマネジメントオフィス(PMO)は、プロジェクトマネジメントの実践、基準、プロセスを監督および改善する責任を有する組織内の集中的なユニットです。"
+    },
+    {
+        "word": "Project Management Professional (Pmp)",
+        "description": "プロジェクトマネジメントプロフェッショナル(PMP)は、プロジェクトマネージャーのための世界的に認められた認証であり、プロジェクトマネジメントにおける知識と専門知識を検証します。"
+    },
+    {
+        "word": "Agile Project Management",
+        "description": "Agile Project Management は、Agile 方法論を使用してプロジェクトを管理するための反復的かつ柔軟なアプローチで、適応性と顧客協力に焦点を当てています。"
+    },
+    {
+        "word": "Waterfall Project Management",
+        "description": "Waterfall Project Managementは、プロジェクト管理の伝統的な線形アプローチで、次の段階に移る前に各段階を完了します。"
+    },
+    {
+        "word": "Hybrid Project Management",
+        "description": "ハイブリッドプロジェクトマネジメントは、プロジェクトの要件と複雑性に基づいてプロジェクト管理アプローチをカスタマイズするために、アギルとウォーターフォールの方法論の要素を組み合わせています。"
+    },
+    {
+        "word": "Budgeting",
+        "description": "予算は、プロジェクトコストと支出の推定、割り当て、および追跡のプロセスです。"
+    },
+    {
+        "word": "User Stories",
+        "description": "ユーザストーリーは、エンドユーザの視点から望む機能や機能の短い記述であり、しばしばアジルなプロジェクト管理に使用される。"
+    },
+    {
+        "word": "Sprint Planning",
+        "description": "スプリント計画は、次期スプリントのタスクを定義し、推定するアジャイル・プロジェクト・マネジメントにおける会議です。"
+    },
+    {
+        "word": "Burndown Rate",
+        "description": "Burndown rate は、プロジェクトで作業が完了するペースであり、しばしば Burn-down グラフのラインとして視覚化されます。"
+    },
+    {
+        "word": "Dependency",
+        "description": "依存性は、プロジェクト内のタスクまたはアクティビティの間の関係であり、あるタスクの完了または開始は別のタスクの完了または開始に依存する。"
+    },
+    {
+        "word": "Work Breakdown Structure (Wbs)",
+        "description": "WBS(Work Breakdown Structure)とは、プロジェクトタスクを分割してより小さく、より管理可能なコンポーネントに分割することです。"
+    },
+    {
+        "word": "Milestone Chart",
+        "description": "マイルストーン グラフは、プロジェクトのマイルストーンを視覚的に表示し、通常プロジェクトのスケジュールと共に表示されます。"
+    },
+    {
+        "word": "Project Plan",
+        "description": "プロジェクト計画は、プロジェクトの目標、タイムライン、リソース、タスクを概説する包括的な文書です。"
+    },
+    {
+        "word": "Baseline",
+        "description": "ベースラインは、プロジェクトのパフォーマンスまたは進歩を測定するための基準または出発点です。"
+    },
+    {
+        "word": "Project Dashboard",
+        "description": "プロジェクトダッシュボードは、重要なプロジェクトメトリクスを視覚的に表示し、プロジェクトの状態と進捗状況の高レベルの概要を提供します。"
+    },
+    {
+        "word": "Project Lifecycle",
+        "description": "プロジェクトのライフサイクルは、プロジェクトの開始と計画から実行、モニタリング、閉鎖まで、プロジェクトが行う段階を表します。"
+    },
+    {
+        "word": "Critical Chain Method",
+        "description": "Critical Chain Methodは、プロジェクトのスケジュールを最適化し、遅延の影響を減らすために、リソースの割り当てとタスク依存性に焦点を当てたプロジェクト管理技術です。"
+    },
+    {
+        "word": "Milestone Schedule",
+        "description": "マイルストーンスケジュールは、プロジェクトにおける重要なマイルストーンの予定された日付を示すタイムラインです。"
+    },
+    {
+        "word": "Dependency Mapping",
+        "description": "依存マッピングは、プロジェクトのタスク、リソース、およびパフォーマンスの間の関係と依存性を識別しドキュメントするプロセスです。"
+    },
+    {
+        "word": "Quality Management",
+        "description": "品質管理とは、プロジェクトの生産物が要求される品質基準と顧客の期待に応えることを保証することです。"
+    },
+    {
+        "word": "Project Governance",
+        "description": "プロジェクトガバナンスは、組織内のプロジェクトがどのように管理されるかを導き、制御するフレームワークとプロセスを指します。"
+    },
+    {
+        "word": "Project Sponsor",
+        "description": "プロジェクトスポンサーとは、プロジェクトのための財政的リソース、ガイドライン、およびサポートを提供する個人またはグループです。"
+    },
+    {
+        "word": "Scope Creep",
+        "description": "Scope creep は、プロジェクトの範囲における許可されていないまたは制御されていない変更を指し、しばしばプロジェクトの遅延やコストの超過につながります。"
+    },
+    {
+        "word": "Requirements Management",
+        "description": "要件管理とは、プロジェクトの利害関係者のニーズと期待を特定し、文書化し、管理することを意味します。"
+    },
+    {
+        "word": "Standalone",
+        "description": "独立したプロジェクト管理ソフトウェアとは、インターネット接続を必要とせずにローカルマシンにインストールして実行できるソフトウェアを指します。"
+    },
+    {
+        "word": "Cloud-Based",
+        "description": "クラウドベースのプロジェクト管理ソフトウェアは、リモートサーバーにホストされ、インターネットを通じてアクセスされるソフトウェアを指します。"
+    },
+    {
+        "word": "Integration",
+        "description": "プロジェクト管理ソフトウェアへの統合は、さまざまなソフトウェアツールやシステムを接続または組み合わせる能力を指します。"
+    },
+    {
+        "word": "Customization",
+        "description": "プロジェクト管理ソフトウェアにおけるカスタマイズは、特定のプロジェクト要件を満たすためにソフトウェアを変更または調整する能力を指します。"
+    },
+    {
+        "word": "Reporting",
+        "description": "プロジェクトマネジメントソフトウェアのレポートは、プロジェクトデータと情報の構造的かつ有意義な方法の生成とプレゼンテーションを指します。"
+    },
+    {
+        "word": "Mobile App",
+        "description": "プロジェクト管理におけるモバイルアプリは、スマートフォンやタブレットなどのモバイルデバイスで使用するように設計されたソフトウェアアプリケーションを指します。"
+    },
+    {
+        "word": "Dashboard",
+        "description": "プロジェクト管理ソフトウェアのダッシュボードは、プロジェクトの主要なメトリクスと情報をリアルタイムで表示するビジュアルインターフェースを指します。"
+    },
+    {
+        "word": "Document Sharing",
+        "description": "プロジェクト管理ソフトウェアの文書共有は、プロジェクト関連の文書やファイルを保存、アクセス、および共同作業する能力を指します。"
+    },
+    {
+        "word": "Project Budgeting",
+        "description": "プロジェクト管理ソフトウェアのプロジェクト予算は、プロジェクトコストと支出の推定、割り当て、追跡のプロセスを指します。"
+    },
+    {
+        "word": "Resource Utilization",
+        "description": "プロジェクト管理ソフトウェアにおけるリソース利用は、プロジェクトタスクにおけるリソースの時間と努力の測定と最適化を指します。"
+    },
+    {
+        "word": "Activity Log",
+        "description": "プロジェクト管理ソフトウェアのアクティビティログは、完了したタスクの日付、時間、および記述を含むプロジェクトアクティビティのレコードを指します。"
+    },
+    {
+        "word": "Team Collaboration",
+        "description": "プロジェクト管理ソフトウェアにおけるチームコラボレーションは、チームのメンバーが協力し、情報を共有し、プロジェクトの成功のために効果的にコミュニケーションする能力を指します。"
+    }
+]

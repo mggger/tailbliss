@@ -1,0 +1,514 @@
+[
+    {
+        "word": "E-Commerce",
+        "description": "E-commerce, also known as electronic commerce, refers to the buying and selling of goods and services over the internet."
+    },
+    {
+        "word": "Online Marketplace",
+        "description": "An online marketplace is a platform that facilitates the buying and selling of products or services between multiple parties."
+    },
+    {
+        "word": "Mobile Commerce",
+        "description": "Mobile commerce, also known as m-commerce, is the buying and selling of goods and services through mobile devices, such as smartphones and tablets."
+    },
+    {
+        "word": "Digital Marketing",
+        "description": "Digital marketing encompasses all marketing efforts that use digital channels, such as websites, search engines, social media, email, and mobile apps, to reach and engage with current and potential customers."
+    },
+    {
+        "word": "Seo",
+        "description": "Search Engine Optimization (SEO) is the practice of increasing the visibility and ranking of a website or web page in search engine results."
+    },
+    {
+        "word": "Sem",
+        "description": "Search Engine Marketing (SEM) refers to paid advertising on search engines to increase a website's visibility and drive traffic."
+    },
+    {
+        "word": "Conversion Rate",
+        "description": "Conversion rate is the percentage of website visitors who take a desired action, such as making a purchase or signing up for a newsletter."
+    },
+    {
+        "word": "Shopping Cart",
+        "description": "A shopping cart is a virtual cart or basket that allows users to collect multiple items for purchase on an e-commerce website."
+    },
+    {
+        "word": "Payment Gateway",
+        "description": "A payment gateway is a service that securely processes online payment transactions between a buyer and a seller."
+    },
+    {
+        "word": "Merchant Account",
+        "description": "A merchant account is a type of bank account that allows businesses to accept and process credit and debit card payments."
+    },
+    {
+        "word": "Dropshipping",
+        "description": "Dropshipping is a business model where an e-commerce store sells products without holding any inventory, instead relying on suppliers to ship directly to customers."
+    },
+    {
+        "word": "Inventory Management",
+        "description": "Inventory management involves tracking and controlling the flow of goods from manufacturers to warehouses to points of sale."
+    },
+    {
+        "word": "Fulfillment",
+        "description": "Fulfillment, in the context of e-commerce, refers to the process of receiving, packaging, and shipping orders to customers."
+    },
+    {
+        "word": "Return Policy",
+        "description": "A return policy is a set of rules and procedures established by an e-commerce store that outlines the conditions under which customers can return purchased products for a refund, exchange, or store credit."
+    },
+    {
+        "word": "Customer Retention",
+        "description": "Customer retention refers to strategies and actions taken by businesses to retain existing customers and encourage repeat purchases, often through loyalty programs, personalized offers, or exceptional customer service."
+    },
+    {
+        "word": "Upselling",
+        "description": "Upselling is a sales technique where a seller persuades a customer to purchase a higher-priced or upgraded version of a product or service."
+    },
+    {
+        "word": "Cross-Selling",
+        "description": "Cross-selling is a technique where a seller recommends related or complementary products to a customer during the buying process, with the aim of increasing the customer's total purchase value."
+    },
+    {
+        "word": "Crm",
+        "description": "Customer Relationship Management (CRM) is a technology and strategy used by businesses to manage and analyze customer interactions and data throughout the customer lifecycle."
+    },
+    {
+        "word": "Customer Segmentation",
+        "description": "Customer segmentation is the process of dividing a customer base into distinct groups or segments based on similar characteristics, behaviors, or preferences, enabling businesses to target their marketing efforts more effectively."
+    },
+    {
+        "word": "A/B Testing",
+        "description": "A/B testing, also known as split testing, is a method of comparing two versions of a webpage or app to determine which one performs better based on metrics such as conversion rate or click-through rate."
+    },
+    {
+        "word": "Chatbot",
+        "description": "A chatbot is an AI-driven software application that can interact with users via text or voice-based conversations, providing automated customer support or information."
+    },
+    {
+        "word": "Personalization",
+        "description": "Personalization refers to the tailoring of content, recommendations, or experiences based on individual user preferences, behavior, or demographic information."
+    },
+    {
+        "word": "User Experience (Ux)",
+        "description": "User Experience (UX) refers to the overall experience a user has when interacting with a website, application, or other digital product."
+    },
+    {
+        "word": "Responsive Design",
+        "description": "Responsive design is an approach to web design that ensures a website can adapt to different screen sizes and devices, providing an optimal viewing experience for users."
+    },
+    {
+        "word": "Abandoned Cart",
+        "description": "An abandoned cart occurs when a customer adds items to their shopping cart but leaves the website without completing the purchase."
+    },
+    {
+        "word": "Customer Lifetime Value (Clv)",
+        "description": "Customer lifetime value (CLV) is the predicted net profit that a customer will generate over the entire duration of their relationship with a business."
+    },
+    {
+        "word": "Digital Wallet",
+        "description": "A digital wallet is a software application or online service that allows users to store and manage their payment information, making it convenient for them to make online purchases without repeatedly entering payment details."
+    },
+    {
+        "word": "Affiliate Marketing",
+        "description": "Affiliate marketing is a performance-based marketing strategy in which individuals or businesses promote products or services of another company and earn a commission on each sale they generate."
+    },
+    {
+        "word": "Customer Reviews",
+        "description": "Customer reviews are feedback or opinions provided by customers about a product or service, typically shared on the e-commerce website or other online platforms."
+    },
+    {
+        "word": "Social Media Marketing",
+        "description": "Social media marketing involves using social media platforms, such as Facebook, Instagram, and Twitter, to promote products or services and engage with customers."
+    },
+    {
+        "word": "Digital Advertising",
+        "description": "Digital advertising refers to the use of digital channels, such as websites, search engines, social media, and mobile apps, to display advertisements to target audiences."
+    },
+    {
+        "word": "Landing Page",
+        "description": "A landing page is a standalone web page designed for a specific marketing campaign or objective, with the goal of persuading visitors to take a desired action."
+    },
+    {
+        "word": "Call To Action (Cta)",
+        "description": "A call to action (CTA) is a prompt or instruction given to website visitors or users to encourage them to take a specific action, such as making a purchase or signing up for a newsletter."
+    },
+    {
+        "word": "Key Performance Indicators (Kpis)",
+        "description": "Key performance indicators (KPIs) are specific metrics used to measure the success and performance of an individual, team, or organization against predefined goals."
+    },
+    {
+        "word": "Marketplace Integration",
+        "description": "Marketplace integration refers to the process of connecting an online store with various online marketplaces, such as Amazon, eBay, or Etsy, to streamline product listings and inventory management."
+    },
+    {
+        "word": "Product Recommendation",
+        "description": "Product recommendation is the practice of suggesting or showing personalized product suggestions to customers based on their browsing or purchase history."
+    },
+    {
+        "word": "Logistics",
+        "description": "Logistics refers to the management of the flow of goods, services, and information between the point of origin and the point of consumption."
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "Digital transformation is the integration of digital technologies into all areas of a business, fundamentally changing how it operates and delivers value to customers."
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "Cybersecurity encompasses technologies, practices, and measures designed to protect computer systems, networks, and data from unauthorized access, attacks, or damage."
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines to perform tasks that normally require human intellect, such as speech recognition, problem-solving, and learning."
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "Machine Learning (ML) is a subset of AI that focuses on developing algorithms and models that enables computer systems to learn from and make predictions or take actions based on data without explicit programming."
+    },
+    {
+        "word": "Blockchain",
+        "description": "Blockchain is a decentralized and distributed digital ledger technology that securely records and verifies transactions across multiple computers or nodes."
+    },
+    {
+        "word": "Cryptocurrency",
+        "description": "Cryptocurrency is a digital or virtual form of currency that uses cryptography for security and operates independently of a central bank or government."
+    },
+    {
+        "word": "Mobile App",
+        "description": "A mobile app is a software application designed to run on mobile devices such as smartphones or tablets, providing specific functionalities or services."
+    },
+    {
+        "word": "User Interface (Ui)",
+        "description": "User Interface (UI) refers to the visual elements and interactions through which a user interacts with a website, app, or software."
+    },
+    {
+        "word": "User Journey",
+        "description": "User journey, also known as user flow or user experience (UX) journey, refers to the sequence of steps or actions a user takes when interacting with a website, app, or other digital product."
+    },
+    {
+        "word": "Order Management System (Oms)",
+        "description": "An order management system (OMS) is a software solution that allows businesses to manage and track orders, inventory, and fulfillment processes."
+    },
+    {
+        "word": "Customer Support",
+        "description": "Customer support, also known as customer service, is the provision of assistance, guidance, or resolution to customers who have questions, issues, or requests regarding a product or service."
+    },
+    {
+        "word": "Big Data",
+        "description": "Big data refers to extremely large and complex data sets that cannot be easily managed or analyzed using traditional data processing applications."
+    },
+    {
+        "word": "Customer Experience (Cx)",
+        "description": "Customer experience (CX) refers to the overall experience and perception a customer has when interacting with a brand, product, or service throughout their entire relationship."
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented reality (AR) is a technology that overlays digital information, such as images, videos, or 3D objects, onto the real-world environment, enhancing the user's perception and interaction."
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "Virtual reality (VR) is a technology that creates a simulated or virtual environment that users can interact with using specialized equipment, such as VR headsets."
+    },
+    {
+        "word": "Supply Chain Management",
+        "description": "Supply chain management involves the planning, coordination, and control of the flow of goods, services, and information between suppliers, manufacturers, and customers."
+    },
+    {
+        "word": "Subscription Model",
+        "description": "A subscription model is a business model where customers pay a recurring fee at a specific interval, typically monthly or annually, to access a product or service."
+    },
+    {
+        "word": "Market Research",
+        "description": "Market research is the process of gathering, analyzing, and interpreting data and information about a specific market, including customer preferences, trends, and competition."
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "Predictive analytics is the practice of using historical and current data, statistical algorithms, and AI techniques to make predictions about future events, trends, or behaviors."
+    },
+    {
+        "word": "Social Proof",
+        "description": "Social proof is a psychological phenomenon where people assume the actions of others in an attempt to conform, and it is used in e-commerce through techniques such as displaying customer reviews, ratings, and testimonials to build trust and influence purchasing decisions."
+    },
+    {
+        "word": "Data Privacy",
+        "description": "Data privacy refers to the protection of personal information and data from unauthorized access, use, or disclosure."
+    },
+    {
+        "word": "Multi-Channel Retailing",
+        "description": "Multi-channel retailing is the practice of selling products through multiple channels, such as physical stores, online marketplaces, and social media platforms, to reach a wider customer base."
+    },
+    {
+        "word": "Online Store",
+        "description": "An online store is a website or platform where businesses can showcase and sell their products or services to customers over the internet."
+    },
+    {
+        "word": "Marketplace",
+        "description": "A marketplace is an online platform where multiple sellers can sell their products or services to customers."
+    },
+    {
+        "word": "B2C",
+        "description": "Business-to-Consumer (B2C) refers to the type of e-commerce where businesses sell products or services directly to individual consumers."
+    },
+    {
+        "word": "B2B",
+        "description": "Business-to-Business (B2B) refers to the type of e-commerce where businesses sell products or services to other businesses."
+    },
+    {
+        "word": "C2C",
+        "description": "Consumer-to-Consumer (C2C) refers to the type of e-commerce where individual consumers sell products or services to other consumers."
+    },
+    {
+        "word": "Customer Relationship Management (Crm)",
+        "description": "Customer Relationship Management (CRM) refers to the strategies, technologies, and practices used by businesses to manage and analyze customer interactions and data."
+    },
+    {
+        "word": "Fulfillment Center",
+        "description": "A fulfillment center is a warehouse or distribution center where products are stored, picked, packed, and shipped to customers."
+    },
+    {
+        "word": "Social Commerce",
+        "description": "Social commerce refers to the use of social media platforms, such as Facebook, Instagram, or Pinterest, to facilitate the buying and selling of products."
+    },
+    {
+        "word": "Mobile Commerce (M-Commerce)",
+        "description": "Mobile commerce, or M-commerce, refers to the buying and selling of goods and services through mobile devices, such as smartphones and tablets."
+    },
+    {
+        "word": "Virtual Reality (Vr) E-Commerce",
+        "description": "Virtual Reality (VR) e-commerce refers to the use of virtual reality technology to create immersive shopping experiences online."
+    },
+    {
+        "word": "Augmented Reality (Ar) E-Commerce",
+        "description": "Augmented Reality (AR) e-commerce refers to the use of augmented reality technology to overlay virtual elements onto real-world environments to enhance the online shopping experience."
+    },
+    {
+        "word": "Ssl Certificate",
+        "description": "An SSL (Secure Sockets Layer) certificate is a digital certificate that authenticates the identity of a website and encrypts data sent between the website and its users to ensure secure communication."
+    },
+    {
+        "word": "Content Management System (Cms)",
+        "description": "A content management system (CMS) is a software application used to create, manage, and modify digital content on a website."
+    },
+    {
+        "word": "Product Description",
+        "description": "A product description is a written representation of a product's features, benefits, and specifications, aimed at helping customers understand the product and make informed purchasing decisions."
+    },
+    {
+        "word": "Product Recommendation Engine",
+        "description": "A product recommendation engine is a technology that analyzes customer data and behavior to provide personalized product suggestions, often based on collaborative filtering or machine learning algorithms."
+    },
+    {
+        "word": "Responsive Customer Support",
+        "description": "Responsive customer support refers to providing timely and helpful assistance to customers who have questions, concerns, or issues with a product or service."
+    },
+    {
+        "word": "Live Chat",
+        "description": "Live chat is a customer support tool that enables real-time communication between customers and support agents via a chat interface on a website or mobile app."
+    },
+    {
+        "word": "Email Marketing",
+        "description": "Email marketing is a digital marketing strategy that involves sending commercial messages or promotions to a group of recipients via email to build relationships, promote products, drive sales, or enhance customer loyalty."
+    },
+    {
+        "word": "Customer Loyalty Program",
+        "description": "A customer loyalty program is a marketing strategy that rewards and encourages customers to continue making purchases or engaging with a brand."
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data analytics is the process of examining, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making."
+    },
+    {
+        "word": "Supply Chain",
+        "description": "A supply chain is a network of organizations and activities involved in the production, distribution, and delivery of goods or services."
+    },
+    {
+        "word": "Search Functionality",
+        "description": "Search functionality refers to the capability of a website or application to allow users to search for specific products, information, or content."
+    },
+    {
+        "word": "Omni-Channel",
+        "description": "Omni-channel refers to the approach that integrates multiple channels (such as physical stores, online platforms, and mobile apps) to provide a seamless and consistent customer experience."
+    },
+    {
+        "word": "Artificial Reality (Ar)",
+        "description": "Artificial Reality (AR) is an environment that is created by overlaying digital information or virtual elements onto the real world in real-time."
+    },
+    {
+        "word": "Algorithm",
+        "description": "An algorithm is a set of instructions or rules to solve a specific problem or perform a particular calculation or task."
+    },
+    {
+        "word": "User-Generated Content",
+        "description": "User-generated content (UGC) refers to any form of content, such as text, images, videos, or reviews, which is created and shared by users of an online platform."
+    },
+    {
+        "word": "Push Notifications",
+        "description": "Push notifications are messages sent directly to a user's device, typically a smartphone or tablet, to provide information, updates, or promote offers or events related to an app or website."
+    },
+    {
+        "word": "Virtual Assistant",
+        "description": "A virtual assistant is a software or AI-powered application that can perform various tasks or provide information based on user inputs or commands, often through voice interactions."
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "Cloud computing refers to the delivery of computing services, including storage, databases, software, and networking, over the internet on a pay-as-you-go basis."
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "The Internet of Things (IoT) is the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors, software, and connectivity that enables them to collect and exchange data over the internet."
+    },
+    {
+        "word": "Search Engine Optimization (Seo)",
+        "description": "Search Engine Optimization (SEO) is the process of improving a website's visibility and ranking on search engine results pages."
+    },
+    {
+        "word": "Virtual Reality (Vr) Commerce",
+        "description": "Virtual Reality (VR) commerce is an emerging trend in e-commerce where virtual reality technology is used to create immersive shopping experiences, allowing customers to visualize and interact with products in a virtual environment."
+    },
+    {
+        "word": "Augmented Reality (Ar) Commerce",
+        "description": "Augmented Reality (AR) commerce involves the use of augmented reality technology to overlay digital information or virtual objects onto the real world, enhancing the shopping experience and allowing customers to visualize products in their own environment."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In E-Commerce",
+        "description": "Artificial Intelligence (AI) is used in e-commerce to power chatbots, personalization algorithms, product recommendations, demand forecasting, fraud detection, and other applications that enhance the customer experience and optimize business operations."
+    },
+    {
+        "word": "Blockchain In E-Commerce",
+        "description": "Blockchain technology can be used in e-commerce to provide secure and transparent transactions, eliminate intermediaries in supply chains, enable peer-to-peer marketplaces, and enhance trust and traceability of products."
+    },
+    {
+        "word": "Cryptocurrency Payments",
+        "description": "Cryptocurrency payments involve the use of digital currencies, such as Bitcoin or Ethereum, to make online payments, offering advantages such as low transaction fees and increased privacy."
+    },
+    {
+        "word": "Multichannel Selling",
+        "description": "Multichannel selling involves selling products through multiple online and offline channels, such as company website, third-party marketplaces, social media platforms, and physical stores."
+    },
+    {
+        "word": "User Generated Content (Ugc)",
+        "description": "User Generated Content (UGC) refers to any form of content created by users or customers, such as reviews, ratings, comments, or social media posts, which can be used by businesses to enhance brand awareness and engagement."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Customer Support",
+        "description": "AI-powered customer support systems use natural language processing (NLP), machine learning, and chatbots to automate customer inquiries, provide instant responses, and improve customer service efficiency."
+    },
+    {
+        "word": "Gamification In E-Commerce",
+        "description": "Gamification involves integrating game elements, such as points, badges, leaderboards, and rewards, into the e-commerce experience to increase customer engagement, loyalty, and motivation."
+    },
+    {
+        "word": "Big Data Analytics In E-Commerce",
+        "description": "Big data analytics in e-commerce involves the collection, processing, and analysis of large volumes of data to gain insights into customer behavior, optimize pricing and promotions, and improve business decision-making."
+    },
+    {
+        "word": "Data Privacy And Security",
+        "description": "Data privacy and security encompass policies, procedures, and technologies implemented by e-commerce businesses to protect customer data from unauthorized access, fraud, and breaches."
+    },
+    {
+        "word": "Voice Commerce",
+        "description": "Voice commerce, also known as voice-activated shopping, involves the use of voice assistants, such as Amazon's Alexa or Apple's Siri, to make purchases using voice commands."
+    },
+    {
+        "word": "Geolocation Technology",
+        "description": "Geolocation technology utilizes GPS or IP address information to determine a user's geographical location, enabling businesses to provide location-specific content, offers, and services."
+    },
+    {
+        "word": "Dynamic Pricing",
+        "description": "Dynamic pricing, also known as surge pricing or demand pricing, involves adjusting product prices in real-time based on factors such as demand, competition, and customer behavior."
+    },
+    {
+        "word": "Reputation Management",
+        "description": "Reputation management involves monitoring, shaping, and controlling the public perception and reputation of a brand or business online through strategies such as review management, social media monitoring, and online sentiment analysis."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) Powered Search",
+        "description": "AI-powered search uses machine learning algorithms to enhance search functionality, understand user intent, and provide more relevant and accurate search results to improve the e-commerce user experience."
+    },
+    {
+        "word": "Influencer Marketing",
+        "description": "Influencer marketing is a marketing strategy where businesses partner with individuals who have a significant following and influence on social media platforms to promote their products or services to their audience."
+    },
+    {
+        "word": "One-Click Checkout",
+        "description": "One-click checkout, also known as express checkout, allows customers to make a purchase quickly and easily with a single click, without the need to enter billing, shipping, or payment information every time."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Pricing",
+        "description": "AI-powered pricing systems utilize algorithms and machine learning to dynamically set optimal prices based on various factors such as market demand, competition, and customer behavior to maximize sales and profitability."
+    },
+    {
+        "word": "Recurring Revenue",
+        "description": "Recurring revenue refers to the predictable and regular revenue generated by a business through subscription-based models, memberships, or recurring purchases."
+    },
+    {
+        "word": "Logistics And Last-Mile Delivery",
+        "description": "Logistics and last-mile delivery involve the transportation, warehousing, and distribution of products to the final destination, often the customer's doorstep, to ensure timely and efficient delivery."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Personalization",
+        "description": "AI-powered personalization systems utilize data analysis and machine learning to create tailored experiences, such as customized product recommendations, personalized marketing messages, and targeted offers, based on individual preferences and behavior."
+    },
+    {
+        "word": "Social Media Advertising",
+        "description": "Social media advertising involves using paid advertisements on social media platforms, such as Facebook, Instagram, or Twitter, to reach and engage with target audiences and promote products or services."
+    },
+    {
+        "word": "In-App Purchases",
+        "description": "In-app purchases are transactions made within a mobile application, allowing users to buy additional features, content, or virtual goods to enhance their app experience."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Fraud Detection",
+        "description": "AI-powered fraud detection systems use machine learning algorithms to analyze patterns, behaviors, and data to identify and prevent fraudulent activities, such as fraudulent transactions or account takeovers, in e-commerce."
+    },
+    {
+        "word": "Dynamic Product Recommendations",
+        "description": "Dynamic product recommendations are real-time personalization features that suggest relevant products to customers based on their behavior, purchase history, or similar customer preferences."
+    },
+    {
+        "word": "User-Generated Reviews And Ratings",
+        "description": "User-generated reviews and ratings are feedback, opinions, or assessments provided by customers about products or services, often shared on e-commerce websites or other online platforms."
+    },
+    {
+        "word": "Cloud Computing In E-Commerce",
+        "description": "Cloud computing utilizes remote servers to store, manage, and process data over the internet, enabling e-commerce businesses to access scalable computing resources, store large amounts of customer data, and deploy applications quickly and cost-effectively."
+    },
+    {
+        "word": "Personal Data Protection",
+        "description": "Personal data protection refers to the measures and regulations implemented by e-commerce businesses to ensure the privacy, confidentiality, and secure handling of customers' personal information and data."
+    },
+    {
+        "word": "E-Commerce Analytics",
+        "description": "E-commerce analytics involves the collection, measurement, and analysis of data related to e-commerce activities, such as website traffic, conversion rates, customer behavior, and sales performance, to gain insights and make data-driven decisions."
+    },
+    {
+        "word": "Customer Lifetime Value (Cltv)",
+        "description": "Customer lifetime value, or CLTV, is a metric that represents the projected revenue a business can expect from a customer over their entire relationship or lifetime with the company, taking into account factors such as purchase frequency, average order value, and customer retention."
+    },
+    {
+        "word": "Social Listening",
+        "description": "Social listening involves monitoring and analyzing online conversations, such as social media mentions, reviews, and comments, about a brand, product, or industry to gain insights into customer sentiment, preferences, and trends."
+    },
+    {
+        "word": "Real-Time Inventory Management",
+        "description": "Real-time inventory management systems provide up-to-date information on product availability, stock levels, and order fulfillment status, ensuring accurate inventory control and minimizing the risk of overselling or stockouts."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Sales Forecasting",
+        "description": "AI-powered sales forecasting systems use historical data, market trends, and machine learning algorithms to predict future sales volumes, demand patterns, or revenue projections, helping businesses optimize inventory management, production planning, and sales strategies."
+    },
+    {
+        "word": "Competitive Analysis",
+        "description": "Competitive analysis involves researching and analyzing competitors' strategies, products, pricing, marketing campaigns, and other factors to gain insights and identify potential opportunities or threats in the market."
+    },
+    {
+        "word": "Ethical E-Commerce",
+        "description": "Ethical e-commerce refers to conducting online business practices that are morally and environmentally responsible, such as fair trade, sustainable sourcing, transparent supply chains, or supporting social causes."
+    },
+    {
+        "word": "Artificial Intelligence (Ai) In Recommendations",
+        "description": "AI-powered recommendation systems analyze user behavior, preferences, and contextual data to generate personalized recommendations for products, content, or services, aiming to enhance customer engagement, satisfaction, and conversion."
+    },
+    {
+        "word": "Order Tracking",
+        "description": "Order tracking allows customers to follow the progress of their orders, typically through a tracking number or link, providing updates on shipment status, estimated delivery dates, and ensuring transparency throughout the order fulfillment process."
+    }
+]

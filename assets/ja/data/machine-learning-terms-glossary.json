@@ -1,0 +1,482 @@
+[
+    {
+        "word": "Supervised Learning",
+        "description": "監督学習は、ラベル化されたトレーニングデータから機能を学習し、新しい、目に見えないデータに関する予測や決定を行うことを含む機械学習タスクです。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "description": "監督されていない学習は、ラベルのないデータにおける学習パターンや関係を含む機械学習タスクです。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "description": "強化学習は、報酬信号を最大化するために環境で意思決定を下すためのエージェント学習を含む機械学習の種類です。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "深層学習は、複数の層を持つ人工ニューラルネットワークに焦点を当てた機械学習のサブセットであり、複雑で階層的なデータの表示を可能にします。"
+    },
+    {
+        "word": "Neural Network",
+        "description": "ニューラルネットワークは、生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Feature",
+        "description": "A Feature is an individual measurable property or characteristic of a phenomenon being observed. 観察される現象の個々の測定可能な属性または特徴である。"
+    },
+    {
+        "word": "Feature Selection",
+        "description": "Feature Selection は、元の機能セットから関連する機能のサブセットを選択するプロセスです。"
+    },
+    {
+        "word": "Feature Extraction",
+        "description": "機能抽出は、機械学習アルゴリズムの入力として使用される原始データから関連する機能を選択し変換するプロセスです。"
+    },
+    {
+        "word": "Overfitting",
+        "description": "Overfittingは、機械学習モデルがトレーニングデータでうまく行うが、新しい、目に見えないデータに一般化できない場合に起こります。"
+    },
+    {
+        "word": "Underfitting",
+        "description": "Underfitting は、機械学習モデルがあまりにも単純であるか、データの基本的なパターンをキャプチャするのに十分に訓練されていない場合に発生します。"
+    },
+    {
+        "word": "Cross-Validation",
+        "description": "クロス認証は、機械学習モデルのパフォーマンスをトレーニングおよび評価のための複数のサブセットに利用可能なデータを分割することによって評価するための技術です。"
+    },
+    {
+        "word": "Bias",
+        "description": "機械学習では、偏見は、機械学習アルゴリズムが同じ間違ったことを一貫して学ぶ傾向を指します。"
+    },
+    {
+        "word": "Variance",
+        "description": "統計学と機械学習では、変数は、データセットの値が平均値からどれだけ異なっているかを測定します。"
+    },
+    {
+        "word": "Ensemble Learning",
+        "description": "Ensemble learning は、複数のモデルまたは分類を組み合わせて全体的な予測パフォーマンスを向上させる機械学習技術です。"
+    },
+    {
+        "word": "Classification",
+        "description": "分類は、その機能に基づいてデータを入力するラベルまたはカテゴリを割り当てることを含む監督された学習タスクです。"
+    },
+    {
+        "word": "Regression",
+        "description": "Regression は、入力特性に基づいて継続的な数値を予測することを含む監督された学習タスクです。"
+    },
+    {
+        "word": "Clustering",
+        "description": "Clustering は、その特徴や機能に基づいて類似したデータポイントをグループ化することを含む監督されていない学習タスクです。"
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "description": "Dimensionality Reduction は、重要な情報を保持しながら入力機能の数を減らすためのテクニックです。"
+    },
+    {
+        "word": "Bias-Variance Tradeoff",
+        "description": "Bias-variance tradeoff は、新しい見えないデータ(偏見)について正確な予測を行うモデルの能力と、トレーニングデータの変動に対する敏感性(variance)との間のバランスです。"
+    },
+    {
+        "word": "Precision",
+        "description": "機械学習では、正確性は、正確に予測された肯定的なサンプルの合計予測された肯定的なサンプルの比率として定義される分類モデルの正確さの測定である。"
+    },
+    {
+        "word": "Recall",
+        "description": "Recall は、分類モデルのデータセット内のすべての関連インスタンスを見つける能力を測定するためのメトリックです。"
+    },
+    {
+        "word": "F1 Score",
+        "description": "F1スコアは、分類タスクにおける精度と回顧のバランスを測定するためのメトリックであり、精度と回顧の調和平均として計算されます。"
+    },
+    {
+        "word": "Confusion Matrix",
+        "description": "A confusion matrix is a table used to describe the performance of a classification model by comparing its predicted labels with the true labels of the test data. 混乱マトリックスは、予測されたラベルをテストデータの真のラベルと比較することによって分類モデルのパフォーマンスを記述するためのテーブルです。"
+    },
+    {
+        "word": "Roc Curve",
+        "description": "ROC Curve は、真のポジティブ率と偽のポジティブ率の対比率のグラフィック表示です。"
+    },
+    {
+        "word": "Auc-Roc",
+        "description": "AUC-ROC は ROC 曲線の下の領域であり、分類モデルのパフォーマンスの総合的な測定を提供します。"
+    },
+    {
+        "word": "Gradient Descent",
+        "description": "Gradient descent は、損失機能を最小化し、モデルのパラメータの最適な値を見つけるために使用される最適化アルゴリズムです。"
+    },
+    {
+        "word": "Backpropagation",
+        "description": "Backpropagationは、ネットワークの重量に関連して損失機能のグレディエントを計算することによってニューラルネットワークをトレーニングするための方法です。"
+    },
+    {
+        "word": "Batch Size",
+        "description": "Batch Size は、モデルトレーニング中に最適化アルゴリズムのそれぞれのイーテレーションで使用されるトレーニングサンプルの数を決定するハイパーパラメータです。"
+    },
+    {
+        "word": "Epoch",
+        "description": "機械学習では、Epochは、トレーニングプロセス中に全体のトレーニングデータセットをモデルを通して1回完全に渡すことを指します。"
+    },
+    {
+        "word": "Learning Rate",
+        "description": "学習率は、機械学習モデルがトレーニングデータから学ぶステップサイズまたは速度を制御するハイパーパラメータです。"
+    },
+    {
+        "word": "Activation Function",
+        "description": "活性化関数は、人工神経ネットワーク内のニューロンの出力に適用される数学的関数である。"
+    },
+    {
+        "word": "Dropout",
+        "description": "Dropoutは、トレーニング中にランダムに一部の神経細胞を無効にすることによって過剰装備を防ぐためにニューラルネットワークで使用される規則化技術です。"
+    },
+    {
+        "word": "Batch Normalization",
+        "description": "バッチ正常化は、トレーニングのパフォーマンスと安定性を向上させるためにニューラルネットワーク内の各層の入力を正常化するための技術です。"
+    },
+    {
+        "word": "Convolutional Neural Network",
+        "description": "Convolutional Neural Network (CNN) は、視覚データを分析するために特に効果的な人工ニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "description": "Recurrent Neural Network(RNN)は、内部メモリを使用して連続データを処理するために設計された人工ニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Long Short-Term Memory",
+        "description": "LSTM(Long Short-Term Memory)は、消滅傾向の問題を解決し、長期にわたって情報を保持することができる、繰り返しのニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Artificial Neural Network",
+        "description": "人工ニューラルネットワーク(ANN)は、生物学的ニューラルネットワークの構造と機能にインスピレーションを与えた計算モデルです。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当て、コンピュータが人間の言語を理解し、解釈し、生成することを可能にするAIのサブフィールドです。"
+    },
+    {
+        "word": "Transfer Learning",
+        "description": "転送学習は、事前訓練されたモデルが新しいタスクの出発点として使用される機械学習技術です。"
+    },
+    {
+        "word": "Generative Adversarial Networks",
+        "description": "Generative Adversarial Networks (GANs) は、現実的なデータを生成するために一緒に訓練された生成ネットワークと差別ネットワークの2つのコンポーネントで構成される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Hyperparameter",
+        "description": "ハイパーパラメーターは、トレーニングデータから直接学ぶものではなく、機械学習モデルをトレーニングする前に手動で設定されるパラメーターです。"
+    },
+    {
+        "word": "Grid Search",
+        "description": "Grid Search は、ハイパーパラメータスペースの特定のサブセットを徹底的に検索することで、機械学習モデルのハイパーパラメータ値の最適な組み合わせを見つけるためのテクニックです。"
+    },
+    {
+        "word": "Feature Scaling",
+        "description": "機能スケーリングは、入力機能の範囲と分布を正常化または標準化するプロセスであり、各機能が機械学習モデルに均等に貢献することを保証します。"
+    },
+    {
+        "word": "One-Hot Encoding",
+        "description": "One-hot encoding is a technique used to represent categorical variables as binary vectors or multiple binary variables. ワンホットエンコーディングは、バイナリーベクターまたは複数のバイナリー変数としてカテゴリ変数を表すために使用される技術です。"
+    },
+    {
+        "word": "Gradient Boosting",
+        "description": "Gradient Boostingは、複数の弱いモデルを1つの強力なモデルに組み合わせ、各モデルは前モデルの誤りから順序的に学ぶ。"
+    },
+    {
+        "word": "Xgboost",
+        "description": "XGBoost は、監督された学習タスクに広く使用される、最適化されたグレディエント増進機械学習ライブラリです。"
+    },
+    {
+        "word": "Random Forest",
+        "description": "ランダム森林は、複数の意思決定ツリーを組み合わせ、より強力で正確なモデルを作成する集合学習方法です。"
+    },
+    {
+        "word": "K-Nearest Neighbors",
+        "description": "K-nearest Neighbors (KNN) は、機能空間における K に最も近い訓練例の多数決に基づいて予測を行う非参数分類アルゴリズムです。"
+    },
+    {
+        "word": "Support Vector Machine",
+        "description": "サポートベクターマシン(SVM)は、異なるクラス間のマージンを最大化する最適なハイパーフランを見つけることでデータポイントを分離する監督学習アルゴリズムです。"
+    },
+    {
+        "word": "Principal Component Analysis",
+        "description": "Principal Component Analysis (PCA) は、高次元データを低次元空間に変換し、最も関連する情報を保存するために使用される次元減少技術です。"
+    },
+    {
+        "word": "Latent Dirichlet Allocation",
+        "description": "Latent Dirichlet Allocation (LDA) は、トピックモデリングに使用される確率生成モデルです。"
+    },
+    {
+        "word": "Bias Correction",
+        "description": "Bias Correction は、調整や訂正を適用することによってモデルの偏見を訂正するためのテクニックです。"
+    },
+    {
+        "word": "Bootstrapping",
+        "description": "Bootstrapping は、複数のトレーニングデータセットがオリジナルのデータセットから置き換えられたサンプリングによって作成される再サンプリングテクニックです。"
+    },
+    {
+        "word": "Bagging",
+        "description": "Baggingは、トレーニングデータの異なるランダムサブセットに複数のモデルをトレーニングし、予測を平均化することを含む集合学習技術です。"
+    },
+    {
+        "word": "Boosting",
+        "description": "Boosting は、モデルを連続的にトレーニングする集合学習技術であり、それぞれのモデルは、以前のモデルから誤って分類されたインスタンスにより多くの重要性を置く。"
+    },
+    {
+        "word": "Cost Function",
+        "description": "コスト関数は、機械学習モデルの予測された出力と実際の出力の間のエラーまたは差の測定です。"
+    },
+    {
+        "word": "Loss Function",
+        "description": "損失関数は、機械学習モデルが特定の入力の正しい結果を予測できる程度の測定です。"
+    },
+    {
+        "word": "Regularization",
+        "description": "Regularization は、損失関数に罰則用語を追加することによって機械学習モデルの過剰装備を防止するために使用される技術です。"
+    },
+    {
+        "word": "L1 Regularization",
+        "description": "L1規則化、ラッソ規則化とも呼ばれるL1規則化は、モデルの重量の少量性を奨励するために、損失機能に罰則用語を追加するために使用される技術です。"
+    },
+    {
+        "word": "L2 Regularization",
+        "description": "リッジ規則化とも呼ばれるL2規則化は、大きな重量値を防ぐために損失関数に罰則用語を追加するために使用される技術です。"
+    },
+    {
+        "word": "Early Stopping",
+        "description": "Early Stopping は、検証セット上の機械学習モデルのパフォーマンスを監視し、パフォーマンスが悪化し始めたときにトレーニングを停止することによって、過剰装備を防止するために使用されるテクニックです。"
+    },
+    {
+        "word": "Machine Learning",
+        "description": "機械学習は、コンピュータシステムが明示的なプログラミングなしに学習し、決定や予測を行うことを可能にするアルゴリズムや統計モデルの開発に焦点を当てた人工知能(AI)の分野です。"
+    },
+    {
+        "word": "Feature Engineering",
+        "description": "機能エンジニアリングは、原始データを機械学習アルゴリズムで使用できるフォーマットに変換するプロセスであり、しばしば新しい機能を作成することを含む。"
+    },
+    {
+        "word": "Data Preprocessing",
+        "description": "データの前処理は、機械学習における重要なステップであり、データのクリーニング、変換、トレーニングおよびテストのための準備を含みます。"
+    },
+    {
+        "word": "Training Data",
+        "description": "トレーニングデータは、入力データとそれに応じた出力値またはターゲット値からなる機械学習モデルをトレーニングするために使用されるデータの一部です。"
+    },
+    {
+        "word": "Testing Data",
+        "description": "テストデータは、機械学習モデルのパフォーマンスを評価し、その正確性と一般化能力を評価するために使用されるデータの一部です。"
+    },
+    {
+        "word": "Validation Data",
+        "description": "Validation Data は、機械学習モデルのハイパーパラメータを調節し、トレーニング中にそのパフォーマンスを評価するために使用されるデータの一部です。"
+    },
+    {
+        "word": "Accuracy",
+        "description": "精度は、機械学習モデルの予測の全体的な正確性を測るパフォーマンスメトリクスです。"
+    },
+    {
+        "word": "Support Vector Machines",
+        "description": "サポートベクターマシン(SVM)は、インスタンスを異なるクラスに分離する機械学習アルゴリズムで、可能な限り最良のハイパープランを見つけることができます。"
+    },
+    {
+        "word": "K-Means Clustering",
+        "description": "K-means clustering is a popular unsupervised learning algorithm used to partition a data set into K non-overlapping clusters based on the similarity of the data points. K-means clustering is a popular unsupervised learning algorithm used to partition a data set into K-non-overlapping clusters based on the similarity of the data points. K-means clustering is a popular unsupervised learning algorithm used to partition a data set into K-non-overlapping clusters based on the similarity of the data points."
+    },
+    {
+        "word": "Feature Importance",
+        "description": "機能の重要性は、機械学習モデルの予測における入力機能の関連性または貢献の測定です。"
+    },
+    {
+        "word": "Data Augmentation",
+        "description": "Data Augmentation は、既存のデータの変更されたバージョンを作成することによって、トレーニングデータセットのサイズを人工的に増やすために使用されるテクニックです。"
+    },
+    {
+        "word": "Autoencoder",
+        "description": "Autoencoder は、監督されていない学習と次元性の削減に使用される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Recommender System",
+        "description": "Recommender System は、ユーザーの好みや以前の相互作用に基づいてアイテムやコンテンツを予測し、提案する情報フィルタリングシステムです。"
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "タイムシリーズ分析は、継続的な時間の間隔で収集されたデータポイントや観測を分析し、予測することに焦点を当てている機械学習の分野です。"
+    },
+    {
+        "word": "Anomaly Detection",
+        "description": "Anomaly Detection は、データセットの正常な行動やパターンから大きく異なるインスタンスを識別する作業です。"
+    },
+    {
+        "word": "Optimization Algorithm",
+        "description": "最適化アルゴリズムは、機械学習モデルのパラメータに最適な値を見つけ、特定の損失機能を最小限に抑え、パフォーマンスを向上させるための方法です。"
+    },
+    {
+        "word": "Convolutional Neural Network (Cnn)",
+        "description": "Convolutional Neural Network (CNN) は、画像認識と処理に一般的に使用される神経ネットワークの一種です。"
+    },
+    {
+        "word": "Recurrent Neural Network (Rnn)",
+        "description": "Recurrent Neural Network (RNN) は、メモリの概念を使用して連続データを処理するように設計された神経ネットワークの一種です。"
+    },
+    {
+        "word": "Natural Language Processing (Nlp)",
+        "description": "自然言語処理(NLP)は、コンピュータと人間の言語の相互作用に焦点を当てるAIのサブフィールドです。"
+    },
+    {
+        "word": "Generative Adversarial Network (Gan)",
+        "description": "Generative Adversarial Network (GAN) は、生成型モデリングに使用される神経ネットワークアーキテクチャの一種です。"
+    },
+    {
+        "word": "Batch Gradient Descent",
+        "description": "Batch Gradient Descent は、トレーニングデータセット全体を一度に使用してモデルパラメータを更新するグレディエントダウンアルゴリズムの一種です。"
+    },
+    {
+        "word": "Stochastic Gradient Descent (Sgd)",
+        "description": "Stochastic Gradient Descent (SGD) は、トレーニングデータのランダムサブセットを使用してモデルパラメータを更新するグレードダウンアルゴリズムの一種です。"
+    },
+    {
+        "word": "Mini-Batch Gradient Descent",
+        "description": "Mini-batch Gradient Descent は、トレーニング データの小さなランダム バッチを使用してモデルパラメータを更新するグレディント ダウンアルゴリズムの一種です。"
+    },
+    {
+        "word": "L1 Regularization (Lasso)",
+        "description": "L1 規則化、Lasso とも呼ばれ、損失関数の絶対値の合計を損失関数に加える規則化技術です。"
+    },
+    {
+        "word": "L2 Regularization (Ridge)",
+        "description": "リッジとも呼ばれるL2規格化は、損失関数の平方値の合計を損失関数に加える規格化技術です。"
+    },
+    {
+        "word": "Support Vector Machine (Svm)",
+        "description": "サポートベクターマシン(SVM)は、分類や回帰タスクに使用できる監督学習アルゴリズムです。"
+    },
+    {
+        "word": "Kernel Function",
+        "description": "カーネル関数は、入力データをより高次元の空間に変換し、SVMの非線形分類を可能にする数学的関数です。"
+    },
+    {
+        "word": "Principal Component Analysis (Pca)",
+        "description": "Principal Component Analysis(PCA)は、データを低次元空間に投影することによって次元性を減らすために使用される技術です。"
+    },
+    {
+        "word": "Deployment",
+        "description": "デプロイは、訓練された機械学習モデルを生産に投入し、使用可能にするプロセスです。"
+    },
+    {
+        "word": "Model Evaluation",
+        "description": "モデル評価は、目に見えないデータで訓練された機械学習モデルのパフォーマンスを評価するプロセスです。"
+    },
+    {
+        "word": "Precision-Recall Curve",
+        "description": "Precision-Recall Curve は、異なる分類値の下で分類モデルのパフォーマンスのグラフィカルな表示です。"
+    },
+    {
+        "word": "Receiver Operating Characteristic (Roc) Curve",
+        "description": "ROC (Receiver Operating Characteristic) Curve は、異なる分類値の下で分類モデルのパフォーマンスをグラフィカルに表します。"
+    },
+    {
+        "word": "Area Under The Curve (Auc)",
+        "description": "The Area Under the Curve (AUC) は、ROC 曲線の下の領域を測定することによって分類モデルのパフォーマンスを評価するためのメトリックです。"
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "分散型コンピューティングは、複数のコンピュータやサーバーを使用して複雑な問題を解決したり、大量のデータを処理したりすることを指します。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して簡単に管理、処理、分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、AIアルゴリズムなどのコンピューティングサービスをインターネットを通じて提供することを指します。"
+    },
+    {
+        "word": "Deep Reinforcement Learning",
+        "description": "Deep Reinforcement Learningは、深い学習と強化学習の組み合わせであり、神経ネットワークが複雑な政策を学ぶために使用される。"
+    },
+    {
+        "word": "Automl",
+        "description": "AutoML、または自動機械学習は、AIアルゴリズムを使用して、人間の介入なしに機械学習モデルを自動的に構築し、最適化することを指します。"
+    },
+    {
+        "word": "Algorithm",
+        "description": "アルゴリズムは、特定の問題を解決するか、あるいは特定のタスクを実行するために設計されたステップごとに実行される手順またはルールのセットです。"
+    },
+    {
+        "word": "Decision Tree",
+        "description": "意思決定ツリーは、意思決定や意思決定プロセスをモデル化し分析するために使用されるフローチャートのような構造です。"
+    },
+    {
+        "word": "Inference",
+        "description": "機械学習では、推論は、訓練されたモデルを使用して、新しい、目に見えないデータに関する予測や決定を行うプロセスを指します。"
+    },
+    {
+        "word": "Logistic Regression",
+        "description": "Logistic regression is a statistical model used to predict the probability of a binary or categorical outcome based on one or more independent variables. 論理的回帰は、1つまたは複数の独立した変数に基づいてバイナリまたはカテゴリ的結果の確率を予測するために使用される統計モデルである。"
+    },
+    {
+        "word": "Sigmoid",
+        "description": "シグモイド関数は、実数を0から1の間の値にマップする数学的関数です。"
+    },
+    {
+        "word": "Svm",
+        "description": "サポートベクターマシン(SVMs)は、分類および回帰タスクのための一般的な機械学習方法です。"
+    },
+    {
+        "word": "Tensor",
+        "description": "機械学習では、テンサーは、スカラル、ベクトル、マトリックスの一般化である数学的オブジェクトであり、多次元の数列を表すために使用されます。"
+    },
+    {
+        "word": "Training Set",
+        "description": "機械学習では、トレーニングセットは、提供された入力と出力の例に基づいてそのパラメータを調整することによって機械学習モデルのトレーニングに使用されるデータのサブセットです。"
+    },
+    {
+        "word": "Validation Set",
+        "description": "機械学習では、検証セットは、訓練されたモデルのパフォーマンスを評価し、そのハイパーパラメータを調節するために使用されるデータのサブセットです。"
+    },
+    {
+        "word": "Zero-Padding",
+        "description": "Zero-padding は、序列の開始または終了にゼロを追加することによって入力のサイズを増やすためのテクニックです。"
+    },
+    {
+        "word": "Exploratory Data Analysis",
+        "description": "EDA(Exploratory Data Analysis)は、データセットの主な特徴を分析し、概要し、洞察を獲得し、明確な決定を下すためのアプローチです。"
+    },
+    {
+        "word": "Gaussian Distribution",
+        "description": "ガウシア分布は、通常分布または鐘曲線とも呼ばれ、統計学や機械学習に使用される共通の連続確率分布です。"
+    },
+    {
+        "word": "Hypothesis Testing",
+        "description": "仮説テストは、データサンプルに基づいて推論や結論を下すために使用される統計的方法です。"
+    },
+    {
+        "word": "Imputation",
+        "description": "Imputation は、データセット内の利用可能な情報に基づく推定値で欠けているデータ値を記入するプロセスです。"
+    },
+    {
+        "word": "Min-Max Scaling",
+        "description": "Min-max scaling は、データセットの特性を固定範囲に、通常 0 から 1 までの範囲に正常化するために使用されるテクニックです。"
+    },
+    {
+        "word": "Nlp",
+        "description": "自然言語処理(NLP)は、自然言語を通じてコンピュータと人間の相互作用に焦点を当てる人工知能の分野です。"
+    },
+    {
+        "word": "Pca",
+        "description": "Principal Component Analysis (PCA) は、高次元データを低次元表示に変換するために使用される次元減少技術です。"
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "description": "半監督学習は、ラベル化されたデータとラベル化されていないデータを組み合わせた機械学習アプローチで、モデルのパフォーマンスを向上させる。"
+    },
+    {
+        "word": "Word Embedding",
+        "description": "Word embedding is a technique used to represent words or phrases as numerical vectors in a high-dimensional space, allowing for the analysis and processing of text data. Word embeddingは、テキストデータの分析と処理を可能にする高次元空間で単語やフレーズを数的ベクターとして表現するための技術です。"
+    },
+    {
+        "word": "X-Axis",
+        "description": "X軸は、座標システムの水平軸であり、独立した変数または予測器を表すために使用される。"
+    },
+    {
+        "word": "Y-Axis",
+        "description": "y軸は、座標システム内の垂直軸であり、依存変数または反応を表すために使用される。"
+    }
+]

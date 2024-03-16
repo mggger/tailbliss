@@ -1,0 +1,478 @@
+[
+    {
+        "word": "Edge Computing",
+        "description": "エッジコンピューティングは、データ源またはユーザーにコンピューティングリソースをより近づけてリアルタイムの処理と遅延を向上させる分散型コンピューティングパラダイムです。"
+    },
+    {
+        "word": "Latency",
+        "description": "遅延とは、システムの入力と出力の間の時間遅れを指し、しばしばデータのパケットが一つの点から別の点に移動するのにかかる時間として測定される。"
+    },
+    {
+        "word": "Bandwidth",
+        "description": "帯域幅とは、ネットワーク接続を介して一定の時間内に送信できる最大量のデータを指し、通常、1秒あたりのビットまたはバイトで測定する。"
+    },
+    {
+        "word": "Edge Devices",
+        "description": "Edge デバイスは、ネットワークエッジに位置するデバイスで、データを収集、処理、クラウドまたはその他のデバイスから送信します。"
+    },
+    {
+        "word": "Cloud Computing",
+        "description": "クラウドコンピューティングは、ストレージ、処理パワー、およびソフトウェアアプリケーションを含む、インターネットを通じてリソースを提供するためのモデルです。"
+    },
+    {
+        "word": "Fog Computing",
+        "description": "霧コンピューティングは、クラウドコンピューティング機能をネットワークの端まで拡張し、データ源に近い効率的なデータ処理とストレージを可能にします。"
+    },
+    {
+        "word": "Internet Of Things (Iot)",
+        "description": "物のインターネットは、センサー、ソフトウェア、および接続性で組み込まれた物理的な物体のネットワークで、データの交換を可能にします。"
+    },
+    {
+        "word": "Data Localization",
+        "description": "データローカライゼーションとは、データを特定の地理的場所内に保存し、処理する慣行を指し、通常はデータ保護およびプライバシー法に準拠するためです。"
+    },
+    {
+        "word": "Distributed Computing",
+        "description": "分散コンピューティングは、コンピューティングタスクがネットワークを介して接続された複数のコンピュータによって分割され、実行されるモデルです。"
+    },
+    {
+        "word": "Containerization",
+        "description": "コンテナ化は、アプリケーションとその依存性をパッケージ化し、さまざまなコンピューティング環境で一貫して実行することを可能にするOSレベルの仮想化方法です。"
+    },
+    {
+        "word": "Microservices",
+        "description": "マイクロサービスは、アプリケーションを独立して開発、展開、スケーリングできる小さな、ゆるやかに結合されたサービスの集合として構成するアーキテクチャのスタイルです。"
+    },
+    {
+        "word": "Artificial Intelligence (Ai)",
+        "description": "人工知能は、機械における人間の知能のシミュレーションを指し、通常、人間の知能を必要とするタスクを実行することを可能にします。"
+    },
+    {
+        "word": "Machine Learning (Ml)",
+        "description": "機械学習は、機械がデータから学び、明示的にプログラミングされずに自動的にパフォーマンスを向上させることに焦点を当てているAIのサブセットです。"
+    },
+    {
+        "word": "Deep Learning",
+        "description": "Deep Learningは、複数の層を持つ人工ニューラルネットワークを使用して、データ内の複雑なパターンをモデル化し、分析するMLのサブフィールドです。"
+    },
+    {
+        "word": "Real-Time Analytics",
+        "description": "リアルタイムアナリティクスは、リアルタイムまたはほぼリアルタイムでデータから洞察を分析し、抽出するプロセスです Edge Computingは、データをソースに近づけて処理し、遅延を減らすことでリアルタイムの分析を可能にします。"
+    },
+    {
+        "word": "Data Offloading",
+        "description": "Data Offloading は、データをローカルデバイスまたはエッジノードからリモートロケーションに転送する実践であり、通常はローカルストレージおよび処理要件を削減するためです。"
+    },
+    {
+        "word": "Edge Intelligence",
+        "description": "エッジインテリジェンスとは、エッジデバイスのインテリジェントなデータ処理と分析をローカルに実行する能力を指し、クラウドベースのサービスに依存しない。"
+    },
+    {
+        "word": "Edge-To-Cloud Continuum",
+        "description": "Edge-to-Cloud Continuum は、エッジ デバイスからクラウド インフラストラクチャまで、データを処理し分析するために共同作業するコンピューティング リソースのスペクトルを指します。"
+    },
+    {
+        "word": "Edge Gateway",
+        "description": "Edge Gatewayは、エッジデバイスと中央ネットワークまたはクラウドの間の橋として機能し、データ転送と通信を可能にするデバイスまたはソフトウェアコンポーネントです。"
+    },
+    {
+        "word": "Edge Orchestration",
+        "description": "Edge Orchestrationは、エッジコンピューティングインフラストラクチャの効率的かつ最適化された運用を確保するために、複数のエッジデバイスとリソースの調整と管理を指します。"
+    },
+    {
+        "word": "Edge Analytics",
+        "description": "Edge Analytics は、ネットワークの端に位置し、データが生成された場所に近いデータを分析し、クラウドベースの処理に依存せずにリアルタイムで洞察を得ることを意味します。"
+    },
+    {
+        "word": "Edge Database",
+        "description": "エッジデータベースは、エッジデバイスで実行するように設計されたデータベースシステムで、中央サーバーへの永続的な接続なしでデータのローカルストレージ、処理、分析を可能にします。"
+    },
+    {
+        "word": "Edge Security",
+        "description": "Edge Security には、エッジ デバイス、ネットワーク、およびデータを不正アクセス、攻撃、侵害から保護するための一連の措置とテクノロジーが含まれています。"
+    },
+    {
+        "word": "Edge Ai Chip",
+        "description": "Edge AI チップは、AI プロセッサまたはニューラル プロセッサ ユニット (NPU) とも呼ばれ、エッジで AI と ML のワークロードを加速するように設計された専門のハードウェアコンポーネントです。"
+    },
+    {
+        "word": "Edge-As-A-Service (Eaas)",
+        "description": "Edge-as-a-Service は、エッジコンピューティングリソースとサービスを需要に応じて提供するモデルであり、クラウドコンピューティングの概念に似ています。"
+    },
+    {
+        "word": "Edge Workload",
+        "description": "Edge Workload は、ネットワークのエッジで、データソースに近い場所で実行されるタスク、アプリケーション、またはワークロードを指します。"
+    },
+    {
+        "word": "Edge Data Center",
+        "description": "Edge Data Center は、コンピューティング、ストレージ、ネットワークリソースを最適化し、低遅延処理とローカルデータストレージを提供する機能です。"
+    },
+    {
+        "word": "Edge Intelligence Software",
+        "description": "Edge Intelligence Software は、エッジコンピューティングを可能にするために特別に設計されたソフトウェアアプリケーションとプラットフォームを指します. It includes tools, frameworks, and libraries that facilitate the development, deployment, and management of edge applications."
+    },
+    {
+        "word": "Edge-Native Application",
+        "description": "Edge-native Application は、エッジ コンピューティング リソースで実行するように設計および最適化されたアプリケーションで、データ ソースの近さとエッジ デバイスの機能を完全に活用します。"
+    },
+    {
+        "word": "Edge-To-Edge Communication",
+        "description": "Edge-to-Edge Communication は、エッジコンピューティングインフラストラクチャ内のエッジデバイスまたはノード間の直接通信を指します。It enables data sharing, coordination, and collaborative processing between neighboring edge resources."
+    },
+    {
+        "word": "Edge Monitoring",
+        "description": "Edge Monitoring は、エッジ デバイスおよびリソースのパフォーマンス、健康、状態に関するデータを継続的に監視し、収集するプロセスであり、エッジ インフラストラクチャの積極的なメンテナンス、トラブルシューティング、および最適化を可能にします。"
+    },
+    {
+        "word": "Edge Scalability",
+        "description": "Edge Scalabilityは、エッジコンピューティングインフラストラクチャが、パフォーマンスと信頼性を維持しながら、エッジデバイス、ユーザー、およびワークロードの増加を効率的に処理する能力を指します。"
+    },
+    {
+        "word": "Edge Robustness",
+        "description": "Edge Robustness は、エッジコンピューティングシステムが故障、障害、または不利な条件から回復し、継続的な運用と可用性を確保するための耐久性と能力を指します。"
+    },
+    {
+        "word": "Autonomous Edge",
+        "description": "Autonomous Edgeとは、スマートな意思決定を下し、変化する状況に適応し、常に人間の介入やクラウド接続に頼ることなく、タスクを自動的に実行できるエッジコンピューティング環境またはデバイスを指します。"
+    },
+    {
+        "word": "Edge-As-A-Platform (Eaap)",
+        "description": "Edge-as-a-Platform (EaaP) は、エッジコンピューティングのプラットフォームベースのアプローチで、エッジアプリケーションの開発、展開、管理のための標準化されたツール、サービス、API を提供します。"
+    },
+    {
+        "word": "Edge Data Science",
+        "description": "Edge Data Science は、データ分析、モデリング、予測などのデータサイエンス技術をネットワークの端に適用することを指します. It enables real-time insights and decision making without requiring data to be sent to the cloud."
+    },
+    {
+        "word": "Edge-To-Edge Security",
+        "description": "Edge-to-Edge Securityは、エッジコンピューティングインフラストラクチャ内のエッジデバイス、ノード、またはシステム間の安全な通信とデータ交換を確保するために使用されるメカニズムとプロトコルを指します。"
+    },
+    {
+        "word": "Edge Robotics",
+        "description": "Edge Roboticsは、ネットワークの端にロボットシステムやアプリケーションを展開し、自主的なナビゲーション、リアルタイムの意思決定、コラボレーションロボットを可能にします。"
+    },
+    {
+        "word": "Edge Video Analytics",
+        "description": "Edge Video Analytics は、ネットワークのエッジでリアルタイムでビデオデータから洞察を分析し、抽出するプロセスで、監視、オブジェクト検出、顔認識、およびインテリジェントなビデオ処理などのアプリケーションを可能にします。"
+    },
+    {
+        "word": "Edge Natural Language Processing (Nlp)",
+        "description": "エッジ自然言語処理(NLP)とは、ネットワークのエッジで自然言語のテキストやスピーチを処理し、理解し、生成する能力を指します。"
+    },
+    {
+        "word": "Mobile Edge Computing (Mec)",
+        "description": "Mobile Edge Computing(MEC)は、コンピューティング、ストレージ、およびネットワークリソースをモバイルネットワークユーザーまたはデバイスに近づけるネットワークアーキテクチャで、遅延を削減し、パフォーマンスを向上させ、新しいエッジベースのサービスを可能にします。"
+    },
+    {
+        "word": "Edge Virtualization",
+        "description": "Edge Virtualization は、サーバー、ストレージ、ネットワークなどのコンピューティングリソースの仮想インスタンスをネットワークエッジで作成するプロセスで、複数のエッジデバイス間でリソースを柔軟かつスケーラブルに割り当てることを可能にします。"
+    },
+    {
+        "word": "Edge Synchronization",
+        "description": "Edge Synchronization は、エッジ デバイスと中央データ センターまたはクラウドで一貫した最新のデータを確保するプロセスを指します。"
+    },
+    {
+        "word": "Edge Software-Defined Networking (Sdn)",
+        "description": "Edge Software-Defined Networking(SDN)は、エッジネットワークにSDNの原則を適用するアプローチで、エッジコンピューティング環境におけるネットワーク管理、プログラミング性、およびダイナミックなリソース割り当てを集中的に可能にします。"
+    },
+    {
+        "word": "Edge Infrastructure-As-A-Service (Iaas)",
+        "description": "Edge Infrastructure-as-a-Service (IaaS) は、ネットワークのエッジで仮想化されたコンピューティング、ストレージ、ネットワークリソースを提供するサービスモデルであり、エッジインフラストラクチャの迅速な展開とスケーリングを可能にします。"
+    },
+    {
+        "word": "Edge Platform-As-A-Service (Paas)",
+        "description": "Edge Platform-as-a-Service(PaaS)は、エッジアプリケーションとサービスの開発、展開、管理のためのプラットフォームを提供するサービスモデルです。"
+    },
+    {
+        "word": "Edge Function-As-A-Service (Faas)",
+        "description": "Edge Function-as-a-Service (FaaS) は、ネットワークのエッジで個々の機能やコードのスニップを展開および実行するためのサーバーレスコンピューティングモデルで、イベント駆動、スケーラブル、コスト効率的なエッジコンピューティングを可能にします。"
+    },
+    {
+        "word": "Edge Machine-To-Machine (M2M) Communication",
+        "description": "Edge Machine-to-Machine (M2M) コミュニケーションは、エッジ コンピューティング インフラストラクチャ内のエッジ デバイス間の直接通信またはノード ノード コミュニケーションを指します。"
+    },
+    {
+        "word": "Edge Compliance",
+        "description": "エッジコンプライアンスとは、エッジコンピューティングインフラストラクチャの展開と運用において、関連する規制、基準、および最良の実践を遵守することを意味し、データのプライバシー、セキュリティ、および法的遵守を保証します。"
+    },
+    {
+        "word": "Edge Disaster Recovery",
+        "description": "Edge Disaster Recovery は、エッジで災害やエラーが発生した場合にビジネス継続性とデータ回復を確保するために実装された戦略とプロセスを指します。"
+    },
+    {
+        "word": "Edge Networking",
+        "description": "エッジネットワークとは、エッジデバイス、ゲートウェイ、および中央ネットワークまたはクラウド間の通信を確立および管理するために使用されるネットワークインフラストラクチャ、プロトコル、およびテクノロジを指します。"
+    },
+    {
+        "word": "Edge Data Privacy",
+        "description": "エッジデータプライバシーとは、ネットワークのエッジにあるデータの機密性、完全性、アクセシビリティの保護を意味し、プライバシーを向上させる技術、暗号化、アクセス制御メカニズムの実装を含む。"
+    },
+    {
+        "word": "Edge Adaptable Applications",
+        "description": "Edge Adaptable Applications は、現在のエッジコンピューティング環境および条件に基づいて行動およびリソースを動的に調整できるアプリケーションです。"
+    },
+    {
+        "word": "Edge Virtual Private Network (Vpn)",
+        "description": "Edge Virtual Private Network (VPN) は、公共のネットワークインフラストラクチャを介して確立されたセキュアなネットワーク接続で、エッジデバイスが中央ネットワークまたはクラウドに安全に接続することができます。"
+    },
+    {
+        "word": "Edge Cognitive Computing",
+        "description": "Edge Cognitive Computing は、自然言語処理やパターン認識などの認知コンピューティング技術をエッジコンピューティングと組み合わせ、エッジコンピューティングとを組み合わせ、エッジコンピューティングでインテリジェントな処理と意思決定を実現します。"
+    },
+    {
+        "word": "Edge Streaming Analytics",
+        "description": "Edge Streaming Analytics は、ネットワークの端に生成されるデータストリームのリアルタイム分析であり、リアルタイムで継続的なデータストリームから有意義な洞察を処理し抽出することを含みます。"
+    },
+    {
+        "word": "Edge Resource Management",
+        "description": "Edge Resource Managementは、エッジコンピューティング環境における処理力、ストレージ、帯域幅などのコンピューティングリソースのダイナミックな割り当てと利用を指します。"
+    },
+    {
+        "word": "Edge-Based Machine Learning Inference",
+        "description": "Edge-Based Machine Learning Inference は、ネットワークのエッジで ML モデルの推測、予測、または分類のタスクを実行することを指します。"
+    },
+    {
+        "word": "Edge Regulatory Compliance",
+        "description": "Edge Regulatory Complianceとは、エッジコンピューティングインフラストラクチャの展開と運用における業界特有の規制およびコンプライアンス要件の遵守を指します。"
+    },
+    {
+        "word": "Edge Fault Tolerance",
+        "description": "Edge Fault Toleranceは、エッジコンピューティングシステムがハードウェア、ソフトウェア、またはネットワークコンポーネントの故障、エラー、または故障から抵抗し、回復する能力です。"
+    },
+    {
+        "word": "Edge Blockchain",
+        "description": "Edge Blockchainは、ネットワークのエッジで分散型でセキュアなデータストレージ、検証、およびトランザクション処理を可能にする分散型リーガーテクノロジです。"
+    },
+    {
+        "word": "Edge Quantum Computing",
+        "description": "Edge Quantum Computingは、ネットワークのエッジで量子コンピューティングのリソースを展開し、利用することを含み、エッジ特有のアプリケーションのためにクビットや量子アルゴリズムなどの量子コンピューティングのユニークな能力を活用します。"
+    },
+    {
+        "word": "Edge Distributed Ledger",
+        "description": "Edge Distributed Ledger は、複数のエッジ デバイスまたはノードを介してデータを記録および同期するための分散型および分散型システムです。"
+    },
+    {
+        "word": "Edge Augmented Reality (Ar)",
+        "description": "Edge Augmented Reality (AR) は、デジタル情報または仮想オブジェクトをネットワークのエッジにある現実世界の環境に覆い、エッジデバイス上でリアルタイムでインタラクティブな AR 体験を可能にします。"
+    },
+    {
+        "word": "Edge Virtual Reality (Vr)",
+        "description": "Edge Virtual Reality (VR) は、ネットワークのエッジでシミュレートまたは仮想環境を作成し、エッジデバイスで浸透し、インタラクティブな VR 体験を提供し、遅延を減らし、ユーザーの関わりを高めます。"
+    },
+    {
+        "word": "Edge Knowledge Graphs",
+        "description": "Edge Knowledge Graphs は、エッジ ネットワークのエッジにある構造的で相互接続された知識と情報を表し、エッジ アプリケーションにおけるインテリジェントな推論、推論、意思決定を可能にします。"
+    },
+    {
+        "word": "Edge Natural User Interfaces (Nui)",
+        "description": "Edge Natural User Interfaces(NUI)は、ユーザーがエッジデバイスやアプリケーションと自然で直感的な方法、例えば音声コマンド、ジェスチャー、または目の動きを用いて相互作用することを可能にします。"
+    },
+    {
+        "word": "Edge Predictive Maintenance",
+        "description": "Edge Predictive Maintenance では、データ分析と最先端の ML アルゴリズムを使用して、機器の故障や故障を予測し、予防します。"
+    },
+    {
+        "word": "Edge Adaptive Security",
+        "description": "Edge Adaptive Securityは、変化するエッジコンピューティング環境、脅威、デバイス特性にダイナミックに適応するセキュリティアプローチで、AI、ML、および異常検出技術を使用してセキュリティ脅威を検出し、対応します。"
+    },
+    {
+        "word": "Edge Supply Chain Management",
+        "description": "Edge Supply Chain Managementは、エッジコンピューティング、IoTデバイス、およびデータ分析を使用して、サプライチェーン操作を最適化し、簡素化します。"
+    },
+    {
+        "word": "Edge Precision Agriculture",
+        "description": "Edge Precision Agricultureは、エッジデバイス、センサー、データ分析を活用して、農業慣行、作物の収穫、資源の利用を最適化します。"
+    },
+    {
+        "word": "Edge Smart Cities",
+        "description": "Edge Smart Citiesは、エッジコンピューティング、IoT、およびデータアナリティクスを活用して、都市エリアの効率性、持続可能性、生活可能性を向上させ、交通、エネルギー、公共の安全などのさまざまな分野におけるスマートモニタリング、管理、サービスを可能にします。"
+    },
+    {
+        "word": "Edge Healthcare",
+        "description": "Edge Healthcareは、エッジコンピューティング、IoTデバイス、データ分析を活用して、リアルタイムのモニタリング、リモート患者ケア、パーソナライズされた医療サービスを可能にします。"
+    },
+    {
+        "word": "Edge Retail",
+        "description": "Edge Retailは、エッジコンピューティング、IoTデバイス、およびデータ分析を使用して、小売業務、顧客体験、およびサプライチェーン管理を最適化します。"
+    },
+    {
+        "word": "Edge Manufacturing",
+        "description": "Edge Manufacturing では、エッジコンピューティング、IoT デバイス、およびデータ分析を使用して、製造プロセスを最適化し、効率性を向上させ、予測的なメンテナンスを可能にします。"
+    },
+    {
+        "word": "Edge Energy",
+        "description": "Edge Energyはエッジコンピューティング、IoT、データ分析を活用してエネルギー生産、配布、消費を最適化し、スマートグリッドや再生可能エネルギーシステムにおけるリアルタイムモニタリング、予測メンテナンス、エネルギー効率を可能にします。"
+    },
+    {
+        "word": "Real-Time Processing",
+        "description": "リアルタイム処理とは、生成されたデータに対する即時またはほぼ即時的な分析と応答を指します。"
+    },
+    {
+        "word": "Cloud Service Provider",
+        "description": "クラウドサービスプロバイダーは、インフラストラクチャ、プラットフォーム、ソフトウェアを含むさまざまなクラウドベースのサービスを個人や組織に提供する企業です。"
+    },
+    {
+        "word": "Data Analytics",
+        "description": "Data Analyticsは、パターンを発見し、結論を出し、データベースの意思決定を下すために、原始データを調べるプロセスです。"
+    },
+    {
+        "word": "Big Data",
+        "description": "ビッグデータとは、伝統的なデータ処理技術を使用して簡単に管理、処理、分析できない非常に大きな複雑なデータセットを指します。"
+    },
+    {
+        "word": "5G",
+        "description": "5Gは第5世代の携帯電話ネットワーク技術であり、より高速な速度、より低い遅延、および無線通信のためのより大きな容量を提供しています。"
+    },
+    {
+        "word": "Virtualization",
+        "description": "仮想化は、ソフトウェアを使用して、サーバー、ストレージデバイス、ネットワーク、またはオペレーティングシステムなどの何かの仮想バージョンを作成するプロセスです。"
+    },
+    {
+        "word": "Microcontrollers",
+        "description": "マイクロコントローラは、デバイスの特定の機能を制御するために設計された単一の統合回路上の小さな、自立したコンピュータシステムです。"
+    },
+    {
+        "word": "Cybersecurity",
+        "description": "サイバーセキュリティは、デジタルシステム、ネットワーク、およびデータを不正アクセス、使用、開示、妨害、または破壊から保護する実践です。"
+    },
+    {
+        "word": "Remote Monitoring",
+        "description": "Remote Monitoring is the process of monitoring and collecting data from a system or device located at a distance, typically through the use of sensors and communication technologies."
+    },
+    {
+        "word": "Mesh Networking",
+        "description": "Mesh Networkingは、ネットワーク内の各デバイスが他のすべてのデバイスと直接通信できるネットワークトポロジーであり、自己癒しとより良いカバーを可能にします。"
+    },
+    {
+        "word": "Low Power Wide Area (Lpwa)",
+        "description": "Low Power Wide Areaは、低帯域幅、低消費電力の長距離アプリケーション向けに設計されたワイヤレス通信ネットワーク技術です。"
+    },
+    {
+        "word": "Data Privacy",
+        "description": "データプライバシーとは、個人の個人情報を保護し、プライバシーの権利を尊重する方法で収集、保存、使用することを保証することです。"
+    },
+    {
+        "word": "Edge-To-Edge Computing",
+        "description": "Edge-to-Edge Computingは、複数のエッジロケーションでデータを分散的に処理し、分析し、より迅速な応答時間を可能にし、集中型クラウドインフラストラクチャへの依存度を減らします。"
+    },
+    {
+        "word": "Digital Twin",
+        "description": "デジタルツインは、物理的エンティティ、プロセス、またはシステムの仮想レプリカであり、モニタリング、シミュレーション、および現実世界の同僚の最適化に使用することができます。"
+    },
+    {
+        "word": "Augmented Reality (Ar)",
+        "description": "Augmented Realityは、コンピュータによって生成された感覚情報と現実の要素を組み合わせたインタラクティブな体験で、現実の感覚を向上させます。"
+    },
+    {
+        "word": "Virtual Reality (Vr)",
+        "description": "仮想現実は、実際の世界と類似するか、または完全に異なる可能性のあるシミュレート体験であり、通常は頭部に配置されたディスプレイを通じて体験されます。"
+    },
+    {
+        "word": "Cloud Orchestration",
+        "description": "Cloud Orchestrationは、さまざまなクラウドリソースとサービスの自動化と調整で、アプリケーションの効率的な展開、管理、スケーラビリティを確保します。"
+    },
+    {
+        "word": "Serverless Computing",
+        "description": "サーバーレスコンピューティングは、ベースのサーバーインフラストラクチャを管理することなくアプリケーションを実行するためのモデルであり、開発者がコードを書くことに集中できるようにします。"
+    },
+    {
+        "word": "Blockchain",
+        "description": "ブロックチェーンは、複数のコンピュータ間のトランザクションを記録し、透明性、セキュリティ、不変性を提供するために使用される分散型、分散型帳簿技術です。"
+    },
+    {
+        "word": "Data Fusion",
+        "description": "Data Fusion は、複数のソースからのデータを統合し、有意義な洞察を抽出するための単一で一貫したデータセットに統合するプロセスです。"
+    },
+    {
+        "word": "Predictive Analytics",
+        "description": "予測分析とは、過去のデータと統計技術を用いて、将来の結果や行動を予測し、積極的な意思決定を行うことを可能にする。"
+    },
+    {
+        "word": "Data Stream Processing",
+        "description": "データストリーム処理は、データストリームのリアルタイム処理であり、高速データから継続的な分析と洞察を抽出することができます。"
+    },
+    {
+        "word": "Digital Transformation",
+        "description": "デジタル変革とは、デジタルテクノロジーをビジネスのあらゆる分野に統合し、ビジネスがどのように機能し、顧客に価値を提供するかを根本的に変えることです。"
+    },
+    {
+        "word": "Data Compression",
+        "description": "データ圧縮は、データのサイズを減らし、ストレージスペースを節約し、帯域幅の使用を最小限に抑え、転送速度を上げるプロセスです。"
+    },
+    {
+        "word": "Distributed Ledger",
+        "description": "Distributed Ledger は、複数のサイト、国、または機関に広がり、透明性、不変性、分散性を提供するデジタルレコードまたはデータベースです。"
+    },
+    {
+        "word": "Stream Processing",
+        "description": "Stream Processingは、データストリームをリアルタイムで処理および分析し、即時的な洞察と行動を可能にするコンピューティングパラダイムです。"
+    },
+    {
+        "word": "Sensor Networks",
+        "description": "センサーネットワークは、物理的または環境条件に関するデータを収集および送信する相互接続されたセンサーで構成され、さまざまなシステムの監視および制御を可能にします。"
+    },
+    {
+        "word": "Digital Edge",
+        "description": "デジタルエッジは、物理的物体、デバイス、およびセンサーがデジタルシステムとつながり、相互作用する物理的世界との境界を指します。"
+    },
+    {
+        "word": "Time Series Analysis",
+        "description": "Time Series Analysis は、パターン、トレンド、および異常を特定するために定期的に収集されたデータを分析およびモデリングする統計技術です。"
+    },
+    {
+        "word": "Device Management",
+        "description": "デバイス管理は、デバイスのモニタリング、構成、制御を含み、正しく、安全に動作し、効率的なデータ転送を確保します。"
+    },
+    {
+        "word": "Data Governance",
+        "description": "Data Governanceは、データの品質、セキュリティ、プライバシー、規制およびポリシーの遵守を含むデータ資産を管理するための枠組みとプロセスです。"
+    },
+    {
+        "word": "Digital Infrastructure",
+        "description": "デジタルインフラストラクチャとは、デジタルサービスや操作をサポートし、可能にする技術、ネットワーク、通信システムの基礎を指します。"
+    },
+    {
+        "word": "Service Level Agreement (Sla)",
+        "description": "サービスレベル契約は、サービスプロバイダーと顧客との間の契約で、サービス、パフォーマンス、および可用性の合意されたレベルを定義します。"
+    },
+    {
+        "word": "Data Center",
+        "description": "データセンターは、サーバー、ストレージ装置、ネットワーク装置、および関連するコンポーネントを含むコンピューティングリソースを収容する物理的な施設です。"
+    },
+    {
+        "word": "Local Area Network (Lan)",
+        "description": "ローカルエリアネットワークは、家庭、オフィス、または建物などの限られた地理的領域内のコンピュータやデバイスを接続するネットワークです。"
+    },
+    {
+        "word": "Wide Area Network (Wan)",
+        "description": "広域ネットワークは、広範囲の地理的領域をカバーし、さまざまな通信技術を使用して、複数の場所にわたってコンピュータやデバイスを接続するネットワークです。"
+    },
+    {
+        "word": "Failover",
+        "description": "Failover は、失敗したまたはオフラインのシステムまたはコンポーネントからバックアップまたは過剰なシステムに切り替えるプロセスで、サービスの継続的な可用性と信頼性を確保します。"
+    },
+    {
+        "word": "High Availability",
+        "description": "高可用性とは、継続的に動作し、アクセス可能なシステムまたはサービスを指し、最小限のダウンタイムと、故障から迅速に回復する能力を有する。"
+    },
+    {
+        "word": "Metadata",
+        "description": "メタデータとは、その他のデータの構造、フォーマット、コンテンツ、位置、その他の属性などの情報を提供するデータです。"
+    },
+    {
+        "word": "Load Balancing",
+        "description": "Load Balancingは、複数のサーバーやデバイスにネットワークトラフィックを配布し、リソースの利用を最適化し、パフォーマンスを最大化し、応答時間を最小化するプロセスです。"
+    },
+    {
+        "word": "Over-The-Air (Ota)",
+        "description": "Over-the-Airとは、デバイスやシステムへのデータ、ソフトウェア、またはアップデートの無線転送を意味し、物理的な接続や手動の介入を必要としません。"
+    },
+    {
+        "word": "Endpoint",
+        "description": "エンドポイントとは、データが送信または受信されるネットワークまたは通信チャンネル内のエンドポイントとして機能するデバイスまたはソフトウェアアプリケーションを指します。"
+    },
+    {
+        "word": "Zero Trust",
+        "description": "Zero Trust は、ユーザーやデバイスを信頼しないサイバーセキュリティのアプローチで、アイデンティティの検証、厳格なアクセス制御、継続的な権限監視が必要です。"
+    }
+]
