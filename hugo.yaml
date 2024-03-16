@@ -60,14 +60,18 @@ languages:
           name: "Contact"
           url: "/contact/"
           weight: 50
-        - identifier: "build-rag-chatbot"
-          name: "Build RAG ChatBot"
-          url: "/blog/build-rag-chatbot-easily/"
-          weight: 50
         - identifier: "privacy"
           name: "Privacy"
           url: "/privacy/"
           weight: 60
+        - identifier: "build-rag-chatbot"
+          name: "Build RAG ChatBot"
+          url: "/blog/build-rag-chatbot-easily/"
+          weight: 70
+        - identifier: "sentence-counter"
+          name: "Sentence Counter"
+          url: "/tools/sentence-counter/"
+          weight: 80
   ja:
     languageName: "日本語"
     weight: 2
