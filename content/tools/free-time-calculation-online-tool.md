@@ -8,16 +8,16 @@ description: "Use our time calculation tool to quickly find dates and times for 
 
 <!-- @format -->
 
-<section class="bg-gray-50 dark:bg-gray-800">
+<section class="">
   <div class="max-w-screen-md px-4 py-8 mx-auto">
     <h1 class="text-xl font-bold text-center text-gray-900 dark:text-white">Free Time Calculation Online Tool</h1>
     <p class="mb-8 font-light text-center text-gray-600 dark:text-gray-400">Our tool offers quick answers for calculating dates and times across various scenarios, from "how many days are in 12 years" to "what time was it 30 minutes ago". It's perfect for planning, reminders, and understanding past or future events.</p>
     <div class="space-y-6">
       <div class="text-left">
         <label for="timeQuery" class="mb-2 block text-lg font-medium text-gray-900 dark:text-gray-300">Enter your query:</label>
-            <div class="flex items-center space-x-2">
+        <div class="flex items-center space-x-4">
         <input type="text" id="timeQuery" name="timeQuery" class="flex-1 px-4 py-3 text-md text-gray-900 bg-white border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white" placeholder="E.g., '30 weeks ago', '30 weeks from today'">
-        <button onclick="calculateTime()" class="px-8 py-3 text-lg font-semibold text-blue-100 transition-colors duration-200 bg-indigo-700 rounded-lg hover:bg-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800 shadow-lg">Calculate</button>
+        <button onclick="calculateTime()" class="ml-4 px-8 py-3 text-lg font-semibold text-blue-100 transition-colors duration-200 bg-indigo-700 rounded-lg hover:bg-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800 shadow-lg">Calculate</button>
             </div>
         </div>
       <div class="text-center">

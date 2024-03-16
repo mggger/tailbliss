@@ -55,6 +55,14 @@ languages:
           name: Vin Number Generator
           url: /tools/random-vin/
           weight: 50
+        - identifier: free-time-calculation
+          name: Free Time Calculator
+          url: /tools/free-time-calculation-online-tool/
+          weight: 60
+        - identifier: string-title
+          name: String Title
+          url: /tools/string-title/
+          weight: 70
       footer:
         - identifier: "about"
           name: "About"

@@ -8,7 +8,7 @@ description: "Use our VIN number generator tool to quickly generate a random VIN
 
 <!-- @format -->
 
-<section class="lg:pb-24 bg-gray-50 dark:bg-gray-800">
+<section class="lg:pb-24">
   <div class="max-w-screen-md px-4 py-8 mx-auto">
     <h1 class="text-xl font-bold text-center text-gray-900 dark:text-white">VIN Number Generator Tool</h1>
     <p class="mb-8 font-light text-center text-gray-600 dark:text-gray-400">Click below to use the VIN number generator and get a random VIN. This random VIN generator is perfect for testing data entry forms, software, and more.</p>
