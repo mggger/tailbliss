@@ -1,37 +1,37 @@
 ---
-title: "Comprehensive Free Online Time Calculation Tool"
+title: "Jtime: Your Go-To Free Online Time Calculation Tool"
 date: 2024-03-15
 draft: false
 language: en
-description: "Our comprehensive time calculation tool effortlessly finds dates and times for any scenario. Ideal for planning, setting reminders, and calculating past or future events with precision."
+description: "Jtime effortlessly finds dates and times for any scenario, making it your ideal companion for planning, setting reminders, and calculating past or future events with precision."
 ---
 
 <!-- @format -->
 
 <section class="">
   <div class="max-w-screen-md px-4 py-8 mx-auto">
-    <h2 class="text-xl font-bold text-center text-gray-900 dark:text-white">Comprehensive Time Calculation Tool</h2>
-    <p class="mb-8 font-light text-center text-gray-600 dark:text-gray-400">Whether you're calculating "how many days are in 12 years", "what time was it 30 minutes ago", or "75 days from today", our tool has you covered. It's perfect for planning, setting reminders, and exploring past or future events in depth.</p>
+    <h2 class="text-xl font-bold text-center text-gray-900 dark:text-white">Jtime: Comprehensive Time Calculation</h2>
+    <p class="mb-8 font-light text-center text-gray-600 dark:text-gray-400">With Jtime, calculate everything from "how many days are in 12 years" to "what time was it 30 minutes ago", or "75 days from today". Jtime is perfect for planning, setting reminders, and exploring past or future events in depth.</p>
     <div class="space-y-6">
       <div class="text-left">
-        <label for="timeQuery" class="mb-2 block text-lg font-medium text-gray-900 dark:text-gray-300">Enter your query:</label>
+        <label for="timeQuery" class="mb-2 block text-lg font-medium text-gray-900 dark:text-gray-300">Enter your Jtime query:</label>
         <div class="flex items-center space-x-4">
-        <input type="text" id="timeQuery" name="timeQuery" class="flex-1 px-4 py-3 text-md text-gray-900 bg-white border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white" placeholder="E.g., '30 weeks ago', '75 days from today'">
-        <button onclick="calculateTime()" class="ml-4 px-8 py-3 text-lg font-semibold text-blue-100 transition-colors duration-200 bg-indigo-700 rounded-lg hover:bg-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800 shadow-lg">Calculate</button>
+        <input type="text" id="timeQuery" name="timeQuery" class="flex-1 px-4 py-3 text-md text-gray-900 bg-white border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white" placeholder="E.g., '30 weeks ago', '75 days from today' with Jtime">
+        <button onclick="calculateTime()" class="ml-4 px-8 py-3 text-lg font-semibold text-blue-100 transition-colors duration-200 bg-indigo-700 rounded-lg hover:bg-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800 shadow-lg">Calculate with Jtime</button>
             </div>
         </div>
       <div class="text-center">
-        <p id="timeResult" class="p-4 text-lg font-medium text-gray-800 bg-white border border-gray-300 rounded-lg shadow-sm dark:text-gray-200 dark:bg-gray-700">Your result will appear here.</p>
+        <p id="timeResult" class="p-4 text-lg font-medium text-gray-800 bg-white border border-gray-300 rounded-lg shadow-sm dark:text-gray-200 dark:bg-gray-700">Jtime will display your result here.</p>
       </div>
     </div>
     <!-- SEO Content / FAQ Section -->
     <div class="mt-12">
-      <h2 class="text-lg font-semibold text-gray-900 dark:text-white">Frequently Asked Questions</h2>
-      <p class="mt-4 text-gray-600 dark:text-gray-400">Quick answers to common time calculation queries:</p>
+            <h2 class="text-lg font-semibold text-gray-900 dark:text-white">Jtime: Frequently Asked Questions</h2>
+            <p class="mt-4 text-gray-600 dark:text-gray-400">Quick answers to common time calculation queries with Jtime:</p>
       <ul>
-        <li><h3>What is 3 weeks from today?</h3> - Discover how to project dates 3 weeks into the future using our calculator.</li>
-        <li><h3>How to calculate what 4 weeks from today will be?</h3> - Use our tool to easily find out the date 4 weeks ahead.</li>
-        <li><h3>Determining what time was 21 hours ago?</h3> - Input "21 hours ago" to reveal the exact time in the past.</li>
+        <li><h3>How does Jtime calculate 3 weeks from today?</h3> - Use Jtime to project dates 3 weeks into the future accurately.</li>
+        <li><h3>What will be the date 4 weeks from today with Jtime?</h3> - Jtime easily finds out the date 4 weeks ahead.</li>
+        <li><h3>How does Jtime determine what time was 21 hours ago?</h3> - Input your query into Jtime to reveal the exact time in the past.</li>
         <li><h3>Find out what time was 4 hours ago?</h3> - Quickly calculate the time 4 hours before now.</li>
         <li><h3>What time was 5 hours ago?</h3> - Our calculator helps you backtrack 5 hours to pinpoint the time.</li>
         <li><h3>How to calculate what time was it 30 minutes ago?</h3> - A simple entry can show you the time 30 minutes prior.</li>

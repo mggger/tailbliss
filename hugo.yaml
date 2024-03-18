@@ -56,8 +56,8 @@ languages:
           url: /tools/random-vin/
           weight: 50
         - identifier: free-time-calculation
-          name: Free Time Calculator
-          url: /tools/free-time-calculation-online-tool/
+          name: Free Online Time Calculator
+          url: /tools/jtime/
           weight: 60
         - identifier: string-title
           name: String Title
