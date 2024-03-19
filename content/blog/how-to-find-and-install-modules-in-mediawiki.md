@@ -26,43 +26,50 @@ faq:
 
 # How to Find and Install Modules in MediaWiki
 
-MediaWiki, the software behind Wikipedia, is a powerful platform for creating and managing wikis. One of its strengths lies in its modularity, allowing users to extend its functionality through modules. In this guide, we'll explore how to find and install modules in MediaWiki, ensuring you can tailor your wiki to your needs.
+MediaWiki, the platform behind Wikipedia, offers a powerful feature called modules, which allows users to enhance their wikis with custom functionalities. These modules are written in Lua, a lightweight programming language designed for embedded use in applications. This article expands on finding and installing these modules in your MediaWiki site, focusing on a step-by-step approach to installing a module and understanding its dependencies.
 
 ## Finding Modules in MediaWiki
 
-MediaWiki offers a variety of search-related modules, each designed to enhance your wiki's search capabilities. Here are some of the key modules:
+Finding the right module for your needs can significantly improve your wiki's functionality. Modules in MediaWiki are documented extensively, with the [Module:Documentation](https://www.mediawiki.org/wiki/Module:Documentation) page being a central hub for finding module information. This page not only provides documentation for templates and Lua modules but also guides on how to document your modules effectively.
 
-### Action Specific Modules
 
-- **API:Opensearch**: Enables searching wiki pages by title using the OpenSearch format.
-- **API:Languagesearch**: Allows searching for a language name in any script, or by ISO code or native name.
+### Key Places to Look for Modules
 
-### Query List Submodules
 
-- **API:Search**: Provides advanced search functionalities for wiki pages by title or text.
-- **API:Geosearch**: Facilitates searching for wiki pages near a location, using geographic coordinates or page name.
-- **API:Prefixsearch**: Supports performing a prefix search for page titles.
+1. **MediaWiki.org's Extension Distribution**: This is the primary source of modules and extensions for MediaWiki. It hosts a wide range of modules, each with its documentation on how to use and install them.
+   
+2. **MediaWiki's Git Repository**: For more advanced users, MediaWiki's Git repository can be a treasure trove of modules. It includes not only the official extensions and modules but also third-party contributions.
 
-These modules are essential for improving the search experience on your wiki, making it easier for users to find the information they need.
+3. **Community Forums and Discussion Pages**: Often, the MediaWiki community will share custom modules and extensions in forums or on the discussion pages of existing modules. This can be a great way to find modules tailored to specific needs.
 
 ## Installing Modules in MediaWiki
+Installing a module in MediaWiki is straightforward but requires careful attention to ensure compatibility and correct functionality. Here’s a step-by-step guide to installing a module:
 
-Installing modules in MediaWiki is a straightforward process, but it's essential to understand the basics of how modules work within the platform. Modules in MediaWiki are saved as pages on the wiki itself, which means you don't install them in the traditional sense of downloading and uploading files to your server.
+### Step 1: Understand the Module’s Requirements
 
-### Step-by-Step Guide to Installing a Module
+Before proceeding with the installation, ensure your MediaWiki installation meets the module's requirements. This includes the MediaWiki version, PHP version, and any other dependencies specified in the module's documentation.
 
-1. **Find the Module Code**: Locate the code for the module you wish to install. This can often be found in the MediaWiki documentation or the module's specific page.
+### Step 2: Download the Module
 
-2. **Create a New Module Page**: Navigate to your wiki and create a new page in the Module namespace. For example, if you're installing the String module, you would create a page titled "Module:String".
+Modules can usually be downloaded directly from their documentation or repository page. Ensure you're downloading the latest version compatible with your MediaWiki installation.
 
-3. **Copy and Paste the Module Code**: Copy the code for the module and paste it into the new page you've created on your wiki.
+### Step 3: Upload the Module
 
-4. **Save the Page**: Save the page. The module is now installed and ready to be used on your wiki.
+Upload the module files to the `/modules` directory in your MediaWiki installation. If this directory does not exist, you may need to create it following the structure outlined in the module's documentation.
 
-### Managing Module Dependencies
+### Step 4: Register the Module
 
-It's crucial to be aware that some modules depend on other modules to function correctly. When installing a module, check for any dependencies and ensure they are also installed on your wiki. Look for "require" statements within the module code to identify these dependencies.
+To activate the module, you must register it in your MediaWiki configuration file (`LocalSettings.php`). This typically involves adding a line of code provided in the module's documentation. For example:
+```php
+require_once "$IP/modules/ModuleName/ModuleName.php";
+```
+
+### Step 5: Configure the Module
+Some modules may require additional configuration, such as setting user permissions or configuring module-specific settings. These configurations are usually done in the LocalSettings.php file, following the instructions provided in the module's documentation.
+
+## Managing Module Dependencies
+Many modules depend on other modules or specific settings to function correctly. When installing a module, check its documentation for a list of dependencies and ensure they are also installed and configured on your wiki.
 
 ## Conclusion
+Modules are a powerful way to extend the functionality of your MediaWiki site. By following the steps outlined above, you can find, install, and manage modules to customize your wiki to meet your needs. Remember to always test modules in a development environment before deploying them on a live site to ensure compatibility and stability.
 
-Enhancing your MediaWiki site with modules can significantly improve the user experience, providing advanced search capabilities and custom functionalities. By understanding how to find and install these modules, you can take full advantage of what MediaWiki has to offer. Remember, the key to successfully using modules lies in carefully managing dependencies and ensuring all required modules are installed on your wiki.
