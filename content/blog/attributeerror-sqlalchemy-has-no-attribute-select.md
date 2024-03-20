@@ -34,7 +34,8 @@ To correct this issue, ensure that `sqlalchemy` is updated to a version that `La
 pip3 install sqlalchemy==2.0.0
 ```
 
-This straightforward approach not only resolves the AttributeError but also emphasizes the importance of maintaining library compatibility in Python projects.
+This aligns the versions, resolving the AttributeError efficiently.
+
 
 ## Proactive Error Handling
 While addressing specific attribute errors directly ensures your project's immediate functionality, incorporating a try-except block as a general error handling strategy can enhance your code's robustness and maintainability. This method allows you to gracefully handle potential exceptions, providing a safer runtime environment.
