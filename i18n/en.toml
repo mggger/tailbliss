@@ -1,11 +1,11 @@
 [title]
-other = "GPTs Development Solutions"
+other = "Embed"
 
 [moto]
-other = "Build your knowledge base and easily integrate it with RAG chatbot."
+other = "Empower Knowledge Sharing with Easy-to-Embed Chatbots"
 
 [description]
-other = "Train your PDFs, URLs, and plain text online and integrate them with RAG chatbot using an API."
+other = "Easily Train and Share: Transform PDFs, URLs, and Text into Smart Chatbots. Embed Anywhere with an iFrame."
 
 [p1_heading]
 other = "Embed: SASS service for training knowledge"
@@ -71,7 +71,7 @@ other = "Notify me"
 other = "Quick Start"
 
 [create_rag_chatbot]
-other = "👀 Create RAG ChatBot in 5 minutes."
+other = "If you have any questions, just ask 👉"
 
 [all_rights_reserved]
 other = "All rights reserved."
