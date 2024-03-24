@@ -12,9 +12,9 @@ draft: false
 
 
 
-# Introduction to Embedding Chatbots 
+# Introduction to Embed Chatbot 
 
-Embedding a chatbot allows for internal conversations within your own knowledge base and external sharing via an iframe to your website, equipping you with an official customer service bot. 
+Embed Chatbot allows for internal conversations within your own knowledge base and external sharing via an iframe to your website, equipping you with an official customer service bot. 
 
 ![chatbot-intro](/images/embed/chatbot-intro.png)
 
