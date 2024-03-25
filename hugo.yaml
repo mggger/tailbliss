@@ -18,25 +18,25 @@ languages:
     languageCode: en-US
     menu:
       main:
+        - identifier: "home"
+          name: "Home"
+          url: "/"
+          weight: 10
         - identifier: "embed"
           name: "Embed"
           url: "https://embed.gptdevelopment.online/login"
-          weight: 10
-        - identifier: "about"
-          name: "About"
-          url: "/embed/quickstart/"
           weight: 20
-        - identifier: "categories"
-          pre: "dropdown"
-          name: "Categories"
-          weight: 30
         - identifier: "blog"
           name: "Blog"
           url: "/blog/"
-          weight: 40
+          weight: 30
         - identifier: "contact"
           name: "Contact"
           url: "/contact/"
+          weight: 40
+        - identifier: "categories"
+          pre: "dropdown"
+          name: "Categories"
           weight: 50
       categories:
         - identifier: about
