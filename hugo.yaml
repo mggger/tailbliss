@@ -184,7 +184,7 @@ params:
   author: Best GPTs Developer
   author_image: images/featured/default.png
   featured_image: "images/featured/about.webp"
-  og_image: /images/cover.webp
+  og_image: /images/default.png
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
