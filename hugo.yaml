@@ -182,7 +182,7 @@ markup:
 
 params:
   author: Best GPTs Developer
-  author_image: images/featured/default.webp
+  author_image: images/featured/default.png
   featured_image: "images/featured/about.webp"
   og_image: /images/cover.webp
   disable_theme_toggle: false
