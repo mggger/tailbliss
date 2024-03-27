@@ -228,7 +228,7 @@ params:
   p4:
     heading: "From the blog"
     content:
-      - text: "Get the latest information about OpenAI Custom GPTs."
+      - text: "Get the latest information about Embed."
   p5:
     heading: "Stay Up to Date"
     content:
