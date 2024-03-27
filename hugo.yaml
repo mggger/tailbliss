@@ -26,18 +26,22 @@ languages:
           name: "Embed"
           url: "https://embed.gptdevelopment.online/login"
           weight: 20
+        - identifier: "price"
+          name: "Price"
+          url: "https://embed.gptdevelopment.online/price"
+          weight: 30
         - identifier: "blog"
           name: "Blog"
           url: "/blog/"
-          weight: 30
+          weight: 40
         - identifier: "contact"
           name: "Contact"
           url: "/contact/"
-          weight: 40
+          weight: 50
         - identifier: "categories"
           pre: "dropdown"
           name: "Categories"
-          weight: 50
+          weight: 60
       categories:
         - identifier: about
           name: About
