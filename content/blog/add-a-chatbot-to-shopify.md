@@ -67,9 +67,9 @@ To integrate [Embed](https://embed.gptdevelopment.online/login) Chatbot seamless
    ```html
    <!-- Customer Service Chatbot iframe -->
    <iframe id="customer-service-bot"
-           src="<YOUR_CHATBOT_IFRAME>"
-           style="position: fixed; bottom: 20px; right: 20px; width: 350px; height: 300px; border: none; border-radius: 10px; background-color: rgba(128, 128, 128, 0.5); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: bottom 0.5s, opacity 0.5s; z-index: 1000;"
-           sandbox="allow-scripts allow-same-origin">
+           src=<YOUR_CHATBOT_IFRAME>
+           style="position: fixed; bottom: 20px; right: 20px; width: 380px; height: 300px; border: none; border-radius: 10px; background-color: rgba(128, 128, 128, 0.5); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: bottom 0.5s, opacity 0.5s; z-index: 1000;"
+           sandbox="allow-scripts allow-same-origin allow-forms">
    </iframe>
    
    <!-- "Hide" button for the chatbot -->
