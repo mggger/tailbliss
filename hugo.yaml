@@ -88,10 +88,14 @@ languages:
           name: "Build RAG ChatBot"
           url: "/blog/build-rag-chatbot-easily/"
           weight: 70
+        - identifier: "add-a-chatbot-to-shopify"
+          name: "Add a Chatbot to Shopify"
+          url: "/blog/add-a-chatbot-to-shopify/"
+          weight: 80
         - identifier: "sentence-counter"
           name: "Sentence Counter"
           url: "/tools/sentence-counter/"
-          weight: 80
+          weight: 90
   ja:
     languageName: "日本語"
     weight: 2
