@@ -30,32 +30,6 @@
 
     gtag('config', 'G-HPBT01ZSYJ');
 </script>
-<script>
-    // 获取用户浏览器的语言设置
-    var userLanguage = navigator.language || navigator.userLanguage;
-
-    // 获取当前路径
-    var currentPath = window.location.pathname;
-
-    // 如果当前路径不是以/tools开头
-    if (!currentPath.startsWith('/tools')) {
-        // 如果用户语言设置以'ja'开头并且当前路径不是以/ja/开头
-        if (userLanguage.startsWith('ja') && !currentPath.startsWith('/ja/')) {
-            // 如果当前路径不以斜杠开头，则在前面添加/ja/
-            if (!currentPath.startsWith('/')) {
-                currentPath = '/ja/' + currentPath;
-            } else { // 否则，在当前路径之前添加/ja
-                currentPath = '/ja' + currentPath;
-            }
-
-            // 将用户重定向到新路径
-            window.location.href = currentPath;
-        }
-    }
-</script>
-
-
-
 {{ $styles := resources.Get "/css/style.css" | postCSS }}
 {{ if .Site.IsServer }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
