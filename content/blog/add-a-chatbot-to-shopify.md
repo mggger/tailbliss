@@ -31,12 +31,12 @@ faq:
     answer: "Boost your chatbot's performance by customizing its communication to mirror your brand, keeping it updated with your latest products and FAQs, and analyzing customer interactions for continuous improvement."
 ---
 
-Embed, a premier chatbot training platform, enables you to enhance your Shopify store with a chatbot. Train your chatbot using a variety of materials for seamless integration via iframe, ensuring instant customer support. 
+**Embed**, a premier chatbot training platform, enables you to enhance your Shopify store with a chatbot. Train your chatbot using a variety of materials for seamless integration via iframe, ensuring instant customer support. 
 
 
 ## Simplified Guide to Adding an iFrame Chatbot to Your Shopify Site 
 
-Elevate your e-commerce experience by implementing a chatbot on your Shopify site, crucial for providing instant customer support. Embed, an AI-powered chatbot, offers a simple integration process through iFrame, enhancing real-time customer interaction.
+Elevate your e-commerce experience by implementing a chatbot on your Shopify site, crucial for providing instant customer support. **Embed**, an AI-powered chatbot, offers a simple integration process through iFrame, enhancing real-time customer interaction.
 
 
 ### Advantages of Chatbot Integration in Shopify
