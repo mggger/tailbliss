@@ -47,10 +47,7 @@ Incorporating a chatbot into your Shopify store offers numerous benefits:
 
 ### Streamlining Chatbot Integration on Shopify
 
-To integrate Embed seamlessly:
-
-
-
+To integrate [Embed](https://embed.gptdevelopment.online/login) Chatbot seamlessly:
 
 1. **Set Up Your Embed Account**: Customize your chatbot to your store's needs at [Embed's chatbot settings page](https://embed.gptdevelopment.online/login). Configure your chatbot's system prompt and model, then copy the iframe code and save.
    ![Shopify ChatBot Settings](/images/embed/shopify-p1.png)
