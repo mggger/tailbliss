@@ -107,36 +107,48 @@
     const tocContainer = document.querySelector('.toc-container');
     const tocLinks = document.querySelectorAll('#toc nav a');
     const sections = Array.from(document.querySelectorAll('article h1, article h2, article h3, article h4, article h5, article h6'));
+    const firstH2 = document.querySelector('h2'); // 获取页面上的第一个h2元素
+    let placeholder; // 占位元素
 
-    // 获取最后一个section的引用
-    const lastSection = sections[sections.length - 1];
-
-    let initialOffsetTop = tocContainer.offsetTop;
-    let activeSection = sections.length ? sections[0].id : "";
 
     function adjustTocPosition() {
-      const footerOffset = document.querySelector('footer').offsetTop;
-      const tocHeight = tocContainer.offsetHeight;
       const windowHeight = window.innerHeight;
       const scrollPosition = window.pageYOffset;
-      const scrollPastLastSection = scrollPosition + windowHeight >= lastSection.offsetTop + 20; // 修正了判断逻辑
+      const firstH2Position = firstH2 ? firstH2.offsetTop : 0;
+
 
       if (window.innerWidth >= 1025) {
-        if (scrollPosition > initialOffsetTop && !scrollPastLastSection) {
+        if (scrollPosition >= firstH2Position) {
+          if (!placeholder) {
+            // 创建并插入占位元素
+            placeholder = document.createElement('div');
+            placeholder.style.width = tocContainer.offsetWidth + 'px';
+            placeholder.style.height = tocContainer.offsetHeight + 'px';
+            tocContainer.parentNode.insertBefore(placeholder, tocContainer);
+          }
+
           tocContainer.classList.add('toc-fixed');
-          // Ensure TOC doesn't extend beyond the viewport, potentially with some bottom margin
-          tocContainer.style.maxHeight = `${windowHeight - 20}px`; // Assuming 20px as a bottom margin
           tocContainer.style.overflowY = 'auto';
         } else {
+          if (placeholder) {
+            // 移除占位元素
+            placeholder.parentNode.removeChild(placeholder);
+            placeholder = null;
+          }
           tocContainer.classList.remove('toc-fixed');
         }
 
         // Adjust TOC visibility near footer, considering dynamic adjustment based on the actual position
-        const tocBottomEdgePosition = scrollPosition + windowHeight - tocHeight;
-        if (tocBottomEdgePosition > footerOffset || scrollPastLastSection) {
-          tocContainer.style.display = 'none';
-        } else {
-          tocContainer.style.display = 'block';
+        if (sections.length > 0) {
+          const lastSection = sections[sections.length - 1];
+          const lastSectionBottom = lastSection.offsetTop + lastSection.offsetHeight;
+
+          // 如果滚动位置超过了最后一个标题的底部，隐藏目录
+          if (scrollPosition + windowHeight > lastSectionBottom) {
+            tocContainer.style.display = 'none';
+          } else {
+            tocContainer.style.display = 'block';
+          }
         }
       }
     }
@@ -144,20 +156,35 @@
 
 
     function highlightTocLink() {
-      let currentSectionId = activeSection;
+      let currentSectionId = '';
+      let foundActiveSection = false;
+
       for (let i = 0; i < sections.length; i++) {
         const section = sections[i];
-        if (section.offsetTop - 100 < window.pageYOffset) {
-          currentSectionId = section.id;
+        const nextSection = sections[i + 1];
+
+        // 如果有下一个部分，确保当前滚动位置小于下一个部分的顶部
+        // 否则，只要当前滚动位置大于等于当前部分的顶部，即认为是活动部分
+        if (nextSection) {
+          if (window.pageYOffset >= section.offsetTop && window.pageYOffset < nextSection.offsetTop) {
+            currentSectionId = section.id;
+            foundActiveSection = true;
+            break; // 找到活动部分，退出循环
+          }
         } else {
-          break;
+          // 没有下一个部分，当前部分即是最后一个部分
+          if (window.pageYOffset >= section.offsetTop) {
+            currentSectionId = section.id;
+            foundActiveSection = true;
+            break; // 找到活动部分，退出循环
+          }
         }
       }
 
-      if (currentSectionId !== activeSection) {
-        activeSection = currentSectionId;
+      // 如果找到活动部分，则突出显示对应的目录链接
+      if (foundActiveSection) {
         tocLinks.forEach(link => {
-          if (link.getAttribute('href').endsWith('#' + activeSection)) {
+          if (link.getAttribute('href').endsWith('#' + currentSectionId)) {
             link.classList.add('highlight');
           } else {
             link.classList.remove('highlight');
@@ -166,14 +193,10 @@
       }
     }
 
+
     window.addEventListener('scroll', () => {
       adjustTocPosition();
       highlightTocLink();
-    });
-
-    window.addEventListener('resize', () => {
-      initialOffsetTop = tocContainer.getBoundingClientRect().top + window.pageYOffset;
-      adjustTocPosition(); // 重新计算位置
     });
 
     adjustTocPosition();
