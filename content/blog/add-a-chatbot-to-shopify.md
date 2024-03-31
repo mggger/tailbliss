@@ -1,6 +1,6 @@
 ---
 title: "How to Successfully Integrate an AI Chatbot into Your Shopify Store"
-date: 2024-03-27
+date: 2024-04-01
 draft: false
 language: en
 categories:
