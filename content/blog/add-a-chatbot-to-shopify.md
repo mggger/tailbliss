@@ -33,13 +33,12 @@ faq:
 
 ## **Leverage Embed's AI for Superior Customer Support on Shopify**
 
-Integrating an AI chatbot using Embed's straightforward iframe process transforms your Shopify site into a dynamic customer support hub. With the inclusion of the **llama-2** model, available for free, your chatbot becomes an invaluable asset for real-time interaction.
+Boost your Shopify store's customer support and engagement with Embed's AI chatbot, powered by the innovative llama-2 model. This integration offers an efficient and cost-effective solution to provide 24/7 customer service, ensuring your e-commerce platform stands out in a competitive market.
 
 
 
-### Advantages of Chatbot Integration in Shopify
+### Benefits of Integrating an AI Chatbot with Your Shopify Store
 Incorporating a chatbot into your Shopify store offers numerous benefits:
-
 - **Instantaneous Support and Engagement**: Deliver immediate customer support, enhancing the shopping experience.
 - **24/7 Availability**: Your store remains responsive at all times, improving customer satisfaction and loyalty.
 - **Increased Sales**: Engage customers with quick responses, reducing potential sales losses due to delayed support.
@@ -110,6 +109,23 @@ Ensure your chatbot's success by:
 - **Customer Interaction Analysis**: Analyze customer questions to continually refine your chatbot's knowledge base.
 
 
-### Conclusion
+## Advanced Features for a Smarter Chatbot: Training with Shopify Product Data
+### Exporting Product Data
+From the Shopify admin page, go to products and select export to download your product data in a Plain CSV file format.
+![Export Shopify Products csv](/images/embed/shopify-export-products-csv.png)
+
+### Training Your Chatbot with Product Data in Embed
+
+Within Embed, select the Shopify training option, upload your CSV file, and wait for the training to complete successfully.
+
+![Train Shopify Products csv](/images/embed/train-shopify-csv.png)
+
+### Testing the Enhanced Chatbot
+Test your chatbot's knowledge by asking it to recommend products, verifying its ability to utilize the trained product data.
+![Chat with Shopify Products csv](/images/embed/chat-shopify-csv.png)
+
+
+
+## Conclusion
 For additional support, reach out to admin@gptdevelopment.online.
 
