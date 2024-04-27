@@ -1,6 +1,6 @@
 ---
 title: "Now Offering Free Access to Llama3 on Embed"
-date: "2024-04-27"
+date: "2024-04-26"
 description: "Discover how to access Llama3-8b on Embed and explore its features and future developments. Embed now provides free access to Llama3 models, including Llama3-8b, Meta's latest generation large language model."
 categories:
   - "AI"
