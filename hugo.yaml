@@ -38,10 +38,14 @@ languages:
           name: "Contact"
           url: "/contact/"
           weight: 50
+        - identifier: "discord"
+          name: "Discord"
+          url: "https://discord.gg/w5fFMcwmNG"
+          weight: 60
         - identifier: "categories"
           pre: "dropdown"
           name: "Categories"
-          weight: 60
+          weight: 70
       categories:
         - identifier: about
           name: About
