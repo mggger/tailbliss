@@ -6,7 +6,7 @@ categories:
   - "AI"
 tags:
   - "Llama3"
-  - "Embed"
+  - "AI"
 draft: false
 toc: true
 featured_image: ../assets/images/featured/free-llama3.webp

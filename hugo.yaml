@@ -39,6 +39,10 @@ languages:
           name: "Categories"
           weight: 70
       categories:
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 20
         - identifier: glossary
           name: Glossary
           url: /categories/glossary/

@@ -101,60 +101,6 @@
     </section>
 
 
-    <div class="max-w-md px-4 mx-auto sm:max-w-3xl md:px-6 md:pt-24 md:pb-16 lg:max-w-7xl lg:px-8">
-        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div class="relative overflow-hidden w-full h-56">
-                <div class="flex animate-marquee">
-                    {{ range .Site.Params.P3.Logos }}
-                    <div class="flex-none w-1/2">
-                        <div class="m-4 flex h-56 flex-col items-center justify-center overflow-hidden rounded-lg bg-gray-50 dark:bg-gray-900/10 shadow-md hover:border-blue-600 border border-neutral-200 dark:border-neutral-800">
-                            {{ $sponsor := resources.Get .image }}
-                            {{ if $sponsor }}
-                            {{ $optimizedImage := $sponsor.Resize "400x480 webp q90" }}
-                            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
-                                <img src="{{ $optimizedImage.RelPermalink }}" class="max-h-32 w-auto object-cover transition duration-300 ease-in-out group-hover:scale-105" loading="lazy" alt="{{ .alt }}"/>
-                            </a>
-                            {{ end }}
-                            <div class="w-full p-4">
-                                <p class="text-center text-sm text-gray-600 dark:text-gray-300">{{ .desc }}</p>
-                            </div>
-                        </div>
-
-                    </div>
-                    {{ end }}
-                </div>
-            </div>
-
-
-            <div>
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                    {{ i18n "p3_heading" }}
-                </h2>
-                <p class="mt-6 text-lg leading-7 text-gray-900 dark:text-white">
-                    {{ i18n "p3_content_1" }}
-                </p>
-                <p class="mt-6 text-lg leading-7 text-gray-900 dark:text-white">
-                    {{ i18n "p3_content_2" }}
-                </p>
-
-                {{ range .Site.Params.P3.Links }}
-                <div class="mt-6">
-                    <a href="{{ .url }}"
-                       class="inline-flex items-center text-base font-medium text-primary-500 dark:text-primary-300 hover:text-primary-700 dark:hover:text-primary-400">
-                        {{ i18n "p3_link_text" }}
-                        <svg class="ml-2 -mr-0.5 h-4 w-4" fill="currentColor" viewBox="0 0 20 20"
-                             xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd"
-                                  d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
-                                  clip-rule="evenodd"></path>
-                        </svg>
-                    </a>
-                </div>
-                {{ end }}
-            </div>
-        </div>
-    </div>
-
 
     <!-- Blog section -->
     <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
