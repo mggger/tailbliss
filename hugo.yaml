@@ -48,6 +48,11 @@ languages:
           url: /categories/glossary/
           weight: 30
       footer:
+        - identifier: "build role play rag chatbots"
+          name: "Role Play RAG Chatbots"
+          url: "/blog/best-practices/roleplay-chatbot-online/"
+          weight: 10
+
         - identifier: "blog"
           name: "Blog"
           url: "/blog/"
