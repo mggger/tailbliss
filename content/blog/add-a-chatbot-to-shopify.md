@@ -4,12 +4,12 @@ date: 2024-04-01
 draft: false
 language: en
 categories:
-  - embed
+  - rag
   - Chatbots
   - Customer Support
 tags:
   - shopify
-  - embed
+  - rag
   - AI
 description: "Elevate your Shopify store's customer service with Embed's free AI chatbot integration, leveraging the llama-2 model for round-the-clock assistance."
 toc: true
