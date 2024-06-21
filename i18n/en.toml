@@ -2,22 +2,22 @@
 other = "Embed"
 
 [moto]
-other = "Empower Knowledge Sharing with Easy-to-Embed RAG Chatbots"
+other = "Build RAG Chatbots Easily"
 
 [description]
-other = "Easily Train and Share: Transform PDFs, URLs, and Text into Smart Chatbots. Embed Anywhere with an iFrame."
+other = "Easily Train and Share: Transform PDFs, URLs, and Text into Smart RAG Chatbots. Embed Anywhere with an iFrame."
 
 [p1_heading]
-other = "Embed: SASS service for training knowledge"
+other = "Embed: Build RAG Chatbots Easily"
 
 [p1_content_1]
-other = "🚀 Easy Knowledge Training. Train on various types of data sources online and access your knowledge base through an API."
+other = "🚀 Easy knowledge training, train your unique data online"
 
 [p1_content_2]
-other = "✨ Continuous Improvement. We store training records, user questions, and corresponding knowledge matches to continuously refine your knowledge base."
+other = "✨ Easy chatbots building, directly set system prompt, LLM model"
 
 [p1_content_3]
-other = "🤖 Seamless Integration. Easily integrate with OpenAI Custom GPTs for an enhanced experience."
+other = "🤖 Continuously optimize, according to the training data matched by the LLM model, continuously optimize and adjust."
 
 [p2_heading]
 other = "Fast Integrate OpenAI Custom GPTs"

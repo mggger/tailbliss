@@ -22,18 +22,10 @@ languages:
           name: "Home"
           url: "/"
           weight: 10
-        - identifier: "embed"
-          name: "Embed"
-          url: "https://embed.gptdevelopment.online/login"
-          weight: 20
-        - identifier: "price"
-          name: "Price"
+        - identifier: "Pricing"
+          name: "Pricing"
           url: "https://embed.gptdevelopment.online/price"
           weight: 30
-        - identifier: "blog"
-          name: "Blog"
-          url: "/blog/"
-          weight: 40
         - identifier: "contact"
           name: "Contact"
           url: "/contact/"
@@ -47,35 +39,11 @@ languages:
           name: "Categories"
           weight: 70
       categories:
-        - identifier: about
-          name: About
-          url: /embed/quickstart/
-          weight: 20
         - identifier: glossary
           name: Glossary
           url: /categories/glossary/
           weight: 30
-        - identifier: sentence-counter
-          name: Sentence Counter
-          url: /tools/sentence-counter/
-          weight: 40
-        - identifier: random-vin
-          name: Vin Number Generator
-          url: /tools/random-vin/
-          weight: 50
-        - identifier: free-time-calculation
-          name: Free Online Time Calculator
-          url: /tools/jtime/
-          weight: 60
-        - identifier: string-title
-          name: String Title
-          url: /tools/string-title/
-          weight: 70
       footer:
-        - identifier: "about"
-          name: "About"
-          url: "/embed/quickstart/"
-          weight: 10
         - identifier: "blog"
           name: "Blog"
           url: "/blog/"
@@ -88,76 +56,6 @@ languages:
           name: "Privacy"
           url: "/privacy/"
           weight: 60
-        - identifier: "build-rag-chatbot"
-          name: "Build RAG ChatBot"
-          url: "/blog/build-rag-chatbot-easily/"
-          weight: 70
-        - identifier: "add-a-chatbot-to-shopify"
-          name: "Add a Chatbot to Shopify"
-          url: "/blog/add-a-chatbot-to-shopify/"
-          weight: 80
-        - identifier: "sentence-counter"
-          name: "Sentence Counter"
-          url: "/tools/sentence-counter/"
-          weight: 90
-  ja:
-    languageName: "日本語"
-    weight: 2
-    languageCode: ja-JP
-    menu:
-      main:
-        - identifier: "embed"
-          name: "エンベッド"
-          url: "https://embed.gptdevelopment.online/login"
-          weight: 10
-        - identifier: "about"
-          name: "約"
-          url: "/ja/embed/quickstart/"
-          weight: 20
-        - identifier: "categories"
-          pre: "dropdown"
-          name: "カテゴリー"
-          weight: 30
-        - identifier: "blog"
-          name: "ブログ"
-          url: "/ja/blog/"
-          weight: 40
-        - identifier: "contact"
-          name: "連絡先"
-          url: "/ja/contact/"
-          weight: 50
-      categories:
-        - identifier: about
-          name: 紹介
-          url: /ja/embed/quickstart/
-          weight: 20
-        - identifier: glossary
-          name: 用語集
-          url: /ja/categories/glossary/
-          weight: 30
-      footer:
-        - identifier: "about"
-          name: "約"
-          url: "/ja/embed/quickstart/"
-          weight: 10
-        - identifier: "blog"
-          name: "ブログ"
-          url: "/ja/blog/"
-          weight: 20
-        - identifier: "contact"
-          name: "連絡先"
-          url: "/ja/contact/"
-          weight: 50
-        - identifier: "build-rag-chatbot"
-          name: "RAGチャットボットを構築する"
-          url: "/ja/blog/build-rag-chatbot-easily/"
-          weight: 50
-        - identifier: "privacy"
-          name: "プライバシー"
-          url: "/ja/privacy/"
-          weight: 60
-
-
 markup:
   goldmark:
     extensions:
