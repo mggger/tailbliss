@@ -1,5 +1,5 @@
 ---
-title: "Enhance Your Shopify Store with a Free AI Chatbot from Embed"
+title: "Build a RAG Chatbot For Your Shopify Store"
 date: 2024-04-01
 draft: false
 language: en
